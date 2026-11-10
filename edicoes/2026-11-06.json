@@ -289,27 +289,6 @@
    ]
   },
   {
-   "id": "capao-festino-2026",
-   "data": "2026-11-05",
-   "tabuleiro": "capao",
-   "manchete": "O FESTINO, o 8º Festival Internacional Diamantino de Circo, começa hoje no Vale do Capão e vai até domingo, sem patrocínio garantido, segundo a organização em reportagem de A Tarde",
-   "narrativa": "A programação foi postada por Samuel de Fê e Ravi no grupo de WhatsApp do Capão. Segundo A Tarde, a edição será feita mesmo sem patrocínio garantido, por decisão coletiva.",
-   "movimento": "De 6 a 8 de novembro, no Vale do Capão. O festival junta circo, música, formação e intercâmbio, num modelo de autogestão com artistas, produtores e comunidade. A Tarde não diz se a entrada é paga.",
-   "leitura": "A edição nº 13 já tinha avisado as datas. Sem patrocínio, o festival vive da comunidade, o mesmo chão do chapéu que o Jean pensa para o CapON (hipótese). Duas fontes dizem as datas; por isso, fato para as datas. A falta de patrocínio vem só de A Tarde, numa reportagem de setembro.",
-   "confianca": "fato",
-   "emJogo": [
-    "FESTINO",
-    "Circo do Capão"
-   ],
-   "fontes": [
-    {
-     "nome": "A Tarde",
-     "url": "https://atarde.com.br/cultura/festino-2026-reune-circo-e-musica-no-vale-do-capao-em-novembro-1400962",
-     "data": "2026-09-05"
-    }
-   ]
-  },
-  {
    "id": "chapada-pretas-diamantina-mulungu",
    "data": "2026-10-31",
    "tabuleiro": "capao",

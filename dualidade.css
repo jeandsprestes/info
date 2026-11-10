@@ -1,0 +1,29 @@
+/* A dualidade do INFO (OS/modulos/dualidade.js): elite antiga x nova elite, e Trump no meio. Usa a base do mapa de forças (mapa-de-forcas.css,
+   classes mf-*) e acrescenta só o que é dela. Serve ao aX2 e ao app aberto; as cores têm reserva para os dois. */
+.du-caixa { background: radial-gradient(120% 80% at 50% 0%, rgba(79,209,197,.06), transparent 55%), radial-gradient(90% 70% at 0% 100%, rgba(217,165,91,.06), transparent 60%), var(--sup, #0C0E18); }
+svg.du-cabo { display: block; width: 100%; max-width: 620px; height: auto; margin: 0 auto; overflow: visible; }
+.du-corda { stroke-width: 5; stroke-linecap: round; opacity: .85; }
+.du-marca { stroke: var(--apagado, #8A90A6); stroke-width: 1; opacity: .5; }
+.du-meio { stroke: var(--texto, #E6E8F0); stroke-width: 1; stroke-dasharray: 2 3; opacity: .45; }
+.du-no { fill: var(--sup, #0C0E18); stroke: var(--texto, #E6E8F0); stroke-width: 2.6; }
+.du-fio { stroke: var(--texto, #E6E8F0); stroke-width: 1.2; opacity: .55; }
+.du-gancho { fill: var(--texto, #E6E8F0); opacity: .6; }
+.du-pendulo { stroke: var(--sup, #0C0E18); stroke-width: 2; }
+.du-ponta { font: 600 9.5px var(--mono, ui-monospace, monospace); letter-spacing: .12em; }
+.du-rot { font: 500 10px var(--mono, ui-monospace, monospace); fill: var(--texto, #E6E8F0); paint-order: stroke; stroke: var(--sup, #0C0E18); stroke-width: 3px; stroke-linejoin: round; }
+.du-n.nova, .du-mv-nova .mf3-pts { color: #4FD1C5; }
+.du-n.antiga, .du-mv-antiga .mf3-pts { color: #D9A55B; }
+.du-polos { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+.du-polo { display: flex; flex-direction: column; gap: 6px; background: var(--sup2, #131628); border: 1px solid var(--linha, #1E2238); border-radius: 12px; padding: 10px 11px; font-size: 13.5px; line-height: 1.55; min-width: 0; }
+.du-p-antiga { border-top: 3px solid #D9A55B; } .du-p-nova { border-top: 3px solid #4FD1C5; } .du-p-trump { border-top: 3px solid #F2705F; }
+.du-pn { font-weight: 600; font-size: 14px; }
+.du-dia { white-space: pre-line; }
+.du-rumo { font: 500 10.5px var(--mono, ui-monospace, monospace); letter-spacing: .04em; white-space: nowrap; }
+.du-r-nova { color: #4FD1C5; } .du-r-antiga { color: #D9A55B; }
+.du-recebeu { font-size: 13px; border-left: 2px solid #F2705F; padding-left: 8px; }
+.du-recebeu b { font-weight: 500; }
+svg.du-hist { display: block; width: 100%; max-width: 620px; height: auto; }
+.du-l-transicao { fill: none; stroke: var(--texto, #E6E8F0); stroke-width: 1.6; }
+.du-l-pendulo { fill: none; stroke: #F2705F; stroke-width: 1.6; stroke-dasharray: 4 3; }
+.du-leg-t { color: var(--texto, #E6E8F0); } .du-leg-p { color: #F2705F; }
+@media (max-width: 620px) { .du-polos { grid-template-columns: 1fr; } }

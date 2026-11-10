@@ -1,0 +1,17 @@
+/* A semana e o mês do INFO (OS/modulos/revisao.js). Usa a base do mapa de forças (mapa-de-forcas.css, classes mf-*). Serve ao aX2 e ao app. */
+.rv-caixa { background: radial-gradient(120% 80% at 100% 0%, rgba(227,193,111,.07), transparent 55%), var(--sup, #0C0E18); }
+.rv-titulo { font-size: 17px; font-weight: 600; line-height: 1.35; margin: 0; }
+.rv-destaques { margin: 0; padding-left: 20px; display: flex; flex-direction: column; gap: 9px; font-size: 14px; line-height: 1.5; }
+.rv-man { color: var(--texto, #E6E8F0); font-weight: 600; text-decoration: underline; text-decoration-color: var(--linha, #1E2238); text-underline-offset: 3px; }
+.rv-tabela { display: flex; flex-direction: column; gap: 3px; overflow-x: auto; padding-bottom: 2px; }
+.rv-linha { display: grid; grid-template-columns: 132px repeat(auto-fill, minmax(26px, 1fr)); gap: 3px; align-items: center; min-width: max-content; }
+.rv-cab span { font: 500 9.5px var(--mono, ui-monospace, monospace); color: var(--apagado, #8A90A6); text-align: center; }
+.rv-cab span:first-child { text-align: left; }
+.rv-p { font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.rv-c { display: block; height: 18px; min-width: 26px; border-radius: 4px; border: 1px solid var(--linha, #1E2238); }
+.rv-ganha { background: rgba(62,207,142,.55); } .rv-perde { background: rgba(242,112,95,.55); } .rv-disputa { background: rgba(157,169,255,.45); } .rv-parado { background: rgba(138,144,166,.18); }
+.rv-sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.rv-resumos { font-size: 13.5px; line-height: 1.5; }
+.rv-abas { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 4px; }
+.rv-aba { font: inherit; font-size: 13.5px; color: var(--texto, #E6E8F0); background: none; border: 1px solid var(--linha, #1E2238); border-radius: 999px; padding: 6px 14px; cursor: pointer; }
+.rv-aba[aria-pressed="true"] { border-color: #E3C16F; background: rgba(227,193,111,.12); }

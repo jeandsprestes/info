@@ -4,7 +4,7 @@
  "titulo": "Russos e ucranianos conversam quatro horas em Abu Dhabi, a China estica a trégua comercial até janeiro e a Anthropic marca o preço das ações para o dia 18",
  "abertura": "Quarta, 11. Rússia e Ucrânia passaram quatro horas na mesma sala em Abu Dhabi, com os Estados Unidos no meio, e falaram de uma grande troca de prisioneiros; o segundo dia é hoje. A China estendeu por dois meses a trégua comercial com Washington, uma semana antes do encontro de Trump e Xi em Shenzhen. Em Washington, Hegseth chamou de farsa o pedido de impeachment, e a inflação de outubro veio acima do esperado, o que deixa o Fed perto de subir os juros em dezembro.\n\nNa IA, a Anthropic (dona do Claude, que escreve este jornal) pôs as ações entre 70 e 78 dólares, para estrear no dia 19. A Nvidia caiu mais de 5% com o caso de Jensen Huang, chamado a dar explicações na Câmara. O Google lançou o Gemini 4 Carbon e o Gemini Robotics 2.5, a Stripe fechou a compra da OpenRouter e a Palantir ganhou mais um contrato com polícias inglesas.\n\nNo Capão, o grupo trouxe a programação da Orquestra Sinfônica da Bahia no vale: dia 28, dois concertos gratuitos.",
  "aviso": "Exercício lúdico: nada aqui afirma a realidade.",
- "atualizado": "2026-11-10T21:48:10Z",
+ "atualizado": "2026-11-10T22:43:55Z",
  "itens": [
   {
    "id": "abu-dhabi-primeiro-dia",
@@ -372,6 +372,205 @@
      "nome": "AltAssets",
      "url": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-news-shield-strikes-5-3bn-echodyne-acquisition-backed-by-blackstone-financing-permira-buys-flint-group.html",
      "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "spfc-dm-amistoso-noroeste-2026-11-10",
+   "data": "2026-11-10",
+   "tabuleiro": "bola",
+   "manchete": "Na pausa da data Fifa, o São Paulo treina e atualiza o departamento médico: Nicolas, Buta, Domingos Duarte, Marcos Antônio e Sabino seguem em tratamento; o amistoso com o Noroeste é sexta (13/11), às 20h, em Bauru",
+   "narrativa": "O site do São Paulo resumiu a terça (10) no título \"Elenco conclui mais um dia de treino nesta Data FIFA\". No fim da tarde, o clube atualizou a situação dos lesionados e divulgou a programação da semana, segundo o Lance! (texto das 18h02): cinco jogadores seguem em tratamento no REFFIS Plus. A Gazeta Esportiva, em texto de Thais Bueno Cirino, conta que Luciano foi liberado dos dois últimos treinos após a perda do pai e que Djhordney e Pedro Ferreira estão com a Seleção Brasileira sub-20. Nos textos lidos, a comissão técnica, os jogadores e a diretoria não deram entrevista.",
+   "movimento": "Terça, 10/11, de manhã: o elenco treinou no CT da Barra Funda (site do clube). Para a Gazeta Esportiva, foi o segundo treino para o amistoso, com os jogadores em times de quatro contra quatro, em espaço reduzido. Ficaram fora Bobadilla (convocado pelo Paraguai), Djhordney e Pedro Ferreira (Seleção sub-20) e Luciano (liberado). No departamento médico, segundo o Lance!: Nicolas (sutura no menisco do joelho esquerdo), Buta (artroscopia no joelho direito), Domingos Duarte (reconstrução do ligamento cruzado anterior do joelho direito), Marcos Antônio (lesão no tornozelo direito) e Sabino (cirurgia de reparo de cartilagem no joelho direito). A agenda: treinos na quarta (11/11) e na quinta (12/11), às 10h; amistoso contra o Noroeste na sexta (13/11), às 20h, no Estádio Alfredo de Castilho, em Bauru (SP); treino no sábado (14/11), às 11h; folga no domingo (15/11). O próximo jogo oficial é São Paulo x Fluminense, pela 35ª rodada do Brasileirão, na quinta (19/11), às 21h30, no Morumbis (Gazeta Esportiva).",
+   "leitura": "Na programação até domingo (15/11), o amistoso em Bauru é o único jogo, e o Fluminense vem seis dias depois dele. Se o campeonato tem 38 rodadas, restam quatro depois da pausa (da 35ª à 38ª). Domingos Duarte e Sabino, os dois operados no joelho direito, não têm prazo de volta nos textos. Hipótese: com cinco no departamento médico e três jogadores em seleções, a comissão técnica deve usar o amistoso para dar minutos a quem tem jogado menos. Os textos não dizem quando os convocados se reapresentam nem quando Luciano volta a treinar.",
+   "confianca": "fato",
+   "acrescentada": "19h",
+   "emJogo": [
+    "São Paulo F.C.",
+    "Noroeste",
+    "Nicolas",
+    "Buta",
+    "Domingos Duarte",
+    "Marcos Antônio",
+    "Sabino"
+   ],
+   "fontes": [
+    {
+     "nome": "Lance!",
+     "url": "https://www.lance.com.br/sao-paulo/sao-paulo-atualiza-situacao-de-lesionados-e-divulga-a-programacao-da-semana.html",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://gazetaesportiva.com/times/sao-paulo/com-desfalques-sao-paulo-faz-segundo-treino-preparatorio-para-amistoso",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://gazetaesportiva.com/times/sao-paulo/com-desfalques-sao-paulo-faz-segundo-treino-preparatorio-para-amistoso",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "São Paulo FC (site oficial)",
+     "url": "https://www.saopaulofc.net/elenco-conclui-mais-um-dia-de-treino-nesta-data-fifa/",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "spfc-sub17-corinthians-palmeiras-2026-11-10",
+   "data": "2026-11-10",
+   "tabuleiro": "bola",
+   "manchete": "O Sub-17 do São Paulo empata por 1 a 1 com o Corinthians em Cotia, elimina o rival com 4 a 2 no agregado e enfrenta o Palmeiras na semifinal do Paulista",
+   "narrativa": "O São Paulo contou o resultado no próprio site, em texto reproduzido em inglês pelo Yahoo Sports: o empate garantiu a vaga na semifinal, e o adversário será o Palmeiras. O Central do Timão, site dedicado ao Corinthians, registra a eliminação do time alvinegro. Nenhum dos dois textos traz fala de técnico ou de jogador. No mesmo dia, o site do clube anunciou a convocação de Tayla, do time feminino, para a Seleção Brasileira.",
+   "movimento": "Terça, 10/11, em Cotia: São Paulo 1 x 1 Corinthians, no jogo de volta das quartas de final do Campeonato Paulista Sub-17. Brenno abriu o placar para o São Paulo, e Kayque Dallaqua, o Tupã, empatou para o Corinthians aos 40 minutos do segundo tempo (Central do Timão). Na ida, o São Paulo tinha vencido por 3 a 1, no Parque São Jorge. No agregado, 4 a 2 para o São Paulo, que pega o Palmeiras na semifinal, sem data informada (informação do Yahoo Sports, texto do clube). O técnico do Sub-17 é Alexandre Torrezan, citado no texto do Yahoo Sports. No feminino, a CBF anunciou na terça (10) a convocação de Tayla para dois jogos contra o Japão: no dia 29/11, no Estádio Edion Peace Wing, em Hiroshima, e no dia 05/12, no Estádio JFE Harenokuni, em Okayama. Para a convocação, a fonte é só o site do clube.",
+   "leitura": "Sem jogo oficial do time principal na semana, os resultados de campo do clube na terça vieram da base. O Sub-17 segue vivo no Paulista e vai a um clássico com o Palmeiras na semifinal (fonte única para esse cruzamento). A convocação de Tayla põe uma jogadora do São Paulo nos dois jogos da Seleção no Japão; os textos não dizem se ela desfalca o clube nessas datas.",
+   "confianca": "fato",
+   "acrescentada": "19h",
+   "emJogo": [
+    "São Paulo F.C.",
+    "Corinthians",
+    "Palmeiras",
+    "Brenno",
+    "Kayque Dallaqua (Tupã)",
+    "Alexandre Torrezan",
+    "Tayla",
+    "CBF"
+   ],
+   "fontes": [
+    {
+     "nome": "Central do Timão",
+     "url": "https://centraldotimao.com.br/noticias/corinthians-empata-com-o-sao-paulo-fora-de-casa-e-e-eliminado-do-campeonato-paulista-sub-17/",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Yahoo Sports (texto do São Paulo FC, via OneFootball)",
+     "url": "https://sports.yahoo.com/articles/under-17s-draw-corinthians-reach-153000833.html",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "São Paulo FC (site oficial)",
+     "url": "https://www.saopaulofc.net/tayla-e-convocada-para-a-selecao-brasileira-2/",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "bola-brasileirao-tabela-34a-rodada",
+   "data": "2026-11-10",
+   "tabuleiro": "bola",
+   "manchete": "O Brasileirão para na data Fifa depois de 34 rodadas, com o Flamengo líder (76 pontos), o Palmeiras a 3 (73) e Corinthians e Grêmio no Z4. A bola volta no sábado 14/11.",
+   "narrativa": "A tabela do portal gcmais publicada na terça (10/11), com os jogos contados até 9/11, põe o Flamengo em 1º, com 76 pontos, e o Palmeiras em 2º, com 73. Cruzeiro (60) e Fluminense (57) fecham o G4. Athletico-PR (54) e Bahia (53) completam as seis primeiras posições. Depois vêm Atlético-MG (50), Bragantino (47), Santos (47), São Paulo (44), Botafogo (42), Coritiba (42), Vasco (41), Mirassol (40), Vitória (38) e Internacional (38). No Z4 estão Corinthians (37), Grêmio (37), Remo (29) e Chapecoense (21). Vasco e Chapecoense têm um jogo a menos que a maioria. No balanço da 34ª rodada, publicado em 5/11, a CBF escreveu que o Flamengo tinha 76 pontos contra 70 do Palmeiras, que ainda jogaria contra o Remo. Em 30/10, o Metrópoles publicou a tabela das rodadas 35 e 36, que a CBF marcou para depois da data Fifa.",
+   "movimento": "Na 34ª rodada, segundo a CBF: Flamengo 3 x 1 Grêmio, com dois gols de Pedro e um de Samuel Lino; Athletico-PR 1 x 3 Vasco; Botafogo 1 x 0 Atlético-MG; o Corinthians empatou por 0 a 0 com o São Paulo na Vila Belmiro e seguiu no Z4. O Palmeiras enfrentou o Remo na quinta 5/11, no Nubank Parque, e aparece com 73 pontos na tabela de 10/11. A Chapecoense, já rebaixada, perdeu por 2 a 1 para o Mirassol, segundo a CNN Brasil. Pausa: a Seleção de Carlo Ancelotti, convocada em 29/10, enfrenta o Japão no sábado 14/11, às 7h15, e Singapura na terça 17/11, às 7h, no Estádio Nacional de Singapura. Volta: a CBF marcou as rodadas 35 e 36 para 14 a 25/11. A 35ª abre no sábado 14/11 com Mirassol x Atlético-MG, às 18h30, no Maião. Na quarta 18/11 tem Flamengo x Athletico-PR (Maracanã, 20h30) e Cruzeiro x Palmeiras (Mineirão, 20h30). A 36ª inclui Palmeiras x Flamengo, sábado 21/11, às 16h30, no Nubank Parque. Faltam quatro rodadas.",
+   "leitura": "Conta da tabela: faltam quatro rodadas e o Cruzeiro, 3º com 60, chega no máximo a 72. O título fica entre Flamengo e Palmeiras. Provável: o jogo de 21/11 no Nubank Parque é o que mais pesa na briga. Se os dois vencerem na quarta 18/11 e o Palmeiras ganhar o confronto direto, os dois chegam a 79 pontos com duas rodadas a jogar. Embaixo, Vitória (38), Internacional (38), Corinthians (37) e Grêmio (37) estão separados por um ponto, e dois clubes grandes, Corinthians e Grêmio, estão hoje no Z4. A Chapecoense, com 21 pontos e cinco jogos a fazer, chega no máximo a 36. O Remo (29) chega no máximo a 41. Hipótese: se o Palmeiras, que já está no topo, ganhar a Copa do Brasil ou a Libertadores, as vagas da Libertadores 2027 pela tabela podem descer posições; isso depende do regulamento de 2026, que esta apuração não conferiu.",
+   "confianca": "fato",
+   "acrescentada": "19h",
+   "emJogo": [
+    "Flamengo",
+    "Palmeiras",
+    "Cruzeiro",
+    "Fluminense",
+    "Corinthians",
+    "Grêmio",
+    "Remo",
+    "Chapecoense"
+   ],
+   "fontes": [
+    {
+     "nome": "gcmais",
+     "url": "https://gcmais.com.br/noticias/2026/11/10/classificacao-do-brasileirao-2026-veja-tabela-atualizada-e-disputa-pelo-titulo",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "CBF",
+     "url": "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/trio-carioca-vence-pela-34-rodada-do-brasileirao",
+     "data": "2026-11-05"
+    },
+    {
+     "nome": "Metrópoles",
+     "url": "https://www.metropoles.com/esportes/cbf-detalha-datas-horarios-e-locais-das-rodadas-35-e-36-do-brasileirao",
+     "data": "2026-10-30"
+    },
+    {
+     "nome": "Metrópoles",
+     "url": "https://www.metropoles.com/esportes/selecao-brasileira-inicia-preparacao-para-ultima-data-fifa-de-2026",
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "bola-vitoria-contrata-rafael-lacerda",
+   "data": "2026-11-10",
+   "tabuleiro": "bola",
+   "manchete": "Rafael Lacerda deixa a Chapecoense, já rebaixada, e é anunciado pelo Vitória, 15º com 38 pontos e um acima do Z4, com contrato até o fim de 2027",
+   "narrativa": "Na segunda (9/11), a Chapecoense soltou nota: \"A Associação Chapecoense de Futebol comunica, oficialmente, o desligamento do técnico Rafael Lacerda.\" A CNN Brasil, em texto de Ulisses Lopresti publicado às 21h06, noticiou que o técnico deve assumir o Vitória. Na manhã de terça (10/11), o Vitória oficializou a contratação, segundo a Gazeta Esportiva.",
+   "movimento": "O Vitória estava sem técnico depois da demissão de Jair Ventura, que veio após a derrota por 2 a 0 para o Coritiba, pela 33ª rodada. Lacerda assinou até o fim de 2027. Na Chapecoense, os auxiliares João Antônio e Mateus Bolivar saem com ele, e o time fica com os interinos Rodrigo Chip e Ricardo Chuva para as rodadas finais. O Vitória é 15º, com 38 pontos, um acima do Corinthians, 17º e primeiro do Z4. O primeiro jogo depois da troca é Vitória x Bragantino, quinta 19/11, às 19h30, no Barradão, pela 35ª rodada. Na 36ª, o time visita o Internacional, 16º e também com 38, na segunda 23/11, às 19h30, no Beira-Rio. A Chapecoente, lanterna com 21 pontos, já está rebaixada, segundo a CNN Brasil.",
+   "leitura": "Provável: o Vitória troca de técnico a quatro rodadas do fim para não cair, e já tem um confronto direto marcado, contra o Internacional em 23/11. Hipótese: o contrato até o fim de 2027 indica que o clube conta com Lacerda também na próxima temporada, fique ou não na Série A. Hipótese: Lacerda deixa um time já rebaixado, sem objetivo no fim do ano, por uma briga contra a queda; se o Vitória ficar, o nome dele ganha peso no mercado de técnicos.",
+   "confianca": "fato",
+   "acrescentada": "19h",
+   "emJogo": [
+    "Rafael Lacerda",
+    "Vitória",
+    "Chapecoense",
+    "Jair Ventura",
+    "Rodrigo Chip",
+    "Ricardo Chuva",
+    "Internacional",
+    "Corinthians"
+   ],
+   "fontes": [
+    {
+     "nome": "CNN Brasil",
+     "url": "https://cnnbrasil.com.br/esportes/brasileirao/chapecoense-anuncia-saida-de-tecnico-que-deve-assumir-o-vitoria",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/vitoria/vitoria-anuncia-rafael-lacerda-como-novo-tecnico-ate-2027/",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Metrópoles",
+     "url": "https://www.metropoles.com/esportes/cbf-detalha-datas-horarios-e-locais-das-rodadas-35-e-36-do-brasileirao",
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "bola-palmeiras-tres-decisoes",
+   "data": "2026-11-08",
+   "tabuleiro": "bola",
+   "manchete": "Palmeiras passa pelo Vasco nos pênaltis, vai à final da Copa do Brasil e terá três decisões entre 21/11 e 6/12: Flamengo no Brasileirão, Estudiantes na Libertadores e Grêmio na Copa do Brasil",
+   "narrativa": "O Lance, em texto de Nathalia Gomes publicado no domingo (8/11), contou que o Palmeiras eliminou o Vasco nos pênaltis, por 5 a 4, depois de perder por 2 a 1 no tempo normal, em São Januário. O Grêmio passou pelo Atlético-MG na outra semifinal. A final da Copa do Brasil será no domingo 6/12, no Mané Garrincha, em Brasília. A CBF ainda não confirmou o horário. A Gazeta Esportiva, em texto de Murilo Gomes de 23/10, registrou a final da Libertadores entre Palmeiras e Estudiantes no sábado 28/11, no Estádio Centenário, em Montevidéu. O Palmeiras passou pelo Fluminense nos pênaltis (5 a 3) depois de perder por 1 a 0 no Nubank Parque. O Estudiantes eliminou o Flamengo também nos pênaltis (3 a 2), depois de 0 a 0 no Maracanã.",
+   "movimento": "Agenda do Palmeiras até a Copa do Brasil: Cruzeiro x Palmeiras, quarta 18/11, às 20h30, no Mineirão; Palmeiras x Flamengo, sábado 21/11, às 16h30, no Nubank Parque; final da Libertadores, sábado 28/11, em Montevidéu; final da Copa do Brasil, domingo 6/12, em Brasília. O Flamengo caiu na semifinal da Libertadores e não estava entre os semifinalistas da Copa do Brasil (Palmeiras, Vasco, Grêmio e Atlético-MG); joga só o Brasileirão. Antes do jogo no Nubank Parque, recebe o Athletico-PR na quarta 18/11, às 20h30, no Maracanã. O Grêmio chega à final da Copa do Brasil em 18º no Brasileirão, com 37 pontos, dentro do Z4, e tem Grêmio x Bahia em 18/11, às 21h30, e Santos x Grêmio em 23/11, no Morumbis.",
+   "leitura": "Provável: o Palmeiras vai dividir elenco e desgaste entre três torneios em pouco mais de duas semanas, enquanto o Flamengo tem um só; isso pode pesar no Brasileirão. Conta: se o Flamengo vencer o Athletico-PR e depois o Palmeiras, chega a 82 pontos, e o Palmeiras fica com no máximo 76 nesse cenário, a duas rodadas do fim. Hipótese: a final da Libertadores no sábado 28/11 pode obrigar a CBF a mudar a data do jogo do Palmeiras na 37ª rodada; as datas das rodadas 37 e 38 não foram conferidas nesta apuração. Hipótese: o Grêmio terá de dividir forças entre a fuga do Z4 e a final de 6/12.",
+   "confianca": "fato",
+   "acrescentada": "19h",
+   "emJogo": [
+    "Palmeiras",
+    "Flamengo",
+    "Estudiantes",
+    "Grêmio",
+    "Vasco",
+    "Fluminense",
+    "Atlético-MG",
+    "Cruzeiro"
+   ],
+   "fontes": [
+    {
+     "nome": "Lance!",
+     "url": "https://www.lance.com.br/futebol-nacional/quando-sera-a-final-da-copa-do-brasil-2026-entre-palmeiras-e-gremio-veja-data-horario-e-local.html",
+     "data": "2026-11-08"
+    },
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/final-libertadores-2026-palmeiras-estudiantes-data-local/",
+     "data": "2026-10-23"
+    },
+    {
+     "nome": "Metrópoles",
+     "url": "https://www.metropoles.com/esportes/cbf-detalha-datas-horarios-e-locais-das-rodadas-35-e-36-do-brasileirao",
+     "data": "2026-10-30"
     }
    ]
   }

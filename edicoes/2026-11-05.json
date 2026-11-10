@@ -305,48 +305,6 @@
      "data": "2026-11-04"
     }
    ]
-  },
-  {
-   "id": "palmeiras-defensoria-mutirao-aquilomba",
-   "data": "2026-11-04",
-   "tabuleiro": "capao",
-   "manchete": "Hoje, quinta 5, a Defensoria Pública atende de graça na praça em frente à Câmara de Palmeiras, com divórcio, pensão, DNA e a nova identidade",
-   "narrativa": "O cartaz da Defensoria Pública Móvel em Palmeiras foi postado por Marcéllia Souzza no grupo de WhatsApp do Capão. Segundo o Se Liga Chapada, é a 5ª edição do Mutirão Aquilomba, para as comunidades quilombolas de Seabra e de Palmeiras.",
-   "movimento": "Em Palmeiras, a unidade móvel fica na Praça Dr. José Gonçalves, em frente à Câmara Municipal, nesta quinta 5. Entre os serviços: registro civil, divórcio e partilha, pensão alimentícia, guarda, saúde e direito do consumidor, exame de DNA gratuito e a nova Carteira de Identidade Nacional. Em Seabra, o atendimento foi nos dias 3 e 4.",
-   "leitura": "É serviço de justiça de graça na sede do município do vale, e só por um dia (provável). Para o CapON, é o tipo de aviso útil que hoje chega solto, num cartaz no meio de dezenas de anúncios do grupo (hipótese). Uma fonte da web e o cartaz do grupo; por isso, provável.",
-   "confianca": "provavel",
-   "emJogo": [
-    "Defensoria Pública da Bahia",
-    "Prefeitura de Palmeiras"
-   ],
-   "fontes": [
-    {
-     "nome": "Se Liga Chapada",
-     "url": "https://www.seligachapada.com.br/mutirao-aquilomba-seabra-palmeiras-novembro-2026/",
-     "data": "2026-10-31"
-    }
-   ]
-  },
-  {
-   "id": "chapada-feira-das-artes-mucuge",
-   "data": "2026-11-03",
-   "tabuleiro": "capao",
-   "manchete": "A 15ª Feira das Artes de Mucugê será em 20 e 21 de novembro e está com inscrições abertas para artistas e artesãos",
-   "narrativa": "Segundo o Jornal da Chapada, a feira prepara dois dias de cultura, música e valorização regional. A notícia foi repassada no grupo de WhatsApp do Capão pela Universidade Livre da Chapada.",
-   "movimento": "O evento é nos dias 20 e 21 de novembro, no largo da Igreja de Santo Antônio, no Centro Histórico de Mucugê. As inscrições para artistas, artesãos e produtores da agricultura familiar estão abertas; o texto não diz até quando. O cartaz postado no grupo anuncia uma rifa (combo especial).",
-   "leitura": "É vitrine para quem vive de arte e artesanato na Chapada, inclusive no vale (provável). O dia 20 é feriado da Consciência Negra, e isso pode ajudar o movimento (hipótese).",
-   "confianca": "provavel",
-   "emJogo": [
-    "Feira das Artes de Mucugê",
-    "Universidade Livre da Chapada"
-   ],
-   "fontes": [
-    {
-     "nome": "Jornal da Chapada",
-     "url": "https://jornaldachapada.com.br/2026/11/03/chapada-com-inscricoes-abertas-feira-das-artes-de-mucuge-prepara-dois-dias-de-cultura-musica-e-valorizacao-regional/",
-     "data": "2026-11-03"
-    }
-   ]
   }
  ]
 }

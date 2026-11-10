@@ -3,6 +3,8 @@
 'use strict';
 const TABS = { geopolitica: 'Geopolítica', maquinas: 'Máquinas', bola: 'Bola', exopolitica: 'Exopolítica', ufologia: 'Ufologia', capao: 'Capão' };
 const CONF = { fato: 'fato', provavel: 'provável', hipotese: 'hipótese' };
+const ORDEM_TAB = ['geopolitica', 'maquinas', 'exopolitica', 'ufologia', 'bola', 'capao'];   // as corriqueiras (Bola e Capão) sempre no fim (pedido do Jean em 10/11/2026)
+const estadosDu = {}, abaRev = {};   // o que a dualidade lembra de cada edição; a aba escolhida (o dia, a semana ou o mês)
 const app = document.getElementById('app');
 let indice = null;
 const estadosMapa = {};   // o que o mapa de forças lembra de cada edição (o player escolhido, a notícia, as partes abertas)
@@ -33,6 +35,7 @@ async function json(url) {
 }
 async function carregarIndice() { if (!indice) indice = await json('edicoes/index.json'); return indice; }
 async function carregarEd(d) { if (!cacheEd[d]) cacheEd[d] = await json(`edicoes/${d}.json`); return cacheEd[d]; }
+async function carregarRev(d, tipo) { const k = d + '-' + tipo; if (!cacheEd[k]) cacheEd[k] = await json(`edicoes/${k}.json`); return cacheEd[k]; }
 
 function cartao(i, noMapa) {
   const fontes = (i.fontes || []).map(f => {
@@ -59,7 +62,9 @@ function cartao(i, noMapa) {
       fontes.length ? [el('h3', null, 'Fontes'), el('ul', null, fontes)] : []));
 }
 
-function telaEdicao(ed) {
+function telaEdicao(ed, revs) {
+  revs = revs || {};
+  ed = { ...ed, itens: (ed.itens || []).map((i, k) => [i, k]).sort((a, b) => ((ORDEM_TAB.indexOf(a[0].tabuleiro) + 1 || 99) - (ORDEM_TAB.indexOf(b[0].tabuleiro) + 1 || 99)) || a[1] - b[1]).map(([i]) => i) };
   const pos = indice.findIndex(e => e.data === ed.data);
   const anterior = indice[pos + 1], seguinte = pos > 0 ? indice[pos - 1] : null;
   const temTabs = [...new Set(ed.itens.map(i => i.tabuleiro))].filter(Boolean);
@@ -80,19 +85,25 @@ function telaEdicao(ed) {
     d.resumo && el('p', null, d.resumo)));
   const rolar = id => { mostrar(''); setTimeout(() => { const x = document.getElementById(id); if (x) { if (x.tagName === 'DETAILS') x.open = true; x.scrollIntoView({ behavior: 'smooth', block: 'start' }); } }, 0); };
   const mapaEl = mapa ? MapaDeForcas.desenhar({ edicao: { data: ed.data, itens: ed.itens, mapa }, estado: estadosMapa[ed.data] || (estadosMapa[ed.data] = {}), rolar, idCartao: i => 'c-' + i.id }) : null;
+  const dual = window.Dualidade ? Dualidade.limpar(ed.dualidade) : null;   // a dualidade, elite antiga x nova elite (dualidade.js)
+  const dualEl = dual ? Dualidade.desenhar({ dualidade: dual, estado: estadosDu[ed.data] || (estadosDu[ed.data] = {}) }) : null;
+  const qual = revs[abaRev[ed.data]] ? abaRev[ed.data] : 'dia';   // a semana e o mês (revisao.js), na edição de segunda e na do dia 1º
+  const abaEl = (k, nome) => el('button', { type: 'button', class: 'rv-aba', 'aria-pressed': String(qual === k), onclick: () => { abaRev[ed.data] = k; telaEdicao(ed, revs); } }, nome);
+  const abasRev = revs.semana || revs.mes ? el('div', { class: 'rv-abas', role: 'group', 'aria-label': 'O que esta edição traz' }, abaEl('dia', 'O dia'), revs.semana ? abaEl('semana', 'A semana') : null, revs.mes ? abaEl('mes', 'O mês') : null) : null;
+  const revEl = qual !== 'dia' && window.Revisao ? Revisao.desenhar({ revisao: Revisao.limpar(revs[qual]), link: d => '#/' + d }) : null;
   app.replaceChildren(
     el('section', { class: 'capa' },
       el('div', { class: 'meta' }, `nº ${ed.numero || '?'} · ${dataLonga(ed.data)}`),
       el('h1', null, ed.titulo || 'INFO'),
       el('div', { class: 'abertura' }, paragrafos(ed.abertura)),
       ed.aviso && el('p', { class: 'aviso' }, ed.aviso)),
-    mapaEl || '',
-    abas, listaEl,
-    editais.length ? el('section', { class: 'secao' }, el('h2', null, 'Editais abertos'), editais) : '',
+    abasRev || '',
+    ...(revEl ? [revEl] : [mapaEl || '', dualEl || '', abas, listaEl,
+    editais.length ? el('section', { class: 'secao' }, el('h2', null, 'Editais abertos'), editais) : '']),
     el('div', { class: 'navega' },
       anterior ? el('a', { href: `#/${anterior.data}` }, `← nº ${anterior.numero}`) : el('span'),
       seguinte ? el('a', { href: `#/${seguinte.data}` }, `nº ${seguinte.numero} →`) : el('span')));
-  mostrar('');
+  if (!revEl) mostrar('');
   document.title = `INFO nº ${ed.numero || ''}`.trim();
 }
 
@@ -109,6 +120,8 @@ function telaSobre() {
     el('p', null, 'O INFO é um jornal de bolso feito com IA (o Claude, da Anthropic). Sai uma edição por dia, pronta para ser lida às 5h da manhã, horário de Brasília, com notícias de geopolítica, tecnologia, futebol, ufologia técnica e do Vale do Capão, na Chapada Diamantina.'),
     el('p', null, 'Cada notícia separa o que dizem (a versão divulgada) do que fizeram (os atos, as datas, o dinheiro), traz uma leitura marcada como fato, provável ou hipótese, e lista as fontes. É um exercício lúdico: nada aqui afirma a realidade, e as fontes estão ali para você conferir.'),
     el('p', null, 'O mapa de forças, logo abaixo da capa, é um jogo de hipóteses montado sobre uma lista de grupos de poder: só os 7 grupos maiores da lista são players e ganham ou perdem; países, pessoas e instituições são peças, que se movem, ou territórios, que se disputam. As ligações que a lista afirma são postas à prova a cada rodada, com sinais a favor ou contra e um placar. Os fatos têm fonte; a ligação de uma peça a um player é hipótese.'),
+    el('p', null, 'A dualidade, logo abaixo do mapa, é um segundo exercício especulativo: a hipótese de uma transição de poder da elite antiga (o petróleo, a finança tradicional, o establishment político até 2016) para a nova elite (os donos das Big Techs e quem monta a tecnocracia), com Trump como negociador que acena para os dois lados. Cada lance e cada aceno tem peso e fonte, e a conta mostra para que lado a transição e Trump pendem.'),
+    el('p', null, 'A edição de segunda traz também a semana que passou, e a do dia 1º traz a semana e o mês, feitas só a partir das edições, sem busca nova.'),
     el('p', null, 'Para instalar: no Android, abra no Chrome e toque em "Instalar" (ou no menu ⋮, "Adicionar à tela inicial"). No iPhone, abra no Safari, toque em compartilhar e depois em "Adicionar à Tela de Início".')));
   document.title = 'INFO · sobre';
 }
@@ -123,7 +136,9 @@ async function rota() {
     if (!indice.length) { app.replaceChildren(el('p', { class: 'vazio' }, 'Ainda não há edição publicada.')); return; }
     if (h === 'edicoes') return telaEdicoes();
     const d = ehDia(h) ? h : indice[0].data;
-    telaEdicao(await carregarEd(d));
+    const linha = indice.find(e => e.data === d) || {}, revs = {};
+    for (const t of linha.revisoes || []) { try { revs[t] = await carregarRev(d, t); } catch (e) { /* a revisão não abriu: fica só o dia */ } }
+    telaEdicao(await carregarEd(d), revs);
     window.scrollTo(0, 0);
   } catch (e) {
     app.replaceChildren(el('p', { class: 'vazio' }, 'Não consegui abrir a edição. Confira a internet e tente de novo.'));
