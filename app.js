@@ -53,6 +53,7 @@ function cartao(i, noMapa) {
       bloco('O que dizem', i.narrativa),
       bloco('O que fizeram', i.movimento),
       bloco('A leitura', i.leitura),
+      bloco('A análise pela ótica do jogo', i.analise),
       bloco('Conflito de interesse', i.conflito),
       (i.emJogo || []).length ? [el('h3', null, 'Quem está em jogo'), el('p', { class: 'emjogo' }, i.emJogo.join(', '))] : [],
       fontes.length ? [el('h3', null, 'Fontes'), el('ul', null, fontes)] : []));

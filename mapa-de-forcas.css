@@ -83,7 +83,8 @@ svg.mf { display: block; width: 100%; max-width: 620px; height: auto; margin: 0 
 .mf-bola { display: inline-grid; place-items: center; width: 22px; height: 22px; border-radius: 50%; border: 1px solid var(--portal, #9DA9FF); font: 600 11px/1 var(--mono, ui-monospace, monospace); color: var(--texto, #E6E8F0); background: none; cursor: pointer; padding: 0; }
 .mf-not { font: inherit; font-weight: 600; color: var(--texto, #E6E8F0); background: none; border: 0; padding: 0; text-align: left; text-decoration: underline; text-decoration-color: var(--linha, #1E2238); text-underline-offset: 3px; cursor: pointer; }
 .mf-sec { display: flex; flex-direction: column; gap: 8px; border-top: 1px solid var(--linha, #1E2238); padding-top: 10px; }
-.mf-sub { font-size: 14px; font-weight: 600; margin: 0; display: flex; gap: 8px; align-items: baseline; }
+.mf-sub { font-size: 14px; font-weight: 600; margin: 0; display: flex; flex-wrap: wrap; gap: 2px 8px; align-items: baseline; }
+.mf-sub small { font-weight: 400; font-size: 12px; }
 .mf-grupo { display: flex; flex-direction: column; gap: 4px; }
 .mf-dono { font-size: 13px; font-weight: 500; }
 .mf-grupo .mf-det > summary { color: var(--texto, #E6E8F0); }
@@ -99,3 +100,50 @@ svg.mf { display: block; width: 100%; max-width: 620px; height: auto; margin: 0 
 .mf-conta-h { font: 500 12px var(--mono, ui-monospace, monospace); color: var(--texto, #E6E8F0); white-space: nowrap; }
 .mf-pe { font-size: 12px; }
 @media (max-width: 520px) { .mf-caixa { padding: 12px 10px; } }
+
+/* a versão 3: o tabuleiro, a cama maior e o placar Trump e China (desde 11/11/2026) */
+svg.mf3 { max-width: 640px; }
+.mf3-dom { font: 500 9px var(--mono, ui-monospace, monospace); letter-spacing: .14em; fill: var(--apagado, #8A90A6); }
+.mf3-casa { cursor: pointer; outline: none; transition: opacity .15s; }
+.mf3-casa rect { fill: rgba(230,232,240,.035); stroke-width: 1.6; }
+.mf3-casa.escura rect { fill: rgba(230,232,240,.085); }
+.mf3-casa.mf-sel rect { stroke-width: 3; fill: rgba(157,169,255,.14); }
+.mf3-casa:focus-visible rect { stroke: var(--texto, #E6E8F0); }
+.mf3-nome { font-size: 9.6px; font-weight: 600; fill: var(--texto, #E6E8F0); }
+.mf3-peca { font-size: 9px; fill: var(--texto, #E6E8F0); opacity: .9; }
+.mf3-mais { font: 600 8.5px var(--mono, ui-monospace, monospace); fill: var(--apagado, #8A90A6); }
+.mf3-move { stroke-dasharray: 2 3; }
+.mf3-texto { white-space: pre-line; font-size: 14.5px; line-height: 1.62; }
+.mf3-texto.curta { display: -webkit-box; -webkit-line-clamp: 9; -webkit-box-orient: vertical; overflow: hidden; }
+.mf3-analise { display: flex; flex-direction: column; gap: 6px; border-left: 2px solid var(--portal, #9DA9FF); padding: 4px 0 4px 12px; }
+.mf3-cama { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 6px; }
+.mf3-player { display: grid; grid-template-columns: 12px minmax(0, 1fr); grid-template-rows: auto auto; column-gap: 7px; align-items: center; text-align: left;
+  font: inherit; font-size: 13px; color: var(--texto, #E6E8F0); background: var(--sup2, #131628); border: 1px solid var(--linha, #1E2238); border-radius: 10px; padding: 7px 9px; cursor: pointer; }
+.mf3-player[aria-pressed="true"] { border-color: var(--portal, #9DA9FF); background: rgba(157,169,255,.12); }
+.mf3-player .mf3-bola { grid-row: 1 / 3; }
+.mf3-pn { font-weight: 600; line-height: 1.25; }
+.mf3-ps { font: 500 10.5px var(--mono, ui-monospace, monospace); color: var(--apagado, #8A90A6); }
+.mf3-s-ganha .mf3-ps, .mf3-ps.mf3-s-ganha { color: var(--ok, #3ECF8E); }
+.mf3-s-perde .mf3-ps, .mf3-ps.mf3-s-perde { color: var(--erro, #F2705F); }
+.mf3-s-disputa .mf3-ps, .mf3-ps.mf3-s-disputa { color: var(--portal, #9DA9FF); }
+.mf3-bola { display: inline-block; width: 10px; height: 10px; border-radius: 50%; vertical-align: middle; flex: none; }
+.mf3-dono { font-size: 12px; color: var(--apagado, #8A90A6); display: inline-flex; align-items: center; gap: 5px; }
+.mf3-dia { display: flex; flex-direction: column; gap: 7px; padding: 4px 0 8px 17px; }
+.mf3-tc-placar { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+.mf3-tc-placar > div { display: flex; flex-direction: column; gap: 2px; background: var(--sup2, #131628); border: 1px solid var(--linha, #1E2238); border-radius: 10px; padding: 8px 10px; font-size: 12px; color: var(--apagado, #8A90A6); }
+.mf3-n { font: 600 22px var(--mono, ui-monospace, monospace); }
+.mf3-n.favor, .mf3-mv-favor .mf3-pts { color: #E3AA52; }
+.mf3-n.contra, .mf3-mv-contra .mf3-pts { color: #74ADF5; }
+.mf3-pende { font-size: 13px; color: var(--texto, #E6E8F0); }
+svg.mf3-hist { display: block; width: 100%; max-width: 620px; height: auto; }
+.mf3-zero { stroke: var(--linha, #1E2238); stroke-width: 1; }
+.mf3-barra.favor { fill: rgba(227,170,82,.75); } .mf3-barra.contra { fill: rgba(116,173,245,.75); }
+.mf3-linha { fill: none; stroke: var(--texto, #E6E8F0); stroke-width: 1.4; opacity: .7; }
+.mf3-movs { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 9px; }
+.mf3-movs > li { display: grid; grid-template-columns: 44px minmax(0, 1fr); gap: 8px; font-size: 13.5px; }
+.mf3-movs > li > div { display: flex; flex-direction: column; gap: 4px; }
+.mf3-pts { font: 600 13px var(--mono, ui-monospace, monospace); text-align: right; }
+.mf3-peso { letter-spacing: 1px; color: var(--texto, #E6E8F0); }
+@media (max-width: 520px) { .mf3-tc-placar { grid-template-columns: 1fr 1fr; } .mf3-tc-placar > div:last-child { grid-column: 1 / 3; } }
+.mf3-vaga { fill: rgba(230,232,240,.025); stroke: rgba(138,144,166,.12); stroke-width: 1; }
+.mf3-vaga.escura { fill: rgba(230,232,240,.06); }
