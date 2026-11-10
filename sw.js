@@ -1,6 +1,6 @@
 // O INFO funciona sem internet com o que já foi aberto. As edições vêm primeiro da rede (para chegar a nova); a casca, do cache.
-const CASCA = 'info-casca-v1', EDICOES = 'info-edicoes-v1';
-const ARQUIVOS = ['./', 'index.html', 'estilo.css', 'app.js', 'manifest.webmanifest', 'icones/icone-192.png', 'icones/icone-512.png'];
+const CASCA = 'info-casca-v2', EDICOES = 'info-edicoes-v2';
+const ARQUIVOS = ['./', 'index.html', 'estilo.css', 'app.js', 'mapa-de-forcas.js', 'mapa-de-forcas.css', 'manifest.webmanifest', 'icones/icone-192.png', 'icones/icone-512.png'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(CASCA).then(c => c.addAll(ARQUIVOS))); self.skipWaiting(); });
 self.addEventListener('activate', e => {
   e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => ![CASCA, EDICOES].includes(k)).map(k => caches.delete(k)))));

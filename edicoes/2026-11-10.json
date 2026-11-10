@@ -4,7 +4,7 @@
  "titulo": "A Anthropic lança o Claude Fable 5.2 na véspera de começar a vender as ações, a COP31 abre na Turquia sem os Estados Unidos e o Capão tem Maratona Teatral no fim de semana",
  "abertura": "Terça, 10. A COP31 abriu na segunda em Antalya, na Turquia, sem delegação dos Estados Unidos pelo segundo ano. Russos e ucranianos têm conversa marcada em Abu Dhabi a partir desta terça, com mediação americana, depois de mais uma noite de ataques à rede elétrica. Trump diz que voltar à guerra com o Irã é muito improvável, e Lula marca para o dia 16 uma reunião sobre o Ministério da Segurança Pública.\n\nNa IA, a Anthropic lançou o Claude Fable 5.2 e o Claude Mythos 5.2 (Claude é de quem escreve este jornal), e a imprensa diz que a empresa pode começar a vender as ações já nesta terça, valendo menos do que se esperava. A Meta e a AMD também aparecem na lista do X. O São Paulo voltou aos treinos sem Bobadilla e sem Luciano.\n\nNo Capão, o grupo anuncia a 4ª Maratona Teatral nos dias 14 e 15, gratuita, salsa na sexta e uma Tenda Vermelha nesta terça. E há um edital nacional de fotografia, da Funarte, aberto até 18 de dezembro.",
  "aviso": "Exercício lúdico: nada aqui afirma a realidade.",
- "atualizado": "2026-11-10T13:11:08Z",
+ "atualizado": "2026-11-10T20:01:39Z",
  "itens": [
   {
    "id": "cop31-abre-antalya",
@@ -294,5 +294,877 @@
    "resumo": "Apoio a projetos de fotografia em três modalidades, da criação artística ao fotojornalismo e à pesquisa crítica. Tem destinação mínima para cada uma das cinco regiões.",
    "url": "https://agenciagov.ebc.com.br/noticias/202611/funarte-lanca-duas-chamadas-publicas-para-a-fotografia-brasileira-1"
   }
- ]
+ ],
+ "mapa": {
+  "noticias": [
+   {
+    "n": 1,
+    "id": "ucrania-russia-abu-dhabi",
+    "rotulo": "Rússia e Ucrânia conversam em Abu Dhabi",
+    "ganham": [
+     {
+      "ator": "espionagem-privada",
+      "porque": "A Palantir virou a primeira investidora da empresa de Fedorov que fará interceptores contra drones russos a jato; a Rússia lançou 105 deles na véspera da rodada.",
+      "confianca": "hipotese"
+     },
+     {
+      "ator": "deep-state-europa-asia",
+      "porque": "A Rússia chega à mesa com o diesel liberado pelos EUA. Pôr a Rússia no bloco é hipótese da lista.",
+      "confianca": "hipotese"
+     }
+    ],
+    "perdem": [
+     {
+      "ator": "deep-state-europa-asia",
+      "porque": "Segundo a AP, drones ucranianos puseram fogo na KINEF, uma das maiores refinarias russas, na véspera da rodada, e Kiev voltou a atacar refinarias em outubro. Pôr a Rússia no bloco é hipótese da lista.",
+      "confianca": "hipotese"
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "id": "trump-ira-guerra-improvavel",
+    "rotulo": "Trump cobra acordo e cerca o Irã",
+    "ganham": [],
+    "perdem": [
+     {
+      "ator": "deep-state-europa-asia",
+      "porque": "O Irã, membro da OCX, perde rotas: o Comando Central diz ter desviado 147 navios desde julho, e o Iron Gate, segundo o Telegraph, quer cortar os corredores do Irã com a Rússia e a China. Ligar a OCX ao bloco é hipótese da lista.",
+      "confianca": "hipotese"
+     },
+     {
+      "ator": "core-financeiro",
+      "porque": "A imprensa liga a guerra à alta do petróleo, e o Fed, território do bloco, segurou os juros citando a geopolítica, com dois votos por alta. O elo entre os fatos é leitura nossa.",
+      "confianca": "hipotese"
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "id": "cop31-abre-antalya",
+    "rotulo": "COP31 abre em Antalya sem os EUA",
+    "ganham": [
+     {
+      "ator": "core-financeiro",
+      "porque": "O JPMorgan manda banqueiros a Antalya e diz que a meta de eletrificação cabe na sua iniciativa de US$ 1,5 trilhão; HSBC, Citi e Bank of America também mandam gente. O ganho é perspectiva, não fato.",
+      "confianca": "hipotese"
+     },
+     {
+      "ator": "empresas-controle",
+      "porque": "Gestoras como a Aegon e a EOS, da Federated Hermes, veem na meta de eletrificação uma nova frente de investimento. O ganho depende de os acordos saírem.",
+      "confianca": "hipotese"
+     },
+     {
+      "ator": "deep-state-europa-asia",
+      "porque": "A China quer pôr o comércio de tecnologia limpa na pauta, e a Rússia, com os sauditas, trava o programa de cortes de emissão, segundo o Climate Home. Pôr China e Rússia no bloco é hipótese da lista.",
+      "confianca": "hipotese"
+     }
+    ],
+    "perdem": [
+     {
+      "ator": "oligarquia-digital",
+      "porque": "As ações de tecnologia caíram com a aposta em regras mais duras de energia para data centers após as eleições nos EUA, e a COP31 traz o peso da IA no clima. A fonte não nomeia as empresas; ligar à Big Tech é hipótese.",
+      "confianca": "hipotese"
+     },
+     {
+      "ator": "nova-ordem",
+      "porque": "A COP31, palco da pauta verde que a lista põe com o bloco, abre menor: 77 chefes de governo devem falar, um terço a menos que no auge da COP28, e os EUA seguem fora.",
+      "confianca": "hipotese"
+     }
+    ]
+   }
+  ],
+  "players": [
+   {
+    "id": "core-financeiro",
+    "papel": "Entra pelo JPMorgan, atrás de negócios na COP31, e pelo Fed, que segura os juros com a guerra no fundo. Que formem um bloco é hipótese da lista.",
+    "fez": "O JPMorgan manda banqueiros de investimento a Antalya. O Fed manteve os juros entre 3,75% e 4% ao ano em 28/10, com dois votos por alta.",
+    "disse": "Luke Nelson, do JPMorgan: a meta de eletrificação é onde o banco já está focado, e não dá para eletrificar sem uma rede elétrica que funcione.",
+    "confianca": "provavel",
+    "noticias": [
+     2,
+     3
+    ],
+    "fontes": [
+     {
+      "nome": "Bloomberg (Energy Connects)",
+      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "data": "2026-11-09",
+      "trecho": "The electrification ambition gives us more to latch on to and it is exactly where we are focused anyway"
+     },
+     {
+      "nome": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "data": "2026-10-28",
+      "trecho": "uncertainty remains elevated owing, in part, to geopolitical developments"
+     }
+    ],
+    "saldo": "disputa"
+   },
+   {
+    "id": "deep-state-eua",
+    "papel": "Entra pela inteligência do Ocidente, que Kiev diz ter perdido (a AP não nomeia agência), e pelo CFR, que explicou a COP31. Juntar as duas peças num bloco é hipótese da lista.",
+    "fez": "Segundo Zelensky, Kiev ficou sem os avisos de inteligência do Ocidente sobre mísseis russos (AP, 15/10). O CFR publicou em 5/11 um guia da COP31.",
+    "disse": "As agências não falaram nas fontes lidas. O CFR diz que a ausência dos EUA vem num momento decisivo para o processo das COPs.",
+    "confianca": "provavel",
+    "noticias": [
+     1,
+     3
+    ],
+    "fontes": [
+     {
+      "nome": "AP (Click2Houston)",
+      "url": "https://www.click2houston.com/business/2026/10/15/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-after-brief-truce/",
+      "data": "2026-10-15",
+      "trecho": "Ukraine in recent days was denied the usual Western intelligence on Russian ballistic missile strikes"
+     },
+     {
+      "nome": "Council on Foreign Relations (CFR)",
+      "url": "https://www.cfr.org/articles/cop31-in-turkey-what-to-expect-at-the-2026-un-climate-summit",
+      "data": "2026-11-05",
+      "trecho": "comes during a consequential time for the COP process"
+     }
+    ],
+    "saldo": "disputa"
+   },
+   {
+    "id": "empresas-controle",
+    "papel": "Entra pelas gestoras que vão à COP31 atrás da eletrificação. Think tanks e empresas militares da lista não agiram na janela. O bloco é hipótese.",
+    "fez": "Gestoras como a Aegon AM e a EOS, da Federated Hermes, comentaram a pauta da COP31 à Bloomberg e veem na eletrificação uma frente de investimento.",
+    "disse": "A Aegon elogia o foco da presidência turca em tecnologia e infraestrutura que o mercado já entende; a EOS fala numa megatendência.",
+    "confianca": "provavel",
+    "noticias": [
+     3
+    ],
+    "fontes": [
+     {
+      "nome": "Bloomberg (Energy Connects)",
+      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "data": "2026-11-09",
+      "trecho": "It is good to see the presidency focusing on technologies and infrastructure the finance industry already understands"
+     }
+    ],
+    "saldo": "ganha"
+   },
+   {
+    "id": "oligarquia-digital",
+    "papel": "Entra pelos data centers de IA, cobrados na bolsa e na COP31. As fontes não nomeiam Google, Meta, Amazon nem Microsoft; a ligação é hipótese.",
+    "fez": "Sofreu: as ações de tecnologia caíram com a aposta em regras mais duras de energia e ambiente para data centers, diz a Bloomberg.",
+    "confianca": "provavel",
+    "noticias": [
+     3
+    ],
+    "fontes": [
+     {
+      "nome": "Bloomberg (Energy Connects)",
+      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "data": "2026-11-09",
+      "trecho": "tech-stock selloff was fueled by anticipation that the results of the US midterms will lead to more AI regulations"
+     }
+    ],
+    "saldo": "perde"
+   },
+   {
+    "id": "deep-state-europa-asia",
+    "papel": "Entra pela Rússia, pelo Irã e pela China, membros da OCX. Pôr esses países no bloco é hipótese da lista; a OCX e o BRICS não agiram na janela.",
+    "fez": "A Rússia lançou 317 drones na véspera da rodada, diz Kiev. O Irã sofre cerco por mar e por terra. A China quer o comércio de tecnologia limpa na COP31.",
+    "disse": "O Irã diz que Ormuz só reabre com suas condições atendidas. A Guarda Revolucionária diz que os americanos não vão atingir o objetivo com o Iron Gate.",
+    "confianca": "provavel",
+    "noticias": [
+     1,
+     2,
+     3
+    ],
+    "fontes": [
+     {
+      "nome": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit",
+      "data": "2026-09-01",
+      "trecho": "The SCO consists of Russia, China, India, Pakistan, Iran"
+     },
+     {
+      "nome": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know",
+      "data": "2026-11-08",
+      "trecho": "The Americans cannot achieve their goal through this"
+     }
+    ],
+    "saldo": "disputa"
+   },
+   {
+    "id": "nova-ordem",
+    "papel": "Entra pelo Clube de Roma, lembrado por uma carta que pedia reformas nas COPs. Davos não apareceu na janela. Que o bloco mande na pauta é hipótese.",
+    "fez": "Segundo o Climate Home (29/10), o Clube cuidou da imprensa de uma carta aberta por reformas nas COPs e não respondeu sobre uma frase que sumiu dela.",
+    "disse": "Segundo o Climate Home, disse que suas ideias, construtivas e de apoio, foram mal interpretadas.",
+    "confianca": "provavel",
+    "noticias": [
+     3
+    ],
+    "fontes": [
+     {
+      "nome": "Climate Home News",
+      "url": "https://www.climatechangenews.com/?p=91772",
+      "data": "2026-10-29",
+      "trecho": "The Club of Rome has yet to respond to my query about its disappearance."
+     }
+    ],
+    "saldo": "perde"
+   },
+   {
+    "id": "espionagem-privada",
+    "papel": "Entra pela Palantir, a peça que a lista dá ao bloco: põe dinheiro em interceptores para a Ucrânia e teve alta de 96% na receita com o governo dos EUA.",
+    "fez": "Em 13/10, virou a primeira investidora da empresa de Fedorov contra drones russos a jato. Em 2/11, contou alta de 96% na receita com o governo dos EUA.",
+    "disse": "Alex Karp, chefe da Palantir: a receita comercial nos EUA passou a do governo americano pela primeira vez na história da empresa.",
+    "confianca": "provavel",
+    "noticias": [
+     1
+    ],
+    "fontes": [
+     {
+      "nome": "Janes",
+      "url": "https://www.janes.com/defence-intelligence-insights/defence-news/air/palantir-to-fund-ukrainian-interceptor-uav-company-targeting-russias-geran-5",
+      "data": "2026-10-13",
+      "trecho": "Palantir Technologies as its first investor"
+     },
+     {
+      "nome": "Palantir (SEC, 8-K)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm",
+      "data": "2026-11-02",
+      "trecho": "U.S. government revenue grew 96% year-over-year and 18% quarter-over-quarter to $953 million"
+     }
+    ],
+    "saldo": "ganha"
+   }
+  ],
+  "pecas": [
+   {
+    "id": "palantir",
+    "nome": "Palantir",
+    "tipo": "peca",
+    "dono": "espionagem-privada",
+    "fez": "É a primeira investidora da empresa de Fedorov contra drones russos a jato (13/10). Em 2/11, contou US$ 953 milhões de receita do governo dos EUA, alta de 96%.",
+    "confianca": "provavel",
+    "noticias": [
+     1
+    ],
+    "fontes": [
+     {
+      "nome": "Janes",
+      "url": "https://www.janes.com/defence-intelligence-insights/defence-news/air/palantir-to-fund-ukrainian-interceptor-uav-company-targeting-russias-geran-5",
+      "data": "2026-10-13",
+      "trecho": "Palantir Technologies as its first investor"
+     },
+     {
+      "nome": "Janes",
+      "url": "https://www.janes.com/defence-intelligence-insights/defence-news/air/palantir-to-fund-ukrainian-interceptor-uav-company-targeting-russias-geran-5",
+      "data": "2026-10-13",
+      "trecho": "designed to target jet-powered Russian UAVs"
+     },
+     {
+      "nome": "Palantir (SEC, 8-K)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm",
+      "data": "2026-11-02",
+      "trecho": "U.S. government revenue grew 96% year-over-year and 18% quarter-over-quarter to $953 million"
+     }
+    ]
+   },
+   {
+    "id": "jpmorgan",
+    "nome": "JPMorgan Chase",
+    "tipo": "peca",
+    "dono": "core-financeiro",
+    "fez": "Manda banqueiros de investimento e executivos de sustentabilidade à COP31 e diz que a pauta cabe na sua iniciativa de US$ 1,5 trilhão, segundo a Bloomberg.",
+    "confianca": "provavel",
+    "noticias": [
+     3
+    ],
+    "fontes": [
+     {
+      "nome": "Bloomberg (Energy Connects)",
+      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "data": "2026-11-09",
+      "trecho": "which is sending a team of investment bankers and sustainability executives to the talks"
+     },
+     {
+      "nome": "Bloomberg (Energy Connects)",
+      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "data": "2026-11-09",
+      "trecho": "fits neatly into its own $1.5 trillion security and resilience initiative"
+     },
+     {
+      "nome": "Bloomberg (Energy Connects)",
+      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "data": "2026-11-09",
+      "trecho": "as war continues to fuel oil and gas price volatility"
+     }
+    ]
+   },
+   {
+    "id": "fed",
+    "nome": "Federal Reserve (Fed)",
+    "tipo": "territorio",
+    "dono": "core-financeiro",
+    "fez": "Manteve os juros entre 3,75% e 4% em 28/10, com dois votos por alta, e citou a incerteza geopolítica. A imprensa liga a guerra com o Irã à alta do petróleo.",
+    "confianca": "provavel",
+    "noticias": [
+     2
+    ],
+    "fontes": [
+     {
+      "nome": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "data": "2026-10-28",
+      "trecho": "uncertainty remains elevated owing, in part, to geopolitical developments"
+     },
+     {
+      "nome": "Bay News 9",
+      "url": "https://baynews9.com/fl/tampa/politics/2026/10/28/federal-reserve-interest-rate-steady",
+      "data": "2026-10-28",
+      "trecho": "the Iran war has caused spikes in oil and gas prices"
+     }
+    ]
+   },
+   {
+    "id": "gestoras",
+    "nome": "Gestoras (Aegon AM e EOS)",
+    "tipo": "peca",
+    "dono": "empresas-controle",
+    "fez": "Comentaram a COP31 à Bloomberg: a Aegon vê na meta de eletrificação uma nova frente de investimento, e a EOS, da Federated Hermes, uma megatendência.",
+    "confianca": "provavel",
+    "noticias": [
+     3
+    ],
+    "fontes": [
+     {
+      "nome": "Bloomberg (Energy Connects)",
+      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "data": "2026-11-09",
+      "trecho": "The COP31 electrification goal could become a new catalyst for investment"
+     },
+     {
+      "nome": "Bloomberg (Energy Connects)",
+      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "data": "2026-11-09",
+      "trecho": "mega-trend capturing a broad opportunity set for investors"
+     }
+    ]
+   },
+   {
+    "id": "cfr",
+    "nome": "Council on Foreign Relations (CFR)",
+    "tipo": "peca",
+    "dono": "deep-state-eua",
+    "fez": "Publicou em 5/11 um guia da COP31: os EUA não mandam delegação oficial, mas congressistas e empresas americanas vão. Nas fontes, explica e não negocia.",
+    "confianca": "provavel",
+    "noticias": [
+     3
+    ],
+    "fontes": [
+     {
+      "nome": "Council on Foreign Relations (CFR)",
+      "url": "https://www.cfr.org/articles/cop31-in-turkey-what-to-expect-at-the-2026-un-climate-summit",
+      "data": "2026-11-05",
+      "trecho": "Members of Congress and U.S. businesses will still attend."
+     },
+     {
+      "nome": "Council on Foreign Relations (CFR)",
+      "url": "https://www.cfr.org/articles/cop31-in-turkey-what-to-expect-at-the-2026-un-climate-summit",
+      "data": "2026-11-05",
+      "trecho": "will not send an official delegation"
+     }
+    ]
+   },
+   {
+    "id": "inteligencia-eua",
+    "nome": "Inteligência do Ocidente",
+    "tipo": "peca",
+    "dono": "deep-state-eua",
+    "fez": "Zelensky diz que Kiev ficou sem os avisos de sempre do Ocidente sobre mísseis russos. A AP não nomeia agência nem diz quem cortou, e Trump diz que o envio não parou.",
+    "confianca": "provavel",
+    "noticias": [
+     1
+    ],
+    "fontes": [
+     {
+      "nome": "AP (Click2Houston)",
+      "url": "https://www.click2houston.com/business/2026/10/15/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-after-brief-truce/",
+      "data": "2026-10-15",
+      "trecho": "Ukraine in recent days was denied the usual Western intelligence on Russian ballistic missile strikes"
+     },
+     {
+      "nome": "AP (Click2Houston)",
+      "url": "https://www.click2houston.com/business/2026/10/15/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-after-brief-truce/",
+      "data": "2026-10-15",
+      "trecho": "stopped sharing intelligence with Ukraine"
+     }
+    ]
+   },
+   {
+    "id": "clube-de-roma",
+    "nome": "Clube de Roma",
+    "tipo": "peca",
+    "dono": "nova-ordem",
+    "fez": "Segundo o Climate Home (29/10), cuidou da imprensa de uma carta de 22 cientistas e políticos por reformas nas COPs e não respondeu sobre uma frase sumida.",
+    "confianca": "provavel",
+    "noticias": [
+     3
+    ],
+    "fontes": [
+     {
+      "nome": "Climate Home News",
+      "url": "https://www.climatechangenews.com/?p=91772",
+      "data": "2026-10-29",
+      "trecho": "a series of reforms called for in an open letter signed by 22 eminent scientists and politicians"
+     },
+     {
+      "nome": "Climate Home News",
+      "url": "https://www.climatechangenews.com/?p=91772",
+      "data": "2026-10-29",
+      "trecho": "The Club of Rome has yet to respond to my query about its disappearance."
+     }
+    ]
+   },
+   {
+    "id": "data-centers",
+    "nome": "Data centers de IA",
+    "tipo": "territorio",
+    "dono": "oligarquia-digital",
+    "fez": "As ações de tecnologia caíram com a aposta em regras mais duras de energia para data centers após as eleições nos EUA, diz a Bloomberg, sem nomear empresas.",
+    "confianca": "provavel",
+    "noticias": [
+     3
+    ],
+    "fontes": [
+     {
+      "nome": "Bloomberg (Energy Connects)",
+      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "data": "2026-11-09",
+      "trecho": "tech-stock selloff was fueled by anticipation that the results of the US midterms will lead to more AI regulations"
+     },
+     {
+      "nome": "Bloomberg (Energy Connects)",
+      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "data": "2026-11-09",
+      "trecho": "tougher energy and environmental standards for data centers"
+     },
+     {
+      "nome": "Council on Foreign Relations (CFR)",
+      "url": "https://www.cfr.org/articles/cop31-in-turkey-what-to-expect-at-the-2026-un-climate-summit",
+      "data": "2026-11-05",
+      "trecho": "a commitment encouraging countries, corporations, and investors to make artificial intelligence more sustainable"
+     }
+    ]
+   },
+   {
+    "id": "russia",
+    "nome": "Rússia",
+    "tipo": "peca",
+    "dono": "deep-state-europa-asia",
+    "fez": "Lançou 317 drones na véspera da rodada, diz Kiev, e tem o diesel liberado pelos EUA. Na COP31, trava cortes de emissão com os sauditas.",
+    "confianca": "provavel",
+    "noticias": [
+     1,
+     3
+    ],
+    "fontes": [
+     {
+      "nome": "ABC News (AP)",
+      "url": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428",
+      "data": "2026-11-09",
+      "trecho": "Russia launched 317 drones of various types including 105 jet-powered drones at Ukraine overnight"
+     },
+     {
+      "nome": "Hydrocarbon Processing",
+      "url": "https://hydrocarbonprocessing.com/news/2026/10/us-hopes-diesel-deal-can-soften-moscow-on-peace-talks/",
+      "data": "2026-10-13",
+      "trecho": "to allow Russian diesel exports"
+     },
+     {
+      "nome": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/",
+      "data": "2026-11-05",
+      "trecho": "stonewalling from fossil fuel producers like Saudi Arabia and Russia"
+     }
+    ]
+   },
+   {
+    "id": "ira",
+    "nome": "Irã",
+    "tipo": "peca",
+    "dono": "deep-state-europa-asia",
+    "fez": "Sofre o bloqueio naval, com 147 navios desviados desde julho segundo o Comando Central, e agora o cerco por terra; negocia pelo Catar. É membro da OCX.",
+    "confianca": "provavel",
+    "noticias": [
+     2
+    ],
+    "fontes": [
+     {
+      "nome": "Al Jazeera",
+      "url": "https://aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes",
+      "data": "2026-11-08",
+      "trecho": "Enforcement actions since July have resulted in U.S. forces redirecting 147 commercial vessels that complied."
+     },
+     {
+      "nome": "Euronews",
+      "url": "https://www.euronews.com/2026/11/03/qatar-sees-hope-for-us-iran-deal-despite-fresh-us-strikes-as-mediators-exchange-proposals-",
+      "data": "2026-11-03",
+      "trecho": "Washington and Tehran were now reviewing proposals"
+     },
+     {
+      "nome": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit",
+      "data": "2026-09-01",
+      "trecho": "The SCO consists of Russia, China, India, Pakistan, Iran"
+     }
+    ]
+   },
+   {
+    "id": "china",
+    "nome": "China",
+    "tipo": "peca",
+    "dono": "deep-state-europa-asia",
+    "fez": "Quer o comércio de tecnologia limpa na pauta da COP31. O Telegraph a cita, com a Rússia, entre os que sustentam o Irã, sem detalhar como. É membro da OCX.",
+    "confianca": "provavel",
+    "noticias": [
+     2,
+     3
+    ],
+    "fontes": [
+     {
+      "nome": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/",
+      "data": "2026-11-05",
+      "trecho": "China has made clear it wants COP31 to tackle the thorny issue of trade measures"
+     },
+     {
+      "nome": "The Telegraph (via Yahoo)",
+      "url": "https://www.yahoo.com/news/us/articles/us-blockades-iran-borders-china-163503297.html",
+      "data": "2026-11-09",
+      "trecho": "how exactly Beijing and Moscow are propping up Tehran"
+     },
+     {
+      "nome": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit",
+      "data": "2026-09-01",
+      "trecho": "The SCO consists of Russia, China, India, Pakistan, Iran"
+     }
+    ]
+   },
+   {
+    "id": "governo-eua",
+    "nome": "Governo dos EUA",
+    "tipo": "peca",
+    "dono": "",
+    "fez": "Media a rodada de Abu Dhabi com Kushner e Witkoff, cerca o Irã por mar e por terra e fica fora da COP31 pelo segundo ano seguido.",
+    "confianca": "fato",
+    "noticias": [
+     1,
+     2,
+     3
+    ],
+    "fontes": [
+     {
+      "nome": "ABC News (AP)",
+      "url": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428",
+      "data": "2026-11-09",
+      "trecho": "who will mediate in the talks with U.S. envoy Steve Witkoff"
+     },
+     {
+      "nome": "The Telegraph (via Yahoo)",
+      "url": "https://www.yahoo.com/news/us/articles/us-blockades-iran-borders-china-163503297.html",
+      "data": "2026-11-09",
+      "trecho": "an ambitious land blockade designed to sever"
+     },
+     {
+      "nome": "Asharq Al-Awsat",
+      "url": "https://english.aawsat.com/features/5339337-cop31-antalya-climate-divisions-and-us-absence-test-global-consensus",
+      "data": "2026-11-09",
+      "trecho": "without a US delegation for the second consecutive year"
+     }
+    ]
+   },
+   {
+    "id": "ucrania",
+    "nome": "Ucrânia",
+    "tipo": "peca",
+    "dono": "",
+    "fez": "Segundo a AP, drones ucranianos puseram fogo na refinaria KINEF na véspera da rodada; Kiev voltou a atacar refinarias em outubro e diz ter ficado sem a inteligência do Ocidente.",
+    "confianca": "provavel",
+    "noticias": [
+     1
+    ],
+    "fontes": [
+     {
+      "nome": "ABC News (AP)",
+      "url": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428",
+      "data": "2026-11-09",
+      "trecho": "an attack by long-range drones developed by Ukraine during the war started a fire at the KINEF oil refinery"
+     },
+     {
+      "nome": "AP (Click2Houston)",
+      "url": "https://www.click2houston.com/business/2026/10/15/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-after-brief-truce/",
+      "data": "2026-10-15",
+      "trecho": "The drone strike started a fire at the refinery"
+     },
+     {
+      "nome": "AP (Click2Houston)",
+      "url": "https://www.click2houston.com/business/2026/10/15/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-after-brief-truce/",
+      "data": "2026-10-15",
+      "trecho": "limits were placed on its use of U.S.-made Starlink"
+     }
+    ]
+   },
+   {
+    "id": "cop31",
+    "nome": "COP31 em Antalya",
+    "tipo": "territorio",
+    "dono": "",
+    "fez": "Abriu em 9/11 sem delegação dos EUA. Bancos vão discutir ali como financiar a meta de eletrificação; só 77 chefes de governo devem falar, um terço a menos que no auge da COP28.",
+    "confianca": "provavel",
+    "noticias": [
+     3
+    ],
+    "fontes": [
+     {
+      "nome": "Asharq Al-Awsat",
+      "url": "https://english.aawsat.com/features/5339337-cop31-antalya-climate-divisions-and-us-absence-test-global-consensus",
+      "data": "2026-11-09",
+      "trecho": "The talks are taking place without a US delegation for the second consecutive year."
+     },
+     {
+      "nome": "Climate Home News",
+      "url": "https://www.climatechangenews.com/?p=91772",
+      "data": "2026-10-29",
+      "trecho": "Just 77 heads of state or government are scheduled to address the COP31 climate summit in Antalya"
+     },
+     {
+      "nome": "Bloomberg (Energy Connects)",
+      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "data": "2026-11-09",
+      "trecho": "they intend to use their time there engaged in talks about how to finance that goal"
+     }
+    ]
+   }
+  ],
+  "lacos": [
+   {
+    "de": "espionagem-privada",
+    "para": "deep-state-europa-asia",
+    "tipo": "pressiona",
+    "via": [
+     "palantir",
+     "russia"
+    ],
+    "noticia": 1,
+    "texto": "A Palantir investe na empresa de Fedorov, que fará interceptores contra os drones russos a jato. A Rússia no bloco é hipótese da lista.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "Janes",
+      "url": "https://www.janes.com/defence-intelligence-insights/defence-news/air/palantir-to-fund-ukrainian-interceptor-uav-company-targeting-russias-geran-5",
+      "data": "2026-10-13",
+      "trecho": "designed to target jet-powered Russian UAVs"
+     },
+     {
+      "nome": "ABC News (AP)",
+      "url": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428",
+      "data": "2026-11-09",
+      "trecho": "Russia launched 317 drones of various types including 105 jet-powered drones at Ukraine overnight"
+     }
+    ]
+   },
+   {
+    "de": "deep-state-europa-asia",
+    "para": "core-financeiro",
+    "tipo": "pressiona",
+    "via": [
+     "ira",
+     "fed"
+    ],
+    "noticia": 2,
+    "texto": "O Irã diz que Ormuz só reabre com suas condições; a imprensa liga a guerra à alta do petróleo, e o Fed cita a geopolítica. O elo entre os fatos é leitura nossa.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "Euronews",
+      "url": "https://www.euronews.com/2026/11/03/qatar-sees-hope-for-us-iran-deal-despite-fresh-us-strikes-as-mediators-exchange-proposals-",
+      "data": "2026-11-03",
+      "trecho": "have repeatedly said Tehran's conditions must be met before Hormuz could reopen"
+     },
+     {
+      "nome": "Bay News 9",
+      "url": "https://baynews9.com/fl/tampa/politics/2026/10/28/federal-reserve-interest-rate-steady",
+      "data": "2026-10-28",
+      "trecho": "the Iran war has caused spikes in oil and gas prices"
+     }
+    ]
+   },
+   {
+    "de": "core-financeiro",
+    "para": "oligarquia-digital",
+    "tipo": "lucra",
+    "via": [
+     "jpmorgan",
+     "data-centers",
+     "cop31"
+    ],
+    "noticia": 3,
+    "texto": "Segundo a Bloomberg, crescer a IA pede grandes investimentos em redes elétricas, e os bancos vão discutir em Antalya como financiar a meta de eletrificação. Que eles lucrem com isso é leitura nossa.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "Bloomberg (Energy Connects)",
+      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "data": "2026-11-09",
+      "trecho": "Scaling AI will require huge investments in expanding and upgrading electric grids."
+     },
+     {
+      "nome": "Bloomberg (Energy Connects)",
+      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "data": "2026-11-09",
+      "trecho": "they intend to use their time there engaged in talks about how to finance that goal"
+     }
+    ]
+   },
+   {
+    "de": "deep-state-europa-asia",
+    "para": "nova-ordem",
+    "tipo": "pressiona",
+    "via": [
+     "russia",
+     "cop31",
+     "clube-de-roma"
+    ],
+    "noticia": 3,
+    "texto": "Na COP31, a Rússia trava com os sauditas o programa de cortes de emissão, a pauta que a lista põe com a Nova Ordem. O elo entre os dois blocos é hipótese.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/",
+      "data": "2026-11-05",
+      "trecho": "stonewalling from fossil fuel producers like Saudi Arabia and Russia"
+     },
+     {
+      "nome": "Climate Home News",
+      "url": "https://www.climatechangenews.com/?p=91772",
+      "data": "2026-10-29",
+      "trecho": "a series of reforms called for in an open letter signed by 22 eminent scientists and politicians"
+     }
+    ]
+   }
+  ],
+  "hipoteses": [
+   {
+    "id": "h-palantir",
+    "sinal": "a-favor",
+    "porque": "A receita da Palantir com o governo dos EUA subiu 96%, e o Maven, seu sistema militar, passou de 100 mil usuários. Mostra contratos com governos em alta; não mostra que ela vigie populações.",
+    "noticia": 1,
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Palantir (SEC, 8-K)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm",
+      "data": "2026-11-02",
+      "trecho": "U.S. government revenue grew 96% year-over-year and 18% quarter-over-quarter to $953 million"
+     },
+     {
+      "nome": "Futurum Group",
+      "url": "https://futurumgroup.com/?p=97554",
+      "data": "2026-11-05",
+      "trecho": "Maven now exceeds 100,000 users and is available to all of the military services beyond the combatant commands"
+     }
+    ]
+   },
+   {
+    "id": "h-capital",
+    "sinal": "a-favor",
+    "porque": "JPMorgan, HSBC, Citi e outros vão a Antalya discutir como financiar a meta de eletrificação. Mostra grandes bancos de olho no dinheiro da transição; não mostra mando sobre bancos centrais.",
+    "noticia": 3,
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Bloomberg (Energy Connects)",
+      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "data": "2026-11-09",
+      "trecho": "which is sending a team of investment bankers and sustainability executives to the talks"
+     },
+     {
+      "nome": "Bloomberg (Energy Connects)",
+      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "data": "2026-11-09",
+      "trecho": "Bank of America Corp., Citigroup Inc. and Deutsche Bank AG will also send bankers and sustainability staff."
+     }
+    ]
+   },
+   {
+    "id": "h-roma",
+    "sinal": "a-favor",
+    "porque": "O Clube de Roma cuidou da imprensa de uma carta por reformas nas COPs, o que combina com empurrar a pauta do clima. Depois disse ter sido mal interpretado. Nada sobre controle populacional.",
+    "noticia": 3,
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Climate Home News",
+      "url": "https://www.climatechangenews.com/?p=91772",
+      "data": "2026-10-29",
+      "trecho": "a series of reforms called for in an open letter signed by 22 eminent scientists and politicians"
+     },
+     {
+      "nome": "Climate Home News",
+      "url": "https://www.climatechangenews.com/?p=91772",
+      "data": "2026-10-29",
+      "trecho": "handled the media relations for the letter"
+     }
+    ]
+   },
+   {
+    "id": "h-intersecoes",
+    "sinal": "a-favor",
+    "porque": "Em Antalya, a demanda de energia da IA entra na conversa dos bancos sobre financiar redes elétricas. Mostra finanças e tecnologia na mesma pauta; não mostra comando comum.",
+    "noticia": 3,
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "Bloomberg (Energy Connects)",
+      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "data": "2026-11-09",
+      "trecho": "Scaling AI will require huge investments in expanding and upgrading electric grids."
+     },
+     {
+      "nome": "Bloomberg (Energy Connects)",
+      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "data": "2026-11-09",
+      "trecho": "they intend to use their time there engaged in talks about how to finance that goal"
+     }
+    ]
+   }
+  ],
+  "leitura": "Nesta rodada, a Espionagem Privada e as Empresas de Controle saem na frente: a Palantir teve alta de 96% na receita com o governo dos EUA e investe em armas contra drones russos, e gestoras veem na eletrificação da COP31 uma nova frente de investimento. O Core Financeiro fica em disputa: os bancos vão a Antalya atrás da transição, e a guerra no Irã aparece no Fed (hipótese). O Deep State europeu e asiático perde no Irã, cercado por mar e por terra. Recuam a Oligarquia Digital, cobrada pelos data centers, e a Nova Ordem, com uma COP menor. Nenhum player atacou outro de frente: os ataques foram entre peças. Ganharam sinal a favor as hipóteses da Palantir, do fluxo de capitais, do Clube de Roma e, de leve, a das interseções.",
+  "versao": 2,
+  "placar": {
+   "desde": "2026-11-10",
+   "rodadas": 1,
+   "hipoteses": {
+    "h-capital": {
+     "favor": 1,
+     "contra": 0
+    },
+    "h-roma": {
+     "favor": 1,
+     "contra": 0
+    },
+    "h-palantir": {
+     "favor": 1,
+     "contra": 0
+    },
+    "h-intersecoes": {
+     "favor": 1,
+     "contra": 0
+    }
+   }
+  },
+  "por": "Opus 5.5",
+  "em": "2026-11-10T20:01:19Z"
+ }
 }

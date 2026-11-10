@@ -5,6 +5,7 @@ const TABS = { geopolitica: 'Geopolítica', maquinas: 'Máquinas', bola: 'Bola',
 const CONF = { fato: 'fato', provavel: 'provável', hipotese: 'hipótese' };
 const app = document.getElementById('app');
 let indice = null;
+const estadosMapa = {};   // o que o mapa de forças lembra de cada edição (o player escolhido, a notícia, as partes abertas)
 const cacheEd = {};
 
 function el(tag, attrs, ...filhos) {
@@ -33,19 +34,20 @@ async function json(url) {
 async function carregarIndice() { if (!indice) indice = await json('edicoes/index.json'); return indice; }
 async function carregarEd(d) { if (!cacheEd[d]) cacheEd[d] = await json(`edicoes/${d}.json`); return cacheEd[d]; }
 
-function cartao(i) {
+function cartao(i, noMapa) {
   const fontes = (i.fontes || []).map(f => {
     const u = linkSeguro(f.url);
     const rot = [f.nome, f.data && dataBr(f.data)].filter(Boolean).join(', ');
     return el('li', null, u ? el('a', { href: u, target: '_blank', rel: 'noopener noreferrer' }, rot || u) : rot);
   });
   const bloco = (tit, txt) => txt ? [el('h3', null, tit), ...paragrafos(txt)] : [];
-  return el('details', { class: 'cartao' },
+  return el('details', { class: 'cartao', id: 'c-' + i.id },
     el('summary', null,
       el('div', { class: 'etiquetas' },
         el('span', { class: 'etq tab' }, TABS[i.tabuleiro] || i.tabuleiro || 'Notícia'),
         i.confianca && el('span', { class: `etq ${i.confianca}` }, CONF[i.confianca] || i.confianca),
-        i.acrescentada && el('span', { class: 'etq' }, `entrou às ${i.acrescentada}`)),
+        i.acrescentada && el('span', { class: 'etq' }, `entrou às ${i.acrescentada}`),
+        noMapa && el('span', { class: 'etq tab' }, `no mapa · ${noMapa.n}`)),
       el('h2', null, i.manchete)),
     el('div', { class: 'corpo' },
       bloco('O que dizem', i.narrativa),
@@ -61,8 +63,10 @@ function telaEdicao(ed) {
   const anterior = indice[pos + 1], seguinte = pos > 0 ? indice[pos - 1] : null;
   const temTabs = [...new Set(ed.itens.map(i => i.tabuleiro))].filter(Boolean);
   const listaEl = el('div');
+  const mapa = window.MapaDeForcas ? MapaDeForcas.limpar(ed.mapa) : null;   // o mapa de forças: o jogo dos 7 players (mapa-de-forcas.js)
+  const noMapa = i => (mapa && mapa.noticias.find(n => n.id === i.id)) || null;
   const mostrar = tab => {
-    listaEl.replaceChildren(...ed.itens.filter(i => !tab || i.tabuleiro === tab).map(cartao));
+    listaEl.replaceChildren(...ed.itens.filter(i => !tab || i.tabuleiro === tab).map(i => cartao(i, noMapa(i))));
     abas.querySelectorAll('button').forEach(b => b.classList.toggle('ativo', (b.dataset.tab || '') === (tab || '')));
   };
   const abas = el('div', { class: 'abas' },
@@ -73,12 +77,15 @@ function telaEdicao(ed) {
     el('strong', null, linkSeguro(d.url) ? el('a', { href: d.url, target: '_blank', rel: 'noopener noreferrer' }, d.titulo) : d.titulo),
     el('div', { class: 'det' }, [d.orgao, d.para, d.prazo && `inscrição até ${dataBr(d.prazo)}`, d.valor].filter(Boolean).join(' · ')),
     d.resumo && el('p', null, d.resumo)));
+  const rolar = id => { mostrar(''); setTimeout(() => { const x = document.getElementById(id); if (x) { if (x.tagName === 'DETAILS') x.open = true; x.scrollIntoView({ behavior: 'smooth', block: 'start' }); } }, 0); };
+  const mapaEl = mapa ? MapaDeForcas.desenhar({ edicao: { data: ed.data, itens: ed.itens, mapa }, estado: estadosMapa[ed.data] || (estadosMapa[ed.data] = {}), rolar, idCartao: i => 'c-' + i.id }) : null;
   app.replaceChildren(
     el('section', { class: 'capa' },
       el('div', { class: 'meta' }, `nº ${ed.numero || '?'} · ${dataLonga(ed.data)}`),
       el('h1', null, ed.titulo || 'INFO'),
       el('div', { class: 'abertura' }, paragrafos(ed.abertura)),
       ed.aviso && el('p', { class: 'aviso' }, ed.aviso)),
+    mapaEl || '',
     abas, listaEl,
     editais.length ? el('section', { class: 'secao' }, el('h2', null, 'Editais abertos'), editais) : '',
     el('div', { class: 'navega' },
@@ -100,6 +107,7 @@ function telaSobre() {
   app.replaceChildren(el('section', { class: 'secao sobre' }, el('h2', null, 'Sobre o INFO'),
     el('p', null, 'O INFO é um jornal de bolso feito com IA (o Claude, da Anthropic). Sai uma edição por dia, pronta para ser lida às 5h da manhã, horário de Brasília, com notícias de geopolítica, tecnologia, futebol, ufologia técnica e do Vale do Capão, na Chapada Diamantina.'),
     el('p', null, 'Cada notícia separa o que dizem (a versão divulgada) do que fizeram (os atos, as datas, o dinheiro), traz uma leitura marcada como fato, provável ou hipótese, e lista as fontes. É um exercício lúdico: nada aqui afirma a realidade, e as fontes estão ali para você conferir.'),
+    el('p', null, 'O mapa de forças, logo abaixo da capa, é um jogo de hipóteses montado sobre uma lista de grupos de poder: só os 7 grupos maiores da lista são players e ganham ou perdem; países, pessoas e instituições são peças, que se movem, ou territórios, que se disputam. As ligações que a lista afirma são postas à prova a cada rodada, com sinais a favor ou contra e um placar. Os fatos têm fonte; a ligação de uma peça a um player é hipótese.'),
     el('p', null, 'Para instalar: no Android, abra no Chrome e toque em "Instalar" (ou no menu ⋮, "Adicionar à tela inicial"). No iPhone, abra no Safari, toque em compartilhar e depois em "Adicionar à Tela de Início".')));
   document.title = 'INFO · sobre';
 }

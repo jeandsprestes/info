@@ -4,6 +4,8 @@ Um jornal de bolso feito com IA (o Claude, da Anthropic). Sai uma edição por d
 
 Cada notícia separa o que dizem do que fizeram, traz uma leitura marcada como fato, provável ou hipótese, e lista as fontes. É um exercício lúdico: nada aqui afirma a realidade.
 
+O **mapa de forças** é um jogo de hipóteses sobre as 3 principais notícias de Geopolítica de cada edição: os 7 grupos maiores de uma lista de poder são os players, e só eles ganham ou perdem; países, pessoas e instituições são peças ou territórios. As ligações que a lista afirma são postas à prova rodada a rodada, com fonte em cada fato.
+
 **Abrir:** https://jeandsprestes.github.io/info/
 
 ## Instalar no celular
