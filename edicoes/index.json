@@ -15,7 +15,10 @@
   "data": "2026-11-09",
   "numero": 20,
   "titulo": "Eisenkot ganha a primeira chance de governar Israel no lugar de Netanyahu, o conselho da Nvidia investiga o caso de espionagem em torno de Jensen Huang e o Capão tem cinema e dança",
-  "noticias": 10
+  "noticias": 10,
+  "revisoes": [
+   "semana"
+  ]
  },
  {
   "data": "2026-11-08",
@@ -57,7 +60,10 @@
   "data": "2026-11-02",
   "numero": 13,
   "titulo": "A dois dias das urnas nos EUA, a OpenAI pede menos dinheiro e o Claude perde a janela de 5 horas",
-  "noticias": 15
+  "noticias": 15,
+  "revisoes": [
+   "mes"
+  ]
  },
  {
   "data": "2026-10-31",

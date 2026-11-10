@@ -72,11 +72,14 @@ function desenhar(o) {   // o = {revisao (já limpa), link(edicao, id): o endere
   const sec = (tit, ...corpo) => el('section', { class: 'mf-sec' }, el('h3', { class: 'mf-sub' }, tit), ...corpo);
   const texto = t => el('p', { class: 'mf3-texto' }, t);
   const nome = r.tipo === 'mes' ? 'O mês' : 'A semana';
-  const jogo = r.jogo && r.jogo.dias.length ? sec('O jogo no período', el('p', { class: 'mf-peq' }, 'O saldo de cada player, dia a dia, no mapa de forças: verde ganha, vermelho perde, azul em disputa, cinza parado.'),
-    el('div', { class: 'rv-tabela', role: 'table', 'aria-label': 'O saldo de cada player, dia a dia' },
-      el('div', { class: 'rv-linha rv-cab', role: 'row' }, el('span', { role: 'columnheader' }, 'player'), r.jogo.dias.map(d => el('span', { role: 'columnheader', class: 'rv-d' }, diaMes(d)))),
-      r.jogo.players.map(p => el('div', { class: 'rv-linha', role: 'row' }, el('span', { role: 'rowheader', class: 'rv-p' }, nomeP(p.id)),
-        p.saldos.map((s, k) => el('span', { role: 'cell', class: 'rv-c rv-' + s, title: `${diaMes(r.jogo.dias[k])}: ${SALDO[s]}` }, el('span', { class: 'rv-sr' }, SALDO[s])))))),
+  const temJogo = !!(r.jogo && r.jogo.dias.length);   // a tabela só existe quando o período teve mapa de forças (desde 10/11/2026); o resumo de cada player, sempre
+  const jogo = temJogo || r.players.length ? sec(temJogo ? 'O jogo no período' : 'Os players no período',
+    temJogo ? [el('p', { class: 'mf-peq' }, 'O saldo de cada player, dia a dia, no mapa de forças: verde ganha, vermelho perde, azul em disputa, cinza parado.'),
+      el('div', { class: 'rv-tabela', role: 'table', 'aria-label': 'O saldo de cada player, dia a dia' },
+        el('div', { class: 'rv-linha rv-cab', role: 'row' }, el('span', { role: 'columnheader' }, 'player'), r.jogo.dias.map(d => el('span', { role: 'columnheader', class: 'rv-d' }, diaMes(d)))),
+        r.jogo.players.map(p => el('div', { class: 'rv-linha', role: 'row' }, el('span', { role: 'rowheader', class: 'rv-p' }, nomeP(p.id)),
+          p.saldos.map((s, k) => el('span', { role: 'cell', class: 'rv-c rv-' + s, title: `${diaMes(r.jogo.dias[k])}: ${SALDO[s]}` }, el('span', { class: 'rv-sr' }, SALDO[s]))))))]
+      : el('p', { class: 'mf-peq' }, 'O período é de antes do mapa de forças (que começou em 10/11/2026): o resumo de cada player sai das notícias, e a ligação a um player é hipótese.'),
     r.players.length ? el('ul', { class: 'mf-suas rv-resumos' }, r.players.map(p => el('li', {}, el('b', {}, nomeP(p.id) + ': '), p.resumo))) : null) : null;
   const tc = r.trumpChina ? sec('Trump a serviço da China? O placar no período',
     el('p', { class: 'mf-peq' }, `Começou o período em ${num(r.trumpChina.inicio)} e terminou em ${num(r.trumpChina.fim)}: ${num(r.trumpChina.variacao)} no período (positivo pende a favor da hipótese).`),
