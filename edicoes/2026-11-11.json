@@ -1,0 +1,1339 @@
+{
+ "data": "2026-11-11",
+ "numero": 22,
+ "titulo": "Russos e ucranianos conversam quatro horas em Abu Dhabi, a China estica a trégua comercial até janeiro e a Anthropic marca o preço das ações para o dia 18",
+ "abertura": "Quarta, 11. Rússia e Ucrânia passaram quatro horas na mesma sala em Abu Dhabi, com os Estados Unidos no meio, e falaram de uma grande troca de prisioneiros; o segundo dia é hoje. A China estendeu por dois meses a trégua comercial com Washington, uma semana antes do encontro de Trump e Xi em Shenzhen. Em Washington, Hegseth chamou de farsa o pedido de impeachment, e a inflação de outubro veio acima do esperado, o que deixa o Fed perto de subir os juros em dezembro.\n\nNa IA, a Anthropic (dona do Claude, que escreve este jornal) pôs as ações entre 70 e 78 dólares, para estrear no dia 19. A Nvidia caiu mais de 5% com o caso de Jensen Huang, chamado a dar explicações na Câmara. O Google lançou o Gemini 4 Carbon e o Gemini Robotics 2.5, a Stripe fechou a compra da OpenRouter e a Palantir ganhou mais um contrato com polícias inglesas.\n\nNo Capão, o grupo trouxe a programação da Orquestra Sinfônica da Bahia no vale: dia 28, dois concertos gratuitos.",
+ "aviso": "Exercício lúdico: nada aqui afirma a realidade.",
+ "atualizado": "2026-11-10T21:55:00Z",
+ "itens": [
+  {
+   "id": "abu-dhabi-primeiro-dia",
+   "data": "2026-11-10",
+   "tabuleiro": "geopolitica",
+   "manchete": "Rússia e Ucrânia conversam quatro horas em Abu Dhabi, com mediação americana, e falam de uma grande troca de prisioneiros; o segundo dia é nesta quarta",
+   "narrativa": "Segundo a AP, publicada pela PBS, Marco Rubio, o secretário de Estado americano, disse que as conversas \"foram muito produtivas\". Zelensky chamou o primeiro dia de construtivo, segundo a Al Jazeera.",
+   "movimento": "A sessão de terça durou quatro horas, e outra está marcada para quarta. Um alto funcionário ucraniano disse que os dois lados falaram de uma troca de prisioneiros em grande escala. Segundo a Al Jazeera, a Rússia deixou claro que não vê lugar para os europeus nessa mesa.",
+   "leitura": "É a primeira rodada de conversas mediada pelos Estados Unidos em nove meses, segundo a AP. A troca de prisioneiros é o ponto mais fácil; território e cessar-fogo continuam longe (provável). Leitura contrária (hipótese): a conversa serve mais para Washington mostrar serviço antes do encontro de Trump e Xi em Shenzhen do que para acabar a guerra.",
+   "confianca": "fato",
+   "analise": "Pela ótica do jogo, quem move as peças aqui é o governo Trump, por meio de Jared Kushner, Steve Witkoff e Marco Rubio, e a casa é Abu Dhabi, um território neutro escolhido pelos Emirados. O Deep State Europa e Ásia aparece pelo lado russo, que conseguiu deixar a União Europeia fora da sala: é um ganho para Moscou, que negocia direto com Washington sem Bruxelas (provável). A Europa, que paga boa parte da guerra, perde voz na mesa (provável). A troca de prisioneiros é a jogada barata que dá às duas partes algo para mostrar. O que vigiar: se o segundo dia sai com data para a troca e se o assunto aparece no encontro de Trump e Xi em Shenzhen. Nada aqui prova acordo secreto; é leitura de quem ganha com o formato.",
+   "emJogo": [
+    "Rússia",
+    "Ucrânia",
+    "Estados Unidos",
+    "Marco Rubio",
+    "Volodymyr Zelensky",
+    "Emirados Árabes Unidos",
+    "União Europeia"
+   ],
+   "fontes": [
+    {
+     "nome": "PBS NewsHour (AP)",
+     "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-hold-nearly-4-hours-of-u-s-mediated-talks-in-abu-dhabi",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "china-estende-tregua-janeiro",
+   "data": "2026-11-09",
+   "tabuleiro": "geopolitica",
+   "manchete": "A China estende por dois meses a trégua comercial com os Estados Unidos, até 10 de janeiro: segue suspensa a tarifa extra de 24%, e a de 10% continua",
+   "narrativa": "Segundo o ministério do Comércio chinês, citado pelo The National, as medidas ficam suspensas até 10 de janeiro, e a suspensão vale também para os controles de exportação de minerais críticos.",
+   "movimento": "A trégua vencia nesta terça. A China suspendeu por mais dois meses a tarifa de 24% sobre produtos americanos, mas continua cobrando 10%, e esticou a pausa nos controles de exportação de minerais críticos, como as terras raras. Trump e Xi devem se encontrar na cúpula da APEC em Shenzhen na semana que vem.",
+   "leitura": "Dois meses é pouco: a China mantém a mão no registro das terras raras e chega ao encontro de Shenzhen com a ameaça viva (provável). Leitura contrária (hipótese): a trégua curta interessa aos dois, porque cada um guarda uma carta para trocar na mesa.",
+   "confianca": "fato",
+   "analise": "É o movimento do dia no placar Trump e China, mas quem age é Pequim. O Deep State Europa e Ásia, pela peça Xi Jinping e pela casa do ministério do Comércio, renova a trégua por prazo curto e não abre mão dos 10%. Do lado americano, o governo Trump aceita a renovação sem novo corte de tarifa, o que mantém a tensão sob controle antes da cúpula. As terras raras são o ativo crítico que a Empresas de Controle vigia: enquanto a China segura a exportação com prazo, quem depende delas (fabricantes de chips, de carros elétricos e de armas) paga o risco (provável). O que vigiar: o encontro de Trump e Xi em Shenzhen e se o pacote de cortes recíprocos de tarifas, proposto em setembro, sai do papel.",
+   "emJogo": [
+    "China",
+    "Estados Unidos",
+    "Xi Jinping",
+    "Donald Trump",
+    "Ministério do Comércio da China",
+    "APEC"
+   ],
+   "fontes": [
+    {
+     "nome": "The National",
+     "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "gCaptain",
+     "url": "https://gcaptain.com/china-extends-us-trade-truce-by-two-months/",
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "hegseth-impeachment-farsa",
+   "data": "2026-11-10",
+   "tabuleiro": "geopolitica",
+   "manchete": "Hegseth faz a primeira entrevista no Pentágono desde maio e chama de farsa os oito artigos de impeachment do republicano Thomas Massie, que o acusa de ir à guerra com o Irã sem o Congresso",
+   "narrativa": "Segundo a Military Times, Hegseth disse que o pedido é uma farsa com motivação política, dirigida aos militares, e defendeu a operação contra o Irã.",
+   "movimento": "O deputado Thomas Massie, do Kentucky, apresentou oito artigos de impeachment. Entre as acusações: ir à guerra com o Irã sem autorização do Congresso, além de ações na Venezuela, no Iêmen e contra barcos suspeitos de tráfico. A Câmara tem dois dias legislativos para votar.",
+   "leitura": "Um republicano pedindo o impeachment do secretário de Defesa de Trump mostra racha dentro do partido sobre a guerra com o Irã (provável). Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "analise": "Pela ótica do jogo, a casa é o Pentágono, a peça é Pete Hegseth, e o player é o Deep State EUA. A pressão vem de dentro do próprio governo: um deputado do partido de Trump usa o Congresso, outra casa, para atacar a forma como a guerra com o Irã foi feita. Se o impeachment não passar (hipótese), o Pentágono sai com a guerra sem autorização validada na prática (provável). Se ganhar votos republicanos, o Congresso volta a disputar com o Executivo o poder de declarar guerra (hipótese). O que vigiar: a votação na Câmara nesta semana e quantos republicanos votam a favor.",
+   "emJogo": [
+    "Pete Hegseth",
+    "Thomas Massie",
+    "Pentágono",
+    "Câmara dos Representantes dos EUA",
+    "Irã"
+   ],
+   "fontes": [
+    {
+     "nome": "Military Times",
+     "url": "https://www.militarytimes.com/news/pentagon-congress/2026/11/10/hegseth-denounces-farce-impeachment-in-first-briefing-since-may/",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "inflacao-outubro-fed-dezembro",
+   "data": "2026-11-10",
+   "tabuleiro": "geopolitica",
+   "manchete": "A inflação americana de outubro vem acima do esperado, e o mercado passa a dar como certa uma alta de juros do Fed na reunião de 8 e 9 de dezembro",
+   "narrativa": "Segundo a CNBC, os preços de bens e serviços subiram mais do que o esperado em outubro.",
+   "movimento": "O núcleo da inflação, sem comida e energia, subiu 0,3%, contra 0,2% esperados. Os operadores passaram a precificar por completo uma alta de 0,25 ponto percentual na próxima reunião do Fed, em 8 e 9 de dezembro.",
+   "leitura": "Juro mais alto encarece a dívida de quem constrói data center com dinheiro emprestado, o que pesa sobre as ações de IA (provável). Uma fonte lida para o número da inflação; por isso, provável.",
+   "confianca": "provavel",
+   "analise": "Pela ótica do jogo, a casa é o Federal Reserve e o player é o Core Financeiro. Uma alta de juros em dezembro favorece quem empresta e quem tem caixa (os grandes bancos), e pesa sobre quem deve, como as empresas de IA que tomam dinheiro para construir data centers (provável). A inflação dá ao Fed o argumento para subir os juros (provável). O que vigiar: a decisão de 9 de dezembro e se o Fed sobe 0,25 ou 0,5 ponto.",
+   "emJogo": [
+    "Federal Reserve",
+    "Estados Unidos",
+    "Wall Street"
+   ],
+   "fontes": [
+    {
+     "nome": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "cop31-briga-do-dinheiro",
+   "data": "2026-11-09",
+   "tabuleiro": "geopolitica",
+   "manchete": "Na abertura da COP31, a briga é o dinheiro: a Europa diz que não há vontade política para novas promessas, e os africanos perdem o pedido de pôr na pauta o triplo do dinheiro para adaptação",
+   "narrativa": "Segundo o Turkish Minute, um alto funcionário europeu disse que não há vontade política para novas promessas de dinheiro nesta COP.",
+   "movimento": "Os países africanos tentaram, sem sucesso, um item separado na pauta para triplicar o dinheiro da adaptação. A plataforma de financiamento acabou entrando na pauta. A conferência vai até o dia 20, em Antalya.",
+   "leitura": "Sem os Estados Unidos e com a Europa fechando o cofre, a COP tende a sair com textos sem dinheiro novo (provável). Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "analise": "Pela ótica do jogo, a casa é a COP31, a principal conferência da pauta do clima, que a lista do Jean põe com a Nova Ordem Mundial. O sinal do dia vai contra a ideia de uma agenda global que avança sozinha: os países ricos da Europa freiam o dinheiro, e os pobres não conseguem nem pôr o pedido na pauta (provável). A China, que segundo a imprensa chinesa quer discutir o roteiro dos 300 bilhões de dólares por ano, ganha espaço para se apresentar como voz dos países pobres (hipótese). O que vigiar: se a segunda semana, com os chefes de governo, traz algum número.",
+   "emJogo": [
+    "COP31",
+    "União Europeia",
+    "Turquia",
+    "países africanos",
+    "China"
+   ],
+   "fontes": [
+    {
+     "nome": "Turkish Minute",
+     "url": "https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/",
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-faixa-de-preco-ipo",
+   "data": "2026-11-10",
+   "tabuleiro": "maquinas",
+   "manchete": "A Anthropic põe as ações entre 70 e 78 dólares, oferece 825 milhões delas e quer estrear na Nasdaq no dia 19, com o código ANT",
+   "narrativa": "Segundo a CNBC, a empresa diz que a receita anualizada chegou a cerca de 81 bilhões de dólares no fim de outubro.",
+   "movimento": "O preço deve ser fixado no dia 18 e as ações começam a ser negociadas no dia 19. No topo da faixa, a TechCrunch calcula um valor de 1,404 trilhão de dólares. Segundo a TechCrunch, os bancos da oferta incluem Goldman Sachs e Morgan Stanley.",
+   "leitura": "O valor fica abaixo dos 2 trilhões que se falava antes, depois da queda das ações de IA na semana passada (provável). Leitura contrária (hipótese): a faixa mais baixa é feita para a ação subir no primeiro dia e a estreia parecer um sucesso.",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da própria Anthropic, falando das ações da Anthropic. Os números de receita vêm da empresa. Leia com desconfiança dobrada nos dois sentidos.",
+   "analise": "Pela ótica do jogo, a casa é a Nasdaq e quem ganha primeiro é o Core Financeiro: Morgan Stanley, que a lista do Jean liga à antiga casa Morgan, e Goldman Sachs estão entre os bancos da oferta, segundo a TechCrunch, e ficam com as comissões (hipótese). A estreia da Anthropic também mede a temperatura do mercado de IA depois da queda da semana passada: se a ação subir, a Oligarquia Digital e quem financia data centers respiram (hipótese). A Anthropic deixa de ser só uma peça da IA e vira uma casa do mercado, sujeita aos fundos e às bolsas. O que vigiar: o preço do dia 18 e a primeira hora de negociação no dia 19.",
+   "emJogo": [
+    "Anthropic",
+    "Nasdaq",
+    "Goldman Sachs",
+    "Morgan Stanley"
+   ],
+   "fontes": [
+    {
+     "nome": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-cai-caso-huang-congresso",
+   "data": "2026-11-10",
+   "tabuleiro": "maquinas",
+   "manchete": "As ações da Nvidia caem mais de 5% pelo segundo dia com o caso de Jensen Huang, e parlamentares da Câmara pedem explicações sobre a ligação dele com a Megaspeed",
+   "narrativa": "Segundo a NBC, Huang disse aos funcionários que foi infiel à mulher. Segundo a CNBC, a China chama a acusação de calúnia.",
+   "movimento": "A ação caiu mais de 5% nesta terça, depois de cair mais de 4% na segunda, segundo a Yahoo Finance. Segundo a CNBC, três comissões da Câmara pediram conversas fechadas com Huang sobre a relação dele com a Megaspeed, empresa de Singapura ligada a Alice Huang. Um comitê de conselheiros independentes, com advogados de fora, conduz a investigação interna.",
+   "leitura": "O caso vira arma para quem quer apertar a exportação de chips à China: há propostas de dar ao Congresso o controle das licenças (provável). Ser citado não é prova de crime: a acusação de espionagem vem de relatos de agências americanas, não confirmados de forma independente.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, uma grande compradora de chips da Nvidia e defensora pública de controles de exportação de chips à China.",
+   "analise": "É o caso que o Jean pediu para seguir. A peça é Jensen Huang, a casa é a Nvidia, vizinha da Oligarquia Digital, e quem pressiona é o Deep State EUA, pelas agências cujos relatos acusam Alice Huang de ter sido recrutada pela inteligência chinesa e pelo Congresso, que chama Huang a depor. O poder financeiro responde na bolsa: dois dias seguidos de queda, mais de 9% somados (provável). A ligação com o placar Trump e China é direta: se o Congresso ganhar o controle das licenças de chips, o governo Trump perde a mão que hoje decide o que a Nvidia vende à China (hipótese). O que vigiar: o pedido de explicações no Congresso e as propostas de rastrear os chips.",
+   "emJogo": [
+    "Nvidia",
+    "Jensen Huang",
+    "Alice Huang",
+    "Megaspeed",
+    "Câmara dos Representantes dos EUA",
+    "China"
+   ],
+   "fontes": [
+    {
+     "nome": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "NBC News",
+     "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148",
+     "data": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "gemini-4-carbon",
+   "data": "2026-11-10",
+   "tabuleiro": "maquinas",
+   "manchete": "O Google lança o Gemini 4 Carbon para assinantes do plano Ultra e na API, um modelo feito para as tarefas mais difíceis, ao lado do Argon",
+   "narrativa": "Segundo o 9to5Google, o Carbon é feito para tarefas que testam os limites da inteligência de um modelo. Logan Kilpatrick, do Google, postou no X que ele já está na API e para os assinantes Ultra.",
+   "movimento": "O Carbon chegou ao app do Gemini, ao Modo IA da busca e ao Antigravity para quem paga o plano Ultra; o Argon continua disponível a partir do plano Pro. Na lista do X, David Shapiro reclamou que, no plano AI Plus, não tem acesso ao Pro, ao Argon nem ao Carbon.",
+   "leitura": "O modelo mais forte fica atrás do plano mais caro, e isso irrita parte dos usuários pagantes (provável). Os números de desempenho vêm do próprio Google.",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente direta do Gemini. Leia com desconfiança.",
+   "analise": "Pela ótica do jogo, é a Oligarquia Digital, pela casa Google, disputando o topo da IA com a Anthropic e a OpenAI. Pôr o modelo novo só no plano mais caro mostra a estratégia de fazer o usuário pagar mais para ter o melhor (provável). O que vigiar: o preço da API depois do período de lançamento e os testes independentes.",
+   "emJogo": [
+    "Google",
+    "Logan Kilpatrick",
+    "David Shapiro"
+   ],
+   "fontes": [
+    {
+     "nome": "9to5Google",
+     "url": "https://9to5google.com/2026/11/10/gemini-app-4-carbon/",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "X",
+     "url": "https://x.com/OfficialLoganK/status/2120186016254624039",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "gemini-robotics-2-5",
+   "data": "2026-11-10",
+   "tabuleiro": "maquinas",
+   "manchete": "O Google DeepMind lança o Gemini Robotics 2.5, um modelo para robôs que chegou a 96% de acerto num teste numa fábrica, e um teste aberto de segurança para robôs",
+   "narrativa": "Segundo a Crypto Briefing, o sistema chegou a 96% de sucesso em tarefas de separar e embalar peças. Chubby postou no X que o modelo foi testado em mais de 200 tarefas de robôs.",
+   "movimento": "O teste de fábrica foi com a Apptronik e a Mercedes-Benz. Junto, o DeepMind abriu o ASIMOV-Jailbreak, um teste que mede como os robôs reagem a ordens perigosas disfarçadas de inofensivas. O modelo vai primeiro para os parceiros, sem acesso público.",
+   "leitura": "É robótica de fábrica saindo do laboratório para a linha de montagem, por enquanto como prova de conceito (provável). Os números são da própria empresa, repetidos por sites de notícia.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, uma empresa de IA concorrente do Google.",
+   "analise": "Pela ótica do jogo, a Oligarquia Digital, pela casa Google, avança da tela para o mundo físico, com a Mercedes-Benz como vitrine. Robô que aprende tarefas de fábrica mexe com o trabalho industrial e com quem controla as linhas de produção (provável). Abrir um teste de segurança é também uma jogada de imagem: quem define a régua da segurança dos robôs ganha voz nas regras que vierem (hipótese). O que vigiar: quando o modelo sai dos parceiros e quanto custa.",
+   "emJogo": [
+    "Google DeepMind",
+    "Apptronik",
+    "Mercedes-Benz",
+    "Chubby"
+   ],
+   "fontes": [
+    {
+     "nome": "Crypto Briefing",
+     "url": "https://cryptobriefing.com/google-deepmind-gemini-robotics-2-5-asimov/",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "X",
+     "url": "https://x.com/kimmonismus/status/2120178690583859347",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "stripe-openrouter-concluida",
+   "data": "2026-11-10",
+   "tabuleiro": "maquinas",
+   "manchete": "A Stripe conclui a compra da OpenRouter, a plataforma que distribui pedidos de IA entre centenas de modelos, segundo um post de Deedy na lista do X",
+   "narrativa": "Postado por Deedy (@deedydas) no X: a OpenRouter agora foi oficialmente comprada pela Stripe. Em outro post, ele diz que o volume semanal de tokens subiu 2,3 vezes nos cerca de três meses entre o anúncio e o fechamento.",
+   "movimento": "A compra foi anunciada em agosto, sem os valores. Segundo a Silicon Republic, a OpenRouter dá acesso a mais de 500 modelos de IA e tem mais de 10 milhões de usuários.",
+   "leitura": "Quem cobra os pagamentos passa a controlar também a porta de entrada para os modelos de IA de várias empresas (provável). O fechamento vem só de um post; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, um dos modelos vendidos pela OpenRouter.",
+   "analise": "Pela ótica do jogo, a Stripe, uma casa do dinheiro digital, compra uma casa da tecnologia que fica no meio do caminho entre quem usa a IA e quem a vende. Quem roteia os pedidos sabe quais modelos crescem e quanto se gasta com cada um: é informação de mercado valiosa (provável). Para os laboratórios de IA, inclusive a Anthropic, um intermediário maior tem mais força para negociar preço (hipótese). O que vigiar: se a Stripe passa a cobrar ou a favorecer modelos.",
+   "emJogo": [
+    "Stripe",
+    "OpenRouter",
+    "Deedy"
+   ],
+   "fontes": [
+    {
+     "nome": "X",
+     "url": "https://x.com/deedydas/status/2120259594782228540",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Silicon Republic",
+     "url": "https://www.siliconrepublic.com/business/stripe-agrees-to-buy-openrouter-terms-undisclosed",
+     "data": "2026-08-20"
+    }
+   ]
+  },
+  {
+   "id": "openai-negocios-no-chatgpt",
+   "data": "2026-11-10",
+   "tabuleiro": "maquinas",
+   "manchete": "A OpenAI abre em teste um espaço para empresas no ChatGPT: o negócio verificado controla o que aparece sobre ele e pode pôr um agente para atender clientes",
+   "narrativa": "A OpenAI postou no X: as empresas podem reivindicar o próprio negócio no ChatGPT, cuidar das informações e ver como as pessoas o encontram.",
+   "movimento": "Depois de verificado, o negócio pode criar um agente que responde perguntas dos clientes. Segundo a TechFlow, as empresas precisam verificar o perfil por um processo formal.",
+   "leitura": "É o ChatGPT entrando no lugar que hoje é do Google Meu Negócio: quem aparece quando alguém pergunta onde comer ou comprar (provável). Para o Capão, que vive de pousada e restaurante, é mais uma vitrine a cuidar (hipótese).",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente da OpenAI.",
+   "analise": "Pela ótica do jogo, a OpenAI, casa da IA ligada à Microsoft, disputa com o Google a vitrine das pequenas empresas. Quem controla o que o assistente diz sobre um restaurante ou uma pousada controla parte da clientela (provável). O negócio que não se cadastrar fica na mão do que o modelo achar sobre ele (hipótese). O que vigiar: se o cadastro vira pago e se chega ao Brasil.",
+   "emJogo": [
+    "OpenAI",
+    "ChatGPT"
+   ],
+   "fontes": [
+    {
+     "nome": "X",
+     "url": "https://x.com/OpenAI/status/2120216592395174382",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "TechFlow",
+     "url": "https://techflowpost.com/en-US/newsletter/144011",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "palantir-policias-inglesas",
+   "data": "2026-11-10",
+   "tabuleiro": "maquinas",
+   "manchete": "Três polícias do leste da Inglaterra fecham um contrato de mais de 10 milhões de libras com a Palantir, e o jornal Financial Times diz que o governo vai estender por dois anos o contrato dela com o sistema de saúde",
+   "narrativa": "Segundo a PublicTechnology, o contrato dá às polícias uma capacidade de integração e análise de dados para toda a organização, para o trabalho de proteção de pessoas vulneráveis.",
+   "movimento": "As polícias de Bedfordshire, Cambridgeshire e Hertfordshire assinaram o acordo; o aviso do contrato saiu em 6 de novembro. O mesmo texto cita o Financial Times: os ministros decidiram estender o contrato da Palantir com o NHS, o sistema público de saúde inglês, por mais dois anos.",
+   "leitura": "A Palantir junta, num mesmo país, dados de polícia e de saúde (provável). Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, que já teve parceria com a Palantir para vender IA a governos.",
+   "analise": "É a jogada do dia da Espionagem Privada, o player que a lista do Jean liga à Palantir. A casa é o governo britânico, pela polícia e pelo sistema de saúde. É um sinal a favor da hipótese da lista de que a Palantir trabalha sob contrato com governos para cruzar dados de populações; o contrato fala em proteção de vulneráveis, e nada aqui mostra uso indevido (provável). O que vigiar: as críticas no Parlamento britânico e se os dados de saúde e de polícia passam a conversar.",
+   "emJogo": [
+    "Palantir",
+    "polícias de Bedfordshire, Cambridgeshire e Hertfordshire",
+    "NHS",
+    "governo britânico"
+   ],
+   "fontes": [
+    {
+     "nome": "PublicTechnology",
+     "url": "https://www.publictechnology.net/2026/11/10/public-order-justice-and-rights/eastern-police-forces-sign-10m-palantir-deal-to-support-safeguarding-as-reports-claim-nhs-extension-planned/",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "shield-ai-echodyne-blackstone",
+   "data": "2026-11-09",
+   "tabuleiro": "maquinas",
+   "manchete": "A Shield AI, de tecnologia militar, compra a Echodyne, que faz radares contra drones, por até 5,3 bilhões de dólares, com 2,5 bilhões em financiamento de Blackstone, JPMorgan e fundos de risco",
+   "narrativa": "Segundo a AltAssets, a Shield AI concordou em comprar a Echodyne por até 5,3 bilhões de dólares.",
+   "movimento": "O negócio tem um pacote de financiamento de 2,5 bilhões de dólares com Blackstone, JPMorgan e investidores de risco. A Echodyne fabrica radares para detectar e derrubar drones.",
+   "leitura": "A guerra de drones virou um mercado que atrai os maiores bancos e fundos (provável). Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic; a notícia não envolve a Anthropic.",
+   "analise": "Pela ótica do jogo, é o Core Financeiro (Blackstone e JPMorgan, duas peças que a lista do Jean põe com ele) financiando uma casa da força: a tecnologia militar contra drones. Dinheiro e força agindo juntos é o que a hipótese das interseções da lista descreve; o negócio é um sinal a favor, sem provar comando (provável). O que vigiar: se o Pentágono compra os radares da nova empresa.",
+   "emJogo": [
+    "Shield AI",
+    "Echodyne",
+    "Blackstone",
+    "JPMorgan Chase"
+   ],
+   "fontes": [
+    {
+     "nome": "AltAssets",
+     "url": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-news-shield-strikes-5-3bn-echodyne-acquisition-backed-by-blackstone-financing-permira-buys-flint-group.html",
+     "data": "2026-11-09"
+    }
+   ]
+  }
+ ],
+ "mapa": {
+  "versao": 3,
+  "players": [
+   {
+    "id": "core-financeiro",
+    "dia": "O Core Financeiro se moveu por duas casas. No Federal Reserve, a inflação de outubro veio acima do esperado (núcleo de 0,3%, contra 0,2%), e o mercado passou a dar como certa uma alta de 0,25 ponto na reunião de 8 e 9 de dezembro. Juro mais alto favorece quem tem caixa e empresta, e pesa sobre quem constrói data center com dívida (provável). Na outra casa, Blackstone e JPMorgan, que a lista do Jean põe com este player, entram num pacote de 2,5 bilhões de dólares para a Shield AI comprar a Echodyne, de radares contra drones, por até 5,3 bilhões: dinheiro grande entrando na tecnologia militar (provável). A ligação dessas casas ao player é a hipótese da lista.",
+    "ganhos": [
+     {
+      "texto": "O Fed ganha argumento para subir os juros em dezembro, o que favorece quem empresta (provável).",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "Blackstone e JPMorgan financiam a compra da Echodyne pela Shield AI, um negócio de até 5,3 bilhões de dólares (provável).",
+      "confianca": "provavel"
+     }
+    ],
+    "perdas": [
+     {
+      "texto": "As bolsas caem com a inflação acima do esperado (provável).",
+      "confianca": "provavel"
+     }
+    ],
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+      "nome": "CNBC",
+      "data": "2026-11-10",
+      "trecho": "Traders are now fully pricing in a quarter percentage-point increase when the Fed next meets Dec. 8-9."
+     },
+     {
+      "url": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-news-shield-strikes-5-3bn-echodyne-acquisition-backed-by-blackstone-financing-permira-buys-flint-group.html",
+      "nome": "AltAssets",
+      "data": "2026-11-09",
+      "trecho": "$2.5bn financing package involving Blackstone, JPMorgan and venture capital investors"
+     }
+    ],
+    "saldo": "disputa"
+   },
+   {
+    "id": "deep-state-eua",
+    "dia": "Dia de disputa dentro de casa. No Pentágono, Pete Hegseth fez a primeira entrevista desde maio e chamou de farsa os oito artigos de impeachment do deputado republicano Thomas Massie, que o acusa de ir à guerra com o Irã sem o Congresso. É pressão sobre a casa da força vinda do próprio partido do governo (provável). No caso de Jensen Huang, os relatos de que Alice Huang, ligada à Megaspeed, trabalharia para a inteligência chinesa seguem rendendo (a China chama a acusação de calúnia): três comissões da Câmara pedem conversas fechadas com o chefe da Nvidia, e Trump disse que o FBI está olhando o caso. Ser citado não é prova de crime, e a acusação não foi confirmada de forma independente. A ligação dessas casas a um Deep State é a hipótese da lista.",
+    "ganhos": [
+     {
+      "texto": "Os relatos sobre o caso levam a Câmara a chamar Jensen Huang para conversas fechadas (provável).",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "Segundo Trump, o FBI examina o caso ligado à Megaspeed (provável).",
+      "confianca": "provavel"
+     }
+    ],
+    "perdas": [
+     {
+      "texto": "O Pentágono de Hegseth enfrenta um pedido de impeachment de um deputado do partido do governo (provável).",
+      "confianca": "provavel"
+     }
+    ],
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.militarytimes.com/news/pentagon-congress/2026/11/10/hegseth-denounces-farce-impeachment-in-first-briefing-since-may/",
+      "nome": "Military Times",
+      "data": "2026-11-10",
+      "trecho": "The Kentucky congressman accused Hegseth of going to war with Iran without congressional authorization"
+     },
+     {
+      "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+      "nome": "CNBC",
+      "data": "2026-11-10",
+      "trecho": "The FBI is now looking into the issue, Trump said at a White House briefing."
+     }
+    ],
+    "saldo": "disputa"
+   },
+   {
+    "id": "empresas-controle",
+    "dia": "Sem jogada própria nas fontes do dia. O ativo crítico que este player vigia, as terras raras, segue nas mãos de Pequim: a China suspendeu por só dois meses os controles de exportação de minerais críticos, e quem depende deles fica com o risco de nova trava em janeiro (provável).",
+    "ganhos": [],
+    "perdas": [
+     {
+      "texto": "O fornecimento de minerais críticos segue dependendo de uma pausa chinesa de dois meses (provável).",
+      "confianca": "provavel"
+     }
+    ],
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+      "nome": "The National",
+      "data": "2026-11-09",
+      "trecho": "although it will still charge a 10 per cent fee"
+     }
+    ],
+    "saldo": "perde"
+   },
+   {
+    "id": "oligarquia-digital",
+    "dia": "Dia dividido. O Google avançou em duas frentes: lançou o Gemini 4 Carbon, seu modelo mais forte, só para o plano Ultra e na API, e o DeepMind mostrou o Gemini Robotics 2.5, testado em mais de 200 tarefas de robôs. A OpenAI abriu em teste um espaço para empresas no ChatGPT. Do outro lado, a Nvidia, casa vizinha da Big Tech, caiu mais de 5% na terça, depois de cair mais de 4% na segunda, com o caso de Jensen Huang. E a alta de juros esperada em dezembro pesa sobre quem financia data centers com dívida (hipótese).",
+    "ganhos": [
+     {
+      "texto": "O Google lança o Gemini 4 Carbon e o Gemini Robotics 2.5 e disputa o topo da IA (provável).",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "A OpenAI abre em teste o espaço para empresas no ChatGPT (provável).",
+      "confianca": "provavel"
+     }
+    ],
+    "perdas": [
+     {
+      "texto": "A Nvidia perde mais de 9% em dois pregões com o caso Huang (provável).",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "Juro mais alto encarece a dívida dos data centers (hipótese).",
+      "confianca": "hipotese"
+     }
+    ],
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://9to5google.com/2026/11/10/gemini-app-4-carbon/",
+      "nome": "9to5Google",
+      "data": "2026-11-10",
+      "trecho": "AI Ultra subscribers can now access Carbon in the Gemini app, AI Mode, and Antigravity."
+     },
+     {
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html",
+      "nome": "Yahoo Finance",
+      "data": "2026-11-10",
+      "trecho": "Nvidia stock dropped more than 5% on Tuesday after falling over 4% the day before."
+     }
+    ],
+    "saldo": "disputa"
+   },
+   {
+    "id": "deep-state-europa-asia",
+    "dia": "Dia de ganho para o lado leste do player e de perda para o lado europeu. Em Abu Dhabi, Rússia e Ucrânia conversaram quatro horas com mediação americana, e a Rússia deixou claro que não via lugar para os europeus na mesa: Moscou negocia direto com Washington, sem Bruxelas (provável). Em Pequim, o ministério do Comércio estendeu por dois meses a trégua com os Estados Unidos, suspendeu a tarifa de 24% e os controles de minerais críticos, mas manteve os 10%: a China chega ao encontro com Trump em Shenzhen com a carta das terras raras na mão (provável). A União Europeia, que este player também abriga, fica fora da mesa de Abu Dhabi e, na COP31, diz que não há vontade para novas promessas de dinheiro.",
+    "ganhos": [
+     {
+      "texto": "A Rússia negocia em Abu Dhabi sem os europeus na sala (provável).",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "A China estica a trégua no prazo dela e mantém a tarifa de 10% (provável).",
+      "confianca": "provavel"
+     }
+    ],
+    "perdas": [
+     {
+      "texto": "A União Europeia fica fora da mesa de Abu Dhabi (provável).",
+      "confianca": "provavel"
+     }
+    ],
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes",
+      "nome": "Al Jazeera",
+      "data": "2026-11-10",
+      "trecho": "Russia had made clear it did not see a place for Europeans at the meeting"
+     },
+     {
+      "url": "https://gcaptain.com/china-extends-us-trade-truce-by-two-months/",
+      "nome": "gCaptain",
+      "data": "2026-11-09",
+      "trecho": "China on Monday effectively extended its trade truce with the US by two months"
+     }
+    ],
+    "saldo": "disputa"
+   },
+   {
+    "id": "nova-ordem",
+    "dia": "Recuo na casa do clima. Na abertura da COP31, em Antalya, um alto funcionário europeu disse que não há vontade política para novas promessas de dinheiro, e os países africanos não conseguiram pôr na pauta o pedido de triplicar o dinheiro da adaptação. A pauta global do clima não avança sozinha quando os ricos fecham o cofre (provável).",
+    "ganhos": [],
+    "perdas": [
+     {
+      "texto": "A COP31 começa sem dinheiro novo à vista e com o pedido africano fora da pauta (provável).",
+      "confianca": "provavel"
+     }
+    ],
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/",
+      "nome": "Turkish Minute",
+      "data": "2026-11-09",
+      "trecho": "African countries unsuccessfully sought a separate agenda item on tripling adaptation finance"
+     }
+    ],
+    "saldo": "perde"
+   },
+   {
+    "id": "espionagem-privada",
+    "dia": "Ganho pela Palantir, a casa que a lista do Jean liga a este player. As polícias de Bedfordshire, Cambridgeshire e Hertfordshire fecharam um contrato de mais de 10 milhões de libras para integrar e analisar dados no trabalho de proteção de pessoas vulneráveis. O mesmo texto cita o Financial Times: o governo vai estender por dois anos o contrato dela com o NHS, o sistema público de saúde. A Palantir passa a ter dados de polícia e de saúde no mesmo país (provável). Nada nas fontes mostra uso indevido.",
+    "ganhos": [
+     {
+      "texto": "A Palantir fecha contrato de mais de 10 milhões de libras com três polícias inglesas (provável).",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "O contrato com o NHS deve ser estendido por dois anos, segundo o Financial Times (provável).",
+      "confianca": "provavel"
+     }
+    ],
+    "perdas": [],
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.publictechnology.net/2026/11/10/public-order-justice-and-rights/eastern-police-forces-sign-10m-palantir-deal-to-support-safeguarding-as-reports-claim-nhs-extension-planned/",
+      "nome": "PublicTechnology",
+      "data": "2026-11-10",
+      "trecho": "A trio of police forces have agreed a £10m-plus agreement with Palantir"
+     }
+    ],
+    "saldo": "ganha"
+   }
+  ],
+  "casas": [
+   {
+    "id": "fed",
+    "nome": "Federal Reserve",
+    "dominio": "dinheiro",
+    "dono": "core-financeiro",
+    "aconteceu": "A inflação de outubro veio acima do esperado, e o mercado passou a precificar uma alta de 0,25 ponto na reunião de 8 e 9 de dezembro.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+      "nome": "CNBC",
+      "data": "2026-11-10",
+      "trecho": "Traders are now fully pricing in a quarter percentage-point increase when the Fed next meets Dec. 8-9."
+     }
+    ]
+   },
+   {
+    "id": "nasdaq",
+    "nome": "Nasdaq",
+    "dominio": "dinheiro",
+    "dono": "core-financeiro",
+    "aconteceu": "A Anthropic (dona do Claude, que escreve este jornal) põe as ações entre 70 e 78 dólares, com preço no dia 18 e estreia no dia 19. Dono: hipótese da lista.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+      "nome": "CNBC",
+      "data": "2026-11-10",
+      "trecho": "The company is planning to price on Nov. 18 and trade on Nov. 19"
+     },
+     {
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "nome": "TechCrunch",
+      "data": "2026-11-10",
+      "trecho": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion"
+     }
+    ]
+   },
+   {
+    "id": "blackstone-jpmorgan",
+    "nome": "Blackstone e JPMorgan",
+    "dominio": "dinheiro",
+    "dono": "core-financeiro",
+    "aconteceu": "Entram num pacote de financiamento de 2,5 bilhões de dólares, com fundos de risco, para a compra da Echodyne pela Shield AI.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-news-shield-strikes-5-3bn-echodyne-acquisition-backed-by-blackstone-financing-permira-buys-flint-group.html",
+      "nome": "AltAssets",
+      "data": "2026-11-09",
+      "trecho": "$2.5bn financing package involving Blackstone, JPMorgan and venture capital investors"
+     }
+    ]
+   },
+   {
+    "id": "shield-ai-echodyne",
+    "nome": "Shield AI e Echodyne",
+    "dominio": "forca",
+    "dono": "",
+    "aconteceu": "A Shield AI compra a Echodyne, que faz radares contra drones, por até 5,3 bilhões de dólares.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-news-shield-strikes-5-3bn-echodyne-acquisition-backed-by-blackstone-financing-permira-buys-flint-group.html",
+      "nome": "AltAssets",
+      "data": "2026-11-09",
+      "trecho": "$2.5bn financing package involving Blackstone, JPMorgan and venture capital investors"
+     }
+    ]
+   },
+   {
+    "id": "pentagono",
+    "nome": "Pentágono",
+    "dominio": "forca",
+    "dono": "deep-state-eua",
+    "aconteceu": "Hegseth chama de farsa o pedido de impeachment que o acusa de ir à guerra com o Irã sem o Congresso. Dono: hipótese da lista.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.militarytimes.com/news/pentagon-congress/2026/11/10/hegseth-denounces-farce-impeachment-in-first-briefing-since-may/",
+      "nome": "Military Times",
+      "data": "2026-11-10",
+      "trecho": "The Kentucky congressman accused Hegseth of going to war with Iran without congressional authorization"
+     }
+    ]
+   },
+   {
+    "id": "camara-eua",
+    "nome": "Câmara dos EUA",
+    "dominio": "governo",
+    "dono": "",
+    "aconteceu": "Massie apresenta oito artigos de impeachment contra Hegseth; três comissões pedem conversas fechadas com Jensen Huang.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.militarytimes.com/news/pentagon-congress/2026/11/10/hegseth-denounces-farce-impeachment-in-first-briefing-since-may/",
+      "nome": "Military Times",
+      "data": "2026-11-10",
+      "trecho": "The Kentucky congressman accused Hegseth of going to war with Iran without congressional authorization"
+     }
+    ]
+   },
+   {
+    "id": "fbi",
+    "nome": "FBI",
+    "dominio": "forca",
+    "dono": "deep-state-eua",
+    "aconteceu": "Segundo Trump, examina o caso de Alice Huang, acusada em relatos de trabalhar para a China. A acusação não foi confirmada de forma independente.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+      "nome": "CNBC",
+      "data": "2026-11-10",
+      "trecho": "The FBI is now looking into the issue, Trump said at a White House briefing."
+     }
+    ]
+   },
+   {
+    "id": "nvidia",
+    "nome": "Nvidia",
+    "dominio": "tecnologia",
+    "dono": "oligarquia-digital",
+    "aconteceu": "A ação cai mais de 5% na terça, depois de cair mais de 4% na segunda; conselheiros independentes conduzem a investigação interna.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html",
+      "nome": "Yahoo Finance",
+      "data": "2026-11-10",
+      "trecho": "Nvidia stock dropped more than 5% on Tuesday after falling over 4% the day before."
+     },
+     {
+      "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148",
+      "nome": "NBC News",
+      "data": "2026-11-08",
+      "trecho": "A committee of independent directors, assisted by outside independent counsel, will oversee the investigation."
+     }
+    ]
+   },
+   {
+    "id": "google",
+    "nome": "Google e DeepMind",
+    "dominio": "tecnologia",
+    "dono": "oligarquia-digital",
+    "aconteceu": "Lança o Gemini 4 Carbon para o plano Ultra e na API, e o Gemini Robotics 2.5, testado em mais de 200 tarefas de robôs.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "url": "https://9to5google.com/2026/11/10/gemini-app-4-carbon/",
+      "nome": "9to5Google",
+      "data": "2026-11-10",
+      "trecho": "AI Ultra subscribers can now access Carbon in the Gemini app, AI Mode, and Antigravity."
+     },
+     {
+      "url": "https://x.com/OfficialLoganK/status/2120186016254624039",
+      "nome": "X (Logan Kilpatrick)",
+      "data": "2026-11-10",
+      "trecho": "Gemini 4 Carbon, now available in the Gemini API and to Ultra subscribers!"
+     }
+    ]
+   },
+   {
+    "id": "openai-chatgpt",
+    "nome": "OpenAI e ChatGPT",
+    "dominio": "informacao",
+    "dono": "",
+    "aconteceu": "Abre em teste o espaço para empresas: o negócio verificado cuida das informações sobre ele e pode pôr um agente para atender.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "url": "https://x.com/OpenAI/status/2120216592395174382",
+      "nome": "X (OpenAI)",
+      "data": "2026-11-10",
+      "trecho": "Now in beta: Businesses in ChatGPT. Claim your business, manage your information"
+     },
+     {
+      "url": "https://techflowpost.com/en-US/newsletter/144011",
+      "nome": "TechFlow",
+      "data": "2026-11-10",
+      "trecho": "Businesses must verify their profiles through a formal process."
+     }
+    ]
+   },
+   {
+    "id": "palantir",
+    "nome": "Palantir",
+    "dominio": "tecnologia",
+    "dono": "espionagem-privada",
+    "aconteceu": "Fecha contrato de mais de 10 milhões de libras com três polícias do leste da Inglaterra.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.publictechnology.net/2026/11/10/public-order-justice-and-rights/eastern-police-forces-sign-10m-palantir-deal-to-support-safeguarding-as-reports-claim-nhs-extension-planned/",
+      "nome": "PublicTechnology",
+      "data": "2026-11-10",
+      "trecho": "A trio of police forces have agreed a £10m-plus agreement with Palantir"
+     }
+    ]
+   },
+   {
+    "id": "policias-inglesas",
+    "nome": "Polícias do leste inglês",
+    "dominio": "forca",
+    "dono": "",
+    "aconteceu": "Bedfordshire, Cambridgeshire e Hertfordshire contratam a Palantir para análise de dados na proteção de vulneráveis.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.publictechnology.net/2026/11/10/public-order-justice-and-rights/eastern-police-forces-sign-10m-palantir-deal-to-support-safeguarding-as-reports-claim-nhs-extension-planned/",
+      "nome": "PublicTechnology",
+      "data": "2026-11-10",
+      "trecho": "A trio of police forces have agreed a £10m-plus agreement with Palantir"
+     }
+    ]
+   },
+   {
+    "id": "abu-dhabi",
+    "nome": "Abu Dhabi",
+    "dominio": "territorio",
+    "dono": "",
+    "aconteceu": "Rússia e Ucrânia conversam quatro horas com mediação americana; o segundo dia é na quarta.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-hold-nearly-4-hours-of-u-s-mediated-talks-in-abu-dhabi",
+      "nome": "PBS NewsHour (AP)",
+      "data": "2026-11-10",
+      "trecho": "The session lasted four hours and another is scheduled for a second day Wednesday."
+     },
+     {
+      "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes",
+      "nome": "Al Jazeera",
+      "data": "2026-11-10",
+      "trecho": "Russia had made clear it did not see a place for Europeans at the meeting"
+     }
+    ]
+   },
+   {
+    "id": "governo-russo",
+    "nome": "Governo russo",
+    "dominio": "governo",
+    "dono": "deep-state-europa-asia",
+    "aconteceu": "Deixa claro que não vê lugar para os europeus na mesa de Abu Dhabi.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes",
+      "nome": "Al Jazeera",
+      "data": "2026-11-10",
+      "trecho": "Russia had made clear it did not see a place for Europeans at the meeting"
+     }
+    ]
+   },
+   {
+    "id": "comercio-china",
+    "nome": "Ministério do Comércio chinês",
+    "dominio": "governo",
+    "dono": "deep-state-europa-asia",
+    "aconteceu": "Suspende por dois meses a tarifa de 24% e os controles de minerais críticos, até 10 de janeiro, e mantém a tarifa de 10%.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+      "nome": "The National",
+      "data": "2026-11-09",
+      "trecho": "although it will still charge a 10 per cent fee"
+     },
+     {
+      "url": "https://gcaptain.com/china-extends-us-trade-truce-by-two-months/",
+      "nome": "gCaptain",
+      "data": "2026-11-09",
+      "trecho": "China on Monday effectively extended its trade truce with the US by two months"
+     }
+    ]
+   },
+   {
+    "id": "terras-raras",
+    "nome": "Minerais críticos",
+    "dominio": "territorio",
+    "dono": "empresas-controle",
+    "aconteceu": "A pausa chinesa nos controles de exportação de minerais críticos, como as terras raras, vale por mais dois meses. Dono: hipótese da lista.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+      "nome": "The National",
+      "data": "2026-11-09",
+      "trecho": "although it will still charge a 10 per cent fee"
+     }
+    ]
+   },
+   {
+    "id": "cop31",
+    "nome": "COP31 em Antalya",
+    "dominio": "territorio",
+    "dono": "nova-ordem",
+    "aconteceu": "Os países africanos não conseguem pôr na pauta o pedido de triplicar o dinheiro da adaptação.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/",
+      "nome": "Turkish Minute",
+      "data": "2026-11-09",
+      "trecho": "African countries unsuccessfully sought a separate agenda item on tripling adaptation finance"
+     }
+    ]
+   }
+  ],
+  "pecas": [
+   {
+    "id": "pete-hegseth",
+    "nome": "Pete Hegseth",
+    "cargo": "Secretário de Defesa dos EUA",
+    "casa": "pentagono",
+    "dono": "deep-state-eua",
+    "fez": "Chamou de farsa os oito artigos de impeachment e defendeu a operação contra o Irã. Dono: hipótese da lista.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.militarytimes.com/news/pentagon-congress/2026/11/10/hegseth-denounces-farce-impeachment-in-first-briefing-since-may/",
+      "nome": "Military Times",
+      "data": "2026-11-10",
+      "trecho": "The Kentucky congressman accused Hegseth of going to war with Iran without congressional authorization"
+     }
+    ]
+   },
+   {
+    "id": "thomas-massie",
+    "nome": "Thomas Massie",
+    "cargo": "Deputado republicano do Kentucky",
+    "casa": "camara-eua",
+    "dono": "",
+    "fez": "Acusa Hegseth de ir à guerra com o Irã sem autorização do Congresso.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.militarytimes.com/news/pentagon-congress/2026/11/10/hegseth-denounces-farce-impeachment-in-first-briefing-since-may/",
+      "nome": "Military Times",
+      "data": "2026-11-10",
+      "trecho": "The Kentucky congressman accused Hegseth of going to war with Iran without congressional authorization"
+     }
+    ]
+   },
+   {
+    "id": "jensen-huang",
+    "nome": "Jensen Huang",
+    "cargo": "Presidente da Nvidia",
+    "casa": "nvidia",
+    "dono": "oligarquia-digital",
+    "fez": "É chamado pela Câmara a dar explicações sobre a Megaspeed. Ser citado não é prova de crime.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+      "nome": "CNBC",
+      "data": "2026-11-10",
+      "trecho": "Proposals could allow Congress oversight of chip export licenses"
+     }
+    ]
+   },
+   {
+    "id": "marco-rubio",
+    "nome": "Marco Rubio",
+    "cargo": "Secretário de Estado dos EUA",
+    "casa": "abu-dhabi",
+    "dono": "",
+    "fez": "Disse que as conversas de Abu Dhabi parecem ter sido muito produtivas.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-hold-nearly-4-hours-of-u-s-mediated-talks-in-abu-dhabi",
+      "nome": "PBS NewsHour (AP)",
+      "data": "2026-11-10",
+      "trecho": "It looks like the talks in Abu Dhabi were very productive"
+     }
+    ]
+   },
+   {
+    "id": "logan-kilpatrick",
+    "nome": "Logan Kilpatrick",
+    "cargo": "Do Google, na área de IA",
+    "casa": "google",
+    "dono": "oligarquia-digital",
+    "fez": "Anunciou no X o Gemini 4 Carbon na API e para os assinantes Ultra.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://x.com/OfficialLoganK/status/2120186016254624039",
+      "nome": "X (Logan Kilpatrick)",
+      "data": "2026-11-10",
+      "trecho": "Gemini 4 Carbon, now available in the Gemini API and to Ultra subscribers!"
+     }
+    ]
+   }
+  ],
+  "jogadas": [
+   {
+    "de": "deep-state-eua",
+    "para": "oligarquia-digital",
+    "tipo": "pressiona",
+    "peca": "",
+    "de_casa": "camara-eua",
+    "para_casa": "nvidia",
+    "texto": "Com base em relatos sobre o caso, a Câmara chama Huang a dar explicações, e a ação cai. A ligação ao player é hipótese.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html",
+      "nome": "Yahoo Finance",
+      "data": "2026-11-10",
+      "trecho": "Nvidia stock dropped more than 5% on Tuesday after falling over 4% the day before."
+     }
+    ]
+   },
+   {
+    "de": "deep-state-eua",
+    "para": "oligarquia-digital",
+    "tipo": "pressiona",
+    "peca": "",
+    "de_casa": "fbi",
+    "para_casa": "nvidia",
+    "texto": "Segundo Trump, o FBI examina o caso ligado à Megaspeed. Nada prova crime de Huang.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+      "nome": "CNBC",
+      "data": "2026-11-10",
+      "trecho": "The FBI is now looking into the issue, Trump said at a White House briefing."
+     }
+    ]
+   },
+   {
+    "de": "core-financeiro",
+    "para": "",
+    "tipo": "apoia",
+    "peca": "",
+    "de_casa": "blackstone-jpmorgan",
+    "para_casa": "shield-ai-echodyne",
+    "texto": "Blackstone e JPMorgan financiam a compra de uma empresa de radares contra drones: dinheiro entrando na força.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-news-shield-strikes-5-3bn-echodyne-acquisition-backed-by-blackstone-financing-permira-buys-flint-group.html",
+      "nome": "AltAssets",
+      "data": "2026-11-09",
+      "trecho": "$2.5bn financing package involving Blackstone, JPMorgan and venture capital investors"
+     }
+    ]
+   },
+   {
+    "de": "core-financeiro",
+    "para": "oligarquia-digital",
+    "tipo": "pressiona",
+    "peca": "",
+    "de_casa": "fed",
+    "para_casa": "nasdaq",
+    "texto": "A alta de juros esperada em dezembro pesa sobre as ações e sobre a dívida dos data centers (hipótese).",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+      "nome": "CNBC",
+      "data": "2026-11-10",
+      "trecho": "Traders are now fully pricing in a quarter percentage-point increase when the Fed next meets Dec. 8-9."
+     }
+    ]
+   },
+   {
+    "de": "deep-state-europa-asia",
+    "para": "empresas-controle",
+    "tipo": "pressiona",
+    "peca": "",
+    "de_casa": "comercio-china",
+    "para_casa": "terras-raras",
+    "texto": "A China pausa os controles de minerais críticos por só dois meses e guarda a carta para a mesa (provável).",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://gcaptain.com/china-extends-us-trade-truce-by-two-months/",
+      "nome": "gCaptain",
+      "data": "2026-11-09",
+      "trecho": "China on Monday effectively extended its trade truce with the US by two months"
+     }
+    ]
+   },
+   {
+    "de": "deep-state-europa-asia",
+    "para": "",
+    "tipo": "move",
+    "peca": "",
+    "de_casa": "governo-russo",
+    "para_casa": "abu-dhabi",
+    "texto": "A Rússia senta com a Ucrânia e os EUA e deixa os europeus fora da sala (provável).",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes",
+      "nome": "Al Jazeera",
+      "data": "2026-11-10",
+      "trecho": "Russia had made clear it did not see a place for Europeans at the meeting"
+     }
+    ]
+   },
+   {
+    "de": "oligarquia-digital",
+    "para": "",
+    "tipo": "move",
+    "peca": "logan-kilpatrick",
+    "de_casa": "google",
+    "para_casa": "openai-chatgpt",
+    "texto": "O Google lança o Gemini 4 Carbon para o plano Ultra e na API.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://9to5google.com/2026/11/10/gemini-app-4-carbon/",
+      "nome": "9to5Google",
+      "data": "2026-11-10",
+      "trecho": "AI Ultra subscribers can now access Carbon in the Gemini app, AI Mode, and Antigravity."
+     }
+    ]
+   },
+   {
+    "de": "espionagem-privada",
+    "para": "",
+    "tipo": "lucra",
+    "peca": "",
+    "de_casa": "palantir",
+    "para_casa": "policias-inglesas",
+    "texto": "A Palantir fecha contrato de mais de 10 milhões de libras com três polícias inglesas.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.publictechnology.net/2026/11/10/public-order-justice-and-rights/eastern-police-forces-sign-10m-palantir-deal-to-support-safeguarding-as-reports-claim-nhs-extension-planned/",
+      "nome": "PublicTechnology",
+      "data": "2026-11-10",
+      "trecho": "A trio of police forces have agreed a £10m-plus agreement with Palantir"
+     }
+    ]
+   }
+  ],
+  "hipoteses": [
+   {
+    "id": "h-palantir",
+    "sinal": "a-favor",
+    "porque": "A Palantir ganha contrato de polícia e, segundo o Financial Times, a extensão do contrato de saúde no mesmo país. Mostra contratos com governos para cruzar dados; não mostra uso indevido.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.publictechnology.net/2026/11/10/public-order-justice-and-rights/eastern-police-forces-sign-10m-palantir-deal-to-support-safeguarding-as-reports-claim-nhs-extension-planned/",
+      "nome": "PublicTechnology",
+      "data": "2026-11-10",
+      "trecho": "A trio of police forces have agreed a £10m-plus agreement with Palantir"
+     }
+    ]
+   },
+   {
+    "id": "h-intersecoes",
+    "sinal": "a-favor",
+    "porque": "Blackstone e JPMorgan financiam uma empresa de radares contra drones: dinheiro e força no mesmo negócio. Mostra a interseção; não mostra comando de ninguém.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-news-shield-strikes-5-3bn-echodyne-acquisition-backed-by-blackstone-financing-permira-buys-flint-group.html",
+      "nome": "AltAssets",
+      "data": "2026-11-09",
+      "trecho": "$2.5bn financing package involving Blackstone, JPMorgan and venture capital investors"
+     }
+    ]
+   },
+   {
+    "id": "h-agencias",
+    "sinal": "a-favor",
+    "porque": "Relatos sobre o caso Huang levam o Congresso a chamar o chefe da Nvidia e a propor controle das licenças de chips. Mostra o peso das agências; a acusação não foi confirmada.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+      "nome": "CNBC",
+      "data": "2026-11-10",
+      "trecho": "Proposals could allow Congress oversight of chip export licenses"
+     }
+    ]
+   },
+   {
+    "id": "h-blocos",
+    "sinal": "a-favor",
+    "porque": "A China estende a trégua no prazo e nas condições dela, com a tarifa de 10% mantida. Mostra autonomia de Pequim na mesa; não diz nada sobre o BRICS ou a OCX.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+      "nome": "The National",
+      "data": "2026-11-09",
+      "trecho": "although it will still charge a 10 per cent fee"
+     }
+    ]
+   },
+   {
+    "id": "h-europa",
+    "sinal": "contra",
+    "porque": "A Europa fica fora da mesa de Abu Dhabi, sobre a guerra no próprio continente. Não combina com a ideia de que os fóruns europeus coordenam a política das nações ricas.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes",
+      "nome": "Al Jazeera",
+      "data": "2026-11-10",
+      "trecho": "Russia had made clear it did not see a place for Europeans at the meeting"
+     }
+    ]
+   },
+   {
+    "id": "h-bigtech",
+    "sinal": "a-favor",
+    "porque": "A OpenAI passa a controlar o espaço onde as empresas cuidam do que o ChatGPT diz delas. Mostra uma plataforma decidindo a vitrine; não mostra censura.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "url": "https://x.com/OpenAI/status/2120216592395174382",
+      "nome": "X (OpenAI)",
+      "data": "2026-11-10",
+      "trecho": "Now in beta: Businesses in ChatGPT. Claim your business, manage your information"
+     }
+    ]
+   }
+  ],
+  "analise": "Quem avançou no dia foi o Deep State Europa e Ásia, pelas duas pontas do leste. Em Abu Dhabi, a Rússia sentou com a Ucrânia e com os enviados de Trump por quatro horas e deixou claro que não via lugar para os europeus: Moscou fala direto com Washington (provável). Em Pequim, o ministério do Comércio estendeu a trégua até 10 de janeiro, suspendeu a tarifa de 24% e os controles de minerais críticos, mas manteve os 10%. A China chega ao encontro com Trump em Shenzhen com a carta das terras raras na mão (provável). O lado europeu do mesmo player perdeu: ficou fora da mesa de Abu Dhabi e, na COP31, disse que não há vontade de pôr dinheiro novo.\n\nA Espionagem Privada também avançou. A Palantir fechou contrato de mais de 10 milhões de libras com três polícias inglesas, e o Financial Times diz que o contrato dela com o sistema de saúde será estendido por dois anos. Dados de polícia e de saúde na mesma casa (provável); nada mostra uso indevido.\n\nO Core Financeiro ganhou pelo Fed e pelo financiamento. A inflação de outubro acima do esperado deixa o mercado certo de uma alta de juros em dezembro, o que favorece quem tem caixa e pesa sobre quem deve (provável). Blackstone e JPMorgan entraram com 2,5 bilhões de dólares na compra da Echodyne pela Shield AI: dinheiro e força juntos, como diz a hipótese das interseções, sem provar comando.\n\nA Oligarquia Digital ficou dividida. O Google lançou o Gemini 4 Carbon e o Gemini Robotics 2.5, e a OpenAI abriu a vitrine das empresas no ChatGPT. Mas a Nvidia perdeu mais de 9% em dois pregões com o caso de Jensen Huang. Ali pressiona o Deep State EUA: relatos sobre o caso, a Câmara pedindo conversas fechadas e, segundo Trump, o FBI no caso. Ser citado não é prova de crime. O mesmo player sofre em outra casa: Hegseth, no Pentágono, enfrenta um pedido de impeachment de um deputado do partido do governo.\n\nA Nova Ordem Mundial recuou na COP31, que abriu sem dinheiro novo e com o pedido africano fora da pauta. As Empresas de Controle ficaram paradas, com o risco das terras raras adiado por dois meses.\n\nO placar Trump e China pende pouco: a trégua estendida vai a favor da China com peso 2, e a fala sobre o FBI vai contra com peso 1. Nenhum prova serviço. O que vigiar amanhã: o segundo dia em Abu Dhabi; o pedido de conversas fechadas a Huang; e a preparação de Shenzhen.",
+  "trumpChina": {
+   "movimentos": [
+    {
+     "id": "tregua-china-ate-janeiro",
+     "data": "2026-11-10",
+     "texto": "A trégua comercial com a China segue por mais dois meses, até 10 de janeiro: Pequim suspende a tarifa de 24% e os controles de minerais críticos, mas mantém os 10%, e o governo Trump segue sem nova tarifa.",
+     "sentido": "favor",
+     "peso": 2,
+     "porquePeso": "Decisão reversível, de só dois meses, sem mudar regra. Pende de leve para a China, que mantém os 10% e a carta das terras raras; a pausa também serve às empresas americanas.",
+     "tipo": "ato",
+     "confianca": "provavel",
+     "fontes": [
+      {
+       "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+       "nome": "The National",
+       "data": "2026-11-09",
+       "trecho": "although it will still charge a 10 per cent fee"
+      },
+      {
+       "url": "https://gcaptain.com/china-extends-us-trade-truce-by-two-months/",
+       "nome": "gCaptain",
+       "data": "2026-11-09",
+       "trecho": "China on Monday effectively extended its trade truce with the US by two months"
+      }
+     ],
+     "pontos": 1.2
+    },
+    {
+     "id": "trump-fbi-caso-huang",
+     "data": "2026-11-09",
+     "texto": "Trump diz na Casa Branca que o FBI está olhando o caso de Alice Huang, ligada à Megaspeed, acusada em relatos de trabalhar para a inteligência chinesa.",
+     "sentido": "contra",
+     "peso": 1,
+     "porquePeso": "É uma fala, sem efeito prático ainda. Vai contra a China porque põe o FBI no caso. Uma fonte só.",
+     "tipo": "ato",
+     "confianca": "provavel",
+     "fontes": [
+      {
+       "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+       "nome": "CNBC",
+       "data": "2026-11-10",
+       "trecho": "The FBI is now looking into the issue, Trump said at a White House briefing."
+      }
+     ],
+     "pontos": -0.6
+    }
+   ],
+   "leitura": "Dois movimentos pequenos, em sentidos opostos. A trégua estendida pende de leve a favor da China: Pequim mantém os 10% e a carta das terras raras, e Washington não aperta antes de Shenzhen (provável). Mas a mesma pausa suspende os controles chineses, o que serve às empresas americanas. A fala de Trump sobre o FBI no caso Huang vai contra, com peso de gesto. Nenhum dos dois prova serviço à China: mostram quem ganha com o ato. Faltaria evidência direta (ordem, dinheiro ou acordo oculto), e nada disso apareceu. O teste é o encontro de Trump e Xi em Shenzhen.",
+   "dia": 0.6,
+   "total": 0.6,
+   "historico": [
+    {
+     "data": "2026-11-11",
+     "dia": 0.6,
+     "total": 0.6
+    }
+   ]
+  },
+  "por": "Opus 5.5",
+  "em": "2026-11-10T21:31:56Z",
+  "antes": {
+   "data": "2026-11-10",
+   "saldos": {
+    "core-financeiro": "disputa",
+    "deep-state-eua": "disputa",
+    "empresas-controle": "ganha",
+    "oligarquia-digital": "perde",
+    "deep-state-europa-asia": "disputa",
+    "nova-ordem": "perde",
+    "espionagem-privada": "ganha"
+   }
+  },
+  "placar": {
+   "desde": "2026-11-10",
+   "rodadas": 2,
+   "hipoteses": {
+    "h-capital": {
+     "favor": 1,
+     "contra": 0
+    },
+    "h-agencias": {
+     "favor": 1,
+     "contra": 0
+    },
+    "h-bigtech": {
+     "favor": 1,
+     "contra": 0
+    },
+    "h-europa": {
+     "favor": 0,
+     "contra": 1
+    },
+    "h-blocos": {
+     "favor": 1,
+     "contra": 0
+    },
+    "h-roma": {
+     "favor": 1,
+     "contra": 0
+    },
+    "h-palantir": {
+     "favor": 2,
+     "contra": 0
+    },
+    "h-intersecoes": {
+     "favor": 2,
+     "contra": 0
+    }
+   }
+  }
+ }
+}
