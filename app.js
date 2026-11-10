@@ -1,7 +1,7 @@
 // INFO, o app aberto: lê edicoes/index.json e edicoes/<AAAA-MM-DD>.json (gerados pelo info.py app) e mostra.
 // Rotas: #/ (a edição mais nova), #/<AAAA-MM-DD> (uma edição), #/edicoes, #/sobre. Todo texto entra como texto, nunca como HTML.
 'use strict';
-const TABS = { geopolitica: 'Geopolítica', maquinas: 'Máquinas', bola: 'Bola', exopolitica: 'Exopolítica', capao: 'Capão' };
+const TABS = { geopolitica: 'Geopolítica', maquinas: 'Máquinas', bola: 'Bola', exopolitica: 'Exopolítica', ufologia: 'Ufologia', capao: 'Capão' };
 const CONF = { fato: 'fato', provavel: 'provável', hipotese: 'hipótese' };
 const app = document.getElementById('app');
 let indice = null;
@@ -98,7 +98,7 @@ function telaEdicoes() {
 
 function telaSobre() {
   app.replaceChildren(el('section', { class: 'secao sobre' }, el('h2', null, 'Sobre o INFO'),
-    el('p', null, 'O INFO é um jornal de bolso feito com IA (o Claude, da Anthropic). Sai uma edição por dia, pronta para ser lida às 5h da manhã, horário de Brasília, com notícias de geopolítica, tecnologia, futebol e do Vale do Capão, na Chapada Diamantina.'),
+    el('p', null, 'O INFO é um jornal de bolso feito com IA (o Claude, da Anthropic). Sai uma edição por dia, pronta para ser lida às 5h da manhã, horário de Brasília, com notícias de geopolítica, tecnologia, futebol, ufologia técnica e do Vale do Capão, na Chapada Diamantina.'),
     el('p', null, 'Cada notícia separa o que dizem (a versão divulgada) do que fizeram (os atos, as datas, o dinheiro), traz uma leitura marcada como fato, provável ou hipótese, e lista as fontes. É um exercício lúdico: nada aqui afirma a realidade, e as fontes estão ali para você conferir.'),
     el('p', null, 'Para instalar: no Android, abra no Chrome e toque em "Instalar" (ou no menu ⋮, "Adicionar à tela inicial"). No iPhone, abra no Safari, toque em compartilhar e depois em "Adicionar à Tela de Início".')));
   document.title = 'INFO · sobre';

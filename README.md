@@ -1,6 +1,6 @@
 # INFO
 
-Um jornal de bolso feito com IA (o Claude, da Anthropic). Sai uma edição por dia, pronta às 5h da manhã (horário de Brasília), com notícias de geopolítica, tecnologia, futebol e do Vale do Capão, na Chapada Diamantina.
+Um jornal de bolso feito com IA (o Claude, da Anthropic). Sai uma edição por dia, pronta às 5h da manhã (horário de Brasília), com notícias de geopolítica, tecnologia, futebol, ufologia técnica e do Vale do Capão, na Chapada Diamantina.
 
 Cada notícia separa o que dizem do que fizeram, traz uma leitura marcada como fato, provável ou hipótese, e lista as fontes. É um exercício lúdico: nada aqui afirma a realidade.
 
