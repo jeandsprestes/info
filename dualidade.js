@@ -86,7 +86,7 @@ function svgCabo(d) {   // o cabo de guerra: a elite antiga puxa para a esquerda
     + `<line class="du-corda" x1="${M - 30}" y1="${Y}" x2="${W - M + 30}" y2="${Y}" style="stroke:url(#du-grad)"/>${marcas}`
     + `<defs><linearGradient id="du-grad" gradientUnits="userSpaceOnUse" x1="${M - 30}" x2="${W - M + 30}" y1="${Y}" y2="${Y}"><stop offset="0" stop-color="${CORES.antiga}"/><stop offset="1" stop-color="${CORES.nova}"/></linearGradient></defs>`
     + `<line class="du-meio" x1="${W / 2}" y1="${Y - 14}" x2="${W / 2}" y2="${Y + 14}"/>`
-    + `<circle class="du-no" cx="${f1(xt)}" cy="${Y}" r="8"/><text class="du-rot" x="${f1(xt)}" y="${Y + 26}" text-anchor="middle">transição ${esc(num(d.transicao.total))}</text>`
+    + `<circle class="du-no" cx="${f1(xt)}" cy="${Y}" r="8"/><text class="du-rot" x="${f1(xt)}" y="${Y - 14}" text-anchor="middle">transição ${esc(num(d.transicao.total))}</text>`
     + `<line class="du-fio" x1="${W / 2}" y1="6" x2="${f1(xp)}" y2="44"/><circle class="du-pendulo" cx="${f1(xp)}" cy="50" r="9" fill="${CORES.trump}"/>`
     + `<text class="du-rot" x="${f1(xp)}" y="${xp > W / 2 ? 54 : 54}" dx="${xp >= W / 2 ? 14 : -14}" text-anchor="${xp >= W / 2 ? 'start' : 'end'}">Trump ${esc(num(d.pendulo.total))}</text>`
     + `<circle class="du-gancho" cx="${W / 2}" cy="6" r="3"/></svg>`;
@@ -116,11 +116,11 @@ function partes(d, st, pintar) {
   const selo = c => c ? el('span', { class: 'mf-selo mf-c-' + c }, CONF[c]) : null;
   const rot = t => el('p', { class: 'mf-rot' }, t);
   const bola = id => el('span', { class: 'mf3-bola', style: `background:${CORES[id]}`, 'aria-hidden': 'true' });
-  const pesoEl = x => el('span', { class: 'mf3-peso', 'aria-label': `peso ${x.peso} de 5` }, '●'.repeat(x.peso) + '○'.repeat(5 - x.peso));
+  const pesoEl = x => el('span', { class: 'mf3-peso', role: 'img', 'aria-label': `peso ${x.peso} de 5` }, '●'.repeat(x.peso) + '○'.repeat(5 - x.peso));
   const rumo = v => el('span', { class: 'du-rumo du-r-' + v, title: v === 'nova' ? 'vai para a nova elite' : 'vai para a elite antiga' }, v === 'nova' ? 'para a nova ▶' : '◀ para a antiga');
   const t = d.transicao, p = d.pendulo;
   const pende = v => v > 0.5 ? 'pende para a nova elite' : v < -0.5 ? 'pende para a elite antiga' : 'no meio';
-  const desde = t.historico[0] && t.historico[0].data ? diaMes(t.historico[0].data) : '';
+  const desde = d.placar && d.placar.desde ? diaMes(d.placar.desde) : (t.historico[0] && t.historico[0].data ? diaMes(t.historico[0].data) : '');
 
   const placar = el('div', { class: 'mf3-tc-placar du-placar' },
     el('div', {}, el('b', { class: 'mf3-n du-n ' + (t.total >= 0 ? 'nova' : 'antiga') }, num(t.total)), el('span', {}, `a transição no total${desde ? ', desde ' + desde : ''} (${num(t.dia)} nesta rodada): ${pende(t.total)}`)),

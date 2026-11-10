@@ -88,7 +88,7 @@ function telaEdicao(ed, revs) {
   const dual = window.Dualidade ? Dualidade.limpar(ed.dualidade) : null;   // a dualidade, elite antiga x nova elite (dualidade.js)
   const dualEl = dual ? Dualidade.desenhar({ dualidade: dual, estado: estadosDu[ed.data] || (estadosDu[ed.data] = {}) }) : null;
   const qual = revs[abaRev[ed.data]] ? abaRev[ed.data] : 'dia';   // a semana e o mês (revisao.js), na edição de segunda e na do dia 1º
-  const abaEl = (k, nome) => el('button', { type: 'button', class: 'rv-aba', 'aria-pressed': String(qual === k), onclick: () => { abaRev[ed.data] = k; telaEdicao(ed, revs); } }, nome);
+  const abaEl = (k, nome) => el('button', { type: 'button', class: 'rv-aba', 'aria-pressed': String(qual === k), onclick: () => { abaRev[ed.data] = k; telaEdicao(ed, revs); const f = document.querySelector('.rv-aba[aria-pressed="true"]'); if (f) f.focus(); } }, nome);
   const abasRev = revs.semana || revs.mes ? el('div', { class: 'rv-abas', role: 'group', 'aria-label': 'O que esta edição traz' }, abaEl('dia', 'O dia'), revs.semana ? abaEl('semana', 'A semana') : null, revs.mes ? abaEl('mes', 'O mês') : null) : null;
   const revEl = qual !== 'dia' && window.Revisao ? Revisao.desenhar({ revisao: Revisao.limpar(revs[qual]), link: d => '#/' + d }) : null;
   app.replaceChildren(
@@ -126,7 +126,9 @@ function telaSobre() {
   document.title = 'INFO · sobre';
 }
 
+let navegacao = 0;
 async function rota() {
+  const n = ++navegacao;
   const h = decodeURIComponent(location.hash.replace(/^#\/?/, ''));
   document.querySelectorAll('.topo nav a').forEach(a => a.classList.toggle('ativo',
     a.dataset.rota === (h === 'edicoes' ? 'edicoes' : h === 'sobre' ? 'sobre' : 'hoje')));
@@ -136,9 +138,12 @@ async function rota() {
     if (!indice.length) { app.replaceChildren(el('p', { class: 'vazio' }, 'Ainda não há edição publicada.')); return; }
     if (h === 'edicoes') return telaEdicoes();
     const d = ehDia(h) ? h : indice[0].data;
-    const linha = indice.find(e => e.data === d) || {}, revs = {};
-    for (const t of linha.revisoes || []) { try { revs[t] = await carregarRev(d, t); } catch (e) { /* a revisão não abriu: fica só o dia */ } }
-    telaEdicao(await carregarEd(d), revs);
+    const linha = indice.find(e => e.data === d) || {}, revs = {}, tipos = linha.revisoes || [];
+    const [ed, ...rs] = await Promise.allSettled([carregarEd(d), ...tipos.map(t => carregarRev(d, t))]);
+    tipos.forEach((t, k) => { if (rs[k].status === 'fulfilled') revs[t] = rs[k].value; });   // a revisão que não abriu fica de fora: fica só o dia
+    if (n !== navegacao) return;   // outra navegação começou depois desta
+    if (ed.status !== 'fulfilled') throw ed.reason;
+    telaEdicao(ed.value, revs);
     window.scrollTo(0, 0);
   } catch (e) {
     app.replaceChildren(el('p', { class: 'vazio' }, 'Não consegui abrir a edição. Confira a internet e tente de novo.'));

@@ -3,8 +3,8 @@
 .rv-titulo { font-size: 17px; font-weight: 600; line-height: 1.35; margin: 0; }
 .rv-destaques { margin: 0; padding-left: 20px; display: flex; flex-direction: column; gap: 9px; font-size: 14px; line-height: 1.5; }
 .rv-man { color: var(--texto, #E6E8F0); font-weight: 600; text-decoration: underline; text-decoration-color: var(--linha, #1E2238); text-underline-offset: 3px; }
-.rv-tabela { display: flex; flex-direction: column; gap: 3px; overflow-x: auto; padding-bottom: 2px; }
-.rv-linha { display: grid; grid-template-columns: 132px repeat(auto-fill, minmax(26px, 1fr)); gap: 3px; align-items: center; min-width: max-content; }
+.rv-tabela { position: relative; display: flex; flex-direction: column; gap: 3px; overflow-x: auto; padding-bottom: 2px; }
+.rv-linha { display: grid; grid-template-columns: 132px; grid-auto-flow: column; grid-auto-columns: minmax(26px, 1fr); gap: 3px; align-items: center; min-width: max-content; }
 .rv-cab span { font: 500 9.5px var(--mono, ui-monospace, monospace); color: var(--apagado, #8A90A6); text-align: center; }
 .rv-cab span:first-child { text-align: left; }
 .rv-p { font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }

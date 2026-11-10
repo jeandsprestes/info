@@ -97,7 +97,7 @@ function desenhar(o) {   // o = {revisao (já limpa), link(edicao, id): o endere
     r.analise ? el('section', { class: 'mf3-analise' }, rot('A análise geral'), texto(r.analise)) : null,
     r.destaques.length ? sec('Os destaques', el('ol', { class: 'rv-destaques' }, r.destaques.map(x => el('li', {},
       el('p', {}, el('span', { class: 'mf-tab' }, (TABS[x.tabuleiro] || x.tabuleiro) + ' · ' + diaMes(x.edicao)), ' ',
-        o.link && x.edicao ? el('a', { href: o.link(x.edicao, x.id), class: 'rv-man' }, x.manchete) : el('b', {}, x.manchete)),
+        (o.link && x.edicao && o.link(x.edicao, x.id)) ? el('a', { href: o.link(x.edicao, x.id), class: 'rv-man' }, x.manchete) : el('b', {}, x.manchete)),
       x.porque ? el('p', { class: 'mf-peq' }, x.porque) : null)))) : null,
     jogo, tc, du, hip,
     r.bola ? sec('A Bola no período', texto(r.bola)) : null,
