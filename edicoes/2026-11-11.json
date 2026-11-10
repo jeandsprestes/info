@@ -4,7 +4,7 @@
  "titulo": "Russos e ucranianos conversam quatro horas em Abu Dhabi, a China estica a trégua comercial até janeiro e a Anthropic marca o preço das ações para o dia 18",
  "abertura": "Quarta, 11. Rússia e Ucrânia passaram quatro horas na mesma sala em Abu Dhabi, com os Estados Unidos no meio, e falaram de uma grande troca de prisioneiros; o segundo dia é hoje. A China estendeu por dois meses a trégua comercial com Washington, uma semana antes do encontro de Trump e Xi em Shenzhen. Em Washington, Hegseth chamou de farsa o pedido de impeachment, e a inflação de outubro veio acima do esperado, o que deixa o Fed perto de subir os juros em dezembro.\n\nNa IA, a Anthropic (dona do Claude, que escreve este jornal) pôs as ações entre 70 e 78 dólares, para estrear no dia 19. A Nvidia caiu mais de 5% com o caso de Jensen Huang, chamado a dar explicações na Câmara. O Google lançou o Gemini 4 Carbon e o Gemini Robotics 2.5, a Stripe fechou a compra da OpenRouter e a Palantir ganhou mais um contrato com polícias inglesas.\n\nNo Capão, o grupo trouxe a programação da Orquestra Sinfônica da Bahia no vale: dia 28, dois concertos gratuitos.",
  "aviso": "Exercício lúdico: nada aqui afirma a realidade.",
- "atualizado": "2026-11-10T21:55:00Z",
+ "atualizado": "2026-11-10T21:48:10Z",
  "itens": [
   {
    "id": "abu-dhabi-primeiro-dia",
@@ -1226,75 +1226,35 @@
   ],
   "analise": "Quem avançou no dia foi o Deep State Europa e Ásia, pelas duas pontas do leste. Em Abu Dhabi, a Rússia sentou com a Ucrânia e com os enviados de Trump por quatro horas e deixou claro que não via lugar para os europeus: Moscou fala direto com Washington (provável). Em Pequim, o ministério do Comércio estendeu a trégua até 10 de janeiro, suspendeu a tarifa de 24% e os controles de minerais críticos, mas manteve os 10%. A China chega ao encontro com Trump em Shenzhen com a carta das terras raras na mão (provável). O lado europeu do mesmo player perdeu: ficou fora da mesa de Abu Dhabi e, na COP31, disse que não há vontade de pôr dinheiro novo.\n\nA Espionagem Privada também avançou. A Palantir fechou contrato de mais de 10 milhões de libras com três polícias inglesas, e o Financial Times diz que o contrato dela com o sistema de saúde será estendido por dois anos. Dados de polícia e de saúde na mesma casa (provável); nada mostra uso indevido.\n\nO Core Financeiro ganhou pelo Fed e pelo financiamento. A inflação de outubro acima do esperado deixa o mercado certo de uma alta de juros em dezembro, o que favorece quem tem caixa e pesa sobre quem deve (provável). Blackstone e JPMorgan entraram com 2,5 bilhões de dólares na compra da Echodyne pela Shield AI: dinheiro e força juntos, como diz a hipótese das interseções, sem provar comando.\n\nA Oligarquia Digital ficou dividida. O Google lançou o Gemini 4 Carbon e o Gemini Robotics 2.5, e a OpenAI abriu a vitrine das empresas no ChatGPT. Mas a Nvidia perdeu mais de 9% em dois pregões com o caso de Jensen Huang. Ali pressiona o Deep State EUA: relatos sobre o caso, a Câmara pedindo conversas fechadas e, segundo Trump, o FBI no caso. Ser citado não é prova de crime. O mesmo player sofre em outra casa: Hegseth, no Pentágono, enfrenta um pedido de impeachment de um deputado do partido do governo.\n\nA Nova Ordem Mundial recuou na COP31, que abriu sem dinheiro novo e com o pedido africano fora da pauta. As Empresas de Controle ficaram paradas, com o risco das terras raras adiado por dois meses.\n\nO placar Trump e China pende pouco: a trégua estendida vai a favor da China com peso 2, e a fala sobre o FBI vai contra com peso 1. Nenhum prova serviço. O que vigiar amanhã: o segundo dia em Abu Dhabi; o pedido de conversas fechadas a Huang; e a preparação de Shenzhen.",
   "trumpChina": {
-   "movimentos": [
-    {
-     "id": "tregua-china-ate-janeiro",
-     "data": "2026-11-10",
-     "texto": "A trégua comercial com a China segue por mais dois meses, até 10 de janeiro: Pequim suspende a tarifa de 24% e os controles de minerais críticos, mas mantém os 10%, e o governo Trump segue sem nova tarifa.",
-     "sentido": "favor",
-     "peso": 2,
-     "porquePeso": "Decisão reversível, de só dois meses, sem mudar regra. Pende de leve para a China, que mantém os 10% e a carta das terras raras; a pausa também serve às empresas americanas.",
-     "tipo": "ato",
-     "confianca": "provavel",
-     "fontes": [
-      {
-       "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
-       "nome": "The National",
-       "data": "2026-11-09",
-       "trecho": "although it will still charge a 10 per cent fee"
-      },
-      {
-       "url": "https://gcaptain.com/china-extends-us-trade-truce-by-two-months/",
-       "nome": "gCaptain",
-       "data": "2026-11-09",
-       "trecho": "China on Monday effectively extended its trade truce with the US by two months"
-      }
-     ],
-     "pontos": 1.2
-    },
-    {
-     "id": "trump-fbi-caso-huang",
-     "data": "2026-11-09",
-     "texto": "Trump diz na Casa Branca que o FBI está olhando o caso de Alice Huang, ligada à Megaspeed, acusada em relatos de trabalhar para a inteligência chinesa.",
-     "sentido": "contra",
-     "peso": 1,
-     "porquePeso": "É uma fala, sem efeito prático ainda. Vai contra a China porque põe o FBI no caso. Uma fonte só.",
-     "tipo": "ato",
-     "confianca": "provavel",
-     "fontes": [
-      {
-       "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
-       "nome": "CNBC",
-       "data": "2026-11-10",
-       "trecho": "The FBI is now looking into the issue, Trump said at a White House briefing."
-      }
-     ],
-     "pontos": -0.6
-    }
-   ],
-   "leitura": "Dois movimentos pequenos, em sentidos opostos. A trégua estendida pende de leve a favor da China: Pequim mantém os 10% e a carta das terras raras, e Washington não aperta antes de Shenzhen (provável). Mas a mesma pausa suspende os controles chineses, o que serve às empresas americanas. A fala de Trump sobre o FBI no caso Huang vai contra, com peso de gesto. Nenhum dos dois prova serviço à China: mostram quem ganha com o ato. Faltaria evidência direta (ordem, dinheiro ou acordo oculto), e nada disso apareceu. O teste é o encontro de Trump e Xi em Shenzhen.",
-   "dia": 0.6,
-   "total": 0.6,
+   "movimentos": [],
+   "leitura": "Nenhum movimento novo nesta rodada. A trégua estendida até 10/1 e a fala de Trump sobre o FBI no caso Huang já entraram no placar na rodada de 10/11, que trouxe os 30 dias anteriores, e não contam de novo. O placar segue em 3,3 pontos contra a hipótese. Faltaria evidência direta (ordem, dinheiro ou acordo oculto), e nada disso apareceu. O teste é o encontro de Trump e Xi em Shenzhen, em 18 e 19/11.",
+   "dia": 0,
+   "total": -3.3,
    "historico": [
     {
+     "data": "2026-11-10",
+     "dia": -3.3,
+     "total": -3.3
+    },
+    {
      "data": "2026-11-11",
-     "dia": 0.6,
-     "total": 0.6
+     "dia": 0,
+     "total": -3.3
     }
    ]
   },
   "por": "Opus 5.5",
-  "em": "2026-11-10T21:31:56Z",
+  "em": "2026-11-10T21:48:10Z",
   "antes": {
    "data": "2026-11-10",
    "saldos": {
     "core-financeiro": "disputa",
     "deep-state-eua": "disputa",
-    "empresas-controle": "ganha",
-    "oligarquia-digital": "perde",
+    "empresas-controle": "disputa",
+    "oligarquia-digital": "disputa",
     "deep-state-europa-asia": "disputa",
-    "nova-ordem": "perde",
-    "espionagem-privada": "ganha"
+    "nova-ordem": "disputa",
+    "espionagem-privada": "disputa"
    }
   },
   "placar": {
@@ -1302,26 +1262,30 @@
    "rodadas": 2,
    "hipoteses": {
     "h-capital": {
+     "favor": 0,
+     "contra": 1
+    },
+    "h-fed": {
      "favor": 1,
      "contra": 0
     },
     "h-agencias": {
-     "favor": 1,
+     "favor": 2,
      "contra": 0
     },
+    "h-ativos": {
+     "favor": 0,
+     "contra": 1
+    },
     "h-bigtech": {
-     "favor": 1,
+     "favor": 2,
      "contra": 0
     },
     "h-europa": {
      "favor": 0,
-     "contra": 1
+     "contra": 2
     },
     "h-blocos": {
-     "favor": 1,
-     "contra": 0
-    },
-    "h-roma": {
      "favor": 1,
      "contra": 0
     },

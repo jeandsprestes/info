@@ -4,7 +4,7 @@
  "titulo": "A Anthropic lança o Claude Fable 5.2 na véspera de começar a vender as ações, a COP31 abre na Turquia sem os Estados Unidos e o Capão tem Maratona Teatral no fim de semana",
  "abertura": "Terça, 10. A COP31 abriu na segunda em Antalya, na Turquia, sem delegação dos Estados Unidos pelo segundo ano. Russos e ucranianos têm conversa marcada em Abu Dhabi a partir desta terça, com mediação americana, depois de mais uma noite de ataques à rede elétrica. Trump diz que voltar à guerra com o Irã é muito improvável, e Lula marca para o dia 16 uma reunião sobre o Ministério da Segurança Pública.\n\nNa IA, a Anthropic lançou o Claude Fable 5.2 e o Claude Mythos 5.2 (Claude é de quem escreve este jornal), e a imprensa diz que a empresa pode começar a vender as ações já nesta terça, valendo menos do que se esperava. A Meta e a AMD também aparecem na lista do X. O São Paulo voltou aos treinos sem Bobadilla e sem Luciano.\n\nNo Capão, o grupo anuncia a 4ª Maratona Teatral nos dias 14 e 15, gratuita, salsa na sexta e uma Tenda Vermelha nesta terça. E há um edital nacional de fotografia, da Funarte, aberto até 18 de dezembro.",
  "aviso": "Exercício lúdico: nada aqui afirma a realidade.",
- "atualizado": "2026-11-10T20:01:39Z",
+ "atualizado": "2026-11-10T21:37:38Z",
  "itens": [
   {
    "id": "cop31-abre-antalya",
@@ -282,6 +282,291 @@
      "data": "2026-11-10"
     }
    ]
+  },
+  {
+   "id": "nvidia-huang-acao-cai-camara-intimacao",
+   "data": "2026-11-10",
+   "tabuleiro": "maquinas",
+   "manchete": "A ação da Nvidia chega a cair mais de 6% nesta terça, depois de 4,3% na segunda, no caso Jensen Huang; Brian Mast, da Câmara dos EUA, diz estar pronto para intimá-lo, e o NYT conta que Rubio alertou Trump sobre Huang em maio",
+   "narrativa": "Segundo o Yahoo Finance, Brian Mast, republicano que preside a Comissão de Relações Exteriores da Câmara, disse à ABC News nesta terça estar pronto para intimar Huang. Na segunda, na Casa Branca, Trump disse que soube do caso 'não faz muito tempo' e que o FBI olha o assunto 'por outra questão'; segundo a CBS, chamou Huang de pessoa de altíssima qualidade e disse que Huang lhe contou não ter a menor ideia de que a pessoa era espiã. O NYT, citado pelo Yahoo, diz que Rubio, secretário de Estado e conselheiro de segurança nacional, alertou Trump sobre a relação em maio, e que Trump foi avisado a bordo do Air Force One. Guo Jiakun, porta-voz da chancelaria chinesa, chamou a acusação de calúnia sem base. O porta-voz da Nvidia, John Rizzo, disse à CBS que a empresa confia que o governo a teria avisado de uma ameaça real. Dan Ives, da Yorkville Ives & Co., diz que, se Huang saísse do cargo, a Nvidia valeria 25% a 30% menos.",
+   "movimento": "No domingo 8, Huang admitiu aos funcionários ter sido infiel à mulher e pediu desculpas; o conselho abriu uma investigação independente, com o ex-procurador Joon H. Kim e o escritório Wachtell Lipton, e diz não ver dano à segurança nacional. A inteligência americana, segundo as fontes, liga Alice Huang, ex-executiva da Megaspeed, ao serviço secreto chinês. Na segunda 9, a ação caiu 4,3%, enquanto o índice de chips SOX subia quase 7%. Na terça 10, chegou a cair mais de 6%, rumo a perder mais de US$ 470 bilhões em dois dias, segundo a Reuters, e a Microsoft passou a Nvidia como a segunda empresa mais valiosa do mundo. O Goldman não citou o caso na prévia de resultados, e o Citi não deu opinião; JPMorgan, Evercore ISI e Jefferies não publicaram nada. O Departamento de Justiça investiga a Megaspeed na esfera criminal; ela comprou mais de US$ 4,8 bilhões em chips da Nvidia em dois anos, segundo o NYT citado pela CBS. A Reuters diz que a relação ajudou a levar ao menos US$ 7,5 bilhões em chips a empresas chinesas, dado que não pôde verificar, e o The Information diz que Alice Huang ajudou a obter 240 mil chips. O Comércio estendeu a pausa da regra das afiliadas só até 10 de janeiro. Huang tem até quarta 11 para responder ao pedido de reunião fechada. As fontes lidas não dão o volume de negócios.",
+   "leitura": "A Nvidia caiu 4,3% na segunda, num dia em que as outras ações de chips subiam, e voltou a cair na terça. O mercado parece cobrar um problema da empresa e de Huang, e o resto do setor ficou fora da conta (provável). Os grandes bancos seguraram a opinião, e quem falou em sucessor foram analistas de fora, como Ives e Niles (provável). O dado político mais pesado é a data do alerta. Se Rubio avisou Trump em maio, como conta o NYT, o 'não faz muito tempo' de Trump vira pergunta para o Congresso, que passa aos democratas em janeiro (provável). Huang sempre disse que limitar a venda de chips à China prejudica a liderança americana (Hardware Busters, 2025); enfraquecido, ele pode pesar menos nessa briga, e os projetos contra a venda ganham força no Congresso (hipótese). Leitura contrária (hipótese): a acusação contra Alice Huang é avaliação da inteligência americana, que a China nega, e a Megaspeed diz que revisões não acharam desvio de chips; se a investigação do conselho não achar nada, a queda pode se desfazer. As quedas aparecem em duas fontes lidas, Yahoo Finance e Reuters; a cifra de US$ 470 bilhões e a virada da Microsoft vêm só da Reuters.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, que compra chips de IA. Segundo a 24/7 Wall St, a Nvidia está entre as sete empresas que vão pôr dinheiro na estreia da Anthropic na bolsa, sem confirmação da empresa. Leia com desconfiança.",
+   "acrescentada": "19h",
+   "analise": "No tabuleiro, a Deep State americana aparece na origem do caso. Um memorando da inteligência avaliou que Alice Huang servia ao serviço secreto chinês, e, segundo o NYT, a peça Marco Rubio levou o alerta a Trump em maio. A Megaspeed é alvo de investigação criminal no Departamento de Justiça, e o FBI examina se Huang foi alvo de inteligência estrangeira, segundo a Reuters. Na casa do Congresso, Brian Mast, John Moolenaar e Rick Crawford cobram Huang, e Mast fala em intimação (pôr a Câmara com este player é hipótese). O dinheiro reagiu rápido: a Nvidia caminha para perder mais de US$ 470 bilhões em dois pregões, a Microsoft tomou dela o segundo lugar, e na segunda as outras ações de chips subiram, sinal de que o mercado cobra a empresa e poupa o setor (provável). Goldman, Citi e JPMorgan ficaram sem opinar, e a conversa sobre sucessão veio de Dan Ives e Dan Niles (ligar isso ao Core Financeiro é hipótese). A Oligarquia Digital, dona da casa Nvidia, se defende com a peça Huang, que pediu desculpas e coopera, com o conselho e com o porta-voz; no X, Elon Musk apoiou Huang. O Deep State europeu e asiático entra pela chancelaria chinesa, que nega tudo, e pela peça Alice Huang, que a inteligência americana liga a Pequim (hipótese; a China nega). Perdem a Oligarquia Digital, na bolsa e em Washington, e a China, que pode ver fechar uma rota de chips diante de um Congresso mais duro (provável). Trump fica sem dono no tabuleiro: elogia Huang e diz ter sabido há pouco, enquanto o próprio governo investiga a Megaspeed. No placar Trump e China, o caso soma 2 pontos a favor, pelo alerta de maio minimizado, e 3 contra, pela investigação criminal e pelo alerta vindo do próprio Rubio.",
+   "emJogo": [
+    "Nvidia",
+    "Jensen Huang",
+    "Alice Huang",
+    "Megaspeed",
+    "Brian Mast",
+    "John Moolenaar",
+    "Rick Crawford",
+    "Hakeem Jeffries",
+    "Donald Trump",
+    "Marco Rubio",
+    "FBI",
+    "Departamento de Justiça dos EUA"
+   ],
+   "fontes": [
+    {
+     "nome": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "CBS News",
+     "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "CBS News",
+     "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "CBS News",
+     "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Reuters (Devdiscourse)",
+     "url": "https://www.devdiscourse.com/article/international/4003591-nvidia-probes-whether-ceo-huang-was-target-of-foreign-spying-as-he-admits-affair",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Anadolu",
+     "url": "https://aa.com.tr/en/world/nvidia-board-opens-independent-probe-into-foreign-intelligence-targeting-of-ceo-jensen-huang/4116358",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Hardware Busters",
+     "url": "https://hwbusters.com/news/us-house-committee-confronts-nvidia-over-shared-campus-with-huawei-linked-firm/",
+     "data": "2025-11-07"
+    },
+    {
+     "nome": "Reuters (The Standard)",
+     "url": "https://www.thestandard.com.hk/finance/article/348113/Nvidia-heads-for-470-billion-two-day-wipeout-as-CEO-affair-fallout-deepens",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Reuters (The Standard)",
+     "url": "https://www.thestandard.com.hk/finance/article/348113/Nvidia-heads-for-470-billion-two-day-wipeout-as-CEO-affair-fallout-deepens",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Nvidia (comunicado dos conselheiros independentes)",
+     "url": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "hegseth-impeachment-camara-votacao",
+   "data": "2026-11-10",
+   "tabuleiro": "geopolitica",
+   "manchete": "A Câmara dos EUA chega perto de uma votação preliminar do impeachment de Pete Hegseth, que chama o processo de 'farsa'; Trump dá nota A+ ao secretário de Guerra",
+   "narrativa": "Hegseth chama o impeachment de 'farsa' e 'espetáculo político', defende a guerra ao Irã e diz que um impeachment por divergência de política dá o sinal errado aos adversários, segundo manchetes de Reuters, AP, Washington Post e do Departamento de Guerra. O vice-presidente JD Vance disse que a votação 'não é sobre o Irã', segundo o The Hill. O republicano Mike Johnson chamou de 'vergonhosa' a ofensiva de Massie, segundo o The Hill. Trump deu nota A+ a Hegseth, segundo manchete do The Hill, e a CNN conta um debate na Casa Branca sobre o futuro dele.",
+   "movimento": "Uma semana depois da eleição de 3/11, que deu as duas casas do Congresso aos democratas, segundo o IBTimes, a Câmara chegou perto de uma votação preliminar do impeachment do secretário de Guerra. O pedido é do republicano Thomas Massie, em 8 artigos que alegam violações da Lei de Poderes de Guerra de 1973: guerra ao Irã sem aval do Congresso, captura de Nicolás Maduro, ataques no Iêmen e contra supostos traficantes no Caribe e no Pacífico. São acusações do projeto, sem julgamento. Hegseth deu a primeira coletiva desde maio, segundo o Military Times. Até a última manchete lida (AP, 17h19 de Brasília), a Câmara não tinha votado. No mesmo dia, Hegseth e o colega polonês anunciaram a intenção de ampliar a cooperação militar. Uma manchete no Yahoo diz que crescem as críticas republicanas à guerra do Irã depois da derrota na eleição. Quase tudo de 10/11 vem de manchetes lidas; a página do IBTimes, de 8/11, foi aberta.",
+   "leitura": "O chefe do Pentágono enfrenta a primeira prova política depois da eleição de 3/11, e o apoio público de Trump e Vance segura a peça por ora (provável). A votação de teste mede quantos republicanos acompanham Massie (provável). Com o Congresso democrata a partir do ano que vem, a guerra ao Irã e a captura de Maduro podem virar pauta de investigação (hipótese). Leitura contrária (hipótese): o republicano Mike Johnson chamou a ofensiva de vergonhosa, sinal de que boa parte do partido fecha com Hegseth por enquanto.",
+   "confianca": "provavel",
+   "acrescentada": "19h",
+   "analise": "No tabuleiro, o cerco cai sobre a casa mais exposta da Deep State americana, o Pentágono, e sobre a peça que a comanda. Quem ataca é a casa do Congresso, que não é player, pelas mãos de um republicano, uma semana depois de os democratas ganharem as duas casas. As acusações tocam a força usada sem aval do Congresso: a guerra ao Irã, a captura de Maduro e os ataques no Iêmen e no mar. A defesa vem da Casa Branca, sem dono no jogo: Trump dá nota A+, e Vance diz que a votação 'não é sobre o Irã'. Hegseth pressiona a Câmara com o argumento de que tirá-lo por divergência de política dá o sinal errado aos adversários e segue mexendo peças, como o anúncio com a Polônia. Para a hipótese da lista sobre agências que seguem sem depender de eleições, o caso pesa pouco e para o lado contrário: a urna de 3/11 mexeu na cúpula da defesa, mas o alvo é o Pentágono, e a hipótese fala de CIA, NSA, DIA e FBI (sinal fraco, hipótese). No mesmo player, outras manchetes do dia: um soldado americano preso no Reino Unido sob suspeita de espionagem ligada à Rússia, a história de quem ajudou a CIA a operar em segredo no México e a briga da The Atlantic por registros do FBI na disputa com Kash Patel (só manchetes lidas; suspeita não é prova). Nada do caso toca o placar Trump e China. Vigiar: o resultado da votação de teste e quantos republicanos acompanham Massie.",
+   "emJogo": [
+    "Pete Hegseth",
+    "Thomas Massie",
+    "JD Vance",
+    "Mike Johnson",
+    "Donald Trump",
+    "Nicolás Maduro",
+    "Kash Patel",
+    "Câmara dos Deputados dos EUA",
+    "Departamento de Guerra dos EUA",
+    "Polônia",
+    "Irã",
+    "CIA"
+   ],
+   "fontes": [
+    {
+     "nome": "AP (via Google News)",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUNXMkxGenZWcWlHclR5OG1zTlBOY1FCaktDemppTUVxd1R6aVdEU0t1Yld1U1h2empESzVJWXJxa0VYREVJenNGbVg4cmdKY3RkYkdwbmdsZGJiWmF2Y280dDYzbjJkcnRWbEp5MjJ3YzlUUEcySW5PcEYydzI4OHJoNWhKSHZvTlhMd3NRMll3VEwxTkpJOWhyUnFQV3dneTVV?oc=5",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Military Times (via Google News)",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTlZFcDFZZ05NbW1samdob1JlMGVHMUE1ZzRrTG9ia3YtVEEtTWdBSlktbndCUDdvYmtBYnRnQ29jWmJxY0otSWMyQ0w0d0JkX1E4LXZaRFdLaC10VmdRQVhNc20xdlljWEJKWEhUdG1Da3FuZElGWVlnZFBaMnl4aVZQOU5yNjR5Zmo2S1Z6UWVOVHpuaV9JdWVQNTJxdlpRTDdHcFp6LUVRUmpnLWxhQTFIUklDb1NLcnZCcFFEOEhmdmpnUkg0?oc=5",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Reuters (via Google News)",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVFtR2hnZ2luVDdXU010VVB4UVpubVBIbUtJc0ZkQVkzLUkzaWxMRDJKaVVoTVNUbzRyRGQ4ZFh1dUZIUFhRVDRTVVNyZ3FWQkRIMm5UTVJOY2J0MDJ4bEFZNkh2MjdUZzRnRkVYbXBKSktfNElhWU42SEVRMktOd0JHYTQyU2N4ZUF2eWZicDRpVHBCTHRYUWFYOVRMT3lrVWNuQldMQkV0MVVGYXc?oc=5",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "IBTimes UK",
+     "url": "https://www.ibtimes.co.uk/massie-impeachment-resolution-pete-hegseth-1830891",
+     "data": "2026-11-08"
+    },
+    {
+     "nome": "IBTimes UK",
+     "url": "https://www.ibtimes.co.uk/massie-impeachment-resolution-pete-hegseth-1830891",
+     "data": "2026-11-08"
+    },
+    {
+     "nome": "The Hill (via Google News)",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeV9DSHJLeEVZUXRSOWZZQV92eGVZelg0ZWxkZEtrX2lHRG0zVnZNVW9WYVYzNWNCVFVLOHZGSTBvYnpjeVFwdnR4bjRFTUZSSFlranVZWlB4U29jR3puQUhfNVdENTNESUotaXpoMW43THYxNlRLNkdzaUVHQzNwQkcwS0JrRENQejJLUG5xTdIBlAFBVV95cUxPdHdFS0E4NGRQbWNEZmFzamowLWRXbGNJMWtlaXJST0dQUE9GT2hDY3BubXJINUpNRGhlbXJuaWZScjEycHB0bFYwYWw1VEFkaW1tYllrc2lhdlBnNTdJZXhRb2hqRFpOMk1jREROaDNJV1d4U0NMLUFSTmlhN1NRX0VQVlI5UENBTzg2OGJYdE1MLS1Q?oc=5",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "The Hill (via Google News)",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGxKSzZUYnpiSmZHS1N3dXphOXo1a1FRNlFGbEtEUlRNZFN6Qm5Fcl8wRkJVcnFJTlRzcy1mQWhVVDEzR3ZxTFBnenFDemlyaE5SVFpubl9wNVpHX25zYnhQSTJDSDNnYWUtOTY2YlhNN1BnaUtrNy1VX3BNemw5OEpPSXBWc1licjdSeWFudVlNMENOYzZ6Wk1ta3g3cnRCN05F0gGoAUFVX3lxTFB2S1FNNVZzYTJrVnhPeERRUEhWajlwSTJNQ25QU1U3YjZMcGo3bDRLdXdCT2VMa1ZLdW50UzlKcjdVc1lUR0dMNlp3eHRKSmM3ZWlXbHdOQXBBRkRjM3pSMHZSN2RTdXgzc1JjbUtJdllMc1pPSzk1eHpfRGJlRGZ3OVE2Z3hJc01MdVBRdUM4NFpaTU5Cb2c4WFlMOGdkdmJlaDQ5YTVlVg?oc=5",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "The Hill (via Google News)",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU3g4bU9hSXk0d2g4UlFZdVlsZGZrWWE5bWZ6VmdjcUl0MThVa2hhdGdtSV9kZXVTaXYwbVdZMGlPOEJIc0lDbXZDX1RDams2ZXcxUEQyWkpaZjh1dXVEUUxXQ3hVM3BxRWRKQ05UR0ZZbUswN21LZXR3aFdVRGNsRFpGTWRVWFY5U1HSAY8BQVVfeXFMUGk5bHU1N3VzSURFOHJfR0tRRzVtWkhRNDROX29icVFhU21pOUc5aFhxV3ZWMG40TThYX1JlODBfd2JpSlAzeTM5c0dHOVJGa1Q0dUdBWjkzMjh4OV85ZHZLTDJmaDA4eGZPOTZFcjBsejdCc1ozNkVmZnZCLXFiVlpXYjRFbnhPT3JmLWt3MXc?oc=5",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "CNN (manchete no feed do Google News)",
+     "url": "https://news.google.com/rss/search?q=Pentagon%20OR%20CIA%20OR%20FBI%20OR%20NSA%20OR%20Hegseth%20OR%20CENTCOM%20when:1d&hl=en-US&gl=US&ceid=US:en",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Departamento de Guerra dos EUA (via Google News)",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVEtqLTZuMGp3bEZhOFNzTldyeE4zSmFWQ2h5MDNvejIwREpGVXhfdHNIRzFIUGhRTXduMFJsYlcwMDJvcjdnSGRCN2FJQ2tsSTZUZXptWlplQW03Rk02R1MxR19sRUc2bTktUURTRGZlMHR5YUg1Njh1cGdMaFhXODNORHE3b1lFRjhGUHdzTVlwSFlJUHREVmp6ZWRrUUdTQk5OLWpEeTFYVHBHcy02Nko0Y1hmb3Z2ZEpycjZCLUJOLWhkR0lfUFlNUDhCWGlVQ3dBMk1KaXg?oc=5",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Departamento de Guerra dos EUA (via Google News)",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1pIQURQVThzemloYXV1OGVTR2NGVVQwODlTdFJEM1AzQUJVaGVCYjBSeDlQRTdrNVE4Sl9EdFVFd0hZLXZxUzdRSVNzcUhkbWtLamFzMkF5MUhhb3ZEaVJRUXNpWkZHdktzeVVVeEhZd1JXUWpzZ1UzVmx2S2ZiZUFCQmJRNERMRHJWUXQ0Vi1tR0NXYU5VNFRaSWxrUWd6aGNhUG42QzhKNWxSanVDRHVBZmVlaEhyZVhJSVBKOTh0YWRfaUJ6ZFREYzlkc05q?oc=5",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Yahoo (manchete no feed do Google News)",
+     "url": "https://news.google.com/rss/search?q=Pentagon%20OR%20CIA%20OR%20FBI%20OR%20NSA%20OR%20Hegseth%20OR%20CENTCOM%20when:1d&hl=en-US&gl=US&ceid=US:en",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "palantir-losapio-cisa-tester-dick",
+   "data": "2026-11-10",
+   "tabuleiro": "maquinas",
+   "manchete": "Trump indica o chefe de segurança da Palantir para dirigir a CISA; a empresa contrata o ex-senador Jon Tester, e o TBIJ revela que Cressida Dick, ex-chefe da polícia de Londres, é consultora paga dela",
+   "narrativa": "Jon Tester diz que o acordo é de consultoria, sem lobby, e que a Palantir é uma organização que acredita em privacidade, segundo o Gizmodo. Cressida Dick diz que nunca fez lobby pela empresa junto a nenhuma organização ou pessoa, segundo o TBIJ. O The Register diz que LoSapio pode herdar uma equipe desfalcada e uma ou duas dores de cabeça políticas, cortesia do atual empregador. A deputada Melanie Stansbury já citou a Palantir como possível alvo de investigação, segundo o Gizmodo.",
+   "movimento": "Na segunda 9, Trump indicou Michael LoSapio, chefe de segurança da informação da Palantir, para dirigir a CISA, a agência de ciberdefesa dos EUA, sem diretor confirmado pelo Senado desde janeiro de 2025. O Senado precisa confirmar, e a agência se refaz depois de cortes de pessoal. Na noite de segunda, saiu a notícia de que a Palantir contratou o ex-senador democrata Jon Tester como consultor para a área de governo. O Gizmodo lembra que os democratas assumem a Câmara e o Senado no ano que vem e que o que mais atrai críticas são os contratos com a Segurança Interna, como o ImmigrationOS, feito para as deportações do ICE. Nesta terça, o TBIJ revelou que Cressida Dick é consultora paga da Palantir desde setembro de 2025 e contou um contrato novo de £10 milhões, por cinco anos, com as polícias de Bedfordshire, Cambridgeshire e Hertfordshire; um grupo de polícias das East Midlands não renovou o seu. A empresa já tem um contrato de £9 milhões para o sistema de licenças de armas usado por todas as polícias do Reino Unido. Trabalhadores da saúde vão entregar a Andy Burnham, na quinta 12, um abaixo-assinado pela saída da Palantir do NHS, segundo o Socialist Worker.",
+   "leitura": "A Palantir aparece dos dois lados da porta entre empresa e governo: um executivo dela pode comandar a ciberdefesa americana, e dois ex-servidores públicos de peso viraram consultores (provável). O Gizmodo liga a contratação de Tester ao escrutínio que pode vir com o Congresso democrata, e o TBIJ diz que os esforços da empresa provavelmente ganharam força com Dick; os dois negam lobby. Leitura contrária (hipótese): a indicação ainda depende do Senado, polícias das East Midlands deixaram o contrato, e nenhuma fonte mostra a empresa prevendo comportamentos.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, que tem parceria com a Palantir e a AWS para levar o Claude a órgãos de defesa e inteligência dos EUA (anunciada em novembro de 2024). Leia com desconfiança.",
+   "acrescentada": "19h",
+   "analise": "No tabuleiro, a Espionagem Privada passou o dia pondo peças dentro de casas de governo. O lance mais forte é o de Michael LoSapio: se o Senado confirmar, um executivo da casa Palantir comanda a CISA, que a lista não cita e que o jogo põe na Deep State americana como hipótese. O segundo é Jon Tester, ex-senador democrata, posto como consultor para a área de governo quando os democratas se preparam para assumir as duas casas do Congresso, onde a deputada Melanie Stansbury já citou a empresa como possível alvo. O terceiro cruza o Atlântico: Cressida Dick, ex-chefe da polícia de Londres, assessora a Palantir desde setembro de 2025, e a empresa fechou £10 milhões com três polícias do leste inglês. Para a hipótese da lista sobre a Palantir, o sinal é a favor e provável: contratos com polícias, as licenças de armas do Reino Unido e o ImmigrationOS feito para o ICE. Falta a parte de prever comportamentos, que nenhuma fonte mostra, e Tester diz que a empresa não monta grandes bancos de dados. O risco do player vem da política: o Congresso democrata, o abaixo-assinado no NHS e as polícias das East Midlands que não renovaram. Indicar LoSapio não soma pontos no placar Trump e China, porque nenhuma fonte liga o caso à China. Vigiar: o caminho da indicação no Senado e a entrega do abaixo-assinado na quinta 12.",
+   "emJogo": [
+    "Palantir",
+    "Michael LoSapio",
+    "Jon Tester",
+    "Cressida Dick",
+    "Melanie Stansbury",
+    "Andy Burnham",
+    "CISA",
+    "ICE",
+    "NHS",
+    "Donald Trump",
+    "TBIJ"
+   ],
+   "fontes": [
+    {
+     "nome": "MeriTalk",
+     "url": "https://www.meritalk.com/articles/trump-nominates-palantirs-losapio-to-lead-cisa/",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Nextgov/FCW",
+     "url": "https://www.nextgov.com/cybersecurity/2026/11/trump-nominates-palantir-security-chief-michael-losapio-lead-cisa/417141/",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "The Register",
+     "url": "https://www.theregister.com/security/2026/11/10/trump-taps-palantir-security-chief-to-run-battered-us-cyber-defense-agency/5308763",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Gizmodo",
+     "url": "https://gizmodo.com/palantir-hires-former-democratic-senator-and-braces-for-political-backlash-2000837206",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Gizmodo",
+     "url": "https://gizmodo.com/palantir-hires-former-democratic-senator-and-braces-for-political-backlash-2000837206",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Gizmodo",
+     "url": "https://gizmodo.com/palantir-hires-former-democratic-senator-and-braces-for-political-backlash-2000837206",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Gizmodo",
+     "url": "https://gizmodo.com/palantir-hires-former-democratic-senator-and-braces-for-political-backlash-2000837206",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "NationofChange (TBIJ)",
+     "url": "https://www.nationofchange.org/2026/11/10/exclusive-ex-met-police-chief-is-paid-adviser-for-palantir/",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "NationofChange (TBIJ)",
+     "url": "https://www.nationofchange.org/2026/11/10/exclusive-ex-met-police-chief-is-paid-adviser-for-palantir/",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "NationofChange (TBIJ)",
+     "url": "https://www.nationofchange.org/2026/11/10/exclusive-ex-met-police-chief-is-paid-adviser-for-palantir/",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "NationofChange (TBIJ)",
+     "url": "https://www.nationofchange.org/2026/11/10/exclusive-ex-met-police-chief-is-paid-adviser-for-palantir/",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "NationofChange (TBIJ)",
+     "url": "https://www.nationofchange.org/2026/11/10/exclusive-ex-met-police-chief-is-paid-adviser-for-palantir/",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "NationofChange (TBIJ)",
+     "url": "https://www.nationofchange.org/2026/11/10/exclusive-ex-met-police-chief-is-paid-adviser-for-palantir/",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Socialist Worker",
+     "url": "https://socialistworker.co.uk/news/workers-campaign-to-end-palantirs-nhs-contract/",
+     "data": "2026-11-10"
+    }
+   ]
   }
  ],
  "editais": [
@@ -296,863 +581,2194 @@
   }
  ],
  "mapa": {
-  "noticias": [
-   {
-    "n": 1,
-    "id": "ucrania-russia-abu-dhabi",
-    "rotulo": "Rússia e Ucrânia conversam em Abu Dhabi",
-    "ganham": [
-     {
-      "ator": "espionagem-privada",
-      "porque": "A Palantir virou a primeira investidora da empresa de Fedorov que fará interceptores contra drones russos a jato; a Rússia lançou 105 deles na véspera da rodada.",
-      "confianca": "hipotese"
-     },
-     {
-      "ator": "deep-state-europa-asia",
-      "porque": "A Rússia chega à mesa com o diesel liberado pelos EUA. Pôr a Rússia no bloco é hipótese da lista.",
-      "confianca": "hipotese"
-     }
-    ],
-    "perdem": [
-     {
-      "ator": "deep-state-europa-asia",
-      "porque": "Segundo a AP, drones ucranianos puseram fogo na KINEF, uma das maiores refinarias russas, na véspera da rodada, e Kiev voltou a atacar refinarias em outubro. Pôr a Rússia no bloco é hipótese da lista.",
-      "confianca": "hipotese"
-     }
-    ]
-   },
-   {
-    "n": 2,
-    "id": "trump-ira-guerra-improvavel",
-    "rotulo": "Trump cobra acordo e cerca o Irã",
-    "ganham": [],
-    "perdem": [
-     {
-      "ator": "deep-state-europa-asia",
-      "porque": "O Irã, membro da OCX, perde rotas: o Comando Central diz ter desviado 147 navios desde julho, e o Iron Gate, segundo o Telegraph, quer cortar os corredores do Irã com a Rússia e a China. Ligar a OCX ao bloco é hipótese da lista.",
-      "confianca": "hipotese"
-     },
-     {
-      "ator": "core-financeiro",
-      "porque": "A imprensa liga a guerra à alta do petróleo, e o Fed, território do bloco, segurou os juros citando a geopolítica, com dois votos por alta. O elo entre os fatos é leitura nossa.",
-      "confianca": "hipotese"
-     }
-    ]
-   },
-   {
-    "n": 3,
-    "id": "cop31-abre-antalya",
-    "rotulo": "COP31 abre em Antalya sem os EUA",
-    "ganham": [
-     {
-      "ator": "core-financeiro",
-      "porque": "O JPMorgan manda banqueiros a Antalya e diz que a meta de eletrificação cabe na sua iniciativa de US$ 1,5 trilhão; HSBC, Citi e Bank of America também mandam gente. O ganho é perspectiva, não fato.",
-      "confianca": "hipotese"
-     },
-     {
-      "ator": "empresas-controle",
-      "porque": "Gestoras como a Aegon e a EOS, da Federated Hermes, veem na meta de eletrificação uma nova frente de investimento. O ganho depende de os acordos saírem.",
-      "confianca": "hipotese"
-     },
-     {
-      "ator": "deep-state-europa-asia",
-      "porque": "A China quer pôr o comércio de tecnologia limpa na pauta, e a Rússia, com os sauditas, trava o programa de cortes de emissão, segundo o Climate Home. Pôr China e Rússia no bloco é hipótese da lista.",
-      "confianca": "hipotese"
-     }
-    ],
-    "perdem": [
-     {
-      "ator": "oligarquia-digital",
-      "porque": "As ações de tecnologia caíram com a aposta em regras mais duras de energia para data centers após as eleições nos EUA, e a COP31 traz o peso da IA no clima. A fonte não nomeia as empresas; ligar à Big Tech é hipótese.",
-      "confianca": "hipotese"
-     },
-     {
-      "ator": "nova-ordem",
-      "porque": "A COP31, palco da pauta verde que a lista põe com o bloco, abre menor: 77 chefes de governo devem falar, um terço a menos que no auge da COP28, e os EUA seguem fora.",
-      "confianca": "hipotese"
-     }
-    ]
-   }
-  ],
   "players": [
    {
     "id": "core-financeiro",
-    "papel": "Entra pelo JPMorgan, atrás de negócios na COP31, e pelo Fed, que segura os juros com a guerra no fundo. Que formem um bloco é hipótese da lista.",
-    "fez": "O JPMorgan manda banqueiros de investimento a Antalya. O Fed manteve os juros entre 3,75% e 4% ao ano em 28/10, com dois votos por alta.",
-    "disse": "Luke Nelson, do JPMorgan: a meta de eletrificação é onde o banco já está focado, e não dá para eletrificar sem uma rede elétrica que funcione.",
-    "confianca": "provavel",
-    "noticias": [
-     2,
-     3
-    ],
-    "fontes": [
+    "dia": "O Core Financeiro jogou com o preço do dinheiro. Na terça 10, em Londres, o governador do Fed Christopher Waller apoiou subir os juros em 0,25 ponto em dezembro e quer pensar em 0,5 se o núcleo da inflação ao consumidor de outubro vier em 0,3% ou mais no mês. Ele fala por si. Os números dele: PCE de 3,7% em 12 meses em setembro, núcleo de 3,1%, desemprego de 4,1%. Parte da pressão vem de Ormuz, onde seguro e troca de carga entre navios somam US$ 20 a 30 por barril, segundo relatos que ele cita, e do equipamento da IA. Na segunda 9, a bolsa subiu forte (S&P 500 +2,3%, Nasdaq +2,7%) com o Brent em queda de 5,8%, segundo a AP. No mesmo pregão, a Nvidia caiu cerca de 4% enquanto o índice de chips SOX subia quase 7%. Os grandes bancos ficaram calados sobre o caso Huang: o Goldman não o citou, o Citi não opinou, e JPMorgan, Evercore e Jefferies não publicaram nada. Quem falou em sucessão foram vozes de fora, como Dan Ives e Dan Niles. Que Fed, bolsa e bancos joguem como bloco é hipótese da lista.",
+    "ganhos": [
      {
-      "nome": "Bloomberg (Energy Connects)",
-      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
-      "data": "2026-11-09",
-      "trecho": "The electrification ambition gives us more to latch on to and it is exactly where we are focused anyway"
+      "texto": "Wall Street fechou a segunda 9 em alta forte: S&P 500 +2,3%, Dow +2,2% e Nasdaq +2,7%, com o Brent em queda de 5,8%, segundo a AP.",
+      "confianca": "provavel"
      },
      {
-      "nome": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-      "data": "2026-10-28",
-      "trecho": "uncertainty remains elevated owing, in part, to geopolitical developments"
+      "texto": "O Fed mostra a mão no preço do dinheiro: Waller fala em subir os juros em dezembro, 0,25 ou 0,5 ponto. Ler isso como ganho de poder do bloco é hipótese.",
+      "confianca": "hipotese"
+     },
+     {
+      "texto": "Na segunda, enquanto a Nvidia caía, as outras ações de chips subiam (o SOX, quase 7%): quem estava nelas ganhou. Ligar esse ganho ao player é hipótese.",
+      "confianca": "hipotese"
+     },
+     {
+      "texto": "Morgan Stanley e JPMorgan estão entre os bancos esperados na estreia da Anthropic na bolsa (FT, 7/9) e podem levar comissão. Sem data. Conflito: escreve o Claude, da Anthropic.",
+      "confianca": "hipotese"
+     }
+    ],
+    "perdas": [
+     {
+      "texto": "A inflação escapa da mão do Fed: PCE de 3,7% em 12 meses em setembro e núcleo de 3,1%, acima da meta de 2%, nos números de Waller.",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "A pauta dos juros fica presa a Ormuz: seguro e troca de carga entre navios somam US$ 20 a 30 por barril, segundo relatos que Waller cita, e o bloco não controla isso.",
+      "confianca": "hipotese"
+     },
+     {
+      "texto": "Quem tem ações da Nvidia perdeu valor em dois pregões, mais de US$ 470 bilhões segundo a Reuters; que fundos e bancos estejam entre os maiores perdedores é hipótese.",
+      "confianca": "provavel"
+     }
+    ],
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Federal Reserve (discurso de Waller)",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+      "data": "2026-11-10",
+      "trecho": "I would still support a 25 basis point increase"
+     },
+     {
+      "nome": "AP (WTOP)",
+      "url": "https://wtop.com/news/2026/11/how-major-us-stock-indexes-fared-monday-11-9-2026/",
+      "data": "2026-11-09",
+      "trecho": "The S&P 500 rose 173.08 points, or 2.3%, to 7,549.94."
+     },
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-10",
+      "trecho": "didn't mention the issue once"
      }
     ],
     "saldo": "disputa"
    },
    {
     "id": "deep-state-eua",
-    "papel": "Entra pela inteligência do Ocidente, que Kiev diz ter perdido (a AP não nomeia agência), e pelo CFR, que explicou a COP31. Juntar as duas peças num bloco é hipótese da lista.",
-    "fez": "Segundo Zelensky, Kiev ficou sem os avisos de inteligência do Ocidente sobre mísseis russos (AP, 15/10). O CFR publicou em 5/11 um guia da COP31.",
-    "disse": "As agências não falaram nas fontes lidas. O CFR diz que a ausência dos EUA vem num momento decisivo para o processo das COPs.",
-    "confianca": "provavel",
-    "noticias": [
-     1,
-     3
-    ],
-    "fontes": [
+    "dia": "Dia de cerco e de ataque para a Deep State americana. O cerco caiu no Pentágono: uma semana depois da eleição de 3/11, que deu o Congresso aos democratas, a Câmara chegou perto de uma votação preliminar do impeachment de Pete Hegseth, secretário de Guerra. O pedido do republicano Thomas Massie tem 8 artigos, da guerra ao Irã sem aval do Congresso à captura de Maduro; são acusações, sem julgamento. Hegseth chama o processo de 'farsa' e tem o apoio de Trump, que lhe deu nota A+ segundo o The Hill, e de Vance. Até as 17h19 de Brasília, não houve voto. O ataque veio no caso Nvidia. Um memorando da inteligência ligou Alice Huang, ex-executiva da Megaspeed, ao serviço secreto chinês, e Rubio levou o alerta a Trump em maio, segundo o NYT. O Departamento de Justiça investiga a Megaspeed na esfera criminal, o FBI examina se Jensen Huang foi alvo de inteligência estrangeira, segundo a Reuters, e Brian Mast diz estar pronto para intimar Huang. Nas manchetes ainda: um soldado americano preso no Reino Unido sob suspeita de espionagem ligada à Rússia e a história de quem ajudou a CIA a operar em segredo no México. Pôr essas casas e peças no player é hipótese da lista.",
+    "ganhos": [
      {
-      "nome": "AP (Click2Houston)",
-      "url": "https://www.click2houston.com/business/2026/10/15/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-after-brief-truce/",
-      "data": "2026-10-15",
-      "trecho": "Ukraine in recent days was denied the usual Western intelligence on Russian ballistic missile strikes"
+      "texto": "Hegseth segue no cargo com apoio público de Trump, que lhe deu nota A+ segundo o The Hill, e de Vance; até as 17h19 de Brasília, a Câmara não tinha votado.",
+      "confianca": "provavel"
      },
      {
-      "nome": "Council on Foreign Relations (CFR)",
-      "url": "https://www.cfr.org/articles/cop31-in-turkey-what-to-expect-at-the-2026-un-climate-summit",
-      "data": "2026-11-05",
-      "trecho": "comes during a consequential time for the COP process"
+      "texto": "O alerta da inteligência no caso Nvidia ganhou peso público: o Congresso ameaça intimar Huang, e a Megaspeed está sob investigação criminal no Departamento de Justiça.",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "O Pentágono anunciou com a Polônia a intenção de ampliar a cooperação militar, segundo o Departamento de Guerra.",
+      "confianca": "provavel"
+     }
+    ],
+    "perdas": [
+     {
+      "texto": "O chefe do Pentágono vira alvo de votação de impeachment por guerras sem aval do Congresso, uma semana depois da derrota republicana na eleição de 3/11.",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "Um soldado americano foi preso no Reino Unido sob suspeita de espionagem ligada à Rússia. Só a manchete foi lida, e suspeita não é prova.",
+      "confianca": "hipotese"
+     },
+     {
+      "texto": "O aviso de maio a Trump não mudou nada em público até a reportagem: Trump diz ter sabido do caso há pouco e segue elogiando Huang.",
+      "confianca": "hipotese"
+     }
+    ],
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "AP (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUNXMkxGenZWcWlHclR5OG1zTlBOY1FCaktDemppTUVxd1R6aVdEU0t1Yld1U1h2empESzVJWXJxa0VYREVJenNGbVg4cmdKY3RkYkdwbmdsZGJiWmF2Y280dDYzbjJkcnRWbEp5MjJ3YzlUUEcySW5PcEYydzI4OHJoNWhKSHZvTlhMd3NRMll3VEwxTkpJOWhyUnFQV3dneTVV?oc=5",
+      "data": "2026-11-10",
+      "trecho": "House nears test vote on impeaching Hegseth"
+     },
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-09",
+      "trecho": "The DOJ is now conducting a criminal inquiry into Megaspeed."
+     },
+     {
+      "nome": "IBTimes UK",
+      "url": "https://www.ibtimes.co.uk/massie-impeachment-resolution-pete-hegseth-1830891",
+      "data": "2026-11-08",
+      "trecho": "Democrats won control of both chambers"
      }
     ],
     "saldo": "disputa"
    },
    {
     "id": "empresas-controle",
-    "papel": "Entra pelas gestoras que vão à COP31 atrás da eletrificação. Think tanks e empresas militares da lista não agiram na janela. O bloco é hipótese.",
-    "fez": "Gestoras como a Aegon AM e a EOS, da Federated Hermes, comentaram a pauta da COP31 à Bloomberg e veem na eletrificação uma frente de investimento.",
-    "disse": "A Aegon elogia o foco da presidência turca em tecnologia e infraestrutura que o mercado já entende; a EOS fala numa megatendência.",
-    "confianca": "provavel",
-    "noticias": [
-     3
-    ],
-    "fontes": [
+    "dia": "Dia parado para as peças do player. Nas buscas, BlackRock, Amentum, Constellis, Heritage e Brookings não tiveram fato novo; a RAND tem dois estudos de 9/11, segundo a busca, mas a página não abriu. Quem se mexeu foram duas casas de ativos críticos da lista, pela mão de governos. Nas terras raras, a China anunciou na segunda 9 a extensão por dois meses, até 10 de janeiro, da pausa nos controles de exportação de alguns minerais críticos, que vencia nesta terça. A trégua chega antes do encontro de Trump e Xi na APEC, em Shenzhen. A China controla 91% do refino das terras raras de ímãs. No petróleo, o Brent caiu abaixo de US$ 90 na manhã de terça, pela primeira vez desde agosto, uns 25% abaixo do pico do fim de outubro, acima de US$ 117. A Oilprice cita a mediação do Catar e um analista que lembra a fala de Trump de que novos ataques ao Irã não seriam necessários. Na COP31, o anfitrião Erdoğan elogiou o novo petróleo de Gabar. Nenhuma fonte lida cita fundos. Hoje quem mexeu nos ativos foram Estados, o que pesa contra a hipótese h-ativos (leitura nossa).",
+    "ganhos": [
      {
-      "nome": "Bloomberg (Energy Connects)",
-      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
-      "data": "2026-11-09",
-      "trecho": "It is good to see the presidency focusing on technologies and infrastructure the finance industry already understands"
+      "texto": "A casa das terras raras escapou do choque desta terça: sem a prorrogação, a pausa vencia e os controles de exportação voltariam. Agora a trégua vai até 10/1 (hipótese de ganho).",
+      "confianca": "hipotese"
      }
     ],
-    "saldo": "ganha"
+    "perdas": [
+     {
+      "texto": "O Brent caiu abaixo de US$ 90 pela primeira vez desde agosto, uns 25% abaixo do pico de outubro: a casa do petróleo perdeu peso com a aposta na diplomacia no Oriente Médio.",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "A torneira das terras raras segue com Pequim, que controla 91% do refino das terras raras de ímãs e deu só dois meses de prazo. O ativo da lista fica com outro player (hipótese).",
+      "confianca": "hipotese"
+     },
+     {
+      "texto": "O roteiro da COP30 para sair do carvão, do petróleo e do gás ganhou apoio de Alemanha, Holanda, Reino Unido e Austrália, mas cada país escolhe o que adota (pressão fraca, hipótese).",
+      "confianca": "hipotese"
+     }
+    ],
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "The National",
+      "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+      "data": "2026-11-09",
+      "trecho": "China has suspended export controls on some critical minerals for two months"
+     },
+     {
+      "nome": "Oilprice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Crude-Falls-Below-90-for-First-Time-Since-August.html",
+      "data": "2026-11-10",
+      "trecho": "Brent Crude Falls Below $90 for First Time Since August"
+     },
+     {
+      "nome": "The National",
+      "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+      "data": "2026-11-09",
+      "trecho": "China controls 60 per cent of global mined production of magnet rare earths and 91 per cent of global refined output"
+     }
+    ],
+    "saldo": "disputa"
    },
    {
     "id": "oligarquia-digital",
-    "papel": "Entra pelos data centers de IA, cobrados na bolsa e na COP31. As fontes não nomeiam Google, Meta, Amazon nem Microsoft; a ligação é hipótese.",
-    "fez": "Sofreu: as ações de tecnologia caíram com a aposta em regras mais duras de energia e ambiente para data centers, diz a Bloomberg.",
-    "confianca": "provavel",
-    "noticias": [
-     3
-    ],
-    "fontes": [
+    "dia": "Dia de escândalo na casa vizinha. A Nvidia, que a lista põe ao lado da Big Tech, foi abalada pela relação de Jensen Huang com Alice Huang, ex-executiva da Megaspeed, de Singapura, que a inteligência americana liga ao serviço secreto chinês (a China nega). No domingo 8, Huang admitiu a infidelidade, pediu desculpas e seguiu no cargo. O conselho contratou o ex-procurador Joon H. Kim e o escritório Wachtell Lipton para investigar e diz não ver dano à segurança nacional. A ação caiu 4,3% na segunda e mais de 6% na terça, rumo a perder mais de US$ 470 bilhões em dois dias, e a Microsoft passou a Nvidia como a segunda empresa mais valiosa do mundo, segundo a Reuters. A Reuters diz ainda que a relação ajudou a levar ao menos US$ 7,5 bilhões em chips a empresas chinesas, dado que não pôde verificar. No X, Elon Musk apoiou Huang. Fora do escândalo, o Google abriu o Gemini 4 Carbon a desenvolvedores pagantes. Segundo a 24/7 Wall St, Alphabet, Nvidia e Microsoft estão entre as sete que vão pôr US$ 26 bilhões na estreia da Anthropic, sem confirmação (conflito: escreve o Claude, da Anthropic). Que essas casas joguem juntas é hipótese da lista.",
+    "ganhos": [
      {
-      "nome": "Bloomberg (Energy Connects)",
-      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
-      "data": "2026-11-09",
-      "trecho": "tech-stock selloff was fueled by anticipation that the results of the US midterms will lead to more AI regulations"
+      "texto": "A Microsoft passou a Nvidia e virou a segunda empresa mais valiosa do mundo, com a queda da rival, segundo a Reuters.",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "O Google abriu o Gemini 4 Carbon a desenvolvedores pagantes e aos assinantes do AI Ultra, a US$ 2 por milhão de tokens de entrada até 30 de novembro.",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "Huang segue CEO durante a investigação, e Elon Musk e Shaun Maguire, da Sequoia, o defendem em público.",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "Alphabet, Nvidia e Microsoft estão entre as sete que vão pôr dinheiro na estreia da Anthropic, segundo a 24/7 Wall St. Sem confirmação. Conflito: escreve o Claude, da Anthropic.",
+      "confianca": "hipotese"
      }
     ],
-    "saldo": "perde"
+    "perdas": [
+     {
+      "texto": "A Nvidia caiu 4,3% na segunda e mais de 6% na terça, rumo a perder mais de US$ 470 bilhões em dois dias, segundo a Reuters.",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "Huang, a peça mais forte da casa vizinha, está sob apuração do conselho, e o FBI examina se ele foi alvo de inteligência estrangeira, segundo a Reuters. Ser citado não é prova de crime.",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "Huang perde força em Washington: Brian Mast fala em intimá-lo, e projetos para limitar a venda de chips de IA à China ganham força no Congresso.",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "O SoftBank teve prejuízo de cerca de US$ 7 bilhões no trimestre, segundo manchete da Reuters; ler isso como freio nos data centers do player é hipótese.",
+      "confianca": "hipotese"
+     }
+    ],
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Reuters (The Standard)",
+      "url": "https://www.thestandard.com.hk/finance/article/348113/Nvidia-heads-for-470-billion-two-day-wipeout-as-CEO-affair-fallout-deepens",
+      "data": "2026-11-10",
+      "trecho": "putting the chip giant on track to shed more than $470 billion"
+     },
+     {
+      "nome": "Nvidia (comunicado dos conselheiros independentes)",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
+      "data": "2026-11-10",
+      "trecho": "to conduct a thorough and independent investigation"
+     },
+     {
+      "nome": "Reuters (The Standard)",
+      "url": "https://www.thestandard.com.hk/finance/article/348113/Nvidia-heads-for-470-billion-two-day-wipeout-as-CEO-affair-fallout-deepens",
+      "data": "2026-11-10",
+      "trecho": "allowing Microsoft MSFT.O to overtake the AI bellwether"
+     }
+    ],
+    "saldo": "disputa"
    },
    {
     "id": "deep-state-europa-asia",
-    "papel": "Entra pela Rússia, pelo Irã e pela China, membros da OCX. Pôr esses países no bloco é hipótese da lista; a OCX e o BRICS não agiram na janela.",
-    "fez": "A Rússia lançou 317 drones na véspera da rodada, diz Kiev. O Irã sofre cerco por mar e por terra. A China quer o comércio de tecnologia limpa na COP31.",
-    "disse": "O Irã diz que Ormuz só reabre com suas condições atendidas. A Guarda Revolucionária diz que os americanos não vão atingir o objetivo com o Iron Gate.",
-    "confianca": "provavel",
-    "noticias": [
-     1,
-     2,
-     3
-    ],
-    "fontes": [
+    "dia": "O bloco jogou em três mesas. Em Abu Dhabi, na terça 10, a Rússia sentou com a Ucrânia e os enviados de Trump, Jared Kushner e Steve Witkoff. Vladimir Medinsky chefiou a delegação, e o primeiro dia durou quase quatro horas. Moscou segue cobrando a saída ucraniana de quatro regiões e a Ucrânia fora da Otan para sempre; na noite anterior, lançou 162 drones e um míssil balístico. Peskov quer manter o formato a três, e os chanceleres da França e da Alemanha dizem que vão às reuniões. Em Shenzhen, a China recebe a APEC em 18 e 19/11. Trump diz que vai e espera ver Xi e Putin; segundo o WSJ, citado pela Newsmax, Pequim quer declarações prontas e resultados definidos antes. Na segunda 9, Pequim estendeu até 10/1 a pausa nos controles de exportação de alguns minerais críticos e suspendeu por dois meses a tarifa de 24% sobre produtos dos EUA. No caso Nvidia, a chancelaria chinesa chamou de calúnia sem base a narrativa da espiã chinesa, enquanto projetos para limitar a venda de chips de IA à China ganham força no Congresso americano. Pôr Rússia, China e UE num bloco só é hipótese da lista. Irã, OCX, BRICS, OSCE e Bilderberg ficaram sem fato novo.",
+    "ganhos": [
      {
-      "nome": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit",
-      "data": "2026-09-01",
-      "trecho": "The SCO consists of Russia, China, India, Pakistan, Iran"
+      "texto": "A China, anfitriã da APEC, ganha a visita anunciada de Trump em 18 e 19/11 e, segundo o WSJ citado pela Newsmax, tenta fixar antes o roteiro do encontro.",
+      "confianca": "provavel"
      },
      {
-      "nome": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know",
-      "data": "2026-11-08",
-      "trecho": "The Americans cannot achieve their goal through this"
+      "texto": "A Rússia volta à mesa com os enviados de Trump em Abu Dhabi com as mesmas exigências: quatro regiões ucranianas e a Ucrânia fora da Otan.",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "Pequim segura a torneira das terras raras: controla 91% do refino das de ímãs e deu só dois meses de pausa, até 10/1 (hipótese de ganho).",
+      "confianca": "hipotese"
+     }
+    ],
+    "perdas": [
+     {
+      "texto": "Projetos para limitar a venda de chips de IA à China ganham força no Congresso, e Isaac Stone Fish, da Strategy Risks, espera controles de exportação mais duros.",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "A Megaspeed, que comprou mais de US$ 4,8 bilhões em chips da Nvidia em dois anos, está sob investigação criminal nos EUA; se a rota for cortada, a China perde um caminho (hipótese).",
+      "confianca": "hipotese"
+     },
+     {
+      "texto": "Kiev diz ter derrubado ou neutralizado 135 dos 162 drones russos da noite, 70 deles a jato.",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "As peças europeias do bloco (França e Alemanha, pela UE) dizem que vão às reuniões, mas o Kremlin quer manter o formato a três (hipótese).",
+      "confianca": "hipotese"
+     }
+    ],
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "ABC News",
+      "url": "https://abcnews.com/International/russia-ukraine-us-meet-abu-dhabi-talks-trump/story?id=137970621",
+      "data": "2026-11-10",
+      "trecho": "Moscow is demanding that Ukraine withdraw from four contested regions"
+     },
+     {
+      "nome": "Newsmax (via Yahoo)",
+      "url": "https://www.yahoo.com/news/politics/articles/us-china-clash-over-trump-002617931.html",
+      "data": "2026-11-10",
+      "trecho": "China wants prepared statements and predetermined outcomes"
+     },
+     {
+      "nome": "CBS News",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+      "data": "2026-11-09",
+      "trecho": "The so-called Chinese spy narrative is entirely baseless and constitutes slander and smear."
      }
     ],
     "saldo": "disputa"
    },
    {
     "id": "nova-ordem",
-    "papel": "Entra pelo Clube de Roma, lembrado por uma carta que pedia reformas nas COPs. Davos não apareceu na janela. Que o bloco mande na pauta é hipótese.",
-    "fez": "Segundo o Climate Home (29/10), o Clube cuidou da imprensa de uma carta aberta por reformas nas COPs e não respondeu sobre uma frase que sumiu dela.",
-    "disse": "Segundo o Climate Home, disse que suas ideias, construtivas e de apoio, foram mal interpretadas.",
-    "confianca": "provavel",
-    "noticias": [
-     3
+    "dia": "O dia da Nova Ordem passou pela COP31 e pela ONU. Na terça 10, segundo dia em Antalya, a presidência turca empurrou a meta 35x35: levar a eletricidade de cerca de 23% para 35% da energia final até 2035. Não está claro quem apoia. A presidência brasileira da COP30, de André Corrêa do Lago, apresentou o roteiro para sair do carvão, do petróleo e do gás, com planos nacionais até 2028; Alemanha, Holanda, Reino Unido e Austrália apoiaram, e a Índia elogiou. Nasceu a coalizão Electrify Now, de financiamento, com o Banco Mundial na co-presidência do plano de trabalho no ano que vem. Em Paris, num vídeo ao Fórum da Paz, Guterres disse que cooperar é a mais alta expressão da soberania e pediu regras para a IA. O anfitrião Erdoğan foi na contramão e elogiou o novo petróleo de Gabar. Dos 68.374 inscritos, 14.285 são convidados da Turquia, e houve caos no transporte. Os EUA seguem fora, único signatário que saiu do Acordo de Paris. Na quarta falam cerca de 42 líderes, entre eles Lula e o vice-presidente chinês Han Zheng. Davos e o Clube de Roma não apareceram na janela. Que essas casas formem um bloco é hipótese da lista.",
+    "ganhos": [
+     {
+      "texto": "O roteiro da COP30 para sair dos fósseis ganhou apoio público de Alemanha, Holanda, Reino Unido e Austrália, e elogio da Índia.",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "A pauta ganhou um canal de dinheiro: o Electrify Now, coalizão de financiamento, terá o Banco Mundial na co-presidência do plano de trabalho no ano que vem.",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "Guterres levou ao Fórum da Paz de Paris a tese de que cooperar é a mais alta expressão da soberania, com reforma do Conselho de Segurança e regras para a IA.",
+      "confianca": "hipotese"
+     }
     ],
+    "perdas": [
+     {
+      "texto": "O anfitrião Erdoğan elogiou o novo petróleo de Gabar no meio da COP, e a meta 35x35 segue sem clareza sobre quem a apoia.",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "O roteiro para sair dos fósseis é um processo em que cada país escolhe o que adota, e produtores devem resistir a pô-lo no texto negociado.",
+      "confianca": "hipotese"
+     },
+     {
+      "texto": "Caos no transporte nos dois primeiros dias, e 14.285 dos 68.374 inscritos são convidados da Turquia, o que pode dar peso ao anfitrião na sala.",
+      "confianca": "hipotese"
+     }
+    ],
+    "confianca": "provavel",
     "fontes": [
      {
       "nome": "Climate Home News",
-      "url": "https://www.climatechangenews.com/?p=91772",
-      "data": "2026-10-29",
-      "trecho": "The Club of Rome has yet to respond to my query about its disappearance."
+      "url": "https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/",
+      "data": "2026-11-10",
+      "trecho": "Germany, Netherlands, UK and Australia are among the countries that have publicly backed the COP30 roadmap."
+     },
+     {
+      "nome": "ONU (UN Press, SG/SM/23364)",
+      "url": "https://press.un.org/en/2026/sgsm23364.doc.htm",
+      "data": "2026-11-10",
+      "trecho": "cooperation is the highest expression of sovereignty"
+     },
+     {
+      "nome": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/",
+      "data": "2026-11-10",
+      "trecho": "Of the 68,374 people who signed up to attend in person, 14,285 are official guests of the host country."
      }
     ],
-    "saldo": "perde"
+    "saldo": "disputa"
    },
    {
     "id": "espionagem-privada",
-    "papel": "Entra pela Palantir, a peça que a lista dá ao bloco: põe dinheiro em interceptores para a Ucrânia e teve alta de 96% na receita com o governo dos EUA.",
-    "fez": "Em 13/10, virou a primeira investidora da empresa de Fedorov contra drones russos a jato. Em 2/11, contou alta de 96% na receita com o governo dos EUA.",
-    "disse": "Alex Karp, chefe da Palantir: a receita comercial nos EUA passou a do governo americano pela primeira vez na história da empresa.",
-    "confianca": "provavel",
-    "noticias": [
-     1
-    ],
-    "fontes": [
+    "dia": "A espionagem privada passou o dia mexendo peças entre a Palantir e governos. Na segunda 9, Trump indicou Michael LoSapio, chefe de segurança da informação da Palantir, para dirigir a CISA, a agência de ciberdefesa dos EUA, sem diretor confirmado pelo Senado desde janeiro de 2025. O Senado precisa confirmar. Na noite de segunda, saiu a notícia de que a Palantir contratou como consultor o ex-senador democrata Jon Tester, para a área de governo. Ele diz que não é lobby. Segundo o Gizmodo, os democratas assumem a Câmara e o Senado no ano que vem, a deputada Melanie Stansbury já citou a empresa como possível alvo de investigação, e o que mais atrai críticas são os contratos com a Segurança Interna, como o ImmigrationOS, feito para o ICE. Nesta terça, o TBIJ revelou que Cressida Dick, ex-chefe da polícia de Londres, é consultora paga da Palantir desde setembro de 2025, e contou um contrato novo de £10 milhões, por cinco anos, com três polícias do leste da Inglaterra. Dick nega lobby. São fatos a indicação, as contratações e o contrato. Ler tudo como uma rede a serviço do player é hipótese da lista.",
+    "ganhos": [
      {
-      "nome": "Janes",
-      "url": "https://www.janes.com/defence-intelligence-insights/defence-news/air/palantir-to-fund-ukrainian-interceptor-uav-company-targeting-russias-geran-5",
-      "data": "2026-10-13",
-      "trecho": "Palantir Technologies as its first investor"
+      "texto": "Trump indicou Michael LoSapio, chefe de segurança da Palantir, para dirigir a CISA. Se o Senado confirmar, um ex-executivo da casa comanda a ciberdefesa dos EUA.",
+      "confianca": "provavel"
      },
      {
-      "nome": "Palantir (SEC, 8-K)",
-      "url": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm",
-      "data": "2026-11-02",
-      "trecho": "U.S. government revenue grew 96% year-over-year and 18% quarter-over-quarter to $953 million"
+      "texto": "Fechou um contrato de cinco anos, de £10 milhões, com as polícias de Bedfordshire, Cambridgeshire e Hertfordshire, segundo o TBIJ.",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "Pôs o ex-senador democrata Jon Tester como consultor para a área de governo. O Gizmodo liga a contratação ao escrutínio que pode vir com o Congresso democrata.",
+      "confianca": "provavel"
      }
     ],
-    "saldo": "ganha"
-   }
-  ],
-  "pecas": [
-   {
-    "id": "palantir",
-    "nome": "Palantir",
-    "tipo": "peca",
-    "dono": "espionagem-privada",
-    "fez": "É a primeira investidora da empresa de Fedorov contra drones russos a jato (13/10). Em 2/11, contou US$ 953 milhões de receita do governo dos EUA, alta de 96%.",
-    "confianca": "provavel",
-    "noticias": [
-     1
+    "perdas": [
+     {
+      "texto": "Os democratas assumem a Câmara e o Senado no ano que vem, segundo o Gizmodo, e a deputada Melanie Stansbury já citou a Palantir como possível alvo de investigação.",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "O TBIJ expôs que Cressida Dick, ex-chefe da polícia de Londres, é consultora paga da Palantir desde setembro de 2025. Ela nega lobby.",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "Trabalhadores da saúde vão entregar um abaixo-assinado pedindo a saída da Palantir do NHS, segundo o Socialist Worker.",
+      "confianca": "provavel"
+     }
     ],
+    "confianca": "provavel",
     "fontes": [
      {
-      "nome": "Janes",
-      "url": "https://www.janes.com/defence-intelligence-insights/defence-news/air/palantir-to-fund-ukrainian-interceptor-uav-company-targeting-russias-geran-5",
-      "data": "2026-10-13",
-      "trecho": "Palantir Technologies as its first investor"
+      "nome": "MeriTalk",
+      "url": "https://www.meritalk.com/articles/trump-nominates-palantirs-losapio-to-lead-cisa/",
+      "data": "2026-11-09",
+      "trecho": "President Donald Trump on Nov. 9 nominated Michael LoSapio"
      },
      {
-      "nome": "Janes",
-      "url": "https://www.janes.com/defence-intelligence-insights/defence-news/air/palantir-to-fund-ukrainian-interceptor-uav-company-targeting-russias-geran-5",
-      "data": "2026-10-13",
-      "trecho": "designed to target jet-powered Russian UAVs"
+      "nome": "Gizmodo",
+      "url": "https://gizmodo.com/palantir-hires-former-democratic-senator-and-braces-for-political-backlash-2000837206",
+      "data": "2026-11-10",
+      "trecho": "Palantir just hired a former Democratic Senator as an adviser"
      },
      {
-      "nome": "Palantir (SEC, 8-K)",
-      "url": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm",
-      "data": "2026-11-02",
-      "trecho": "U.S. government revenue grew 96% year-over-year and 18% quarter-over-quarter to $953 million"
+      "nome": "NationofChange (TBIJ)",
+      "url": "https://www.nationofchange.org/2026/11/10/exclusive-ex-met-police-chief-is-paid-adviser-for-palantir/",
+      "data": "2026-11-10",
+      "trecho": "Palantir wins a major new contract worth £10m with a group of forces in the east of England"
+     }
+    ],
+    "saldo": "disputa"
+   }
+  ],
+  "casas": [
+   {
+    "id": "nvidia",
+    "nome": "Nvidia",
+    "dominio": "tecnologia",
+    "dono": "oligarquia-digital",
+    "aconteceu": "No domingo 8, o conselho abriu uma investigação independente e disse não ver dano à segurança nacional nem aos segredos da empresa. A ação caiu 4,3% na segunda e mais de 6% na terça (Reuters).",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "Nvidia (comunicado dos conselheiros independentes)",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
+      "data": "2026-11-10",
+      "trecho": "to conduct a thorough and independent investigation"
+     },
+     {
+      "nome": "Reuters (Devdiscourse)",
+      "url": "https://www.devdiscourse.com/article/international/4003591-nvidia-probes-whether-ceo-huang-was-target-of-foreign-spying-as-he-admits-affair",
+      "data": "2026-11-09",
+      "trecho": "no reason to believe that either US national security or Nvidia secrets were compromised"
+     },
+     {
+      "nome": "Reuters (The Standard)",
+      "url": "https://www.thestandard.com.hk/finance/article/348113/Nvidia-heads-for-470-billion-two-day-wipeout-as-CEO-affair-fallout-deepens",
+      "data": "2026-11-10",
+      "trecho": "shares fell more than 6% following a 4.3% drop on Monday"
      }
     ]
    },
    {
-    "id": "jpmorgan",
-    "nome": "JPMorgan Chase",
-    "tipo": "peca",
-    "dono": "core-financeiro",
-    "fez": "Manda banqueiros de investimento e executivos de sustentabilidade à COP31 e diz que a pauta cabe na sua iniciativa de US$ 1,5 trilhão, segundo a Bloomberg.",
+    "id": "megaspeed",
+    "nome": "Megaspeed (Singapura)",
+    "dominio": "tecnologia",
+    "dono": "",
+    "aconteceu": "Empresa de IA de Singapura onde Alice Huang foi executiva. Comprou mais de US$ 4,8 bilhões em chips da Nvidia em dois anos (NYT). Sob investigação criminal, diz que revisões não acharam desvio.",
     "confianca": "provavel",
-    "noticias": [
-     3
-    ],
     "fontes": [
      {
-      "nome": "Bloomberg (Energy Connects)",
-      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
-      "data": "2026-11-09",
-      "trecho": "which is sending a team of investment bankers and sustainability executives to the talks"
+      "nome": "Reuters (The Standard)",
+      "url": "https://www.thestandard.com.hk/finance/article/348113/Nvidia-heads-for-470-billion-two-day-wipeout-as-CEO-affair-fallout-deepens",
+      "data": "2026-11-10",
+      "trecho": "Alice Huang also held an executive position at Singapore-registered Megaspeed"
      },
      {
-      "nome": "Bloomberg (Energy Connects)",
-      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
       "data": "2026-11-09",
-      "trecho": "fits neatly into its own $1.5 trillion security and resilience initiative"
+      "trecho": "The DOJ is now conducting a criminal inquiry into Megaspeed."
      },
      {
-      "nome": "Bloomberg (Energy Connects)",
-      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
       "data": "2026-11-09",
-      "trecho": "as war continues to fuel oil and gas price volatility"
+      "trecho": "the reviews found no evidence of illicit chip transfers or other illegal activities."
+     }
+    ]
+   },
+   {
+    "id": "wall-street",
+    "nome": "Wall Street e as bolsas",
+    "dominio": "dinheiro",
+    "dono": "core-financeiro",
+    "aconteceu": "Na segunda 9, o S&P 500 subiu 2,3% e o Nasdaq, 2,7% (AP). A Nvidia caiu cerca de 4% enquanto o índice de chips SOX subia quase 7%. Os grandes bancos não opinaram sobre o caso Huang.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "AP (WTOP)",
+      "url": "https://wtop.com/news/2026/11/how-major-us-stock-indexes-fared-monday-11-9-2026/",
+      "data": "2026-11-09",
+      "trecho": "The S&P 500 rose 173.08 points, or 2.3%, to 7,549.94."
+     },
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-10",
+      "trecho": "Nvidia stock fell about 4% Monday, even as chip stocks"
+     },
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-10",
+      "trecho": "offered no opinion on the matter"
      }
     ]
    },
    {
     "id": "fed",
     "nome": "Federal Reserve (Fed)",
-    "tipo": "territorio",
+    "dominio": "dinheiro",
     "dono": "core-financeiro",
-    "fez": "Manteve os juros entre 3,75% e 4% em 28/10, com dois votos por alta, e citou a incerteza geopolítica. A imprensa liga a guerra com o Irã à alta do petróleo.",
-    "confianca": "provavel",
-    "noticias": [
-     2
-    ],
+    "aconteceu": "Em Londres, em 10/11, o governador Christopher Waller apoiou subir os juros em 0,25 ponto em dezembro e pensaria em 0,5 se o núcleo da inflação ao consumidor de outubro vier em 0,3% ou mais.",
+    "confianca": "fato",
     "fontes": [
      {
-      "nome": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-      "data": "2026-10-28",
-      "trecho": "uncertainty remains elevated owing, in part, to geopolitical developments"
+      "nome": "Federal Reserve (discurso de Waller)",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+      "data": "2026-11-10",
+      "trecho": "I would still support a 25 basis point increase"
      },
      {
-      "nome": "Bay News 9",
-      "url": "https://baynews9.com/fl/tampa/politics/2026/10/28/federal-reserve-interest-rate-steady",
-      "data": "2026-10-28",
-      "trecho": "the Iran war has caused spikes in oil and gas prices"
+      "nome": "Federal Reserve (discurso de Waller)",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+      "data": "2026-11-10",
+      "trecho": "a 50 basis point hike in the policy rate should be considered at the December meeting"
+     },
+     {
+      "nome": "Federal Reserve (agenda)",
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "data": "2026-11-10",
+      "trecho": "Speech by Governor Waller on the economic outlook"
      }
     ]
    },
    {
-    "id": "gestoras",
-    "nome": "Gestoras (Aegon AM e EOS)",
-    "tipo": "peca",
-    "dono": "empresas-controle",
-    "fez": "Comentaram a COP31 à Bloomberg: a Aegon vê na meta de eletrificação uma nova frente de investimento, e a EOS, da Federated Hermes, uma megatendência.",
+    "id": "casa-branca",
+    "nome": "Casa Branca",
+    "dominio": "governo",
+    "dono": "",
+    "aconteceu": "Trump deu nota A+ a Hegseth, segundo o The Hill. No caso Nvidia, disse na segunda que soube 'não faz muito tempo' e elogiou Huang; segundo o NYT, Rubio o alertou em maio.",
     "confianca": "provavel",
-    "noticias": [
-     3
-    ],
     "fontes": [
      {
-      "nome": "Bloomberg (Energy Connects)",
-      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
-      "data": "2026-11-09",
-      "trecho": "The COP31 electrification goal could become a new catalyst for investment"
+      "nome": "The Hill (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeV9DSHJLeEVZUXRSOWZZQV92eGVZelg0ZWxkZEtrX2lHRG0zVnZNVW9WYVYzNWNCVFVLOHZGSTBvYnpjeVFwdnR4bjRFTUZSSFlranVZWlB4U29jR3puQUhfNVdENTNESUotaXpoMW43THYxNlRLNkdzaUVHQzNwQkcwS0JrRENQejJLUG5xTdIBlAFBVV95cUxPdHdFS0E4NGRQbWNEZmFzamowLWRXbGNJMWtlaXJST0dQUE9GT2hDY3BubXJINUpNRGhlbXJuaWZScjEycHB0bFYwYWw1VEFkaW1tYllrc2lhdlBnNTdJZXhRb2hqRFpOMk1jREROaDNJV1d4U0NMLUFSTmlhN1NRX0VQVlI5UENBTzg2OGJYdE1MLS1Q?oc=5",
+      "data": "2026-11-10",
+      "trecho": "Trump gives Hegseth an A+"
      },
      {
-      "nome": "Bloomberg (Energy Connects)",
-      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-10",
+      "trecho": "Secretary of State and national security adviser Marco Rubio delivered the warning"
+     },
+     {
+      "nome": "CBS News",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
       "data": "2026-11-09",
-      "trecho": "mega-trend capturing a broad opportunity set for investors"
+      "trecho": "absolutely no idea that the person in question was a spy"
      }
     ]
    },
    {
-    "id": "cfr",
-    "nome": "Council on Foreign Relations (CFR)",
-    "tipo": "peca",
+    "id": "congresso-eua",
+    "nome": "Congresso dos EUA (Câmara e Senado)",
+    "dominio": "governo",
+    "dono": "",
+    "aconteceu": "Democratas ganharam as duas casas em 3/11. A Câmara chegou perto de votar o impeachment de Hegseth. Brian Mast diz estar pronto para intimar Huang, que tem até quarta 11 para responder.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "IBTimes UK",
+      "url": "https://www.ibtimes.co.uk/massie-impeachment-resolution-pete-hegseth-1830891",
+      "data": "2026-11-08",
+      "trecho": "Democrats won control of both chambers"
+     },
+     {
+      "nome": "AP (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUNXMkxGenZWcWlHclR5OG1zTlBOY1FCaktDemppTUVxd1R6aVdEU0t1Yld1U1h2empESzVJWXJxa0VYREVJenNGbVg4cmdKY3RkYkdwbmdsZGJiWmF2Y280dDYzbjJkcnRWbEp5MjJ3YzlUUEcySW5PcEYydzI4OHJoNWhKSHZvTlhMd3NRMll3VEwxTkpJOWhyUnFQV3dneTVV?oc=5",
+      "data": "2026-11-10",
+      "trecho": "House nears test vote on impeaching Hegseth as he decries 'political spectacle'"
+     },
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-10",
+      "trecho": "he's prepared to issue a subpoena to Nvidia CEO Jensen Huang over Huang's affair."
+     }
+    ]
+   },
+   {
+    "id": "pentagono",
+    "nome": "Pentágono (Departamento de Guerra)",
+    "dominio": "forca",
     "dono": "deep-state-eua",
-    "fez": "Publicou em 5/11 um guia da COP31: os EUA não mandam delegação oficial, mas congressistas e empresas americanas vão. Nas fontes, explica e não negocia.",
-    "confianca": "provavel",
-    "noticias": [
-     3
-    ],
+    "aconteceu": "O chefe, Pete Hegseth, virou alvo de votação de impeachment, deu a primeira coletiva desde maio e anunciou com a Polônia a intenção de ampliar a cooperação militar.",
+    "confianca": "fato",
     "fontes": [
      {
-      "nome": "Council on Foreign Relations (CFR)",
-      "url": "https://www.cfr.org/articles/cop31-in-turkey-what-to-expect-at-the-2026-un-climate-summit",
-      "data": "2026-11-05",
-      "trecho": "Members of Congress and U.S. businesses will still attend."
+      "nome": "Military Times (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTlZFcDFZZ05NbW1samdob1JlMGVHMUE1ZzRrTG9ia3YtVEEtTWdBSlktbndCUDdvYmtBYnRnQ29jWmJxY0otSWMyQ0w0d0JkX1E4LXZaRFdLaC10VmdRQVhNc20xdlljWEJKWEhUdG1Da3FuZElGWVlnZFBaMnl4aVZQOU5yNjR5Zmo2S1Z6UWVOVHpuaV9JdWVQNTJxdlpRTDdHcFp6LUVRUmpnLWxhQTFIUklDb1NLcnZCcFFEOEhmdmpnUkg0?oc=5",
+      "data": "2026-11-10",
+      "trecho": "Hegseth denounces 'farce' impeachment in first briefing since May"
      },
      {
-      "nome": "Council on Foreign Relations (CFR)",
-      "url": "https://www.cfr.org/articles/cop31-in-turkey-what-to-expect-at-the-2026-un-climate-summit",
-      "data": "2026-11-05",
-      "trecho": "will not send an official delegation"
+      "nome": "Departamento de Guerra dos EUA (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1pIQURQVThzemloYXV1OGVTR2NGVVQwODlTdFJEM1AzQUJVaGVCYjBSeDlQRTdrNVE4Sl9EdFVFd0hZLXZxUzdRSVNzcUhkbWtLamFzMkF5MUhhb3ZEaVJRUXNpWkZHdktzeVVVeEhZd1JXUWpzZ1UzVmx2S2ZiZUFCQmJRNERMRHJWUXQ0Vi1tR0NXYU5VNFRaSWxrUWd6aGNhUG42QzhKNWxSanVDRHVBZmVlaEhyZVhJSVBKOTh0YWRfaUJ6ZFREYzlkc05q?oc=5",
+      "data": "2026-11-10",
+      "trecho": "Hegseth, Polish Counterpart Announce Intent to Boost Military Cooperation"
+     }
+    ]
+   },
+   {
+    "id": "justica-fbi",
+    "nome": "Departamento de Justiça e FBI",
+    "dominio": "forca",
+    "dono": "deep-state-eua",
+    "aconteceu": "O Departamento de Justiça faz investigação criminal da Megaspeed (NYT). O FBI examina se Jensen Huang foi alvo de inteligência estrangeira, diz a Reuters; Trump: o FBI olha 'por outra questão'.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-09",
+      "trecho": "The DOJ is now conducting a criminal inquiry into Megaspeed."
+     },
+     {
+      "nome": "Reuters (The Standard)",
+      "url": "https://www.thestandard.com.hk/finance/article/348113/Nvidia-heads-for-470-billion-two-day-wipeout-as-CEO-affair-fallout-deepens",
+      "data": "2026-11-10",
+      "trecho": "the FBI is examining whether the 63-year-old Huang was targeted by a foreign intelligence operation"
+     },
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-09",
+      "trecho": "I know the FBI is looking into it in terms of something else"
      }
     ]
    },
    {
     "id": "inteligencia-eua",
-    "nome": "Inteligência do Ocidente",
-    "tipo": "peca",
+    "nome": "Inteligência dos EUA (CIA e outras)",
+    "dominio": "informacao",
     "dono": "deep-state-eua",
-    "fez": "Zelensky diz que Kiev ficou sem os avisos de sempre do Ocidente sobre mísseis russos. A AP não nomeia agência nem diz quem cortou, e Trump diz que o envio não parou.",
+    "aconteceu": "Um memorando da inteligência avaliou que Alice Huang servia ao serviço secreto chinês; Jensen Huang era visto como possível alvo. Segundo o NYT, Rubio levou o alerta a Trump em maio.",
     "confianca": "provavel",
-    "noticias": [
-     1
-    ],
     "fontes": [
      {
-      "nome": "AP (Click2Houston)",
-      "url": "https://www.click2houston.com/business/2026/10/15/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-after-brief-truce/",
-      "data": "2026-10-15",
-      "trecho": "Ukraine in recent days was denied the usual Western intelligence on Russian ballistic missile strikes"
+      "nome": "ForkLog",
+      "url": "https://forklog.com/en/nvidia-ceo-allegedly-targeted-by-chinese-intelligence-operation/",
+      "data": "2026-10-30",
+      "trecho": "Jensen Huang, whom U.S. authorities considered a potential target of the operation."
      },
      {
-      "nome": "AP (Click2Houston)",
-      "url": "https://www.click2houston.com/business/2026/10/15/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-after-brief-truce/",
-      "data": "2026-10-15",
-      "trecho": "stopped sharing intelligence with Ukraine"
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-10",
+      "trecho": "Secretary of State and national security adviser Marco Rubio delivered the warning"
+     },
+     {
+      "nome": "The New York Times (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdS1GbzltMHFZb0VRZ3dOSVdsWS1IY3cwVkJOd0lrTUVSOTZxRy16bHFqSFFQa1IxUlU0RjhtZlk3RlJqU2JSVVpxZHh1NGVXS2FVbDNCTEFDWnp1VGxFUlJLNGJyVlpmU3VnRDF5TXZBYlkyWDdIV0pjSjNZMktlLQ?oc=5",
+      "data": "2026-11-10",
+      "trecho": "The Man Who Helped the C.I.A. Secretly Operate in Mexico"
      }
     ]
    },
    {
-    "id": "clube-de-roma",
-    "nome": "Clube de Roma",
-    "tipo": "peca",
-    "dono": "nova-ordem",
-    "fez": "Segundo o Climate Home (29/10), cuidou da imprensa de uma carta de 22 cientistas e políticos por reformas nas COPs e não respondeu sobre uma frase sumida.",
+    "id": "palantir",
+    "nome": "Palantir Technologies",
+    "dominio": "tecnologia",
+    "dono": "espionagem-privada",
+    "aconteceu": "Teve o chefe de segurança indicado para a CISA, contratou o ex-senador Jon Tester como consultor e fechou £10 milhões em cinco anos com três polícias inglesas, diz o TBIJ.",
     "confianca": "provavel",
-    "noticias": [
-     3
-    ],
     "fontes": [
      {
-      "nome": "Climate Home News",
-      "url": "https://www.climatechangenews.com/?p=91772",
-      "data": "2026-10-29",
-      "trecho": "a series of reforms called for in an open letter signed by 22 eminent scientists and politicians"
-     },
-     {
-      "nome": "Climate Home News",
-      "url": "https://www.climatechangenews.com/?p=91772",
-      "data": "2026-10-29",
-      "trecho": "The Club of Rome has yet to respond to my query about its disappearance."
-     }
-    ]
-   },
-   {
-    "id": "data-centers",
-    "nome": "Data centers de IA",
-    "tipo": "territorio",
-    "dono": "oligarquia-digital",
-    "fez": "As ações de tecnologia caíram com a aposta em regras mais duras de energia para data centers após as eleições nos EUA, diz a Bloomberg, sem nomear empresas.",
-    "confianca": "provavel",
-    "noticias": [
-     3
-    ],
-    "fontes": [
-     {
-      "nome": "Bloomberg (Energy Connects)",
-      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "nome": "MeriTalk",
+      "url": "https://www.meritalk.com/articles/trump-nominates-palantirs-losapio-to-lead-cisa/",
       "data": "2026-11-09",
-      "trecho": "tech-stock selloff was fueled by anticipation that the results of the US midterms will lead to more AI regulations"
+      "trecho": "President Donald Trump on Nov. 9 nominated Michael LoSapio"
      },
      {
-      "nome": "Bloomberg (Energy Connects)",
-      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
-      "data": "2026-11-09",
-      "trecho": "tougher energy and environmental standards for data centers"
+      "nome": "Gizmodo",
+      "url": "https://gizmodo.com/palantir-hires-former-democratic-senator-and-braces-for-political-backlash-2000837206",
+      "data": "2026-11-10",
+      "trecho": "Palantir just hired a former Democratic Senator as an adviser"
      },
      {
-      "nome": "Council on Foreign Relations (CFR)",
-      "url": "https://www.cfr.org/articles/cop31-in-turkey-what-to-expect-at-the-2026-un-climate-summit",
-      "data": "2026-11-05",
-      "trecho": "a commitment encouraging countries, corporations, and investors to make artificial intelligence more sustainable"
+      "nome": "NationofChange (TBIJ)",
+      "url": "https://www.nationofchange.org/2026/11/10/exclusive-ex-met-police-chief-is-paid-adviser-for-palantir/",
+      "data": "2026-11-10",
+      "trecho": "Palantir wins a major new contract worth £10m with a group of forces in the east of England"
      }
     ]
    },
    {
-    "id": "russia",
-    "nome": "Rússia",
-    "tipo": "peca",
-    "dono": "deep-state-europa-asia",
-    "fez": "Lançou 317 drones na véspera da rodada, diz Kiev, e tem o diesel liberado pelos EUA. Na COP31, trava cortes de emissão com os sauditas.",
-    "confianca": "provavel",
-    "noticias": [
-     1,
-     3
-    ],
-    "fontes": [
-     {
-      "nome": "ABC News (AP)",
-      "url": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428",
-      "data": "2026-11-09",
-      "trecho": "Russia launched 317 drones of various types including 105 jet-powered drones at Ukraine overnight"
-     },
-     {
-      "nome": "Hydrocarbon Processing",
-      "url": "https://hydrocarbonprocessing.com/news/2026/10/us-hopes-diesel-deal-can-soften-moscow-on-peace-talks/",
-      "data": "2026-10-13",
-      "trecho": "to allow Russian diesel exports"
-     },
-     {
-      "nome": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/",
-      "data": "2026-11-05",
-      "trecho": "stonewalling from fossil fuel producers like Saudi Arabia and Russia"
-     }
-    ]
-   },
-   {
-    "id": "ira",
-    "nome": "Irã",
-    "tipo": "peca",
-    "dono": "deep-state-europa-asia",
-    "fez": "Sofre o bloqueio naval, com 147 navios desviados desde julho segundo o Comando Central, e agora o cerco por terra; negocia pelo Catar. É membro da OCX.",
-    "confianca": "provavel",
-    "noticias": [
-     2
-    ],
-    "fontes": [
-     {
-      "nome": "Al Jazeera",
-      "url": "https://aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes",
-      "data": "2026-11-08",
-      "trecho": "Enforcement actions since July have resulted in U.S. forces redirecting 147 commercial vessels that complied."
-     },
-     {
-      "nome": "Euronews",
-      "url": "https://www.euronews.com/2026/11/03/qatar-sees-hope-for-us-iran-deal-despite-fresh-us-strikes-as-mediators-exchange-proposals-",
-      "data": "2026-11-03",
-      "trecho": "Washington and Tehran were now reviewing proposals"
-     },
-     {
-      "nome": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit",
-      "data": "2026-09-01",
-      "trecho": "The SCO consists of Russia, China, India, Pakistan, Iran"
-     }
-    ]
-   },
-   {
-    "id": "china",
-    "nome": "China",
-    "tipo": "peca",
-    "dono": "deep-state-europa-asia",
-    "fez": "Quer o comércio de tecnologia limpa na pauta da COP31. O Telegraph a cita, com a Rússia, entre os que sustentam o Irã, sem detalhar como. É membro da OCX.",
-    "confianca": "provavel",
-    "noticias": [
-     2,
-     3
-    ],
-    "fontes": [
-     {
-      "nome": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/",
-      "data": "2026-11-05",
-      "trecho": "China has made clear it wants COP31 to tackle the thorny issue of trade measures"
-     },
-     {
-      "nome": "The Telegraph (via Yahoo)",
-      "url": "https://www.yahoo.com/news/us/articles/us-blockades-iran-borders-china-163503297.html",
-      "data": "2026-11-09",
-      "trecho": "how exactly Beijing and Moscow are propping up Tehran"
-     },
-     {
-      "nome": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit",
-      "data": "2026-09-01",
-      "trecho": "The SCO consists of Russia, China, India, Pakistan, Iran"
-     }
-    ]
-   },
-   {
-    "id": "governo-eua",
-    "nome": "Governo dos EUA",
-    "tipo": "peca",
-    "dono": "",
-    "fez": "Media a rodada de Abu Dhabi com Kushner e Witkoff, cerca o Irã por mar e por terra e fica fora da COP31 pelo segundo ano seguido.",
+    "id": "cisa",
+    "nome": "CISA (ciberdefesa dos EUA)",
+    "dominio": "governo",
+    "dono": "deep-state-eua",
+    "aconteceu": "Trump indicou Michael LoSapio, chefe de segurança da Palantir, para dirigir a agência, sem diretor confirmado desde janeiro de 2025. O Senado decide. Pôr a CISA na Deep State americana é hipótese.",
     "confianca": "fato",
-    "noticias": [
-     1,
-     2,
-     3
-    ],
     "fontes": [
      {
-      "nome": "ABC News (AP)",
-      "url": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428",
+      "nome": "MeriTalk",
+      "url": "https://www.meritalk.com/articles/trump-nominates-palantirs-losapio-to-lead-cisa/",
       "data": "2026-11-09",
-      "trecho": "who will mediate in the talks with U.S. envoy Steve Witkoff"
+      "trecho": "President Donald Trump on Nov. 9 nominated Michael LoSapio"
      },
      {
-      "nome": "The Telegraph (via Yahoo)",
-      "url": "https://www.yahoo.com/news/us/articles/us-blockades-iran-borders-china-163503297.html",
+      "nome": "Nextgov/FCW",
+      "url": "https://www.nextgov.com/cybersecurity/2026/11/trump-nominates-palantir-security-chief-michael-losapio-lead-cisa/417141/",
       "data": "2026-11-09",
-      "trecho": "an ambitious land blockade designed to sever"
-     },
-     {
-      "nome": "Asharq Al-Awsat",
-      "url": "https://english.aawsat.com/features/5339337-cop31-antalya-climate-divisions-and-us-absence-test-global-consensus",
-      "data": "2026-11-09",
-      "trecho": "without a US delegation for the second consecutive year"
+      "trecho": "the cybersecurity executive would take over an agency rebuilding after workforce cuts"
      }
     ]
    },
    {
-    "id": "ucrania",
-    "nome": "Ucrânia",
-    "tipo": "peca",
-    "dono": "",
-    "fez": "Segundo a AP, drones ucranianos puseram fogo na refinaria KINEF na véspera da rodada; Kiev voltou a atacar refinarias em outubro e diz ter ficado sem a inteligência do Ocidente.",
+    "id": "governo-china",
+    "nome": "Governo da China",
+    "dominio": "governo",
+    "dono": "deep-state-europa-asia",
+    "aconteceu": "Na segunda 9, a chancelaria chamou de calúnia sem base a narrativa da espiã chinesa. No mesmo dia, Pequim estendeu até 10/1 a pausa nos controles de minerais críticos e suspendeu a tarifa de 24%.",
     "confianca": "provavel",
-    "noticias": [
-     1
-    ],
     "fontes": [
      {
-      "nome": "ABC News (AP)",
-      "url": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428",
+      "nome": "CBS News",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
       "data": "2026-11-09",
-      "trecho": "an attack by long-range drones developed by Ukraine during the war started a fire at the KINEF oil refinery"
+      "trecho": "The so-called Chinese spy narrative is entirely baseless and constitutes slander and smear."
      },
      {
-      "nome": "AP (Click2Houston)",
-      "url": "https://www.click2houston.com/business/2026/10/15/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-after-brief-truce/",
-      "data": "2026-10-15",
-      "trecho": "The drone strike started a fire at the refinery"
+      "nome": "The National",
+      "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+      "data": "2026-11-09",
+      "trecho": "The extension runs to January 10, according to the ministry."
      },
      {
-      "nome": "AP (Click2Houston)",
-      "url": "https://www.click2houston.com/business/2026/10/15/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-after-brief-truce/",
-      "data": "2026-10-15",
-      "trecho": "limits were placed on its use of U.S.-made Starlink"
+      "nome": "The National",
+      "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+      "data": "2026-11-09",
+      "trecho": "suspend a 24 per cent tariff on US goods for two months"
+     }
+    ]
+   },
+   {
+    "id": "terras-raras",
+    "nome": "Terras raras",
+    "dominio": "territorio",
+    "dono": "empresas-controle",
+    "aconteceu": "A China estendeu por dois meses, até 10/1/2027, a pausa nos controles de exportação de alguns minerais críticos, que vencia na terça 10. Ela controla 91% do refino das terras raras de ímãs.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "The National",
+      "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+      "data": "2026-11-09",
+      "trecho": "China has suspended export controls on some critical minerals for two months"
+     },
+     {
+      "nome": "The National",
+      "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+      "data": "2026-11-09",
+      "trecho": "China controls 60 per cent of global mined production of magnet rare earths and 91 per cent of global refined output"
+     },
+     {
+      "nome": "TechTimes",
+      "url": "https://www.techtimes.com/articles/330288/20261109/china-rare-earth-export-controls-pause-ends-tuesday-law-beijing-has-published-no-extension.htm",
+      "data": "2026-11-09",
+      "trecho": "China Rare Earth Export Controls Pause Ends Tuesday in Law"
+     }
+    ]
+   },
+   {
+    "id": "petroleo",
+    "nome": "Petróleo (Brent, Ormuz e Gabar)",
+    "dominio": "territorio",
+    "dono": "empresas-controle",
+    "aconteceu": "O Brent caiu abaixo de US$ 90 na terça 10, pela primeira vez desde agosto, uns 25% abaixo do pico do fim de outubro. Na COP31, Erdoğan elogiou o novo petróleo de Gabar.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Oilprice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Crude-Falls-Below-90-for-First-Time-Since-August.html",
+      "data": "2026-11-10",
+      "trecho": "Brent Crude Falls Below $90 for First Time Since August"
+     },
+     {
+      "nome": "Oilprice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Crude-Falls-Below-90-for-First-Time-Since-August.html",
+      "data": "2026-11-10",
+      "trecho": "Brent Crude prices have now fallen by about 25% from their late-October peak above $117 per barrel"
+     },
+     {
+      "nome": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/",
+      "data": "2026-11-10",
+      "trecho": "Unfortunately, Türkiye's leader appears not to have got the memo."
+     }
+    ]
+   },
+   {
+    "id": "apec-shenzhen",
+    "nome": "Cúpula da APEC em Shenzhen",
+    "dominio": "governo",
+    "dono": "deep-state-europa-asia",
+    "aconteceu": "A China recebe a cúpula em 18 e 19/11. Trump diz que vai e acha que verá Putin e Xi. Segundo o WSJ, Pequim quer declarações prontas, e Washington, conversa aberta. Dar a casa ao bloco é hipótese.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Reuters (via News Tribune)",
+      "url": "https://www.newstribune.com/news/2026/nov/09/trump-thinks-he-will-meet-xi-and-putin-at-china-apec-summit/",
+      "data": "2026-11-09",
+      "trecho": "set for November 18-19 in the southern tech hub of Shenzhen"
+     },
+     {
+      "nome": "Newsmax (via Yahoo)",
+      "url": "https://www.yahoo.com/news/politics/articles/us-china-clash-over-trump-002617931.html",
+      "data": "2026-11-10",
+      "trecho": "China wants prepared statements and predetermined outcomes"
+     },
+     {
+      "nome": "Newsmax (via Yahoo)",
+      "url": "https://www.yahoo.com/news/politics/articles/us-china-clash-over-trump-002617931.html",
+      "data": "2026-11-10",
+      "trecho": "the Trump administration is pressing for more flexible discussions that would allow substantive exchanges"
+     }
+    ]
+   },
+   {
+    "id": "abu-dhabi",
+    "nome": "Conversa a três em Abu Dhabi",
+    "dominio": "governo",
+    "dono": "",
+    "aconteceu": "Rússia, Ucrânia e EUA voltaram à mesa na terça 10, numa rodada de dois dias, com Medinsky pelos russos e Kushner e Witkoff pelos EUA. O primeiro dia durou quase quatro horas (RIA Novosti).",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "NBC News",
+      "url": "https://www.nbcnews.com/world/ukraine/us-mediated-talks-ending-war-russia-ukraine-begin-abu-dhabi-rcna608499",
+      "data": "2026-11-10",
+      "trecho": "The first day of talks concluded after nearly four hours"
+     },
+     {
+      "nome": "ABC News",
+      "url": "https://abcnews.com/International/russia-ukraine-us-meet-abu-dhabi-talks-trump/story?id=137970621",
+      "data": "2026-11-10",
+      "trecho": "gathered in Abu Dhabi on Tuesday for their latest round of trilateral peace talks"
+     },
+     {
+      "nome": "ABC News",
+      "url": "https://abcnews.com/International/russia-ukraine-us-meet-abu-dhabi-talks-trump/story?id=137970621",
+      "data": "2026-11-10",
+      "trecho": "Both the French and German foreign ministers also said they would be participating in the Abu Dhabi meetings"
+     }
+    ]
+   },
+   {
+    "id": "guerra-de-drones",
+    "nome": "Guerra de drones Rússia e Ucrânia",
+    "dominio": "forca",
+    "dono": "",
+    "aconteceu": "Na noite de 9 para 10, a Rússia lançou 162 drones e um míssil balístico, com impactos em 19 locais, diz Kiev, que derrubou ou neutralizou 135. Moscou diz ter derrubado 155 drones ucranianos.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "NBC News",
+      "url": "https://www.nbcnews.com/world/ukraine/us-mediated-talks-ending-war-russia-ukraine-begin-abu-dhabi-rcna608499",
+      "data": "2026-11-10",
+      "trecho": "Russia launched 162 drones of various types and a ballistic missile at Ukraine overnight"
+     },
+     {
+      "nome": "NBC News",
+      "url": "https://www.nbcnews.com/world/ukraine/us-mediated-talks-ending-war-russia-ukraine-begin-abu-dhabi-rcna608499",
+      "data": "2026-11-10",
+      "trecho": "shot down 155 Ukrainian drones overnight above eight Russian regions"
+     },
+     {
+      "nome": "ABC News",
+      "url": "https://abcnews.com/International/russia-ukraine-us-meet-abu-dhabi-talks-trump/story?id=137970621",
+      "data": "2026-11-10",
+      "trecho": "Impacts were reported across 19 locations, the air force said."
      }
     ]
    },
    {
     "id": "cop31",
     "nome": "COP31 em Antalya",
-    "tipo": "territorio",
-    "dono": "",
-    "fez": "Abriu em 9/11 sem delegação dos EUA. Bancos vão discutir ali como financiar a meta de eletrificação; só 77 chefes de governo devem falar, um terço a menos que no auge da COP28.",
+    "dominio": "governo",
+    "dono": "nova-ordem",
+    "aconteceu": "No 2º dia (10/11), a presidência da COP30 apresentou o roteiro para sair dos fósseis, com apoio de Alemanha, Holanda, Reino Unido e Austrália. Os EUA, que saíram do Acordo de Paris, ficam fora.",
     "confianca": "provavel",
-    "noticias": [
-     3
-    ],
     "fontes": [
      {
-      "nome": "Asharq Al-Awsat",
-      "url": "https://english.aawsat.com/features/5339337-cop31-antalya-climate-divisions-and-us-absence-test-global-consensus",
-      "data": "2026-11-09",
-      "trecho": "The talks are taking place without a US delegation for the second consecutive year."
+      "nome": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/",
+      "data": "2026-11-10",
+      "trecho": "Of the 68,374 people who signed up to attend in person, 14,285 are official guests of the host country."
      },
      {
       "nome": "Climate Home News",
-      "url": "https://www.climatechangenews.com/?p=91772",
-      "data": "2026-10-29",
-      "trecho": "Just 77 heads of state or government are scheduled to address the COP31 climate summit in Antalya"
+      "url": "https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/",
+      "data": "2026-11-10",
+      "trecho": "Germany, Netherlands, UK and Australia are among the countries that have publicly backed the COP30 roadmap."
      },
      {
-      "nome": "Bloomberg (Energy Connects)",
-      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
-      "data": "2026-11-09",
-      "trecho": "they intend to use their time there engaged in talks about how to finance that goal"
+      "nome": "The Christian Science Monitor",
+      "url": "https://www.csmonitor.com/Environment/2026/1108/climate-change-cop31-turkey",
+      "data": "2026-11-08",
+      "trecho": "America remains the only signatory nation to exit the agreement."
+     }
+    ]
+   },
+   {
+    "id": "onu",
+    "nome": "ONU (Secretaria-Geral)",
+    "dominio": "governo",
+    "dono": "nova-ordem",
+    "aconteceu": "Guterres mandou vídeo ao Fórum da Paz de Paris (10/11): pediu cooperação, reforma do Conselho de Segurança e da arquitetura financeira, saída justa dos fósseis e regras para a IA.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "ONU (UN Press, SG/SM/23364)",
+      "url": "https://press.un.org/en/2026/sgsm23364.doc.htm",
+      "data": "2026-11-10",
+      "trecho": "Cooperation means giving ourselves the means to exercise that sovereignty."
+     },
+     {
+      "nome": "ONU (UN Press, SG/SM/23364)",
+      "url": "https://press.un.org/en/2026/sgsm23364.doc.htm",
+      "data": "2026-11-10",
+      "trecho": "No firewall can protect against an algorithm that has spiralled out of control."
+     }
+    ]
+   },
+   {
+    "id": "data-centers",
+    "nome": "Data centers de IA",
+    "dominio": "tecnologia",
+    "dono": "oligarquia-digital",
+    "aconteceu": "Waller vai olhar se os preços do equipamento da IA seguem subindo no ritmo muito alto dos últimos meses. O SoftBank teve prejuízo de cerca de US$ 7 bilhões no trimestre (manchete da Reuters).",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Federal Reserve (discurso de Waller)",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+      "data": "2026-11-10",
+      "trecho": "whether high-tech goods prices related to the AI buildout continue to rise at the very high rate of recent months"
+     },
+     {
+      "nome": "Reuters (manchete vista no Techmeme)",
+      "url": "https://www.reuters.com/world/asia-pacific/softbank-swings-7-billion-net-loss-second-quarter-2026-11-10/",
+      "data": "2026-11-10",
+      "trecho": "SoftBank swings to $7 billion net loss in second quarter"
      }
     ]
    }
   ],
-  "lacos": [
+  "pecas": [
    {
-    "de": "espionagem-privada",
-    "para": "deep-state-europa-asia",
-    "tipo": "pressiona",
-    "via": [
-     "palantir",
-     "russia"
-    ],
-    "noticia": 1,
-    "texto": "A Palantir investe na empresa de Fedorov, que fará interceptores contra os drones russos a jato. A Rússia no bloco é hipótese da lista.",
+    "id": "jensen-huang",
+    "nome": "Jensen Huang",
+    "cargo": "Cofundador e presidente-executivo da Nvidia",
+    "casa": "nvidia",
+    "dono": "oligarquia-digital",
+    "fez": "No domingo 8, admitiu ter sido infiel à mulher, pediu desculpas e segue no cargo. O FBI examina se ele foi alvo de espionagem, diz a Reuters. Ser citado não é prova de crime.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "CBS News",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+      "data": "2026-11-09",
+      "trecho": "I was unfaithful to my wife."
+     },
+     {
+      "nome": "CBS News",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+      "data": "2026-11-09",
+      "trecho": "I support the investigation and will cooperate fully."
+     },
+     {
+      "nome": "Anadolu",
+      "url": "https://aa.com.tr/en/world/nvidia-board-opens-independent-probe-into-foreign-intelligence-targeting-of-ceo-jensen-huang/4116358",
+      "data": "2026-11-09",
+      "trecho": "Huang will continue to lead the company during the investigation, the board said, according to The New York Times."
+     }
+    ]
+   },
+   {
+    "id": "alice-huang",
+    "nome": "Alice Huang",
+    "cargo": "Ex-executiva da Megaspeed, de Singapura",
+    "casa": "megaspeed",
+    "dono": "",
+    "fez": "A inteligência dos EUA a liga ao serviço secreto chinês; a China nega. Para a Reuters (sem confirmar), a relação ajudou a levar ao menos US$ 7,5 bilhões em chips à China. Ser citada não é prova.",
     "confianca": "hipotese",
     "fontes": [
      {
-      "nome": "Janes",
-      "url": "https://www.janes.com/defence-intelligence-insights/defence-news/air/palantir-to-fund-ukrainian-interceptor-uav-company-targeting-russias-geran-5",
-      "data": "2026-10-13",
-      "trecho": "designed to target jet-powered Russian UAVs"
+      "nome": "Reuters (The Standard)",
+      "url": "https://www.thestandard.com.hk/finance/article/348113/Nvidia-heads-for-470-billion-two-day-wipeout-as-CEO-affair-fallout-deepens",
+      "data": "2026-11-10",
+      "trecho": "helped facilitate shipments of at least $7.5 billion worth of Nvidia chips to Chinese firms"
      },
      {
-      "nome": "ABC News (AP)",
-      "url": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428",
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-10",
+      "trecho": "Alice Huang helped secure 240,000 chips from distributors in China"
+     },
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-10",
+      "trecho": "Our company has no business dealings with Ms. Huang."
+     }
+    ]
+   },
+   {
+    "id": "donald-trump",
+    "nome": "Donald Trump",
+    "cargo": "Presidente dos EUA",
+    "casa": "casa-branca",
+    "dono": "",
+    "fez": "Na segunda 9, disse que soube do caso Huang 'não faz muito tempo' e que o FBI olha o assunto 'por outra questão'. Deu nota A+ a Hegseth e diz que vai à APEC em Shenzhen, onde acha que verá Xi.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
       "data": "2026-11-09",
-      "trecho": "Russia launched 317 drones of various types including 105 jet-powered drones at Ukraine overnight"
+      "trecho": "I know the FBI is looking into it in terms of something else"
+     },
+     {
+      "nome": "CBS News",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+      "data": "2026-11-09",
+      "trecho": "absolutely no idea that the person in question was a spy"
+     },
+     {
+      "nome": "Reuters (via News Tribune)",
+      "url": "https://www.newstribune.com/news/2026/nov/09/trump-thinks-he-will-meet-xi-and-putin-at-china-apec-summit/",
+      "data": "2026-11-09",
+      "trecho": "One of the meetings, I think, will be with President Putin and President Xi, and that'll be interesting."
+     }
+    ]
+   },
+   {
+    "id": "marco-rubio",
+    "nome": "Marco Rubio",
+    "cargo": "Secretário de Estado e conselheiro de segurança nacional",
+    "casa": "casa-branca",
+    "dono": "deep-state-eua",
+    "fez": "Segundo o NYT, alertou Trump em maio sobre a relação de Huang. No domingo, não quis comentar e chamou o caso de assunto interno da empresa (CBS). Ligá-lo a este player é hipótese.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-10",
+      "trecho": "Secretary of State and national security adviser Marco Rubio delivered the warning"
+     }
+    ]
+   },
+   {
+    "id": "pete-hegseth",
+    "nome": "Pete Hegseth",
+    "cargo": "Secretário de Guerra dos EUA, chefe do Pentágono",
+    "casa": "pentagono",
+    "dono": "deep-state-eua",
+    "fez": "Chama o impeachment de 'farsa', defende a guerra ao Irã e diz que tirá-lo por divergência política dá sinal errado aos adversários.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "Reuters (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVFtR2hnZ2luVDdXU010VVB4UVpubVBIbUtJc0ZkQVkzLUkzaWxMRDJKaVVoTVNUbzRyRGQ4ZFh1dUZIUFhRVDRTVVNyZ3FWQkRIMm5UTVJOY2J0MDJ4bEFZNkh2MjdUZzRnRkVYbXBKSktfNElhWU42SEVRMktOd0JHYTQyU2N4ZUF2eWZicDRpVHBCTHRYUWFYOVRMT3lrVWNuQldMQkV0MVVGYXc?oc=5",
+      "data": "2026-11-10",
+      "trecho": "Defiant Hegseth blasts impeachment 'farce' ahead of US House vote"
+     },
+     {
+      "nome": "The Washington Post (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdHJadVdURVZBN1VwelMtYTQ2XzFxekpzTFdhTDR2Q3lkNDE2bV9IUmpWZW9KTy1KQ25PWUhGQWszRXN3WmNLdl8zcGUtbEM5Tk10OXlFbUlCMTM1bURjVFdpbzJXNlBXd3NVYy1tanExMXZsREtFZGNob1JTWC00eTJnR3F6MTRHbldFMU12WVNZc1RrclBPQXlrcUNyTkt5U0VZblZ3QUVlMndzT04waG0xN2szS2Uzbms0?oc=5",
+      "data": "2026-11-10",
+      "trecho": "Hegseth defends his record, Iran war as impeachment vote looms"
+     },
+     {
+      "nome": "Departamento de Guerra dos EUA (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVEtqLTZuMGp3bEZhOFNzTldyeE4zSmFWQ2h5MDNvejIwREpGVXhfdHNIRzFIUGhRTXduMFJsYlcwMDJvcjdnSGRCN2FJQ2tsSTZUZXptWlplQW03Rk02R1MxR19sRUc2bTktUURTRGZlMHR5YUg1Njh1cGdMaFhXODNORHE3b1lFRjhGUHdzTVlwSFlJUHREVmp6ZWRrUUdTQk5OLWpEeTFYVHBHcy02Nko0Y1hmb3Z2ZEpycjZCLUJOLWhkR0lfUFlNUDhCWGlVQ3dBMk1KaXg?oc=5",
+      "data": "2026-11-10",
+      "trecho": "Impeachment Over Policy Disagreement Sends Wrong Signal to Adversaries"
+     }
+    ]
+   },
+   {
+    "id": "brian-mast",
+    "nome": "Brian Mast",
+    "cargo": "Deputado, chefe da Comissão de Relações Exteriores da Câmara",
+    "casa": "congresso-eua",
+    "dono": "deep-state-eua",
+    "fez": "Disse à ABC News, na terça, estar pronto para intimar Huang. Assina o pedido de reunião fechada com John Moolenaar e Rick Crawford. Ligá-lo ao player é hipótese.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-10",
+      "trecho": "he's prepared to issue a subpoena to Nvidia CEO Jensen Huang over Huang's affair."
+     },
+     {
+      "nome": "Reuters (Devdiscourse)",
+      "url": "https://www.devdiscourse.com/article/international/4003591-nvidia-probes-whether-ceo-huang-was-target-of-foreign-spying-as-he-admits-affair",
+      "data": "2026-11-09",
+      "trecho": "It is vital that Congress determines the extent to which US national security has been placed at risk."
+     }
+    ]
+   },
+   {
+    "id": "thomas-massie",
+    "nome": "Thomas Massie",
+    "cargo": "Deputado republicano dos EUA",
+    "casa": "congresso-eua",
+    "dono": "",
+    "fez": "Levou à Câmara 8 artigos de impeachment contra Hegseth, que alegam violações da Lei de Poderes de Guerra de 1973 e incluem a captura de Nicolás Maduro. São acusações do projeto, sem julgamento.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "The Hill (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObk5EcWZsV2FlMzZJMXFLdEpFdUdYQi0zdzRteUcyM0w0eHR4aFltLVlsWlNWMm5YWlZtS2F5ZzZUN3VsV0ptalp1UWQ0ZXNJeURvdkNsWGt0dG42RmtkdWY1N0dWMTVqSkhUV21kelhfWk9OaG9rM2VFZE5ZSVFQdmdTTlN1SGtn0gGOAUFVX3lxTE1taExlVFhpM2d0eEVKeXZnNi1RTXk2U2NOWlloOXZXb1BqZmZIYXBDX2JuLUdKRlpZQUFTZjVXWXpYTnd6aW9aQXNrTm5ZWDRNdkk2QVhGeFRocDZoZk5pXzdKUk1ZUWhvTXNtSC1ZU1M1U1pGb09OQXRwYlhRSkxrajBma3I2dURMc0JpZVE?oc=5",
+      "data": "2026-11-10",
+      "trecho": "Massie unveils 8 impeachment articles against Hegseth"
+     },
+     {
+      "nome": "IBTimes UK",
+      "url": "https://www.ibtimes.co.uk/massie-impeachment-resolution-pete-hegseth-1830891",
+      "data": "2026-11-08",
+      "trecho": "They allege violations of the 1973 War Powers Resolution."
+     },
+     {
+      "nome": "IBTimes UK",
+      "url": "https://www.ibtimes.co.uk/massie-impeachment-resolution-pete-hegseth-1830891",
+      "data": "2026-11-08",
+      "trecho": "including the capture of Nicolás Maduro"
+     }
+    ]
+   },
+   {
+    "id": "waller",
+    "nome": "Christopher J. Waller",
+    "cargo": "Governador do Federal Reserve",
+    "casa": "fed",
+    "dono": "core-financeiro",
+    "fez": "Em Londres, em 10/11, apoiou alta de 0,25 ponto em dezembro e pensaria em 0,5 se o núcleo da inflação de outubro vier em 0,3% ou mais, para não arriscar a credibilidade do Fed. Fala por si.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "Federal Reserve (discurso de Waller)",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+      "data": "2026-11-10",
+      "trecho": "Hiking only 25 basis points would put our credibility at risk, a risk I am not eager to take."
+     },
+     {
+      "nome": "Federal Reserve (discurso de Waller)",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+      "data": "2026-11-10",
+      "trecho": "particularly concerned about the breadth of price increases"
+     },
+     {
+      "nome": "Federal Reserve (agenda)",
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "data": "2026-11-10",
+      "trecho": "Speech by Governor Waller on the economic outlook"
+     }
+    ]
+   },
+   {
+    "id": "dan-ives",
+    "nome": "Dan Ives",
+    "cargo": "Analista da Yorkville Ives & Co.",
+    "casa": "wall-street",
+    "dono": "core-financeiro",
+    "fez": "Na terça, disse que, se Huang saísse do cargo, a Nvidia valeria 25% a 30% menos. Antes, viu risco claro de ele ser tirado, a depender da investigação do conselho. Ligá-lo ao player é hipótese.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-10",
+      "trecho": "is worth a lot less (25%-30%) as a company/stock"
+     },
+     {
+      "nome": "Reuters (Devdiscourse)",
+      "url": "https://www.devdiscourse.com/article/international/4003591-nvidia-probes-whether-ceo-huang-was-target-of-foreign-spying-as-he-admits-affair",
+      "data": "2026-11-09",
+      "trecho": "clearly risk that Jensen could be removed as CEO depending on the Board investigation"
+     }
+    ]
+   },
+   {
+    "id": "michael-losapio",
+    "nome": "Michael LoSapio",
+    "cargo": "Chefe de segurança da informação da Palantir",
+    "casa": "palantir",
+    "dono": "espionagem-privada",
+    "fez": "Foi indicado por Trump na segunda 9 para dirigir a CISA. Se o Senado confirmar, assume uma agência que se refaz depois de cortes de pessoal.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "MeriTalk",
+      "url": "https://www.meritalk.com/articles/trump-nominates-palantirs-losapio-to-lead-cisa/",
+      "data": "2026-11-09",
+      "trecho": "President Donald Trump on Nov. 9 nominated Michael LoSapio"
+     },
+     {
+      "nome": "Nextgov/FCW",
+      "url": "https://www.nextgov.com/cybersecurity/2026/11/trump-nominates-palantir-security-chief-michael-losapio-lead-cisa/417141/",
+      "data": "2026-11-09",
+      "trecho": "the cybersecurity executive would take over an agency rebuilding after workforce cuts"
+     },
+     {
+      "nome": "The Register",
+      "url": "https://www.theregister.com/security/2026/11/10/trump-taps-palantir-security-chief-to-run-battered-us-cyber-defense-agency/5308763",
+      "data": "2026-11-10",
+      "trecho": "Michael LoSapio could inherit a depleted workforce and a political headache or two, courtesy of his current employer"
+     }
+    ]
+   },
+   {
+    "id": "jon-tester",
+    "nome": "Jon Tester",
+    "cargo": "Ex-senador democrata por Montana; consultor da Palantir",
+    "casa": "palantir",
+    "dono": "espionagem-privada",
+    "fez": "Virou consultor da Palantir para a área de serviços ao governo. Diz que o acordo é de consultoria, sem lobby, e que a empresa acredita em privacidade.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Gizmodo",
+      "url": "https://gizmodo.com/palantir-hires-former-democratic-senator-and-braces-for-political-backlash-2000837206",
+      "data": "2026-11-10",
+      "trecho": "He will be focusing on the government services side of the business, he said."
+     },
+     {
+      "nome": "Gizmodo",
+      "url": "https://gizmodo.com/palantir-hires-former-democratic-senator-and-braces-for-political-backlash-2000837206",
+      "data": "2026-11-10",
+      "trecho": "This is an organization that believes in privacy"
+     }
+    ]
+   },
+   {
+    "id": "cressida-dick",
+    "nome": "Cressida Dick",
+    "cargo": "Ex-chefe da polícia de Londres; consultora da Palantir",
+    "casa": "palantir",
+    "dono": "espionagem-privada",
+    "fez": "Assessora a Palantir, com pagamento, desde setembro de 2025, revelou o TBIJ nesta terça. Diz que nunca fez lobby pela empresa.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "NationofChange (TBIJ)",
+      "url": "https://www.nationofchange.org/2026/11/10/exclusive-ex-met-police-chief-is-paid-adviser-for-palantir/",
+      "data": "2026-11-10",
+      "trecho": "Former Met Police commissioner Cressida Dick has been working for Palantir as a paid adviser for the last year"
+     },
+     {
+      "nome": "NationofChange (TBIJ)",
+      "url": "https://www.nationofchange.org/2026/11/10/exclusive-ex-met-police-chief-is-paid-adviser-for-palantir/",
+      "data": "2026-11-10",
+      "trecho": "I do not and have not ever lobbied or advocated for Palantir with any organisation or individual in any sector"
+     }
+    ]
+   },
+   {
+    "id": "guo-jiakun",
+    "nome": "Guo Jiakun",
+    "cargo": "Porta-voz do Ministério das Relações Exteriores da China",
+    "casa": "governo-china",
+    "dono": "deep-state-europa-asia",
+    "fez": "Na segunda 9, chamou a narrativa da espiã chinesa de totalmente sem base, calúnia e difamação.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "CBS News",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+      "data": "2026-11-09",
+      "trecho": "The so-called Chinese spy narrative is entirely baseless and constitutes slander and smear."
+     }
+    ]
+   },
+   {
+    "id": "ministerio-comercio-china",
+    "nome": "Ministério do Comércio da China",
+    "cargo": "Ministério do governo chinês",
+    "casa": "governo-china",
+    "dono": "deep-state-europa-asia",
+    "fez": "Anunciou na segunda 9 a pausa de dois meses, até 10/1, nos controles de exportação de alguns minerais críticos, antes do encontro de Xi com Trump na APEC. A ligação ao bloco é hipótese.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "The National",
+      "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+      "data": "2026-11-09",
+      "trecho": "The extension runs to January 10, according to the ministry."
+     },
+     {
+      "nome": "The National",
+      "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+      "data": "2026-11-09",
+      "trecho": "It would be the leaders' third meeting this year."
+     }
+    ]
+   },
+   {
+    "id": "medinsky",
+    "nome": "Vladimir Medinsky",
+    "cargo": "Assessor do Kremlin, chefe da delegação russa",
+    "casa": "abu-dhabi",
+    "dono": "deep-state-europa-asia",
+    "fez": "Chefiou a delegação russa na rodada de Abu Dhabi, em que Moscou cobra a saída ucraniana de quatro regiões. Ligá-lo ao bloco é hipótese.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "ABC News",
+      "url": "https://abcnews.com/International/russia-ukraine-us-meet-abu-dhabi-talks-trump/story?id=137970621",
+      "data": "2026-11-10",
+      "trecho": "The Russian delegation is led by Kremlin aide Vladimir Medinsky"
+     }
+    ]
+   },
+   {
+    "id": "guterres",
+    "nome": "António Guterres",
+    "cargo": "Secretário-geral da ONU",
+    "casa": "onu",
+    "dono": "nova-ordem",
+    "fez": "Em vídeo ao Fórum da Paz de Paris (10/11), disse que cooperar é a mais alta expressão da soberania e pediu reformar o Conselho de Segurança e a arquitetura financeira. Ligá-lo à Nova Ordem é hipótese.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "ONU (UN Press, SG/SM/23364)",
+      "url": "https://press.un.org/en/2026/sgsm23364.doc.htm",
+      "data": "2026-11-10",
+      "trecho": "cooperation is the highest expression of sovereignty"
+     }
+    ]
+   }
+  ],
+  "jogadas": [
+   {
+    "de": "deep-state-eua",
+    "para": "oligarquia-digital",
+    "tipo": "pressiona",
+    "de_casa": "congresso-eua",
+    "para_casa": "nvidia",
+    "peca": "brian-mast",
+    "texto": "Mast diz estar pronto para intimar Huang, que tem até quarta 11 para responder ao pedido de reunião fechada de três comissões. Pôr a Câmara com este player é hipótese.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-10",
+      "trecho": "he's prepared to issue a subpoena to Nvidia CEO Jensen Huang over Huang's affair."
+     },
+     {
+      "nome": "Reuters (Devdiscourse)",
+      "url": "https://www.devdiscourse.com/article/international/4003591-nvidia-probes-whether-ceo-huang-was-target-of-foreign-spying-as-he-admits-affair",
+      "data": "2026-11-09",
+      "trecho": "It is vital that Congress determines the extent to which US national security has been placed at risk."
+     }
+    ]
+   },
+   {
+    "de": "deep-state-eua",
+    "para": "",
+    "tipo": "ataca",
+    "de_casa": "justica-fbi",
+    "para_casa": "megaspeed",
+    "texto": "O Departamento de Justiça investiga na esfera criminal a Megaspeed, cliente da Nvidia cuja ex-executiva a inteligência americana liga à China.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-09",
+      "trecho": "The DOJ is now conducting a criminal inquiry into Megaspeed."
+     },
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-09",
+      "trecho": "reportedly contacted US Commerce Department investigators in August 2025"
+     }
+    ]
+   },
+   {
+    "de": "deep-state-eua",
+    "para": "deep-state-europa-asia",
+    "tipo": "ataca",
+    "de_casa": "inteligencia-eua",
+    "para_casa": "governo-china",
+    "texto": "A avaliação da inteligência de que Alice Huang servia ao serviço secreto chinês chegou a Trump por Rubio em maio e agora está na imprensa e no Congresso. Quem levou o memorando ao público não é dito.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-10",
+      "trecho": "Secretary of State and national security adviser Marco Rubio delivered the warning"
+     },
+     {
+      "nome": "ForkLog",
+      "url": "https://forklog.com/en/nvidia-ceo-allegedly-targeted-by-chinese-intelligence-operation/",
+      "data": "2026-10-30",
+      "trecho": "Jensen Huang, whom U.S. authorities considered a potential target of the operation."
      }
     ]
    },
    {
     "de": "deep-state-europa-asia",
-    "para": "core-financeiro",
-    "tipo": "pressiona",
-    "via": [
-     "ira",
-     "fed"
-    ],
-    "noticia": 2,
-    "texto": "O Irã diz que Ormuz só reabre com suas condições; a imprensa liga a guerra à alta do petróleo, e o Fed cita a geopolítica. O elo entre os fatos é leitura nossa.",
+    "para": "deep-state-eua",
+    "tipo": "ataca",
+    "de_casa": "governo-china",
+    "para_casa": "inteligencia-eua",
+    "peca": "guo-jiakun",
+    "texto": "A chancelaria chinesa rebate a acusação e a chama de calúnia e difamação sem base (segunda 9).",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "CBS News",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+      "data": "2026-11-09",
+      "trecho": "The so-called Chinese spy narrative is entirely baseless and constitutes slander and smear."
+     },
+     {
+      "nome": "Anadolu",
+      "url": "https://aa.com.tr/en/world/nvidia-board-opens-independent-probe-into-foreign-intelligence-targeting-of-ceo-jensen-huang/4116358",
+      "data": "2026-11-09",
+      "trecho": "nothing but a smear against China."
+     }
+    ]
+   },
+   {
+    "de": "deep-state-europa-asia",
+    "para": "oligarquia-digital",
+    "tipo": "ataca",
+    "de_casa": "megaspeed",
+    "para_casa": "nvidia",
+    "peca": "alice-huang",
+    "texto": "Para a inteligência dos EUA, Alice Huang servia à espionagem chinesa; o The Information diz que ela ajudou a obter 240 mil chips. A China nega, e a Megaspeed diz não ter achado desvio.",
     "confianca": "hipotese",
     "fontes": [
      {
-      "nome": "Euronews",
-      "url": "https://www.euronews.com/2026/11/03/qatar-sees-hope-for-us-iran-deal-despite-fresh-us-strikes-as-mediators-exchange-proposals-",
-      "data": "2026-11-03",
-      "trecho": "have repeatedly said Tehran's conditions must be met before Hormuz could reopen"
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-10",
+      "trecho": "Alice Huang helped secure 240,000 chips from distributors in China"
      },
      {
-      "nome": "Bay News 9",
-      "url": "https://baynews9.com/fl/tampa/politics/2026/10/28/federal-reserve-interest-rate-steady",
-      "data": "2026-10-28",
-      "trecho": "the Iran war has caused spikes in oil and gas prices"
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-09",
+      "trecho": "the reviews found no evidence of illicit chip transfers or other illegal activities."
      }
     ]
    },
    {
     "de": "core-financeiro",
     "para": "oligarquia-digital",
-    "tipo": "lucra",
-    "via": [
-     "jpmorgan",
-     "data-centers",
-     "cop31"
-    ],
-    "noticia": 3,
-    "texto": "Segundo a Bloomberg, crescer a IA pede grandes investimentos em redes elétricas, e os bancos vão discutir em Antalya como financiar a meta de eletrificação. Que eles lucrem com isso é leitura nossa.",
+    "tipo": "pressiona",
+    "de_casa": "wall-street",
+    "para_casa": "nvidia",
+    "peca": "dan-ives",
+    "texto": "A ação da Nvidia cai em dois pregões; Dan Ives diz que, sem Huang, a empresa valeria 25% a 30% menos, e Dan Niles, que o conselho vai forçar um sucessor. Ler como jogada do Core Financeiro é hipótese.",
     "confianca": "hipotese",
     "fontes": [
      {
-      "nome": "Bloomberg (Energy Connects)",
-      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
-      "data": "2026-11-09",
-      "trecho": "Scaling AI will require huge investments in expanding and upgrading electric grids."
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-10",
+      "trecho": "is worth a lot less (25%-30%) as a company/stock"
      },
      {
-      "nome": "Bloomberg (Energy Connects)",
-      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
       "data": "2026-11-09",
-      "trecho": "they intend to use their time there engaged in talks about how to finance that goal"
+      "trecho": "The board will force that."
+     }
+    ]
+   },
+   {
+    "de": "core-financeiro",
+    "para": "oligarquia-digital",
+    "tipo": "pressiona",
+    "de_casa": "fed",
+    "para_casa": "data-centers",
+    "peca": "waller",
+    "texto": "Waller põe os preços do equipamento da IA entre as pressões de inflação e pede alta de juros, o que encarece o dinheiro dos data centers. O alvo na Big Tech é leitura nossa.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "Federal Reserve (discurso de Waller)",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+      "data": "2026-11-10",
+      "trecho": "whether high-tech goods prices related to the AI buildout continue to rise at the very high rate of recent months"
+     },
+     {
+      "nome": "Federal Reserve (discurso de Waller)",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+      "data": "2026-11-10",
+      "trecho": "I would still support a 25 basis point increase"
+     }
+    ]
+   },
+   {
+    "de": "deep-state-eua",
+    "para": "",
+    "tipo": "pressiona",
+    "de_casa": "pentagono",
+    "para_casa": "congresso-eua",
+    "peca": "pete-hegseth",
+    "texto": "Hegseth chama o impeachment de 'farsa' e diz que tirá-lo por divergência de política dá o sinal errado aos adversários. O Congresso não é player do jogo.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "Reuters (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVFtR2hnZ2luVDdXU010VVB4UVpubVBIbUtJc0ZkQVkzLUkzaWxMRDJKaVVoTVNUbzRyRGQ4ZFh1dUZIUFhRVDRTVVNyZ3FWQkRIMm5UTVJOY2J0MDJ4bEFZNkh2MjdUZzRnRkVYbXBKSktfNElhWU42SEVRMktOd0JHYTQyU2N4ZUF2eWZicDRpVHBCTHRYUWFYOVRMT3lrVWNuQldMQkV0MVVGYXc?oc=5",
+      "data": "2026-11-10",
+      "trecho": "Defiant Hegseth blasts impeachment 'farce' ahead of US House vote"
+     },
+     {
+      "nome": "Departamento de Guerra dos EUA (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVEtqLTZuMGp3bEZhOFNzTldyeE4zSmFWQ2h5MDNvejIwREpGVXhfdHNIRzFIUGhRTXduMFJsYlcwMDJvcjdnSGRCN2FJQ2tsSTZUZXptWlplQW03Rk02R1MxR19sRUc2bTktUURTRGZlMHR5YUg1Njh1cGdMaFhXODNORHE3b1lFRjhGUHdzTVlwSFlJUHREVmp6ZWRrUUdTQk5OLWpEeTFYVHBHcy02Nko0Y1hmb3Z2ZEpycjZCLUJOLWhkR0lfUFlNUDhCWGlVQ3dBMk1KaXg?oc=5",
+      "data": "2026-11-10",
+      "trecho": "Impeachment Over Policy Disagreement Sends Wrong Signal to Adversaries"
+     }
+    ]
+   },
+   {
+    "de": "espionagem-privada",
+    "para": "deep-state-eua",
+    "tipo": "move",
+    "de_casa": "palantir",
+    "para_casa": "cisa",
+    "peca": "michael-losapio",
+    "texto": "Trump indicou o chefe de segurança da Palantir para comandar a CISA. Se o Senado confirmar, um ex-executivo da casa comanda a ciberdefesa dos EUA. Pôr a CISA na Deep State americana é hipótese.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "MeriTalk",
+      "url": "https://www.meritalk.com/articles/trump-nominates-palantirs-losapio-to-lead-cisa/",
+      "data": "2026-11-09",
+      "trecho": "President Donald Trump on Nov. 9 nominated Michael LoSapio"
+     },
+     {
+      "nome": "Nextgov/FCW",
+      "url": "https://www.nextgov.com/cybersecurity/2026/11/trump-nominates-palantir-security-chief-michael-losapio-lead-cisa/417141/",
+      "data": "2026-11-09",
+      "trecho": "the cybersecurity executive would take over an agency rebuilding after workforce cuts"
+     }
+    ]
+   },
+   {
+    "de": "espionagem-privada",
+    "para": "",
+    "tipo": "move",
+    "de_casa": "palantir",
+    "para_casa": "congresso-eua",
+    "peca": "jon-tester",
+    "texto": "A Palantir pôs o ex-senador democrata Jon Tester como consultor, e o Gizmodo liga a contratação ao escrutínio que pode vir quando os democratas assumirem o Congresso. Ele diz que não é lobby.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Gizmodo",
+      "url": "https://gizmodo.com/palantir-hires-former-democratic-senator-and-braces-for-political-backlash-2000837206",
+      "data": "2026-11-10",
+      "trecho": "Palantir just hired a former Democratic Senator as an adviser"
+     },
+     {
+      "nome": "Gizmodo",
+      "url": "https://gizmodo.com/palantir-hires-former-democratic-senator-and-braces-for-political-backlash-2000837206",
+      "data": "2026-11-10",
+      "trecho": "the possibility of increased scrutiny when the Democratic Party takes control of the House and Senate next year"
      }
     ]
    },
    {
     "de": "deep-state-europa-asia",
-    "para": "nova-ordem",
+    "para": "empresas-controle",
     "tipo": "pressiona",
-    "via": [
-     "russia",
-     "cop31",
-     "clube-de-roma"
-    ],
-    "noticia": 3,
-    "texto": "Na COP31, a Rússia trava com os sauditas o programa de cortes de emissão, a pauta que a lista põe com a Nova Ordem. O elo entre os dois blocos é hipótese.",
+    "de_casa": "governo-china",
+    "para_casa": "terras-raras",
+    "peca": "ministerio-comercio-china",
+    "texto": "Pequim dá só dois meses de pausa, até 10/1, e controla 91% do refino das terras raras de ímãs: a torneira do ativo segue com ela. O elo com os blocos e o efeito no player são hipóteses.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "The National",
+      "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+      "data": "2026-11-09",
+      "trecho": "China controls 60 per cent of global mined production of magnet rare earths and 91 per cent of global refined output"
+     },
+     {
+      "nome": "TechTimes",
+      "url": "https://www.techtimes.com/articles/330288/20261109/china-rare-earth-export-controls-pause-ends-tuesday-law-beijing-has-published-no-extension.htm",
+      "data": "2026-11-09",
+      "trecho": "Beijing can tighten or loosen the effect through how applications are handled, without announcing anything new."
+     }
+    ]
+   },
+   {
+    "de": "deep-state-europa-asia",
+    "para": "",
+    "tipo": "negocia",
+    "de_casa": "abu-dhabi",
+    "para_casa": "abu-dhabi",
+    "peca": "medinsky",
+    "texto": "Medinsky chefiou a delegação russa em quase quatro horas de conversa com a Ucrânia e os EUA; Moscou cobra a saída ucraniana de quatro regiões e a Ucrânia fora da Otan para sempre.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "ABC News",
+      "url": "https://abcnews.com/International/russia-ukraine-us-meet-abu-dhabi-talks-trump/story?id=137970621",
+      "data": "2026-11-10",
+      "trecho": "Moscow is demanding that Ukraine withdraw from four contested regions"
+     },
+     {
+      "nome": "ABC News",
+      "url": "https://abcnews.com/International/russia-ukraine-us-meet-abu-dhabi-talks-trump/story?id=137970621",
+      "data": "2026-11-10",
+      "trecho": "Putin also wants Ukraine permanently barred from NATO"
+     }
+    ]
+   },
+   {
+    "de": "deep-state-europa-asia",
+    "para": "",
+    "tipo": "negocia",
+    "de_casa": "apec-shenzhen",
+    "para_casa": "apec-shenzhen",
+    "texto": "Segundo o WSJ citado pela Newsmax, Pequim quer declarações prontas e resultados definidos antes de um encontro com Trump e Putin; o governo Trump quer conversa aberta.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Newsmax (via Yahoo)",
+      "url": "https://www.yahoo.com/news/politics/articles/us-china-clash-over-trump-002617931.html",
+      "data": "2026-11-10",
+      "trecho": "China wants prepared statements and predetermined outcomes"
+     },
+     {
+      "nome": "Newsmax (via Yahoo)",
+      "url": "https://www.yahoo.com/news/politics/articles/us-china-clash-over-trump-002617931.html",
+      "data": "2026-11-10",
+      "trecho": "the Trump administration is pressing for more flexible discussions that would allow substantive exchanges"
+     }
+    ]
+   },
+   {
+    "de": "nova-ordem",
+    "para": "empresas-controle",
+    "tipo": "pressiona",
+    "de_casa": "cop31",
+    "para_casa": "petroleo",
+    "texto": "Na COP31, o roteiro da presidência da COP30 pede planos até 2028 e cortes de carvão, petróleo e gás depois de 2031, mas cada país escolhe. Pôr o petróleo com as Empresas de Controle é hipótese.",
     "confianca": "hipotese",
     "fontes": [
      {
       "nome": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/",
-      "data": "2026-11-05",
-      "trecho": "stonewalling from fossil fuel producers like Saudi Arabia and Russia"
+      "url": "https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/",
+      "data": "2026-11-10",
+      "trecho": "At the international level the TAFF process remains a pick and choose effort."
+     }
+    ]
+   },
+   {
+    "de": "oligarquia-digital",
+    "para": "",
+    "tipo": "move",
+    "de_casa": "nvidia",
+    "para_casa": "nvidia",
+    "peca": "jensen-huang",
+    "texto": "Huang pede desculpas, diz apoiar a investigação e fica no cargo durante ela (domingo 8).",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "CBS News",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+      "data": "2026-11-09",
+      "trecho": "I support the investigation and will cooperate fully."
      },
      {
-      "nome": "Climate Home News",
-      "url": "https://www.climatechangenews.com/?p=91772",
-      "data": "2026-10-29",
-      "trecho": "a series of reforms called for in an open letter signed by 22 eminent scientists and politicians"
+      "nome": "Anadolu",
+      "url": "https://aa.com.tr/en/world/nvidia-board-opens-independent-probe-into-foreign-intelligence-targeting-of-ceo-jensen-huang/4116358",
+      "data": "2026-11-09",
+      "trecho": "Huang will continue to lead the company during the investigation, the board said, according to The New York Times."
+     }
+    ]
+   },
+   {
+    "de": "deep-state-europa-asia",
+    "para": "",
+    "tipo": "ataca",
+    "de_casa": "guerra-de-drones",
+    "para_casa": "guerra-de-drones",
+    "texto": "Na véspera da rodada, a Rússia lançou 162 drones, 96 a jato, e um míssil balístico contra a Ucrânia; Kiev diz ter derrubado ou neutralizado 135. A Ucrânia não é player do jogo.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "ABC News",
+      "url": "https://abcnews.com/International/russia-ukraine-us-meet-abu-dhabi-talks-trump/story?id=137970621",
+      "data": "2026-11-10",
+      "trecho": "The air force said that 135 drones, of which 70 were jet-powered, were shot down or otherwise suppressed."
+     },
+     {
+      "nome": "NBC News",
+      "url": "https://www.nbcnews.com/world/ukraine/us-mediated-talks-ending-war-russia-ukraine-begin-abu-dhabi-rcna608499",
+      "data": "2026-11-10",
+      "trecho": "Russia launched 162 drones of various types and a ballistic missile at Ukraine overnight"
      }
     ]
    }
   ],
   "hipoteses": [
    {
+    "id": "h-capital",
+    "sinal": "contra",
+    "porque": "O preço do dinheiro seguiu a guerra e a notícia: o Brent caiu 5,8% e puxou a bolsa, e a Nvidia caiu dois pregões sem palavra dos grandes bancos (o Citi não opinou). Sinal fraco, sem prova de que o bloco perdeu a mão nos capitais.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "AP (WTOP)",
+      "url": "https://wtop.com/news/2026/11/how-major-us-stock-indexes-fared-monday-11-9-2026/",
+      "data": "2026-11-09",
+      "trecho": "price dropped 5.8%, which helped lift the market"
+     },
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-10",
+      "trecho": "offered no opinion on the matter"
+     }
+    ]
+   },
+   {
+    "id": "h-fed",
+    "sinal": "a-favor",
+    "porque": "Um governador nomeado, sem voto popular, defende subir os juros do país e fala em proteger a credibilidade do Fed. Aparece a decisão fora das urnas, como o Fed foi desenhado, sem sinal de elite financeira no comando.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "Federal Reserve (discurso de Waller)",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+      "data": "2026-11-10",
+      "trecho": "Hiking only 25 basis points would put our credibility at risk, a risk I am not eager to take."
+     }
+    ]
+   },
+   {
+    "id": "h-agencias",
+    "sinal": "a-favor",
+    "porque": "No caso Nvidia, a máquina de segurança seguiu a própria linha: o Departamento de Justiça investiga a Megaspeed, e o alerta da inteligência chegou a Trump em maio, enquanto ele elogia Huang. Falta mostrar política secreta.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-09",
+      "trecho": "The DOJ is now conducting a criminal inquiry into Megaspeed."
+     },
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-10",
+      "trecho": "Secretary of State and national security adviser Marco Rubio delivered the warning"
+     }
+    ]
+   },
+   {
+    "id": "h-bigtech",
+    "sinal": "a-favor",
+    "porque": "Pelo resumo do Techmeme, a Anthropic promete cerca de US$ 10 bilhões a mais em nuvem da Microsoft e do Google até 2033. A Big Tech é dona da infraestrutura, sem prova de controlar a informação. Conflito: escreve o Claude, da Anthropic.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "Techmeme (resumo da The Information)",
+      "url": "https://www.techmeme.com/",
+      "data": "2026-11-10",
+      "trecho": "Anthropic commits ~$10B more to Microsoft and Google cloud by 2033"
+     },
+     {
+      "nome": "24/7 Wall St (Yahoo Finance)",
+      "url": "https://finance.yahoo.com/technology/articles/google-nvidia-microsoft-among-7-140216121.html",
+      "data": "2026-11-10",
+      "trecho": "TPU spending matters far more to Alphabet than any gain on the shares"
+     }
+    ]
+   },
+   {
     "id": "h-palantir",
     "sinal": "a-favor",
-    "porque": "A receita da Palantir com o governo dos EUA subiu 96%, e o Maven, seu sistema militar, passou de 100 mil usuários. Mostra contratos com governos em alta; não mostra que ela vigie populações.",
-    "noticia": 1,
+    "porque": "O TBIJ contou um contrato de £10 milhões com três polícias inglesas, e o Gizmodo lembra o ImmigrationOS, feito para as deportações do ICE. Nada disso mostra previsão de comportamento, e Tester nega que ela monte grandes bancos de dados.",
     "confianca": "provavel",
     "fontes": [
      {
-      "nome": "Palantir (SEC, 8-K)",
-      "url": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm",
-      "data": "2026-11-02",
-      "trecho": "U.S. government revenue grew 96% year-over-year and 18% quarter-over-quarter to $953 million"
+      "nome": "NationofChange (TBIJ)",
+      "url": "https://www.nationofchange.org/2026/11/10/exclusive-ex-met-police-chief-is-paid-adviser-for-palantir/",
+      "data": "2026-11-10",
+      "trecho": "Palantir wins a major new contract worth £10m with a group of forces in the east of England"
      },
      {
-      "nome": "Futurum Group",
-      "url": "https://futurumgroup.com/?p=97554",
-      "data": "2026-11-05",
-      "trecho": "Maven now exceeds 100,000 users and is available to all of the military services beyond the combatant commands"
+      "nome": "Gizmodo",
+      "url": "https://gizmodo.com/palantir-hires-former-democratic-senator-and-braces-for-political-backlash-2000837206",
+      "data": "2026-11-10",
+      "trecho": "The tech giant built a surveillance platform called ImmigrationOS to aid the mass deportation efforts of ICE."
      }
     ]
    },
    {
-    "id": "h-capital",
-    "sinal": "a-favor",
-    "porque": "JPMorgan, HSBC, Citi e outros vão a Antalya discutir como financiar a meta de eletrificação. Mostra grandes bancos de olho no dinheiro da transição; não mostra mando sobre bancos centrais.",
-    "noticia": 3,
+    "id": "h-ativos",
+    "sinal": "contra",
+    "porque": "Os ativos críticos que se mexeram foram movidos por governos: a China estendeu a pausa das terras raras até 10/1, e o Brent caiu abaixo de US$ 90 com a aposta na mediação do Catar. Nenhuma fonte cita fundos, o que não prova que não pesem.",
     "confianca": "provavel",
     "fontes": [
      {
-      "nome": "Bloomberg (Energy Connects)",
-      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "nome": "The National",
+      "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
       "data": "2026-11-09",
-      "trecho": "which is sending a team of investment bankers and sustainability executives to the talks"
+      "trecho": "China controls 60 per cent of global mined production of magnet rare earths and 91 per cent of global refined output"
      },
      {
-      "nome": "Bloomberg (Energy Connects)",
-      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
-      "data": "2026-11-09",
-      "trecho": "Bank of America Corp., Citigroup Inc. and Deutsche Bank AG will also send bankers and sustainability staff."
+      "nome": "Oilprice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Crude-Falls-Below-90-for-First-Time-Since-August.html",
+      "data": "2026-11-10",
+      "trecho": "President Trump added to the optimism by suggesting further strikes on Iran would not be necessary."
      }
     ]
    },
    {
-    "id": "h-roma",
-    "sinal": "a-favor",
-    "porque": "O Clube de Roma cuidou da imprensa de uma carta por reformas nas COPs, o que combina com empurrar a pauta do clima. Depois disse ter sido mal interpretado. Nada sobre controle populacional.",
-    "noticia": 3,
-    "confianca": "provavel",
+    "id": "h-europa",
+    "sinal": "contra",
+    "porque": "A segurança da Europa entra na conversa pelos enviados de Trump, num formato que o Kremlin quer a três, e França e Alemanha dizem que vão às reuniões. OSCE, Conselho da Europa e Bilderberg não aparecem. Sinal fraco.",
+    "confianca": "hipotese",
     "fontes": [
      {
-      "nome": "Climate Home News",
-      "url": "https://www.climatechangenews.com/?p=91772",
-      "data": "2026-10-29",
-      "trecho": "a series of reforms called for in an open letter signed by 22 eminent scientists and politicians"
+      "nome": "NBC News",
+      "url": "https://www.nbcnews.com/world/ukraine/us-mediated-talks-ending-war-russia-ukraine-begin-abu-dhabi-rcna608499",
+      "data": "2026-11-10",
+      "trecho": "some kind of grand deal about European security was in the works"
      },
      {
-      "nome": "Climate Home News",
-      "url": "https://www.climatechangenews.com/?p=91772",
-      "data": "2026-10-29",
-      "trecho": "handled the media relations for the letter"
+      "nome": "ABC News",
+      "url": "https://abcnews.com/International/russia-ukraine-us-meet-abu-dhabi-talks-trump/story?id=137970621",
+      "data": "2026-11-10",
+      "trecho": "Peskov maintained that the talks would remain trilateral in format."
      }
     ]
    },
    {
     "id": "h-intersecoes",
     "sinal": "a-favor",
-    "porque": "Em Antalya, a demanda de energia da IA entra na conversa dos bancos sobre financiar redes elétricas. Mostra finanças e tecnologia na mesma pauta; não mostra comando comum.",
-    "noticia": 3,
-    "confianca": "hipotese",
+    "porque": "No caso Nvidia, inteligência, Congresso, Casa Branca, chancelaria chinesa e bolsa agiram sobre a mesma empresa. Na Palantir, um executivo foi indicado para a ciberdefesa dos EUA. As áreas se cruzam, sem prova de comando comum.",
+    "confianca": "provavel",
     "fontes": [
      {
-      "nome": "Bloomberg (Energy Connects)",
-      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
-      "data": "2026-11-09",
-      "trecho": "Scaling AI will require huge investments in expanding and upgrading electric grids."
+      "nome": "Reuters (The Standard)",
+      "url": "https://www.thestandard.com.hk/finance/article/348113/Nvidia-heads-for-470-billion-two-day-wipeout-as-CEO-affair-fallout-deepens",
+      "data": "2026-11-10",
+      "trecho": "the FBI is examining whether the 63-year-old Huang was targeted by a foreign intelligence operation"
      },
      {
-      "nome": "Bloomberg (Energy Connects)",
-      "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/",
+      "nome": "MeriTalk",
+      "url": "https://www.meritalk.com/articles/trump-nominates-palantirs-losapio-to-lead-cisa/",
       "data": "2026-11-09",
-      "trecho": "they intend to use their time there engaged in talks about how to finance that goal"
+      "trecho": "President Donald Trump on Nov. 9 nominated Michael LoSapio"
      }
     ]
    }
   ],
-  "leitura": "Nesta rodada, a Espionagem Privada e as Empresas de Controle saem na frente: a Palantir teve alta de 96% na receita com o governo dos EUA e investe em armas contra drones russos, e gestoras veem na eletrificação da COP31 uma nova frente de investimento. O Core Financeiro fica em disputa: os bancos vão a Antalya atrás da transição, e a guerra no Irã aparece no Fed (hipótese). O Deep State europeu e asiático perde no Irã, cercado por mar e por terra. Recuam a Oligarquia Digital, cobrada pelos data centers, e a Nova Ordem, com uma COP menor. Nenhum player atacou outro de frente: os ataques foram entre peças. Ganharam sinal a favor as hipóteses da Palantir, do fluxo de capitais, do Clube de Roma e, de leve, a das interseções.",
-  "versao": 2,
+  "analise": "O dia girou em torno da Nvidia. A Deep State americana avançou por várias casas: o memorando da inteligência sobre Alice Huang chegou a Trump por Rubio em maio, segundo o NYT; o Departamento de Justiça investiga a Megaspeed na esfera criminal; o FBI examina se Jensen Huang foi alvo de inteligência estrangeira, segundo a Reuters; e Brian Mast fala em intimar Huang (avanço provável; quem levou o memorando à imprensa não é dito). A Oligarquia Digital recuou na bolsa e em Washington: a ação caiu 4,3% na segunda e mais de 6% na terça, rumo a perder mais de US$ 470 bilhões em dois dias, e a Microsoft passou a Nvidia como a segunda empresa mais valiosa do mundo. O dinheiro saiu da Nvidia sem sair do setor, porque na segunda o índice de chips SOX subiu quase 7% (troca de posição é hipótese). Os grandes bancos ficaram calados, e a conversa sobre sucessão veio de vozes de fora. O Deep State europeu e asiático negou tudo pela chancelaria e perdeu terreno, com projetos contra a venda de chips à China ganhando força no Congresso (provável). Em outras mesas, jogou melhor (provável): Pequim esticou a pausa das terras raras até 10/1, antes da APEC que recebe em Shenzhen, e quer o roteiro pronto; a Rússia sentou com os enviados de Trump em Abu Dhabi depois de lançar 162 drones. O Core Financeiro mostrou a mão no preço do dinheiro (hipótese): Waller quer subir os juros em dezembro, talvez 0,5 ponto, com Ormuz e o equipamento da IA na conta. A casa do Pentágono ficou sob cerco, com a Câmara perto de votar o impeachment de Hegseth, que Trump e Vance defendem. A Espionagem Privada pôs peças em casas de governo: o chefe de segurança da Palantir foi indicado para a CISA, e um ex-senador e uma ex-chefe de polícia apareceram como consultores. A Nova Ordem levou o roteiro dos fósseis à COP31, onde o anfitrião elogiou o próprio petróleo. As Empresas de Controle ficaram paradas, e governos mexeram nos ativos críticos. No placar Trump e China, o dia somou 4 pontos a favor e 5 contra; o acumulado está em 8 a 12, saldo de 4 contra a hipótese, sem evidência direta. Vigiar amanhã: a resposta de Huang ao Congresso, com prazo na quarta 11; a votação de Hegseth; o efeito do IPC de outubro sobre a aposta de 0,5 ponto; o fim da rodada de Abu Dhabi; a fala de Han Zheng na COP31; e o roteiro de Shenzhen.",
+  "trumpChina": {
+   "movimentos": [
+    {
+     "id": "tc-20261023-taiwan-armas",
+     "data": "2026-10-23",
+     "texto": "Taiwan espera há meses que Trump aprove um pacote de armas. Segundo a busca, a Reuters diz que a venda está parada para manter a boa relação com Xi e a trégua. As duas páginas deram erro e não foram conferidas.",
+     "sentido": "favor",
+     "peso": 3,
+     "porquePeso": "Atrasar armas a Taiwan por causa da trégua seria um gesto relevante a favor de Pequim, mas a fonte não foi conferida e uma assinatura de Trump reverte. Por isso, peso 3 e não mais.",
+     "tipo": "ato",
+     "confianca": "hipotese",
+     "fontes": [
+      {
+       "nome": "Malay Mail (AFP)",
+       "url": "https://www.malaymail.com/news/world/2026/10/23/why-taiwan-is-racing-against-time-as-it-waits-for-us-missiles-and-defence-systems/240173",
+       "data": "2026-10-23",
+       "trecho": "waiting months for US President Donald Trump to approve"
+      },
+      {
+       "nome": "ThePrint (Reuters)",
+       "url": "https://theprint.in/world/taiwan-says-it-has-not-heard-new-us-arms-sales-will-be-carved-into-smaller-chunks/3062808/",
+       "data": "2026-10-06",
+       "trecho": "to maintain warm relations and a fragile trade truce"
+      }
+     ],
+     "pontos": 0.9
+    },
+    {
+     "id": "tc-20261028-japao-cadeia",
+     "data": "2026-10-28",
+     "texto": "Hegseth e o ministro japonês Shinjiro Koizumi acertam reforçar a defesa ao longo da primeira cadeia de ilhas, investir mais para dissuadir a China e seguir produzindo munição juntos para um conflito longo.",
+     "sentido": "contra",
+     "peso": 3,
+     "porquePeso": "Acordo concreto com o Japão que reforça a barreira militar perto da costa chinesa; ainda sem valores nem prazos públicos.",
+     "tipo": "ato",
+     "confianca": "provavel",
+     "fontes": [
+      {
+       "nome": "Herald Corporation (heraldcorp.com)",
+       "url": "https://mbiz.heraldcorp.com/article/10917677",
+       "data": "2026-10-28",
+       "trecho": "building up defensive posture along the first island chain"
+      },
+      {
+       "nome": "Herald Corporation (heraldcorp.com)",
+       "url": "https://mbiz.heraldcorp.com/article/10917677",
+       "data": "2026-10-28",
+       "trecho": "expanding defense investment to bolster deterrence against China"
+      }
+     ],
+     "pontos": -1.8
+    },
+    {
+     "id": "tc-20261110-alerta-maio",
+     "data": "2026-11-10",
+     "texto": "Rubio alertou Trump em maio sobre a relação de Jensen Huang com Alice Huang, que a inteligência liga à espionagem chinesa (NYT). No dia 9, Trump disse ter sabido 'não faz muito tempo' e elogiou Huang.",
+     "sentido": "favor",
+     "peso": 2,
+     "porquePeso": "Minimizar um alerta de inteligência num caso ligado à China pesa a favor. Fica em 2 porque há explicações banais (confiança pessoal em Huang, peso da Nvidia) e a fonte é reportagem, sem documento.",
+     "tipo": "ato",
+     "confianca": "provavel",
+     "fontes": [
+      {
+       "nome": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+       "data": "2026-11-10",
+       "trecho": "Secretary of State and national security adviser Marco Rubio delivered the warning"
+      },
+      {
+       "nome": "CBS News",
+       "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+       "data": "2026-11-09",
+       "trecho": "absolutely no idea that the person in question was a spy"
+      }
+     ],
+     "pontos": 1.2
+    },
+    {
+     "id": "tc-20261109-megaspeed-doj",
+     "data": "2026-11-09",
+     "texto": "O governo não abafou o caso: o Departamento de Justiça investiga a Megaspeed na esfera criminal, e Trump disse que vai olhar e que o FBI olha o assunto 'por outra questão'.",
+     "sentido": "contra",
+     "peso": 2,
+     "porquePeso": "Investigação criminal em curso é ato concreto do governo contra uma suposta rota de chips para a China. Fica em 2 porque ainda não tem resultado.",
+     "tipo": "ato",
+     "confianca": "provavel",
+     "fontes": [
+      {
+       "nome": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+       "data": "2026-11-09",
+       "trecho": "The DOJ is now conducting a criminal inquiry into Megaspeed."
+      },
+      {
+       "nome": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+       "data": "2026-11-09",
+       "trecho": "I know the FBI is looking into it in terms of something else"
+      }
+     ],
+     "pontos": -1.2
+    },
+    {
+     "id": "tc-20261021-soja",
+     "data": "2026-10-21",
+     "texto": "A Casa Branca diz que a China se comprometeu a comprar soja dos EUA como parte do acordo comercial. Até 21/10, estatais chinesas já somavam cerca de 15 milhões de toneladas no ano-safra 2026-27.",
+     "sentido": "contra",
+     "peso": 2,
+     "porquePeso": "Concessão chinesa que ajuda o agricultor americano, mas pequena e reversível: Pequim pode parar de comprar quando quiser.",
+     "tipo": "ato",
+     "confianca": "provavel",
+     "fontes": [
+      {
+       "nome": "Global Agriculture",
+       "url": "https://www.global-agriculture.com/global-agriculture/chinas-us-soybean-buying-streak-pushes-toward-15-million-tonnes/",
+       "data": "2026-10-21",
+       "trecho": "a target the White House has said China committed to as part of a broader trade arrangement"
+      },
+      {
+       "nome": "Global Agriculture",
+       "url": "https://www.global-agriculture.com/global-agriculture/chinas-us-soybean-buying-streak-pushes-toward-15-million-tonnes/",
+       "data": "2026-10-21",
+       "trecho": "Chinese state-owned trading firms booked another 10 to 13 cargoes of US soybeans"
+      }
+     ],
+     "pontos": -1.2
+    },
+    {
+     "id": "tc-20261028-filipinas-verba",
+     "data": "2026-10-28",
+     "texto": "Nas Filipinas, Hegseth anuncia mais verba de cooperação militar para Manila e um esforço para as forças dos dois países agirem juntas. O Pentágono não disse o valor nem o prazo.",
+     "sentido": "contra",
+     "peso": 2,
+     "porquePeso": "Fortalece um rival da China no Mar do Sul da China, mas sem número nem prazo; o efeito prático ainda é pequeno.",
+     "tipo": "ato",
+     "confianca": "provavel",
+     "fontes": [
+      {
+       "nome": "The Star (Malásia)",
+       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/30/hegseth-pledges-stronger-military-framework-with-philippines-but-lacks-details",
+       "data": "2026-10-30",
+       "trecho": "US Defence Secretary Pete Hegseth announced additional military cooperation funding for the Philippines"
+      },
+      {
+       "nome": "The Star (Malásia)",
+       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/30/hegseth-pledges-stronger-military-framework-with-philippines-but-lacks-details",
+       "data": "2026-10-30",
+       "trecho": "The Pentagon disclosed neither the size of the funding increase nor a timetable for the coordination initiative"
+      }
+     ],
+     "pontos": -1.2
+    },
+    {
+     "id": "tc-20261110-rubio-alerta",
+     "data": "2026-11-10",
+     "texto": "Quem levou o alerta a Trump foi o próprio secretário de Estado e conselheiro de segurança nacional, Marco Rubio, segundo o NYT citado pelo Yahoo.",
+     "sentido": "contra",
+     "peso": 1,
+     "porquePeso": "Mostra o círculo de Trump tratando o caso como risco de segurança. Pesa 1 porque, no domingo, Rubio chamou o caso de assunto interno da empresa, segundo a CBS.",
+     "tipo": "ato",
+     "confianca": "provavel",
+     "fontes": [
+      {
+       "nome": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+       "data": "2026-11-10",
+       "trecho": "Secretary of State and national security adviser Marco Rubio delivered the warning"
+      }
+     ],
+     "pontos": -0.6
+    },
+    {
+     "id": "tc-20261109-tregua-eua",
+     "data": "2026-11-09",
+     "texto": "Na trégua esticada, Washington mantém concessões a Pequim: o USTR suspendeu ação da Seção 301 contra o setor marítimo e de logística da China (The National), e o Comércio estendeu a pausa da regra das afiliadas até 10/1 (Yahoo).",
+     "sentido": "favor",
+     "peso": 1,
+     "porquePeso": "Alivia empresas chinesas. Pesa só 1 porque é troca recíproca e vale até 10/1, uma semana depois da posse do Congresso democrata, e Isaac Stone Fish espera controle de exportação mais duro.",
+     "tipo": "ato",
+     "confianca": "provavel",
+     "fontes": [
+      {
+       "nome": "The National",
+       "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+       "data": "2026-11-09",
+       "trecho": "suspending action from a Section 301 investigation"
+      },
+      {
+       "nome": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+       "data": "2026-11-10",
+       "trecho": "to Jan. 10, a week after a new Democratic Congress is sworn in."
+      },
+      {
+       "nome": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+       "data": "2026-11-10",
+       "trecho": "enforce export controls in a way that they weren't doing it before."
+      }
+     ],
+     "pontos": 0.6
+    },
+    {
+     "id": "tc-20261109-tregua-china",
+     "data": "2026-11-09",
+     "texto": "Pequim estendeu por dois meses, até 10 de janeiro, a pausa nos controles de exportação de alguns minerais críticos e suspendeu pelo mesmo prazo a tarifa de 24% sobre produtos dos EUA, mantendo 10%.",
+     "sentido": "contra",
+     "peso": 1,
+     "porquePeso": "Concessão chinesa que alivia a indústria e o comércio dos EUA, mas curta e reversível: a China controla 91% do refino das terras raras de ímãs. Pesa 1.",
+     "tipo": "ato",
+     "confianca": "provavel",
+     "fontes": [
+      {
+       "nome": "The National",
+       "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+       "data": "2026-11-09",
+       "trecho": "China has suspended export controls on some critical minerals for two months"
+      },
+      {
+       "nome": "The National",
+       "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+       "data": "2026-11-09",
+       "trecho": "suspend a 24 per cent tariff on US goods for two months"
+      }
+     ],
+     "pontos": -0.6
+    },
+    {
+     "id": "tc-20261109-shenzhen-roteiro",
+     "data": "2026-11-09",
+     "texto": "Trump diz que vai à cúpula da APEC que Pequim recebe em Shenzhen, em 18 e 19/11, e acha que verá Xi e Putin. Segundo o WSJ citado pela Newsmax, Pequim quer declarações prontas e resultados definidos antes.",
+     "sentido": "favor",
+     "peso": 1,
+     "porquePeso": "Ir a uma cúpula recebida por Pequim é diplomacia comum. Conta 1 só porque Pequim tenta fixar o roteiro antes e Trump mantém a viagem.",
+     "tipo": "ato",
+     "confianca": "provavel",
+     "fontes": [
+      {
+       "nome": "Reuters (via News Tribune)",
+       "url": "https://www.newstribune.com/news/2026/nov/09/trump-thinks-he-will-meet-xi-and-putin-at-china-apec-summit/",
+       "data": "2026-11-09",
+       "trecho": "set for November 18-19 in the southern tech hub of Shenzhen"
+      },
+      {
+       "nome": "Newsmax (via Yahoo)",
+       "url": "https://www.yahoo.com/news/politics/articles/us-china-clash-over-trump-002617931.html",
+       "data": "2026-11-10",
+       "trecho": "China wants prepared statements and predetermined outcomes"
+      }
+     ],
+     "pontos": 0.6
+    },
+    {
+     "id": "tc-20261110-nuclear-a-tres",
+     "data": "2026-11-10",
+     "texto": "O governo Trump quer conversa aberta em Shenzhen e põe a desnuclearização na pauta; Pequim resiste a negociar armas nucleares a três, segundo o WSJ citado pela Newsmax.",
+     "sentido": "contra",
+     "peso": 1,
+     "porquePeso": "Empurrar Pequim para uma mesa que ela recusa vai contra o interesse chinês, mas por ora é só pauta de cúpula. Pesa 1.",
+     "tipo": "ato",
+     "confianca": "provavel",
+     "fontes": [
+      {
+       "nome": "Newsmax (via Yahoo)",
+       "url": "https://www.yahoo.com/news/politics/articles/us-china-clash-over-trump-002617931.html",
+       "data": "2026-11-10",
+       "trecho": "the Trump administration is pressing for more flexible discussions that would allow substantive exchanges"
+      },
+      {
+       "nome": "Newsmax (via Yahoo)",
+       "url": "https://www.yahoo.com/news/politics/articles/us-china-clash-over-trump-002617931.html",
+       "data": "2026-11-10",
+       "trecho": "Beijing, however, has resisted participating in trilateral nuclear arms negotiations"
+      },
+      {
+       "nome": "Reuters (via News Tribune)",
+       "url": "https://www.newstribune.com/news/2026/nov/09/trump-thinks-he-will-meet-xi-and-putin-at-china-apec-summit/",
+       "data": "2026-11-09",
+       "trecho": "We're talking a lot of things, including denuclearization"
+      }
+     ],
+     "pontos": -0.6
+    },
+    {
+     "id": "tc-20261108-cop31",
+     "data": "2026-11-08",
+     "texto": "Os EUA ficam fora da COP31, na Turquia. O país saiu do Acordo de Paris e é o único signatário que saiu.",
+     "sentido": "favor",
+     "peso": 1,
+     "porquePeso": "A saída é antiga e a fonte não diz que a China ganha voz com a ausência. Efeito sobre a hipótese é só uma leitura.",
+     "tipo": "ato",
+     "confianca": "provavel",
+     "fontes": [
+      {
+       "nome": "The Christian Science Monitor",
+       "url": "https://www.csmonitor.com/Environment/2026/1108/climate-change-cop31-turkey",
+       "data": "2026-11-08",
+       "trecho": "America remains the only signatory nation to exit the agreement."
+      }
+     ],
+     "pontos": 0.6
+    }
+   ],
+   "leitura": "Primeira rodada, com os 30 dias anteriores: 5 movimentos a favor da hipótese somam 3,9 pontos, e 7 contra somam 7,2. O placar fica em 3,3 pontos contra. A favor pesa o alerta de maio, que Trump diz ter sabido 'não faz muito tempo', segundo o NYT. Contra pesam a investigação criminal da Megaspeed, o alerta vindo do próprio Rubio e o reforço militar com Japão e Filipinas. Taiwan, o maior peso a favor, segue sem página conferida. Não há evidência direta. A hipótese ganha força se o caso Huang for abafado ou Taiwan esperar de novo; perde se as armas saírem ou vierem controles novos.",
+   "dia": -3.3,
+   "total": -3.3,
+   "historico": [
+    {
+     "data": "2026-11-10",
+     "dia": -3.3,
+     "total": -3.3
+    }
+   ]
+  },
+  "versao": 3,
   "placar": {
    "desde": "2026-11-10",
    "rodadas": 1,
    "hipoteses": {
     "h-capital": {
+     "favor": 0,
+     "contra": 1
+    },
+    "h-fed": {
      "favor": 1,
      "contra": 0
     },
-    "h-roma": {
+    "h-agencias": {
      "favor": 1,
      "contra": 0
+    },
+    "h-ativos": {
+     "favor": 0,
+     "contra": 1
+    },
+    "h-bigtech": {
+     "favor": 1,
+     "contra": 0
+    },
+    "h-europa": {
+     "favor": 0,
+     "contra": 1
     },
     "h-palantir": {
      "favor": 1,
@@ -1165,6 +2781,6 @@
    }
   },
   "por": "Opus 5.5",
-  "em": "2026-11-10T20:01:19Z"
+  "em": "2026-11-10T21:48:09Z"
  }
 }
