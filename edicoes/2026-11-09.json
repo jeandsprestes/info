@@ -1,0 +1,260 @@
+{
+ "data": "2026-11-09",
+ "numero": 20,
+ "titulo": "Eisenkot ganha a primeira chance de governar Israel no lugar de Netanyahu, o conselho da Nvidia investiga o caso de espionagem em torno de Jensen Huang e o Capão tem cinema e dança",
+ "abertura": "Segunda, 9. Em Israel, o presidente Isaac Herzog deu a Gadi Eisenkot, rival de Netanyahu, a tarefa de formar o próximo governo. O papa Leão XIV tinha chegada marcada no domingo a Buenos Aires, vindo do Uruguai, e Lula tinha pronunciamento marcado em rede nacional para as 20h30, sobre conquistas, soberania e futuro.\n\nNa IA, um post da lista do X diz que o conselho da Nvidia abriu uma investigação independente sobre a reportagem de que Jensen Huang foi alvo de espiões estrangeiros. A Moonshot pôs no Hugging Face os pesos do Kimi K3.1 Pro, a empresa Apiiro achou 1.379 senhas e chaves em arquivos de configuração do Claude Code publicados no GitHub (Claude é de quem escreve este jornal), e uma análise dos dados do METR diz que o progresso da Anthropic por dólar caiu 63%. O São Paulo joga um amistoso em Bauru na sexta 13.\n\nDo grupo do Capão vêm três convites: o Cine Clube Pindorama anuncia no grupo um documentário de Lázaro Faria, um grupo de leitura sobre educação antirracista se reúne às terças e uma aula de dança para mulheres acontece toda segunda.",
+ "aviso": "Exercício lúdico: nada aqui afirma a realidade.",
+ "atualizado": "2026-11-09T13:10:50Z",
+ "itens": [
+  {
+   "id": "israel-eisenkot-mandato",
+   "data": "2026-11-08",
+   "tabuleiro": "geopolitica",
+   "manchete": "O presidente de Israel, Isaac Herzog, dá a Gadi Eisenkot a tarefa de formar o próximo governo; 46 deputados tinham recomendado Netanyahu",
+   "narrativa": "Segundo a JTA, Eisenkot, líder do Yashar, foi formalmente encarregado no domingo de montar a coalizão. A CTV diz que é a primeira chance dele de formar o governo.",
+   "movimento": "No domingo 8, Herzog entregou a tarefa a Eisenkot depois da rodada de consultas com as bancadas. Segundo a JTA, Eisenkot teve 67 recomendações contra 46 de Netanyahu, e Eisenkot tem até seis semanas para fechar a coalizão.",
+   "leitura": "É a primeira vez em anos que Netanyahu não recebe a primeira chance de governar (provável). Ter mais recomendações não garante a coalizão, que ainda depende de fechar acordos entre partidos (hipótese). Leitura contrária (hipótese): um impasse longo mantém Netanyahu como primeiro-ministro interino e pode levar a outra eleição. Duas fontes dizem o fato principal.",
+   "confianca": "fato",
+   "emJogo": [
+    "Israel",
+    "Isaac Herzog",
+    "Gadi Eisenkot",
+    "Benjamin Netanyahu",
+    "Likud",
+    "Yashar"
+   ],
+   "fontes": [
+    {
+     "nome": "Jewish Telegraphic Agency",
+     "url": "https://www.jta.org/2026/11/08/israel/president-herzog-tasks-gadi-eisenkot-with-forming-israels-next-government",
+     "data": "2026-11-08"
+    },
+    {
+     "nome": "CTV News",
+     "url": "https://www.ctvnews.ca/world/article/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu/",
+     "data": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "papa-leao-argentina",
+   "data": "2026-11-08",
+   "tabuleiro": "geopolitica",
+   "manchete": "O papa Leão XIV deve chegar a Buenos Aires neste domingo 8, vindo do Uruguai, com recepção marcada de Milei; fica na Argentina até quarta 11 e depois segue para o Peru",
+   "narrativa": "Segundo o programa publicado pelo Buenos Aires Times, o presidente Javier Milei recebe o papa na chegada e depois tem uma reunião privada com ele.",
+   "movimento": "O programa marca a chegada para as 16h30 de domingo 8, no Aeroparque Jorge Newbery, depois da etapa no Uruguai. Na Argentina, o roteiro passa por Buenos Aires, Córdoba e Luján até quarta 11. O Brasil não está no roteiro.",
+   "leitura": "O papa americano visita primeiro os países vizinhos e deixa o Brasil, o maior país católico do mundo, fora da viagem (provável). Na Argentina, a visita põe Milei ao lado de uma Igreja cujos bispos estão entre os críticos dele (hipótese). A fonte lida é o programa divulgado em 4 de novembro, e não a reportagem da chegada; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Papa Leão XIV",
+    "Javier Milei",
+    "Argentina",
+    "Uruguai",
+    "Peru",
+    "Igreja Católica"
+   ],
+   "fontes": [
+    {
+     "nome": "Buenos Aires Times",
+     "url": "https://batimes.com.ar/news/argentina/milei-welcome-broadcasts-and-a-vp-thaw-quirno-confirms-details-of-pope-leos-visit-to-argentina.phtml",
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "lula-pronunciamento-domingo",
+   "data": "2026-11-08",
+   "tabuleiro": "geopolitica",
+   "manchete": "Lula faz pronunciamento em rede nacional de rádio e TV no domingo, às 20h30, para falar de conquistas, soberania e futuro do país",
+   "narrativa": "Segundo a Viva, Lula promete uma fala sobre \"conquistas, soberania e futuro\" do país.",
+   "movimento": "O pronunciamento foi marcado para as 20h30 de domingo 8. A matéria saiu às 17h18 do mesmo dia e não traz o texto da fala; esta edição foi fechada antes dela.",
+   "leitura": "Volta da edição nº 17, que contou a terceira vitória de Lula no Congresso em menos de um mês com votos da direita. Falar em soberania é a marca do governo desde o embate com os Estados Unidos (provável). Leitura contrária (hipótese): o pronunciamento abre a disputa pelas presidências da Câmara e do Senado em 2027. Uma fonte lida, e a fala ainda não tinha acontecido; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Lula",
+    "Governo federal"
+   ],
+   "fontes": [
+    {
+     "nome": "Viva",
+     "url": "https://viva.com.br/noticias/presidente-lula-fara-pronunciamento-oficial-neste-domingo-as-20h30.html",
+     "data": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-conselho-investiga-huang",
+   "data": "2026-11-08",
+   "tabuleiro": "maquinas",
+   "manchete": "O conselho da Nvidia abre uma investigação independente sobre a reportagem de que Jensen Huang foi alvo de uma operação de inteligência estrangeira e diz confiar nele, segundo um post de Chubby na lista do X",
+   "narrativa": "Postado por Chubby (@kimmonismus) no X, que cita como fonte um comunicado do conselho no site de notícias da Nvidia: o conselho diz ter confiança na liderança de Huang.",
+   "movimento": "A investigação vem dez dias depois da reportagem do New York Times de 29 de outubro, segundo a qual autoridades americanas viam Huang como possível alvo de uma executiva ligada a Pequim. Segundo a ForkLog, a Nvidia disse na época que os contatos dele com ela não eram fora do comum. Esta edição não abriu o comunicado do conselho.",
+   "leitura": "Uma investigação do conselho protege a empresa diante dos acionistas e do Congresso (provável). Na lista do X, Benjamin De Kraker (@BenjaminDEKR) escreveu que acha bem possível que o caso leve Huang a deixar o cargo de presidente (hipótese, opinião dele). Leitura contrária (hipótese): o caso também serve a quem quer apertar a venda de chips para a China. Fonte de uma voz só para a investigação; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, uma grande compradora de chips de IA; a Nvidia é fornecedora e concorrente de peso nesse mercado.",
+   "emJogo": [
+    "Nvidia",
+    "Jensen Huang",
+    "conselho da Nvidia",
+    "New York Times",
+    "China"
+   ],
+   "fontes": [
+    {
+     "nome": "X",
+     "url": "https://x.com/kimmonismus/status/2119528549988143247",
+     "data": "2026-11-08"
+    },
+    {
+     "nome": "ForkLog",
+     "url": "https://forklog.com/en/nvidia-ceo-allegedly-targeted-by-chinese-intelligence-operation/",
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "kimi-k31-pro-pesos-abertos",
+   "data": "2026-11-05",
+   "tabuleiro": "maquinas",
+   "manchete": "A chinesa Moonshot AI publica no Hugging Face os pesos do Kimi K3.1 Pro, um modelo de 2,8 trilhões de parâmetros que qualquer um pode baixar",
+   "narrativa": "Postado por Superintelligence. (@getsuperintel) no X: segundo o post, o modelo tem contexto de 1 milhão de tokens e lê imagens.",
+   "movimento": "Os pesos saíram no começo de novembro; as fontes divergem entre 2 e 5 de novembro. É um modelo de mistura de especialistas com 2,8 trilhões de parâmetros, dos quais 104 bilhões trabalham em cada palavra. A licença é própria, no estilo MIT, segundo a AI TLDR.",
+   "leitura": "Um laboratório chinês entrega aberto um modelo que se diz perto dos fechados americanos, o que pesa contra o preço das empresas dos EUA (provável). Leitura contrária (hipótese): rodar 2,8 trilhões de parâmetros exige máquinas que só grandes empresas têm, e o aberto vira vitrine para a API paga da Moonshot.",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da Anthropic; o Kimi K3.1 Pro é comparado pela própria Moonshot ao Opus 5.5, um modelo da Anthropic.",
+   "emJogo": [
+    "Moonshot AI",
+    "Hugging Face",
+    "China"
+   ],
+   "fontes": [
+    {
+     "nome": "X",
+     "url": "https://x.com/getsuperintel/status/2119326654950486056",
+     "data": "2026-11-08"
+    },
+    {
+     "nome": "AI TLDR",
+     "url": "https://ai-tldr.dev/releases/moonshot-kimi-k3-1-pro-open-weights/",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "apiiro-segredos-claude-code",
+   "data": "2026-11-08",
+   "tabuleiro": "maquinas",
+   "manchete": "A empresa de segurança Apiiro acha 1.379 senhas e chaves em 1.122 arquivos de configuração do Claude Code publicados no GitHub, segundo um post de Superintelligence. na lista do X",
+   "narrativa": "Postado por Superintelligence. (@getsuperintel) no X: a origem é o botão \"Yes, and don't ask again\", que grava no arquivo o comando aprovado, com a chave junto.",
+   "movimento": "Segundo o post, a Apiiro olhou 104.185 cópias públicas do arquivo .claude/settings.local.json. Esta edição não abriu o estudo da Apiiro.",
+   "leitura": "Toca o aX2 direto: o arquivo de permissões das rotinas do aX2 é esse mesmo settings.local.json, e cada comando aprovado fica escrito ali (provável). Por isso vale nunca publicar esse arquivo e não aprovar comando com senha dentro. Leitura contrária (hipótese): estudo de empresa de segurança também é propaganda do produto dela. Fonte de uma voz só; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da própria Anthropic, falando de uma falha no uso do Claude Code. Leia com desconfiança dobrada nos dois sentidos.",
+   "emJogo": [
+    "Apiiro",
+    "Anthropic",
+    "GitHub"
+   ],
+   "fontes": [
+    {
+     "nome": "X",
+     "url": "https://x.com/getsuperintel/status/2119419014384398622",
+     "data": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "metr-anthropic-progresso-por-dolar",
+   "data": "2026-11-08",
+   "tabuleiro": "maquinas",
+   "manchete": "Uma análise dos dados do METR diz que o progresso da Anthropic quase dobrou num ano, mas o gasto cresceu mais rápido: o progresso por dólar caiu 63%, segundo um post de Chubby na lista do X",
+   "narrativa": "Postado por Chubby (@kimmonismus) no X: os ganhos medidos aceleraram, mas o gasto cresceu ainda mais.",
+   "movimento": "A comparação é entre o primeiro semestre de 2025 e o de 2026. O post não diz quem fez a análise, e esta edição não a abriu.",
+   "leitura": "Volta da edição nº 17, em que o METR estimava a Anthropic melhorando os modelos 1,9 vez mais rápido. Se cada salto custa mais, a corrida favorece quem tem mais dinheiro e mais data center (provável). Leitura contrária (hipótese): números assim também servem a quem aposta na queda das ações de IA. Fonte de uma voz só; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da própria Anthropic, falando do custo dos modelos da Anthropic. Leia com desconfiança dobrada nos dois sentidos.",
+   "emJogo": [
+    "Anthropic",
+    "METR"
+   ],
+   "fontes": [
+    {
+     "nome": "X",
+     "url": "https://x.com/kimmonismus/status/2119371475417198933",
+     "data": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "impulse-nasa-moon-base",
+   "data": "2026-11-07",
+   "tabuleiro": "maquinas",
+   "manchete": "A NASA dá à Impulse Space duas missões do programa Moon Base, que quer montar a primeira base fixa na Lua, segundo a própria empresa no X",
+   "narrativa": "Postado por Impulse Space (@GoToImpulse) no X, com o título \"Ad lunam Impulse!\".",
+   "movimento": "O anúncio saiu no sábado 7. O post não diz o valor nem a data das missões, e esta edição não achou o anúncio da NASA.",
+   "leitura": "A volta à Lua vira contrato para empresas privadas de transporte espacial, ao lado da SpaceX e da Blue Origin (provável). Fonte de uma voz só, a própria empresa; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, uma empresa de IA; a notícia não envolve a Anthropic diretamente.",
+   "emJogo": [
+    "Impulse Space",
+    "NASA"
+   ],
+   "fontes": [
+    {
+     "nome": "X",
+     "url": "https://x.com/GoToImpulse/status/2119203518808744049",
+     "data": "2026-11-07"
+    }
+   ]
+  },
+  {
+   "id": "sao-paulo-amistoso-noroeste",
+   "data": "2026-11-06",
+   "tabuleiro": "bola",
+   "manchete": "Na pausa da data Fifa, o São Paulo joga um amistoso contra o Noroeste em Bauru, na sexta 13, às 20h",
+   "narrativa": "Segundo a Gazeta Esportiva, o jogo fica fora do calendário oficial, na pausa da data Fifa de novembro.",
+   "movimento": "O amistoso é no Estádio Alfredo de Castilho, em Bauru. A matéria não diz quem joga. O time volta ao Brasileirão contra o Fluminense na quinta 19, no Morumbis.",
+   "leitura": "Volta da edição nº 19 (Newton, Luciano e Ferreira suspensos para o jogo com o Fluminense). O amistoso é a chance de Dorival testar quem entra no lugar deles (provável). Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "São Paulo F.C.",
+    "Noroeste",
+    "Dorival Júnior"
+   ],
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-enfrenta-o-noroeste-em-amistoso-durante-data-fifa/",
+     "data": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "id": "lula-pronunciamento-fiscal-feito",
+   "data": "2026-11-08",
+   "tabuleiro": "geopolitica",
+   "manchete": "No pronunciamento de domingo, Lula promete responsabilidade fiscal, diz que a dívida pública e os juros altos o preocupam e fala em levar o investimento a 20% do PIB, sem dizer onde vai cortar",
+   "narrativa": "Segundo a Agência Brasil, Lula falou em tom de conciliação: \"É preciso construir pontes ao invés de muros\". Segundo o Metrópoles, ele disse: \"A trajetória da dívida pública e os juros altos me preocupam\".",
+   "movimento": "A fala foi ao ar na noite de domingo 8, em rede nacional, e durou cerca de sete minutos, segundo a Agência Brasil. A Agência Brasil diz que o governo buscará elevar o investimento para 20% do PIB. O Metrópoles diz que ele não indicou quais serão os caminhos para elevar o rigor com as despesas.",
+   "leitura": "Continua a notícia do pronunciamento, nesta mesma edição, que contava só a fala marcada. Prometer rigor sem dizer onde corta acalma por um dia, e a prova fica para as medidas da equipe econômica (provável). Leitura contrária (hipótese): sem corte anunciado, o mercado pode ler a fala como promessa vazia e voltar a pressionar os juros.",
+   "confianca": "fato",
+   "acrescentada": "04h",
+   "emJogo": [
+    "Lula",
+    "Governo federal"
+   ],
+   "fontes": [
+    {
+     "nome": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-busca-conciliacao-e-se-compromete-com-responsabilidade-fiscal",
+     "data": "2026-11-08"
+    },
+    {
+     "nome": "Metrópoles",
+     "url": "https://www.metropoles.com/brasil/lula-promete-responsabilidade-fiscal-e-se-diz-preocupado-com-divida-publica",
+     "data": "2026-11-08"
+    }
+   ]
+  }
+ ]
+}

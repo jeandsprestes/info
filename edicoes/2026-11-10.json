@@ -1,0 +1,298 @@
+{
+ "data": "2026-11-10",
+ "numero": 21,
+ "titulo": "A Anthropic lança o Claude Fable 5.2 na véspera de começar a vender as ações, a COP31 abre na Turquia sem os Estados Unidos e o Capão tem Maratona Teatral no fim de semana",
+ "abertura": "Terça, 10. A COP31 abriu na segunda em Antalya, na Turquia, sem delegação dos Estados Unidos pelo segundo ano. Russos e ucranianos têm conversa marcada em Abu Dhabi a partir desta terça, com mediação americana, depois de mais uma noite de ataques à rede elétrica. Trump diz que voltar à guerra com o Irã é muito improvável, e Lula marca para o dia 16 uma reunião sobre o Ministério da Segurança Pública.\n\nNa IA, a Anthropic lançou o Claude Fable 5.2 e o Claude Mythos 5.2 (Claude é de quem escreve este jornal), e a imprensa diz que a empresa pode começar a vender as ações já nesta terça, valendo menos do que se esperava. A Meta e a AMD também aparecem na lista do X. O São Paulo voltou aos treinos sem Bobadilla e sem Luciano.\n\nNo Capão, o grupo anuncia a 4ª Maratona Teatral nos dias 14 e 15, gratuita, salsa na sexta e uma Tenda Vermelha nesta terça. E há um edital nacional de fotografia, da Funarte, aberto até 18 de dezembro.",
+ "aviso": "Exercício lúdico: nada aqui afirma a realidade.",
+ "atualizado": "2026-11-10T13:11:08Z",
+ "itens": [
+  {
+   "id": "cop31-abre-antalya",
+   "data": "2026-11-09",
+   "tabuleiro": "geopolitica",
+   "manchete": "A COP31 abre em Antalya, na Turquia, e vai até o dia 20, sem delegação dos Estados Unidos pelo segundo ano seguido",
+   "narrativa": "Segundo a Morocco World News, o presidente da conferência, o ministro turco Murat Kurum, chamou o encontro de \"COP da implementação\", e Simon Stiell, chefe do clima da ONU, pediu que a COP31 acelere as soluções.",
+   "movimento": "A conferência começou na segunda 9. A Turquia preside, e a Austrália conduz as negociações. Segundo o Asharq Al-Awsat, a briga central é o dinheiro para a adaptação dos países pobres; a COP de Belém, no ano passado, também não fechou um roteiro para deixar os combustíveis fósseis.",
+   "leitura": "Sem os Estados Unidos na mesa, o peso das decisões passa mais para a China, a Europa e os grandes emergentes, como o Brasil (provável). Leitura contrária (hipótese): uma COP sem o maior emissor histórico tende a sair com textos fracos, que ninguém precisa cumprir.",
+   "confianca": "fato",
+   "emJogo": [
+    "Turquia",
+    "Austrália",
+    "ONU",
+    "Estados Unidos",
+    "Murat Kurum",
+    "Simon Stiell"
+   ],
+   "fontes": [
+    {
+     "nome": "Morocco World News",
+     "url": "https://www.moroccoworldnews.com/2026/11/345639/cop31-opens-in-turkiye-with-calls-to-turn-climate-pledges-into-action/",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Asharq Al-Awsat",
+     "url": "https://english.aawsat.com/features/5339337-cop31-antalya-climate-divisions-and-us-absence-test-global-consensus",
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "ucrania-russia-abu-dhabi",
+   "data": "2026-11-09",
+   "tabuleiro": "geopolitica",
+   "manchete": "Rússia e Ucrânia têm conversa marcada em Abu Dhabi a partir desta terça, com mediação de Kushner e Witkoff, depois de uma noite de 317 drones russos e de um incêndio numa refinaria russa",
+   "narrativa": "Segundo a AP, publicada pela ABC News, as conversas a três (Estados Unidos, Rússia e Ucrânia) começam na terça em Abu Dhabi e duram dois dias.",
+   "movimento": "Na véspera, a força aérea ucraniana contou 317 drones russos, 105 deles a jato, e a Rússia disse ter atacado quatro subestações de energia. Drones ucranianos puseram fogo na refinaria KINEF, perto de São Petersburgo, uma das maiores da Rússia.",
+   "leitura": "Os dois lados batem forte na energia do outro na véspera da conversa, para chegar com mais peso à mesa (provável). Uma fonte lida, a da agência AP; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Rússia",
+    "Ucrânia",
+    "Estados Unidos",
+    "Jared Kushner",
+    "Steve Witkoff",
+    "Emirados Árabes Unidos"
+   ],
+   "fontes": [
+    {
+     "nome": "ABC News (AP)",
+     "url": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428",
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "trump-ira-guerra-improvavel",
+   "data": "2026-11-08",
+   "tabuleiro": "geopolitica",
+   "manchete": "Trump diz que voltar à guerra aberta com o Irã é muito improvável se Teerã assinar um acordo, enquanto os Estados Unidos criam uma força para fechar também as rotas por terra do Irã",
+   "narrativa": "Segundo a CNBC, Trump disse no domingo que tudo depende de o Irã assinar \"um acordo muito forte\": reabrir por inteiro o Estreito de Ormuz e nunca ter arma nuclear.",
+   "movimento": "No sábado 7, o comando militar americano no Oriente Médio criou a Força-Tarefa Iron Gate, para impedir que armas e materiais sob sanção passem pelas fronteiras terrestres do Irã e pelo mar Cáspio. Segundo a Al Jazeera, o bloqueio naval dos portos iranianos já desviou 147 navios desde julho, e o Irã disse que dois petroleiros bateram em minas perto do estreito. As conversas seguem com mediação do Catar.",
+   "leitura": "Apertar o cerco por terra enquanto fala em acordo é pressão para negociar com vantagem (provável). O petróleo caro pela crise de Ormuz pesa no mundo inteiro, inclusive na COP31, que abriu na segunda (provável). Leitura contrária (hipótese): a força-tarefa aumenta o risco de um choque que derrube a conversa.",
+   "confianca": "fato",
+   "emJogo": [
+    "Estados Unidos",
+    "Donald Trump",
+    "Irã",
+    "Catar",
+    "Comando Central dos EUA"
+   ],
+   "fontes": [
+    {
+     "nome": "CNBC",
+     "url": "https://cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+     "data": "2026-11-08"
+    },
+    {
+     "nome": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes",
+     "data": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "lula-ministerio-seguranca-reuniao",
+   "data": "2026-11-09",
+   "tabuleiro": "geopolitica",
+   "manchete": "Lula marca para o dia 16 uma reunião para avançar na criação do Ministério da Segurança Pública, que tiraria a Polícia Federal da pasta da Justiça",
+   "narrativa": "Segundo o Diário Carioca, a reunião, com os ministros da Justiça e da Casa Civil, quer avançar na criação do novo ministério.",
+   "movimento": "Segundo a proposta em estudo, iriam para a nova pasta a Polícia Federal, a Polícia Rodoviária Federal, a Polícia Penal Federal e a Força Nacional. A criação está prevista para avançar depois da eventual aprovação da PEC da Segurança Pública pelo Congresso.",
+   "leitura": "Um ministério próprio dá a Lula uma resposta para mostrar na pauta da segurança (provável). Leitura contrária (hipótese): depender da PEC deixa o ministério nas mãos do Congresso. Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Lula",
+    "Governo federal",
+    "Congresso Nacional",
+    "Polícia Federal"
+   ],
+   "fontes": [
+    {
+     "nome": "Diário Carioca",
+     "url": "https://www.diariocarioca.com/2026/11/09/politica/lula-reuniao-ministerio-seguranca-publica/",
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "claude-fable-mythos-5-2",
+   "data": "2026-11-09",
+   "tabuleiro": "maquinas",
+   "manchete": "A Anthropic lança o Claude Fable 5.2 e o Claude Mythos 5.2, que ela diz serem um degrau acima do Opus 5.5 em quase tudo o que testou; o Mythos fica só para organizações aprovadas",
+   "narrativa": "Segundo a Anthropic, os dois modelos geram respostas até 30% mais rápido que as versões 5.1. Postado por Claude (@claudeai) no X: os modelos foram feitos para os desafios técnicos mais difíceis. Na lista do X, Chubby (@kimmonismus) escreveu que o Fable 5.2 é 20% mais barato que o anterior.",
+   "movimento": "O Fable 5.2 saiu na segunda 9 em todas as plataformas, a US$ 8 por milhão de tokens de entrada e US$ 40 por milhão de saída. O Mythos 5.2 vai só para organizações verificadas, que trabalham em áreas de uso duplo, como cibersegurança e biologia. Num teste da própria empresa, o modelo coordenou mais de mil subagentes por oito dias, a partir de uma pasta vazia, e montou um sistema operacional que liga num notebook.",
+   "leitura": "O lançamento sai na véspera do começo da venda das ações da Anthropic (notícia abaixo), e um modelo novo é o melhor cartaz para essa hora (provável). Para o aX2, é o modelo que o LOOMB pode usar no lugar do Opus quando o Jean escolher. Leitura contrária (hipótese): na mesma lista, David Shapiro (@DaveShapi) chamou o Fable 5.2 de o mais fraco dos modelos de ponta em muito tempo, no teste dele; os números do anúncio são da própria empresa.",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da própria Anthropic, falando do lançamento da Anthropic. Os números vêm da empresa, que também publica os riscos dos próprios modelos. Leia com desconfiança dobrada.",
+   "emJogo": [
+    "Anthropic",
+    "Claude Fable 5.2",
+    "Claude Mythos 5.2"
+   ],
+   "fontes": [
+    {
+     "nome": "Anthropic",
+     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "X",
+     "url": "https://x.com/claudeai/status/2119867114450268322",
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-ipo-valor-menor",
+   "data": "2026-11-09",
+   "tabuleiro": "maquinas",
+   "manchete": "A Anthropic pode começar a vender as ações já nesta terça, segundo a Bloomberg citada na lista do X; a Motley Fool diz que a abertura de capital pode avaliar a empresa em cerca de US$ 1,5 trilhão ou menos, abaixo do que se esperava antes",
+   "narrativa": "Postado por Chubby (@kimmonismus) no X, citando a Bloomberg: a estreia na Nasdaq viria na semana seguinte. Segundo a Motley Fool, a abertura de capital pode avaliar a empresa em cerca de US$ 1,5 trilhão ou menos.",
+   "movimento": "Segundo a Motley Fool, a projeção anterior era de cerca de US$ 2 trilhões, e a empresa deve abrir o capital ainda neste mês; o texto cita a apreensão com o setor de tecnologia. Esta edição não abriu a reportagem da Bloomberg, e a empresa não confirmou data nem preço.",
+   "leitura": "Volta da edição nº 20, em que o progresso por dólar da Anthropic caiu 63%: números assim pesam na conversa de preço com os compradores (provável). Leitura contrária (hipótese): baixar a expectativa antes da estreia ajuda as ações a subir no primeiro dia, o que é bom para quem compra na largada. Duas vozes, mas sem a reportagem da Bloomberg aberta; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da própria Anthropic, falando do valor da Anthropic. Leia com desconfiança dobrada nos dois sentidos.",
+   "emJogo": [
+    "Anthropic",
+    "Nasdaq",
+    "Bloomberg",
+    "SEC"
+   ],
+   "fontes": [
+    {
+     "nome": "X",
+     "url": "https://x.com/kimmonismus/status/2119815877117816895",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "The Motley Fool",
+     "url": "https://www.fool.com/investing/2026/11/09/anthropic-s-ipo-may-no-longer-value-the-company-anywhere-near-usd2-trillion-does-that-make-it-worth-buying/",
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "meta-muse-ember",
+   "data": "2026-11-09",
+   "tabuleiro": "maquinas",
+   "manchete": "A Meta lança o Muse Ember, que bate o Claude Haiku 5.5 e o GPT-6 Luna em testes de agentes e de código a cerca de um terço do custo por tarefa, segundo um post de Chubby na lista do X",
+   "narrativa": "Postado por Chubby (@kimmonismus) no X: o Muse Ember empata com o Haiku na nota geral de inteligência.",
+   "movimento": "Segundo o post de Chubby, o Muse Ember saiu na segunda 9, o mesmo dia do Fable 5.2. A busca desta edição não achou o anúncio da Meta.",
+   "leitura": "A briga dos modelos pequenos e baratos é a que decide quem fica com os agentes que rodam o dia inteiro, onde o custo por tarefa pesa mais que a nota máxima (provável). Fonte de uma voz só, e os testes não foram abertos; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic; o Muse Ember é comparado ao Claude Haiku 5.5, da Anthropic.",
+   "emJogo": [
+    "Meta",
+    "OpenAI",
+    "Anthropic"
+   ],
+   "fontes": [
+    {
+     "nome": "X",
+     "url": "https://x.com/kimmonismus/status/2119854916357242911",
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "amd-primusclaw-aberto",
+   "data": "2026-11-06",
+   "tabuleiro": "maquinas",
+   "manchete": "A AMD abre o código do PrimusClaw, sistema para rodar agentes de IA, segundo um post de Superintelligence. na lista do X",
+   "narrativa": "Postado por Superintelligence. (@getsuperintel) no X: segundo o post, a AMD usa o sistema por dentro desde abril, e duas instalações do sistema já rodaram mais de 40 mil sessões de agentes e mais de 4 milhões de chamadas de ferramentas.",
+   "movimento": "O código foi aberto em 6 de novembro. Esta edição não abriu o anúncio da AMD.",
+   "leitura": "Dar de graça a ferramenta que roda os agentes pode puxar gente para os chips da AMD, contra a Nvidia (hipótese). Toca o LOOMB: é o mesmo tipo de máquina que o aX2 usa para tocar agentes, a rodada e os workflows. Fonte de uma voz só; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, uma grande compradora de chips; a AMD é fornecedora nesse mercado.",
+   "emJogo": [
+    "AMD",
+    "Nvidia"
+   ],
+   "fontes": [
+    {
+     "nome": "X",
+     "url": "https://x.com/getsuperintel/status/2119839984492421142",
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "justin-sun-quantico-cripto",
+   "data": "2026-11-06",
+   "tabuleiro": "maquinas",
+   "manchete": "Justin Sun, fundador da TRON, diz que a computação quântica pode ameaçar a segurança das criptomoedas em um ou dois anos; os computadores quânticos de hoje ainda não quebram esses sistemas",
+   "narrativa": "Segundo a TokenPost, Sun ligou o risco às assinaturas digitais das blockchains, que uma máquina quântica grande o bastante poderia quebrar.",
+   "movimento": "A fala foi na sexta 6, e a matéria saiu no domingo 8. A mesma matéria diz que os computadores quânticos atuais não quebram as redes de criptografia.",
+   "leitura": "Avisos assim empurram as redes de cripto a trocar a criptografia antes de o risco chegar (provável). Leitura contrária (hipótese): o medo do quântico também vende projetos que se dizem resistentes a ele. Fonte de uma voz só, contando a fala; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, uma empresa de IA; a notícia não envolve a Anthropic.",
+   "emJogo": [
+    "Justin Sun",
+    "TRON"
+   ],
+   "fontes": [
+    {
+     "nome": "TokenPost",
+     "url": "https://www.tokenpost.com/news/technology/51758",
+     "data": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "sao-paulo-treino-sem-bobadilla-luciano",
+   "data": "2026-11-09",
+   "tabuleiro": "bola",
+   "manchete": "O São Paulo volta aos treinos para o amistoso de sexta contra o Noroeste sem Bobadilla, convocado pelo Paraguai, e sem Luciano, que perdeu o pai",
+   "narrativa": "Segundo o SPFC.net, Luciano está fora do CT por questões de família, depois da morte do pai, sem data para voltar.",
+   "movimento": "O time voltou a treinar na segunda 9, às 15h30. Bobadilla joga pelo Paraguai contra Singapura e Japão, nos dias 13 e 17. O amistoso é na sexta 13, às 20h, no Estádio Alfredo de Castilho, em Bauru; o time volta ao Brasileirão contra o Fluminense no dia 19, no Morumbis.",
+   "leitura": "Volta da edição nº 20, que contou o amistoso. Com dois titulares fora, Bauru pode servir de teste para outros nomes (hipótese). Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "São Paulo F.C.",
+    "Dorival Júnior",
+    "Noroeste",
+    "Bobadilla",
+    "Luciano"
+   ],
+   "fontes": [
+    {
+     "nome": "SPFC.net",
+     "url": "https://spfc.net/news/286555/sao-paulo-retoma-treinos-focado-em-ajustes-para-amistoso-e-com-ausencia-de-dois-titulares.html",
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "capao-festival-osba-chapada",
+   "data": "2026-11-10",
+   "tabuleiro": "capao",
+   "manchete": "A Orquestra Sinfônica da Bahia faz um festival na Chapada de 26 a 29 de novembro: dois dias em Lençóis e, nos dias 28 e 29, no Vale do Capão",
+   "narrativa": "Segundo o Portal Vale do Capão, o Festival OSBA Chapada Diamantina quer aproximar a música de concerto de novos públicos, com concertos, ações formativas e intercâmbios musicais.",
+   "movimento": "Os dias 26 e 27 são em Lençóis; os dias 28 e 29, no Vale do Capão, distrito de Caeté-Açu, em Palmeiras. Os horários, os locais exatos e o repertório ainda não foram divulgados, e o texto não diz se a entrada é gratuita. A busca desta atualização não achou outra notícia do festival.",
+   "leitura": "Uma orquestra estadual tocando no vale é um evento grande para o Capão e pode atrair visitantes no fim de semana de 28 e 29 (provável). Para o CapON, é mais um evento que pede uma agenda do vale num lugar só. Uma fonte só, o portal; por isso, provável.",
+   "confianca": "provavel",
+   "acrescentada": "04h",
+   "emJogo": [
+    "Orquestra Sinfônica da Bahia",
+    "Portal Vale do Capão"
+   ],
+   "fontes": [
+    {
+     "nome": "Portal Vale do Capão",
+     "url": "https://portalvaledocapao.com.br/osba-chega-a-chapada-diamantina-com-festival-de-musica-sinfonica-em-lencois-e-no-vale-do-capao/",
+     "data": "2026-11-10"
+    }
+   ]
+  }
+ ],
+ "editais": [
+  {
+   "titulo": "XVIII Seleção Funarte Marc Ferrez de Fotografia",
+   "orgao": "Funarte",
+   "para": "pessoas maiores de 18 anos, MEI, EI e pessoas jurídicas culturais de todo o Brasil",
+   "prazo": "2026-12-18",
+   "valor": "R$ 60 mil por projeto, 15 projetos (R$ 900 mil no total)",
+   "resumo": "Apoio a projetos de fotografia em três modalidades, da criação artística ao fotojornalismo e à pesquisa crítica. Tem destinação mínima para cada uma das cinco regiões.",
+   "url": "https://agenciagov.ebc.com.br/noticias/202611/funarte-lanca-duas-chamadas-publicas-para-a-fotografia-brasileira-1"
+  }
+ ]
+}

@@ -1,0 +1,403 @@
+{
+ "data": "2026-11-02",
+ "numero": 13,
+ "titulo": "A dois dias das urnas nos EUA, a OpenAI pede menos dinheiro e o Claude perde a janela de 5 horas",
+ "abertura": "Nos EUA, a eleição de meio de mandato é na terça 3, com os democratas na frente na média nacional e mais de 51 milhões de votos já dados. Em Israel, Eisenkot pode chegar às consultas de Herzog com mais indicações que Netanyahu. Na guerra, um drone ucraniano mata dois numa vila russa e Kiev diz ter atingido uma fábrica de combustível de mísseis.\n\nNas Máquinas, a OpenAI reduz a rodada para 20 bilhões de dólares e a S&P põe a Meta em alerta pelo gasto com IA; o Canadá vira sócio da Cohere; a Apple confirma o Qwen, da Alibaba, na Siri da China; e a Anthropic, a empresa de quem escreve este jornal, confirma o fim do limite de 5 horas no plano Ultra. Na Bola, o São Paulo cai para 10º e vai ao clássico sem Sabino; o Flamengo abre 3 pontos; o Monaco de Filipe Luís perde de novo.\n\nNo Capão, o Festino tem os lugares definidos para a semana que vem, e o Capão Reggae Vale fechou o feriadão no anfiteatro da Pousada do Capão. O grupo de WhatsApp e a lista do X, que faltaram às 18h, entraram às 18:35: a Maratona Teatral marca 14 e 15 de novembro.",
+ "aviso": "Exercício lúdico: nada aqui afirma a realidade.",
+ "atualizado": "2026-11-02T12:24:37Z",
+ "itens": [
+  {
+   "id": "eua-midterms-reta-final",
+   "data": "2026-11-01",
+   "tabuleiro": "geopolitica",
+   "manchete": "A dois dias da eleição de meio de mandato nos EUA, os democratas lideram a média nacional por 51,5% a 43,1%, e mais de 51 milhões de americanos já votaram",
+   "narrativa": "A Al Jazeera diz que os democratas seguem na frente dos republicanos por 51,5% a 43,1%, na média do RealClearPolling. A Fox News fala de disputas apertadas no Senado: no Alasca, com investigações federais e estaduais; em Michigan, com briga entre democratas; no Texas, entre Ken Paxton e James Talarico.",
+   "movimento": "A eleição é na terça 3 de novembro. Mais de 51 milhões de americanos já votaram, segundo a Al Jazeera. Trump volta à campanha no domingo com comícios em Iowa e no Kansas, segundo a Fox News e a Al Jazeera. Em Ohio, o voto antecipado bateu recorde: 1.485.900 eleitores até a manhã de sábado, segundo a Fox News. No Maine, uma pesquisa da Fox mostra empate de 49 a 49 na disputa do Senado.",
+   "leitura": "Volta da edição nº 10. O resultado diz se Trump terá o Congresso a favor nos dois últimos anos do mandato (provável). Seguir o calendário (hipótese): fechar a campanha em Iowa e no Kansas, estados que ele venceu com folga, sugere que a aposta é segurar a base, e não virar votos.",
+   "confianca": "fato",
+   "emJogo": [
+    "Donald Trump",
+    "Partido Democrata",
+    "Partido Republicano",
+    "Ken Paxton",
+    "James Talarico"
+   ],
+   "fontes": [
+    {
+     "nome": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/1/us-midterms-2-days-to-go-what-polls-say-as-trump-el-sayed-hit-the-trail",
+     "data": "2026-11-01"
+    },
+    {
+     "nome": "Fox News",
+     "url": "https://www.foxnews.com/live-news/3-days-to-go-candidates-fan-out-across-battlegrounds-as-midterms-hit-final-weekend-october-31",
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "israel-eisenkot-60-indicacoes",
+   "data": "2026-11-01",
+   "tabuleiro": "geopolitica",
+   "manchete": "Eisenkot pode chegar às consultas de Herzog com 60 indicações, contra 46 de Netanyahu; as conversas começam na quarta 4",
+   "narrativa": "O Ynet diz que Eisenkot pode receber 60 indicações, contando a Lista Conjunta e o Ra'am, partidos árabes, e que Netanyahu deve receber 46, do Likud, do Otzma Yehudit, do Shas e do Sionismo Religioso.",
+   "movimento": "O resultado oficial da eleição é apresentado na quarta 4 de novembro. O presidente Isaac Herzog deve ouvir os partidos a partir desse dia, talvez até a sexta. Ele tem sete dias depois da publicação do resultado para escolher quem tenta formar o governo: o prazo é 11 de novembro, segundo o Ynet.",
+   "leitura": "Volta da edição nº 12, em que o Likud chamou a eleição de roubada pelos partidos árabes. As indicações desses partidos são justamente o que dá a vantagem a Eisenkot, e é isso que o Likud pode estar tentando deslegitimar (hipótese). Nenhum bloco tem as 61 cadeiras. Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Gadi Eisenkot",
+    "Benjamin Netanyahu",
+    "Isaac Herzog",
+    "Likud",
+    "Ra'am",
+    "Lista Conjunta"
+   ],
+   "fontes": [
+    {
+     "nome": "Ynet News",
+     "url": "https://www.ynetnews.com/article/sk8eaw4pge",
+     "data": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "ucrania-drone-klimovo-rostov",
+   "data": "2026-10-31",
+   "tabuleiro": "geopolitica",
+   "manchete": "Um drone ucraniano mata duas pessoas em Klimovo, na Rússia, e Kiev diz ter atingido uma fábrica de combustível para mísseis russos na região de Rostov",
+   "narrativa": "Segundo a CNN Brasil, o governador da região disse que o drone atingiu uma casa em Klimovo. O Estado-Maior ucraniano disse que o ataque em Rostov causou incêndio e danos a quatro instalações de produção.",
+   "movimento": "No sábado 31, duas pessoas morreram e cinco ficaram feridas em Klimovo, segundo o governador regional. As forças russas disseram ter destruído 29 drones ucranianos na região em 24 horas, segundo a CNN Brasil.",
+   "leitura": "Volta da edição nº 12, que trouxe os 1.214 drones que a Rússia diz ter derrubado numa noite. A Ucrânia mira a indústria militar russa, e a Rússia mira cidades e energia: a guerra de drones sobe de volume antes das possíveis conversas a três (provável). Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Rússia",
+    "Ucrânia"
+   ],
+   "fontes": [
+    {
+     "nome": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/internacional/ataque-ucraniano-mata-pessoas-na-russia-diz-governador/",
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "openai-rodada-20-bi-meta-sp",
+   "data": "2026-10-31",
+   "tabuleiro": "maquinas",
+   "manchete": "A OpenAI reduz a rodada de 30 para 20 bilhões de dólares, e a S&P põe a Meta em perspectiva negativa pelo gasto com IA",
+   "narrativa": "A CNBC diz que a OpenAI busca até 20 bilhões de dólares, abaixo dos cerca de 30 bilhões de antes, e cita o Financial Times: a rodada avalia a empresa em 1,25 trilhão de dólares. A Fortune diz que a S&P não sabe quando a receita da IA da Meta vai pesar de verdade.",
+   "movimento": "Investidores dos Emirados Árabes lideram a rodada da OpenAI com a Coatue, e ela ainda não fechou, segundo a CNBC. A S&P mudou a perspectiva da Meta de estável para negativa, manteve a nota AA- e projeta fluxo de caixa livre negativo de 22 bilhões de dólares neste ano e de 71 bilhões em 2027, segundo a Fortune. Na quinta, a Alphabet caiu cerca de 12%, o pior dia da história dela, segundo a Fortune.",
+   "leitura": "O mercado começa a cobrar retorno do gasto com IA, e o dinheiro fica mais caro para quem ainda queima caixa (provável). Seguir o calendário (hipótese): a Anthropic abre capital no mês que vem, segundo a Fortune, e disputa o mesmo dinheiro dos investidores. Cada fato tem uma fonte; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente direta da OpenAI e da Meta, que prepara a própria abertura de capital. A desconfiança sobre quem divulga vale também para a Anthropic.",
+   "emJogo": [
+    "OpenAI",
+    "Meta",
+    "S&P Global",
+    "Coatue",
+    "Alphabet",
+    "Financial Times"
+   ],
+   "fontes": [
+    {
+     "nome": "CNBC",
+     "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+     "data": "2026-10-31"
+    },
+    {
+     "nome": "Fortune",
+     "url": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex",
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "canada-cohere-participacao",
+   "data": "2026-10-29",
+   "tabuleiro": "maquinas",
+   "manchete": "O Canadá compra uma participação de até 1,6 bilhão de dólares canadenses na Cohere, que fica obrigada a manter a sede no país",
+   "narrativa": "O governo do Canadá chama o aporte de investimento comercial, feito em etapas, ao lado da NVIDIA, da Bell e do Grupo Schwarz.",
+   "movimento": "Na quinta 29, o primeiro-ministro anunciou o aporte de até 1,6 bilhão de dólares canadenses. Em troca, a Cohere mantém a sede e o registro no Canadá e investe pelo menos 1,7 bilhão de dólares canadenses em computação no país até 2030, segundo o governo e a Mind and Machine Weekly.",
+   "leitura": "Governos começam a virar sócios dos seus laboratórios de IA para não perdê-los para fora, a chamada IA soberana (provável). Para o Brasil, é um modelo de como um país segura uma empresa de IA própria (hipótese).",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente da Cohere na venda de IA para empresas. A desconfiança sobre quem divulga vale também para a Anthropic.",
+   "emJogo": [
+    "Governo do Canadá",
+    "Cohere",
+    "NVIDIA",
+    "Grupo Schwarz",
+    "Bell"
+   ],
+   "fontes": [
+    {
+     "nome": "Gabinete do primeiro-ministro do Canadá",
+     "url": "https://www.pm.gc.ca/en/news/news-releases/2026/10/29/canada-announces-landmark-investment-cohere-scale-secure-sovereign-ai",
+     "data": "2026-10-29"
+    },
+    {
+     "nome": "Mind and Machine Weekly",
+     "url": "https://mindandmachineweekly.substack.com/p/mind-and-machine-weekly-1-november",
+     "data": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "apple-qwen-siri-china",
+   "data": "2026-10-31",
+   "tabuleiro": "maquinas",
+   "manchete": "A Apple confirma o Qwen, da Alibaba, dentro da Siri na China: teste a partir de 4 de novembro e lançamento com o iOS 27.3 em dezembro",
+   "narrativa": "A Apple diz que o Qwen vai funcionar em partes escolhidas da Apple Intelligence na China, como a Siri, as Ferramentas de Escrita e a Inteligência Visual, para perguntar sobre uma foto ou um PDF, por exemplo.",
+   "movimento": "O teste começa na versão beta do iOS para desenvolvedores em 4 de novembro, e a liberação para o público vem com o iOS 27.3 em dezembro, segundo a The Apple Post e a The Next Web. O usuário entra com uma conta do Qwen ou com o Entrar com a Apple. A nova Siri com IA não entra nesse pacote.",
+   "leitura": "Para vender IA na China, a Apple aceita um modelo chinês por dentro do iPhone: é a regra do mercado chinês (provável). O Qwen ganha uma vitrine enorme fora dos aparelhos chineses (provável).",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da Anthropic, que concorre com os modelos chineses e não opera na China. A desconfiança sobre quem divulga vale também para a Anthropic.",
+   "emJogo": [
+    "Apple",
+    "Alibaba",
+    "Qwen"
+   ],
+   "fontes": [
+    {
+     "nome": "The Apple Post",
+     "url": "https://www.theapplepost.com/2026/10/31/73758/apple-confirms-qwen-support-in-china-as-ios-27-3-beta-arrives-november-4/",
+     "data": "2026-10-31"
+    },
+    {
+     "nome": "The Next Web",
+     "url": "https://thenextweb.com/news/apple-intelligence-china-ios-27-3-alibaba-qwen",
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "claude-ultra-sem-limite-5h",
+   "data": "2026-10-30",
+   "tabuleiro": "maquinas",
+   "manchete": "A Anthropic confirma: o Max 20x vira Ultra, segue a 200 dólares e perde o limite de 5 horas nas contas verificadas; o limite semanal continua",
+   "narrativa": "A Anthropic disse que o plano de 100 dólares passa a se chamar só Max, e o de 200, o Max 20x, passa a se chamar Ultra, sem mudança de preço.",
+   "movimento": "Na sexta 30, a empresa tirou o limite de uso de 5 horas das contas Ultra verificadas, segundo a ShiftDelete e a The Decoder (mixed-news). Os limites semanais não mudaram, e há um limite semanal à parte para o Fable, segundo a mixed-news. Quem já assinava o Max 20x passa ao Ultra sozinho.",
+   "leitura": "Volta da edição nº 12, que trouxe a mudança só como um post sem confirmação; agora é anúncio da empresa. Para quem usa o Claude o dia todo, a janela de 5 horas deixa de travar o trabalho e só o limite semanal conta (provável). A OpenAI dobrou os limites do Pro na mesma semana (edição nº 11): a disputa é por quem dá mais uso pelo mesmo preço (provável).",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da Anthropic: a notícia é sobre os planos da própria empresa. Leia com o dobro de desconfiança.",
+   "emJogo": [
+    "Anthropic"
+   ],
+   "fontes": [
+    {
+     "nome": "ShiftDelete",
+     "url": "https://shiftdelete.net/en/claude-ultra-plan",
+     "data": "2026-10-30"
+    },
+    {
+     "nome": "The Decoder (mixed-news)",
+     "url": "https://mixed-news.com/en/claude-ultra-verified-no-five-hour-limit-weekly-cap/",
+     "data": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "sao-paulo-10o-sem-sabino",
+   "data": "2026-11-01",
+   "tabuleiro": "bola",
+   "manchete": "O São Paulo cai para 10º depois da derrota para o Bahia e vai ao clássico de quarta sem Sabino, suspenso; o Corinthians chega em 17º, na zona de rebaixamento",
+   "narrativa": "O site do São Paulo conta que, no domingo 1º, Dorival Júnior fez trabalho tático, um jogo de 11 contra 11 e cobranças de falta e de escanteio no CT da Barra Funda.",
+   "movimento": "Sabino recebeu o terceiro cartão amarelo contra o Bahia e está fora do clássico, segundo a Gazeta Esportiva. Com a derrota, o São Paulo caiu para 10º, com 43 pontos em 33 jogos; o Corinthians está em 17º, com 36 pontos, segundo o Piranot. O jogo é na quarta 4, às 21h30, na Vila Belmiro, pela 34ª rodada. O placar contra o Bahia não estava nas páginas lidas.",
+   "leitura": "Volta das edições nº 11 e 12. O clássico vale muito mais para o Corinthians, que tem 42,7% de chance de cair, segundo a UFMG citada pela Placar; para o São Paulo, é a chance de quebrar a sequência ruim fora de casa (provável).",
+   "confianca": "fato",
+   "emJogo": [
+    "São Paulo F.C.",
+    "Dorival Júnior",
+    "Sabino",
+    "Corinthians"
+   ],
+   "fontes": [
+    {
+     "nome": "São Paulo FC (site oficial)",
+     "url": "https://www.saopaulofc.net/elenco-treina-neste-domingo-e-avanca-nos-ajustes-para-o-classico-com-o-corinthians/",
+     "data": "2026-11-01"
+    },
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-faz-ajustes-taticos-no-sao-paulo-de-olho-em-classico-contra-o-corinthians/",
+     "data": "2026-10-31"
+    },
+    {
+     "nome": "Piranot",
+     "url": "https://www.piranot.com.br/esporte/tabela-brasileirao-33-rodada-classificacao-atualizada/",
+     "data": "2026-11-01"
+    },
+    {
+     "nome": "Placar",
+     "url": "https://placar.com.br/placar/veja-as-chances-de-rebaixamento-e-titulo-no-brasileirao-apos-o-fim-da-33a-rodada/",
+     "data": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "flamengo-lider-73-pontos",
+   "data": "2026-11-01",
+   "tabuleiro": "bola",
+   "manchete": "O Flamengo vence o clássico com o Vasco, abre 3 pontos sobre o Palmeiras, que empatou com o Santos, e chega a 87,3% de chance de título",
+   "narrativa": "A Placar, com os cálculos da UFMG, diz que a chance de título do Flamengo subiu para 87,3% depois da vitória sobre o Vasco, e a do Palmeiras caiu para 12,7%.",
+   "movimento": "O Flamengo fechou a 33ª rodada na liderança, com 73 pontos em 33 jogos; o Palmeiras é o 2º, com 70, segundo o Piranot. O Palmeiras empatou por 0 a 0 com o Santos, na Vila Belmiro, segundo a Placar. Os dois se enfrentam em 21 de novembro, no Allianz Parque.",
+   "leitura": "A briga pelo título fica entre os dois, e o confronto direto de 21 de novembro pode decidir (provável).",
+   "confianca": "fato",
+   "emJogo": [
+    "Flamengo",
+    "Palmeiras",
+    "Vasco"
+   ],
+   "fontes": [
+    {
+     "nome": "Placar",
+     "url": "https://placar.com.br/placar/veja-as-chances-de-rebaixamento-e-titulo-no-brasileirao-apos-o-fim-da-33a-rodada/",
+     "data": "2026-11-01"
+    },
+    {
+     "nome": "Piranot",
+     "url": "https://www.piranot.com.br/esporte/tabela-brasileirao-33-rodada-classificacao-atualizada/",
+     "data": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "filipe-luis-monaco-paris-fc",
+   "data": "2026-11-01",
+   "tabuleiro": "bola",
+   "manchete": "Filipe Luís: Monaco 1 x 3 Paris FC; quarto jogo seguido sem vencer na liga francesa",
+   "narrativa": "O NC News diz que o Monaco de Filipe Luís chegou ao quarto jogo seguido sem vencer na Ligue 1.",
+   "movimento": "No domingo 1º, o Monaco perdeu por 3 a 1 para o Paris FC, no Stade Jean-Bouin, em Paris, pela liga francesa, e caiu para 6º, segundo o NC News.",
+   "leitura": "Depois de começar na liderança, o Monaco de Filipe Luís pode estar entrando na primeira fase ruim (hipótese). Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Filipe Luís",
+    "Monaco",
+    "Paris FC"
+   ],
+   "fontes": [
+    {
+     "nome": "NC News",
+     "url": "https://ncnews.com.br/2026/11/01/monaco-filipe-luis-perde-paris-fc/",
+     "data": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "capao-festino-locais",
+   "data": "2026-10-27",
+   "tabuleiro": "capao",
+   "manchete": "O Festino, festival de circo do Capão, acontece de 6 a 8 de novembro; segundo o Aratu On, as apresentações são no Circo do Capão nos dias 6 e 7 e há apresentação de rua em Conceição dos Gatos no dia 8",
+   "narrativa": "O Aratu On diz que a 8ª edição do Festival Internacional Diamantino de Circo terá três dias de apresentações, música, formação e troca cultural, e que a programação completa e os artistas ainda serão divulgados aos poucos.",
+   "movimento": "Nos dias 6 e 7 de novembro, as apresentações são no Circo do Capão; no dia 8, há apresentação de rua em Conceição dos Gatos, segundo o Aratu On. A edição não tem patrocínio garantido e se mantém pela colaboração de artistas, produtores, parceiros e comunidade.",
+   "leitura": "Volta da edição nº 3, que trouxe as datas. É o maior evento cultural do vale nas próximas semanas, feito no chapéu, o mesmo modelo que o Jean pensa para o CapON (hipótese). Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Festival Internacional Diamantino de Circo (Festino)",
+    "Circo do Capão"
+   ],
+   "fontes": [
+    {
+     "nome": "Aratu On",
+     "url": "https://aratuon.com.br/entretenimento/festino-celebra-circo-e-cultura-popular-na-chapada-diamantina-entre-6-e-8-de-novembro/",
+     "data": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "id": "capao-reggae-vale-3a-edicao",
+   "data": "2026-11-01",
+   "tabuleiro": "capao",
+   "manchete": "O Capão Reggae Vale, 3ª edição, ocupou o anfiteatro da Pousada do Capão do sábado 31 ao domingo 1º",
+   "narrativa": "A página do evento na Sympla promete grandes nomes do reggae nacional e local, sem dizer quais.",
+   "movimento": "O festival foi de 31 de outubro, às 16h30, a 1º de novembro, às 17h45, no anfiteatro da Pousada do Capão, na Rua do Chamego, no Vale do Capão, segundo a Sympla. A página já marca o evento como encerrado.",
+   "leitura": "Volta da edição nº 12, que não tinha conferido o nome nem o lugar do reggae do feriadão; a Sympla traz os dois. Se o festival se repetir, pode virar data fixa do turismo no vale (hipótese). Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Pousada do Capão"
+   ],
+   "fontes": [
+    {
+     "nome": "Sympla",
+     "url": "https://www.sympla.com.br/evento/capao-reggae-vale-3-edicao/3508531",
+     "data": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "karpathy-hackertube",
+   "data": "2026-11-01",
+   "tabuleiro": "maquinas",
+   "manchete": "Karpathy diz ter usado o Claude para filtrar 43 milhões de comentários de 20 anos do Hacker News até chegar a 6.454 vídeos que seguem sendo recomendados",
+   "narrativa": "Andrej Karpathy, um dos fundadores da OpenAI e ex-chefe de IA da Tesla, escreveu no X que pediu ao Claude para filtrar 20 anos de comentários do Hacker News e chegar aos vídeos que as pessoas recomendam sem parar.",
+   "movimento": "No domingo 1º, Karpathy postou o projeto de fim de semana: 43 milhões de comentários de 20 anos do Hacker News, o fórum de tecnologia, viraram uma lista de 6.454 vídeos, segundo o post.",
+   "leitura": "É o tipo de uso que interessa aos projetos do Jean: a IA como filtro de uma comunidade, trocando o algoritmo da plataforma pelo que as pessoas de fato indicam (provável). A mesma ideia serviria ao grupo do Capão, recomendando o que o vale indica (hipótese). Uma voz só, a do próprio autor; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, e o projeto foi feito com o Claude: a notícia é propaganda de graça para a empresa de quem escreve. Leia com o dobro de desconfiança.",
+   "acrescentada": "19h",
+   "emJogo": [
+    "Andrej Karpathy",
+    "Hacker News",
+    "YouTube",
+    "Anthropic"
+   ],
+   "fontes": [
+    {
+     "nome": "Lista do X (karpathy)",
+     "url": "https://x.com/karpathy/status/2116957135661945283",
+     "data": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "israel-comite-resultado-fica",
+   "data": "2026-11-02",
+   "tabuleiro": "geopolitica",
+   "manchete": "O chefe do comitê eleitoral de Israel diz que o resultado fica de pé mesmo se a suspeita de interferência estrangeira se confirmar; o Likud de Netanyahu segue dizendo que a eleição foi roubada",
+   "narrativa": "Segundo a Al Jazeera, o Likud questiona o resultado sem prova, dizendo que os partidos árabes roubaram a eleição e receberam dinheiro do Catar. O Catar chamou a acusação de campanha de desinformação. Eisenkot fala em campanha organizada para deslegitimar o resultado.",
+   "movimento": "No domingo 1º, num vídeo ao lado do chefe do Shin Bet e da procuradora-geral, Noam Sohlberg, chefe do Comitê Central de Eleições, disse que o resultado vale mesmo se as suspeitas forem comprovadas. O bloco de Netanyahu tem 53 cadeiras e o de Eisenkot, 48, de 120; os três partidos árabes somam 19, recorde. O resultado deve ser oficializado nesta semana, segundo a Al Jazeera.",
+   "leitura": "Volta da notícia de Israel desta edição e da nº 12. O comitê, a segurança e a procuradoria aparecem juntos no mesmo vídeo, o que sinaliza que as instituições sustentam o resultado antes das conversas de Herzog (provável). Que isso enfraqueça a tese do roubo do Likud é hipótese: o comitê falou da suspeita de interferência estrangeira, e não respondeu à acusação de roubo. Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "acrescentada": "04h",
+   "emJogo": [
+    "Noam Sohlberg",
+    "Benjamin Netanyahu",
+    "Likud",
+    "Gadi Eisenkot",
+    "Catar",
+    "Shin Bet"
+   ],
+   "fontes": [
+    {
+     "nome": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "ucrania-russia-apps-alerta-hackeados",
+   "data": "2026-11-02",
+   "tabuleiro": "geopolitica",
+   "manchete": "Os aplicativos de alerta aéreo da Ucrânia e da Rússia são invadidos e mandam avisos falsos, logo depois do fim da trégua de Kherson, a mais longa da guerra",
+   "narrativa": "Segundo a Al Jazeera, o centro de comunicação estratégica da Ucrânia culpou a Rússia pela invasão do app ucraniano. O Ministério de Emergências da Rússia falou em ataque hacker massivo ao app russo, sem dizer quem foi.",
+   "movimento": "No domingo 1º à noite, o app de alerta aéreo da Ucrânia mandou avisos falsos de ameaça nuclear e química em Kiev e de lançamento do míssil russo Oreshnik; a Força Aérea disse que não havia ameaça de radiação. Horas depois, o app russo de alerta de drones também espalhou informação falsa. A trégua local numa parte de Kherson ocupada pela Rússia durou de terça 27 a domingo 1º, segundo a Al Jazeera.",
+   "leitura": "Volta da notícia dos drones desta edição. A guerra passa para o celular: um alerta falso de ataque nuclear mexe com o medo de uma cidade inteira sem disparar um tiro (provável). Quem atacou o app russo não foi dito; ligar os dois ataques a um mesmo autor seria hipótese. Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "acrescentada": "04h",
+   "emJogo": [
+    "Ucrânia",
+    "Rússia",
+    "Centro de Comunicação Estratégica da Ucrânia",
+    "Ministério de Emergências da Rússia"
+   ],
+   "fontes": [
+    {
+     "nome": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings",
+     "data": "2026-11-02"
+    }
+   ]
+  }
+ ]
+}

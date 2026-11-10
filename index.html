@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>INFO</title>
+<meta name="description" content="O jornal de bolso: as notícias do dia, com o que dizem, o que fizeram e as fontes.">
+<meta name="theme-color" content="#05060B">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icones/favicon.png">
+<link rel="apple-touch-icon" href="icones/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="INFO">
+<meta property="og:title" content="INFO">
+<meta property="og:description" content="O jornal de bolso: as notícias do dia, com as fontes.">
+<meta property="og:image" content="icones/icone-512.png">
+<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+<header class="topo">
+  <a class="marca" href="#/"><img src="icones/icone-192.png" alt="" width="28" height="28"> INFO</a>
+  <nav>
+    <a href="#/" data-rota="hoje">Hoje</a>
+    <a href="#/edicoes" data-rota="edicoes">Edições</a>
+    <a href="#/sobre" data-rota="sobre">Sobre</a>
+  </nav>
+</header>
+<div id="instalar" class="faixa" hidden>
+  <span id="instalar-texto">Instale o INFO no celular.</span>
+  <button id="instalar-botao" type="button">Instalar</button>
+  <button id="instalar-fechar" type="button" aria-label="Fechar">×</button>
+</div>
+<main id="app"><p class="vazio">Carregando…</p></main>
+<footer class="pe">
+  <button id="compartilhar" type="button">Compartilhar o link</button>
+  <p>Exercício lúdico: nada aqui afirma a realidade. Cada notícia traz as fontes; confira por lá.</p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

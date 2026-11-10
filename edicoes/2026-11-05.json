@@ -1,0 +1,352 @@
+{
+ "data": "2026-11-05",
+ "numero": 16,
+ "titulo": "Rússia confirma conversa de paz em Abu Dhabi, o Irã recusa a resposta dos EUA sobre Ormuz e o Claude ajuda a mapear uma partícula de bactéria",
+ "abertura": "Quinta, 5. A Rússia confirmou para a semana que vem uma rodada de paz com a Ucrânia e os EUA em Abu Dhabi, enquanto os dois lados seguem atacando a energia e as cidades um do outro. Um dirigente do Irã chamou de pouco convincente a resposta americana às sete condições para reabrir Ormuz. Em Michigan, venceu para o Senado um democrata que quer pausar a IA, e no Brasil Lula ainda não escolheu quem fica com a Fazenda.\n\nNas Máquinas, a Anthropic, a empresa de quem escreve este jornal, mostrou o Claude ajudando a mapear a estrutura 3D de uma partícula de bactéria e, segundo a The Information, desenhando chips. A OpenAI vai comprar a Pierre, segundo a Axios, e pode lançar modelos novos já na sexta; a Moonshot abriu os pesos do Kimi K3.1 Pro.\n\nNo Capão, hoje tem a Defensoria Pública de graça na praça de Palmeiras, dia 9 tem Batom de Beterraba no Circo, e a Casa do Piano anuncia concertos de despedida. O São Paulo pegou o Corinthians ontem às 21h30, depois do fechamento: o placar entra na atualização das 4h.",
+ "aviso": "Exercício lúdico: nada aqui afirma a realidade.",
+ "atualizado": "2026-11-04T21:24:35Z",
+ "itens": [
+  {
+   "id": "ucrania-russia-abu-dhabi",
+   "data": "2026-11-03",
+   "tabuleiro": "geopolitica",
+   "manchete": "A Rússia confirma conversas de paz com a Ucrânia e os EUA em Abu Dhabi na semana que vem e põe na mesa um encontro de Putin, Trump e Xi",
+   "narrativa": "Segundo a CNBC, o Kremlin disse que um encontro entre Vladimir Putin, Donald Trump e Xi Jinping para acabar com a guerra está em discussão.",
+   "movimento": "Na terça 3, a Rússia confirmou que as conversas de paz com a Ucrânia e os EUA acontecem na semana que vem, em Abu Dhabi. À parte, a primeira-dama Melania Trump vai receber representantes russos e ucranianos na Casa Branca, segundo a CNBC.",
+   "leitura": "A mesa ganha dois palcos ao mesmo tempo, Abu Dhabi e a Casa Branca, logo depois da eleição americana (provável). Pôr Xi na foto amplia o papel da China, que na edição nº 15 já aparecia recebendo o Irã e Omã (hipótese). Leitura contrária (hipótese): anunciar conversa enquanto os ataques continuam ganha tempo no campo. Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Rússia",
+    "Ucrânia",
+    "EUA",
+    "Vladimir Putin",
+    "Donald Trump",
+    "Xi Jinping",
+    "Melania Trump"
+   ],
+   "fontes": [
+    {
+     "nome": "CNBC",
+     "url": "https://cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
+     "data": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "ucrania-russia-energia-belgorod",
+   "data": "2026-11-04",
+   "tabuleiro": "geopolitica",
+   "manchete": "Antes da rodada de paz em Abu Dhabi, a Rússia atinge duas usinas perto de Kiev e Zhytomyr, e ataques ucranianos matam três pessoas em Belgorod",
+   "narrativa": "O Ministério da Defesa da Rússia confirmou no Telegram que atingiu duas usinas de energia nas regiões de Kiev e de Zhytomyr, segundo a Al Jazeera.",
+   "movimento": "Na quarta 4, autoridades de Belgorod, na Rússia, disseram que ataques ucranianos mataram três pessoas na região. Do outro lado, a Rússia atacou a rede elétrica da Ucrânia: Zelensky disse que usinas e subestações de nove regiões foram danificadas, segundo a Al Jazeera.",
+   "leitura": "Os dois lados batem forte antes de sentar à mesa, o jeito de chegar à conversa com mais cartas (provável). A energia volta a ser alvo com o inverno chegando. Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Rússia",
+    "Ucrânia",
+    "Ministério da Defesa da Rússia"
+   ],
+   "fontes": [
+    {
+     "nome": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region",
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "ira-hormuz-resposta-eua",
+   "data": "2026-11-04",
+   "tabuleiro": "geopolitica",
+   "manchete": "O Irã chama de pouco convincente a resposta dos EUA às sete condições para reabrir o Estreito de Ormuz",
+   "narrativa": "Segundo a Al Jazeera, publicada pelo Yahoo, o Irã diz que o estreito só reabre se os EUA atenderem às sete exigências de Teerã, entre elas o fim das sanções e do bloqueio naval americano.",
+   "movimento": "Na terça 3, Trump confirmou que os EUA atacaram o Irã de madrugada; a mídia iraniana diz que o alvo foi a ilha de Qeshm, e Trump diz que era uma instalação antiaérea. Na quarta 4, Mohsen Rezaei, do Conselho Supremo de Segurança Nacional do Irã, escreveu no X que a resposta americana não convenceu. O Catar diz que a troca de propostas continua.",
+   "leitura": "Volta da edição nº 15, que contou o plano pronto para atacar o Irã depois da eleição. O ataque parece limitado (hipótese) e a conversa segue, com Ormuz como a carta mais forte do Irã (provável). Seguir o dinheiro (hipótese): cada dia de estreito fechado pesa no petróleo de quem compra do Golfo, a China à frente. Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Irã",
+    "EUA",
+    "Donald Trump",
+    "Catar"
+   ],
+   "fontes": [
+    {
+     "nome": "Al Jazeera (via Yahoo)",
+     "url": "https://www.yahoo.com/news/us/articles/iran-says-us-reply-hormuz-043931688.html",
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "eua-el-sayed-michigan-pausa-ia",
+   "data": "2026-11-04",
+   "tabuleiro": "geopolitica",
+   "manchete": "O democrata Abdul El-Sayed vence Mike Rogers para o Senado em Michigan; ele defende uma pausa no avanço da IA",
+   "narrativa": "Na campanha, El-Sayed disse que é importante dar uma pausa séria na IA. Na lista de IA do X do Jean, Chubby (@kimmonismus) chamou a vitória de notícia muito ruim para a IA.",
+   "movimento": "Na quarta 4, a Al Jazeera informou a vitória de El-Sayed na vaga aberta pela aposentadoria do democrata Gary Peters, então a cadeira não muda de partido. Na campanha (9/9), ele pediu uma pausa séria na IA e citou alertas de pesquisadores da Anthropic; o plano dele propõe que a maioria dos conselhos das empresas de IA de fronteira seja nomeada ou eleita pelo público.",
+   "leitura": "Volta da edição nº 15, que contou os democratas ganhando as duas casas. Com a vitória, a pausa da IA deixa de ser só bandeira de campanha e entra no Senado (provável). Um senador sozinho não muda a lei, mas ganha palco (provável). Leitura contrária (hipótese): o voto em Michigan foi mais contra Trump do que a favor da pausa.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic. Na página da campanha, El-Sayed citou alertas de pesquisadores da Anthropic para pedir a pausa: a empresa de quem escreve é parte direta do assunto.",
+   "emJogo": [
+    "Abdul El-Sayed",
+    "Mike Rogers",
+    "Senado dos EUA",
+    "Partido Democrata",
+    "OpenAI",
+    "Anthropic"
+   ],
+   "fontes": [
+    {
+     "nome": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/el-sayed-defeats-rogers-to-win-senate-seat-in-michigan",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "Abdul El-Sayed (campanha)",
+     "url": "https://abdulforsenate.com/2026/09/new-dr-abdul-el-sayed-calls-for-pausing-ai-development/",
+     "data": "2026-09-09"
+    },
+    {
+     "nome": "Lista do X (kimmonismus)",
+     "url": "https://x.com/kimmonismus/status/2117902358965567954",
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "brasil-lula-ministerio-fazenda",
+   "data": "2026-11-03",
+   "tabuleiro": "geopolitica",
+   "manchete": "Lula se reúne com Camilo Santana e Rafael Fonteles para tratar dos ministérios; segundo O Cafezinho, o nome da Fazenda fica para o fim de novembro",
+   "narrativa": "Segundo o título de O Cafezinho, o governo adiaria a escolha do ministro da Fazenda para o fim de novembro, sem dar um gesto ao mercado.",
+   "movimento": "Na terça 3, Lula recebeu Camilo Santana (PT), cotado para a Casa Civil ou para a nova pasta de Segurança Pública, e Rafael Fonteles, que descartou a Fazenda e disse que cumpre o mandato de governador do Piauí, segundo O Povo.",
+   "leitura": "Volta da edição nº 15, que contou o dólar subindo à espera da equipe econômica. Segurar o nome da Fazenda seria recado ao mercado de que o calendário é do governo (hipótese). Leitura contrária (hipótese): a demora mostra que a negociação com o Centrão ainda não fechou. Cada fonte diz uma parte; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Lula",
+    "Camilo Santana",
+    "Rafael Fonteles",
+    "mercado financeiro"
+   ],
+   "fontes": [
+    {
+     "nome": "O Povo",
+     "url": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/11/03/camilo-e-fonteles-tem-reuniao-com-lula-para-definir-ministerios.html",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "O Cafezinho",
+     "url": "https://www.ocafezinho.com/2026-11-03/lula-recusa-gesto-ao-mercado-e-adia-nome-da-fazenda-para-fim-de-novembro",
+     "data": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-claude-vault-bacteria",
+   "data": "2026-11-04",
+   "tabuleiro": "maquinas",
+   "manchete": "A Anthropic diz que o Claude ajudou a mapear a primeira estrutura 3D de uma partícula vault vinda de bactéria",
+   "narrativa": "No X, a Anthropic (@AnthropicAI) postou que a equipe de biologia trabalhou com o Claude para mapear a primeira estrutura 3D de uma partícula vault de vida bacteriana. As vaults são barris ocos de proteína, um mistério de décadas.",
+   "movimento": "Segundo a Unite.AI, a equipe mostrou que proteínas de bactérias e de fagos montam vaults quando produzidas em E. coli; a estrutura de uma casca derivada de fago chegou a 3,2 ångström de resolução nominal. A mesma matéria conta que um protocolo escrito pelo Claude trazia um aditivo que atrapalhou o trabalho e atrasou o projeto em duas semanas. O relatório técnico foi enviado ao bioRxiv. \"Primeira estrutura\" é afirmação da própria Anthropic.",
+   "leitura": "A Anthropic mostra o Claude fazendo ciência de bancada a poucos dias das apresentações a investidores da bolsa, contadas na edição nº 15 (provável). Seguir o calendário (hipótese): a notícia ajuda a vender a ideia do Claude como cientista. A própria empresa conta os erros, o que dá crédito e também escolhe o tamanho da falha (hipótese).",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da própria Anthropic, e a notícia elogia o Claude: é propaganda de graça para a empresa de quem escreve. Leia com o dobro de desconfiança.",
+   "emJogo": [
+    "Anthropic"
+   ],
+   "fontes": [
+    {
+     "nome": "Lista do X (AnthropicAI)",
+     "url": "https://x.com/AnthropicAI/status/2118073665296228863",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "Unite.AI",
+     "url": "https://www.unite.ai/anthropic-uses-claude-to-show-bacterial-and-phage-proteins-form-vaults/",
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-claude-chips",
+   "data": "2026-11-03",
+   "tabuleiro": "maquinas",
+   "manchete": "A Anthropic disse a investidores que já usa o Claude para desenhar os próprios chips, segundo a The Information",
+   "narrativa": "Na lista de IA do X do Jean, Superintelligence. (@getsuperintel) repassou a reportagem: a equipe de hardware tem cerca de 15 pessoas, e os engenheiros estimam que o Claude encurta o tempo de projeto em comparação com o jeito da Nvidia e da AMD.",
+   "movimento": "A reportagem da The Information saiu na terça 3, segundo o AI Weekly, sobre reuniões com possíveis investidores da abertura de capital. A Anthropic não anunciou quando os chips ficam prontos.",
+   "leitura": "Volta da edição nº 15, que contou as contas da Anthropic no documento da bolsa. Desenhar o próprio chip pode ser uma resposta ao peso da computação (hipótese). A estimativa de ganho é da própria equipe, sem prova de fora (provável).",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da própria Anthropic, e a informação vem do que a empresa disse a quem pode comprar ações dela.",
+   "emJogo": [
+    "Anthropic",
+    "Nvidia",
+    "AMD",
+    "The Information"
+   ],
+   "fontes": [
+    {
+     "nome": "Lista do X (getsuperintel)",
+     "url": "https://x.com/getsuperintel/status/2117969219580989777",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "AI Weekly",
+     "url": "https://aiweekly.co/alerts/anthropic-tells-ipo-investors-claude-helps-design-its-chips",
+     "data": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "openai-modelos-sexta",
+   "data": "2026-11-04",
+   "tabuleiro": "maquinas",
+   "manchete": "A OpenAI pode lançar modelos novos já nesta sexta, segundo a The Information; no X o pacote ganhou o nome de GPT-6.2, que a empresa não confirmou",
+   "narrativa": "Na lista de IA do X do Jean, Chubby (@kimmonismus) escreveu que o GPT-6.2 pode sair já na sexta, segundo a The Information, em versões Astra, Sol e uma voltada para segurança digital.",
+   "movimento": "A OpenAI não confirmou data nem nome. Segundo a KuCoin, usuários dizem ter visto um gpt-6.2-astra nas estatísticas de uso do Codex de algumas contas, o que sugere um teste, também sem confirmação.",
+   "leitura": "Volta da edição nº 15, que contou as críticas ao Astra. A pressa viria da briga com o Claude nas tarefas de código (hipótese). Seguir o calendário (hipótese): lançar logo depois da eleição e na semana em que a Anthropic mostra as contas tira atenção da rival. O nome GPT-6.2 vem de post, não da empresa: por isso, hipótese.",
+   "confianca": "hipotese",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente direta da OpenAI.",
+   "emJogo": [
+    "OpenAI",
+    "The Information",
+    "Anthropic"
+   ],
+   "fontes": [
+    {
+     "nome": "Lista do X (kimmonismus)",
+     "url": "https://x.com/kimmonismus/status/2118022631593062686",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "KuCoin",
+     "url": "https://www.kucoin.com/news/flash/rumors-of-anthropic-s-fable-5-5-and-openai-s-gpt-6-2-astra-spark-industry-speculation",
+     "data": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "openai-compra-pierre",
+   "data": "2026-11-04",
+   "tabuleiro": "maquinas",
+   "manchete": "A OpenAI vai comprar a Pierre Computer, diz a Axios, e levar o armazenamento de código dela para o Codex, num passo em direção ao terreno do GitHub",
+   "narrativa": "Na lista de IA do X do Jean, Chubby (@kimmonismus) repassou a Axios: a OpenAI entra num território dominado há muito tempo pelo GitHub, da Microsoft.",
+   "movimento": "Na quarta 4, a Axios informou que a OpenAI vai comprar a Pierre Computer e planeja integrar o Code Storage, produto da Pierre, ao Codex, segundo a Unite.AI.",
+   "leitura": "A briga dos agentes de código passa do modelo para o lugar onde o código mora (provável). A Microsoft é sócia da OpenAI e dona do GitHub: a compra mexe com o próprio parceiro (provável). Leitura contrária (hipótese): é só infraestrutura para os agentes, sem intenção de trocar o GitHub. As duas fontes repassam a mesma reportagem da Axios; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente da OpenAI no código.",
+   "emJogo": [
+    "OpenAI",
+    "Pierre Computer",
+    "Microsoft",
+    "GitHub",
+    "Axios"
+   ],
+   "fontes": [
+    {
+     "nome": "Lista do X (kimmonismus)",
+     "url": "https://x.com/kimmonismus/status/2117966987888312763",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "Unite.AI",
+     "url": "https://www.unite.ai/openai-to-acquire-pierre-computer-and-bring-code-storage-to-codex/",
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "moonshot-kimi-k31-pro-pesos",
+   "data": "2026-11-04",
+   "tabuleiro": "maquinas",
+   "manchete": "A chinesa Moonshot abre os pesos do Kimi K3.1 Pro no Hugging Face; um post da lista do X fala em 2,8 trilhões de parâmetros",
+   "narrativa": "A conta oficial do Kimi (@Kimi_Moonshot) anunciou a liberação dos pesos e disse que vai seguir avançando a inteligência aberta. Chubby (@kimmonismus), na lista do X do Jean, contou que só os pesos ocupam cerca de 1,56 TB.",
+   "movimento": "Na quarta 4, os pesos foram publicados no Hugging Face. Segundo o post de Chubby, o modelo tem 2,8 trilhões de parâmetros.",
+   "leitura": "Volta da edição de 30/10, que contou a acusação de que o Kimi K3.1 Pro aprendeu com o Astra por destilação. Agora a China põe de graça na rua um modelo do porte dos fechados americanos (provável). Seguir o dinheiro (hipótese): pesos abertos tiram preço de quem cobra pelo acesso, como a OpenAI e a Anthropic.",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da Anthropic; a Alpha Signal diz que o Kimi quer bater o Claude nos agentes de código.",
+   "emJogo": [
+    "Moonshot AI",
+    "Hugging Face",
+    "Nvidia",
+    "OpenAI"
+   ],
+   "fontes": [
+    {
+     "nome": "Lista do X (Kimi_Moonshot)",
+     "url": "https://x.com/Kimi_Moonshot/status/2118010528123773297",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "Lista do X (kimmonismus)",
+     "url": "https://x.com/kimmonismus/status/2118017354403815899",
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "ethereum-pos-quantico-2028",
+   "data": "2026-11-04",
+   "tabuleiro": "maquinas",
+   "manchete": "Um pesquisador do Ethereum espera dezembro de 2028 para a rede estar protegida contra computadores quânticos, um ano antes do prazo da fundação",
+   "narrativa": "Justin Drake, pesquisador do Ethereum, disse na Devcon 8, em Mumbai, que a esperança é terminar até dezembro de 2028 a transição pós-quântica e pós-IA, segundo o Cointelegraph.",
+   "movimento": "O roteiro de setembro da Ethereum Foundation marcou dezembro de 2029 como prazo. A meta de Drake adianta em um ano. Eli Ben-Sasson, da StarkWare, chamou o prazo de 2029 de tarde demais e avisou que prazos podem escorregar, segundo o Cointelegraph.",
+   "leitura": "O medo do computador quântico quebrar a criptografia já mexe no calendário das redes de blockchain (provável). Leitura contrária (hipótese): prazo ambicioso também serve para segurar a confiança de quem tem dinheiro na rede. Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, uma peça do tabuleiro Máquinas, sem negócio direto com o Ethereum.",
+   "emJogo": [
+    "Ethereum",
+    "Ethereum Foundation",
+    "Justin Drake"
+   ],
+   "fontes": [
+    {
+     "nome": "Cointelegraph",
+     "url": "https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target",
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "palmeiras-defensoria-mutirao-aquilomba",
+   "data": "2026-11-04",
+   "tabuleiro": "capao",
+   "manchete": "Hoje, quinta 5, a Defensoria Pública atende de graça na praça em frente à Câmara de Palmeiras, com divórcio, pensão, DNA e a nova identidade",
+   "narrativa": "O cartaz da Defensoria Pública Móvel em Palmeiras foi postado por Marcéllia Souzza no grupo de WhatsApp do Capão. Segundo o Se Liga Chapada, é a 5ª edição do Mutirão Aquilomba, para as comunidades quilombolas de Seabra e de Palmeiras.",
+   "movimento": "Em Palmeiras, a unidade móvel fica na Praça Dr. José Gonçalves, em frente à Câmara Municipal, nesta quinta 5. Entre os serviços: registro civil, divórcio e partilha, pensão alimentícia, guarda, saúde e direito do consumidor, exame de DNA gratuito e a nova Carteira de Identidade Nacional. Em Seabra, o atendimento foi nos dias 3 e 4.",
+   "leitura": "É serviço de justiça de graça na sede do município do vale, e só por um dia (provável). Para o CapON, é o tipo de aviso útil que hoje chega solto, num cartaz no meio de dezenas de anúncios do grupo (hipótese). Uma fonte da web e o cartaz do grupo; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Defensoria Pública da Bahia",
+    "Prefeitura de Palmeiras"
+   ],
+   "fontes": [
+    {
+     "nome": "Se Liga Chapada",
+     "url": "https://www.seligachapada.com.br/mutirao-aquilomba-seabra-palmeiras-novembro-2026/",
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "chapada-feira-das-artes-mucuge",
+   "data": "2026-11-03",
+   "tabuleiro": "capao",
+   "manchete": "A 15ª Feira das Artes de Mucugê será em 20 e 21 de novembro e está com inscrições abertas para artistas e artesãos",
+   "narrativa": "Segundo o Jornal da Chapada, a feira prepara dois dias de cultura, música e valorização regional. A notícia foi repassada no grupo de WhatsApp do Capão pela Universidade Livre da Chapada.",
+   "movimento": "O evento é nos dias 20 e 21 de novembro, no largo da Igreja de Santo Antônio, no Centro Histórico de Mucugê. As inscrições para artistas, artesãos e produtores da agricultura familiar estão abertas; o texto não diz até quando. O cartaz postado no grupo anuncia uma rifa (combo especial).",
+   "leitura": "É vitrine para quem vive de arte e artesanato na Chapada, inclusive no vale (provável). O dia 20 é feriado da Consciência Negra, e isso pode ajudar o movimento (hipótese).",
+   "confianca": "provavel",
+   "emJogo": [
+    "Feira das Artes de Mucugê",
+    "Universidade Livre da Chapada"
+   ],
+   "fontes": [
+    {
+     "nome": "Jornal da Chapada",
+     "url": "https://jornaldachapada.com.br/2026/11/03/chapada-com-inscricoes-abertas-feira-das-artes-de-mucuge-prepara-dois-dias-de-cultura-musica-e-valorizacao-regional/",
+     "data": "2026-11-03"
+    }
+   ]
+  }
+ ]
+}

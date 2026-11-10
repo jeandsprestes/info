@@ -1,0 +1,365 @@
+{
+ "data": "2026-11-06",
+ "numero": 17,
+ "titulo": "As ações de IA perdem cerca de 3 trilhões de dólares depois da eleição americana, o METR diz que a Anthropic acelera e o São Paulo empata com o Corinthians",
+ "abertura": "Sexta, 6. A bolsa americana devolveu numa quinta a alta do dia seguinte à eleição: as ações ligadas à IA caíram forte, com o medo de que os democratas eleitos travem os data centers, e a OpenAI discute rever a capacidade que espera ter em 2027. No mesmo dia, o METR, um avaliador independente, disse que a Anthropic, a empresa de quem escreve este jornal, está melhorando os modelos quase duas vezes mais rápido que antes.\n\nA OpenAI lançou o GPT-6 Cyber, para caçar falhas de segurança, e o Google soltou o Gemini Omni Flash 1.2, que faz vídeo de 15 segundos. Abu Dhabi recebe Rússia e Ucrânia nos dias 10 e 11, e no Golfo mais petroleiros pegaram fogo perto de Ormuz. No Brasil, o Senado aprovou a PEC da Segurança por 75 a 0 e Lula mandou ao Congresso a MP do imposto do pecado.\n\nNo Capão, o grupo passou a manhã de quinta cobrando o posto de saúde, que segundo moradores está sem as vacinas de bebê. O FESTINO começa hoje e vai até domingo, e sábado tem o Brechó da Vila. O São Paulo ficou no 0 a 0 com o Corinthians na Vila Belmiro.",
+ "aviso": "Exercício lúdico: nada aqui afirma a realidade.",
+ "atualizado": "2026-11-06T12:09:27Z",
+ "itens": [
+  {
+   "id": "ucrania-russia-abu-dhabi-10-11",
+   "data": "2026-11-05",
+   "tabuleiro": "geopolitica",
+   "manchete": "As conversas entre Rússia e Ucrânia em Abu Dhabi ficam para 10 e 11 de novembro, e Zelensky diz esperar mais ajuda do Congresso agora democrata",
+   "narrativa": "Em entrevista à TV alemã ZDF, Zelensky disse que os democratas falam com clareza em apoiar e ajudar a Ucrânia, segundo a Al Jazeera.",
+   "movimento": "O enviado americano Steve Witkoff disse que Washington vai reunir as delegações da Ucrânia e da Rússia em Abu Dhabi nos dias 10 e 11 de novembro. A Al Jazeera conta também que Trump suspendeu sanções contra a Rússia que o Congresso tinha aprovado com folga numa lei de apoio à Ucrânia.",
+   "leitura": "Volta da edição nº 16, que contou a confirmação do encontro. Com a Câmara e o Senado mudando de mão, Kiev aposta no Congresso para compensar a Casa Branca (provável). Leitura contrária (hipótese): um Congresso democrata também pode cobrar o fim da guerra mais rápido, e não só mandar mais armas. Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Ucrânia",
+    "Rússia",
+    "EUA",
+    "Volodymyr Zelensky",
+    "Steve Witkoff",
+    "Donald Trump",
+    "Congresso dos EUA"
+   ],
+   "fontes": [
+    {
+     "nome": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine",
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "ira-ormuz-petroleiros-brent",
+   "data": "2026-11-05",
+   "tabuleiro": "geopolitica",
+   "manchete": "Mais petroleiros pegam fogo perto de Ormuz e um bate numa mina; o Brent, que caiu quase 9% depois da eleição americana, volta a subir",
+   "narrativa": "A Guarda Revolucionária do Irã disse que um petroleiro bateu numa mina, pegou fogo e ficou parado a leste do Estreito de Ormuz na madrugada de quinta, segundo a CBS. Trump disse ao Financial Times que não tem planos imediatos de novos ataques ao Irã, mas que as forças americanas estão prontas, segundo a CBS.",
+   "movimento": "Na quinta 5, um petroleiro foi atingido por dois projéteis perto do Catar, segundo a CBS. Na quarta 4, o Brent caiu quase 9% e ficou abaixo de 100 dólares; na quinta subiu 2,2%, para 96,70 dólares. Omã diz que segue trabalhando com o Irã num controle conjunto do estreito.",
+   "leitura": "Volta da edição nº 16 (a resposta americana às sete condições do Irã). O mercado leu a vitória democrata como chance de acordo e derrubou o petróleo num dia, mas o estreito continua perigoso (provável). Leitura contrária (hipótese): o Irã anuncia navios em chamas para manter o preço do risco alto enquanto negocia. Os números de navios são da Guarda iraniana, sem confirmação americana. Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Irã",
+    "Guarda Revolucionária do Irã",
+    "EUA",
+    "Donald Trump",
+    "Catar",
+    "Omã"
+   ],
+   "fontes": [
+    {
+     "nome": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "brasil-senado-pec-seguranca",
+   "data": "2026-11-03",
+   "tabuleiro": "geopolitica",
+   "manchete": "O Senado aprova por unanimidade a PEC da Segurança Pública, a terceira vitória de Lula no Congresso em menos de um mês com votos da direita",
+   "narrativa": "Segundo a InfoMoney, as vitórias com apoio da direita criam um dilema para a oposição.",
+   "movimento": "Na terça 3, a PEC passou por 73 a 0 no primeiro turno e 75 a 0 no segundo. Antes, o Senado aprovou o fim gradual da escala 6x1 (75 a 1) e o Congresso elevou o teto de faturamento do MEI (461 a 4 na Câmara, 78 votos no Senado). A PEC abre caminho para o Ministério da Segurança Pública.",
+   "leitura": "Volta da edição nº 16, que contou Camilo Santana cotado para a nova pasta de Segurança. Votar com o governo em temas populares protege o parlamentar e enfraquece o discurso da oposição (provável). Leitura contrária (hipótese): a direita vota junto agora para cobrar ministérios na montagem do quarto mandato. Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Lula",
+    "Senado Federal",
+    "Câmara dos Deputados",
+    "oposição"
+   ],
+   "fontes": [
+    {
+     "nome": "InfoMoney",
+     "url": "https://www.infomoney.com.br/politica/lula-consegue-apoio-da-direita-em-3-votacoes-no-congresso-e-cria-dilema-para-oposicao/",
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "brasil-mp-imposto-seletivo",
+   "data": "2026-11-04",
+   "tabuleiro": "geopolitica",
+   "manchete": "Lula manda ao Congresso a MP do Imposto Seletivo, o imposto do pecado, que taxa bebida, refrigerante, cigarro e apostas a partir de fevereiro de 2027",
+   "narrativa": "Segundo O Tempo, o governo prevê arrecadar 41,9 bilhões de reais em 2027 com o imposto, valor que pode cair porque a proibição das bets veio depois do envio do orçamento.",
+   "movimento": "Lula assinou e enviou a MP na quarta 4 (o texto de O Tempo escreve 4/10, mas a matéria é de 5/11). A lista inclui bebidas alcoólicas, refrigerantes, cigarros, apostas, loterias, fantasy sports, extração mineral e alguns veículos, conforme a poluição. A cobrança só começa em 1º de fevereiro de 2027, por causa da noventena. A alíquota ainda não foi divulgada.",
+   "leitura": "O imposto entra na conta do orçamento de 2027 e do pacote prometido na eleição (provável). Leitura contrária (hipótese): sem a alíquota, o governo deixa a briga com os setores taxados para depois da montagem da base no Congresso. Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Lula",
+    "Congresso Nacional",
+    "indústria de bebidas",
+    "indústria do tabaco",
+    "mineradoras"
+   ],
+   "fontes": [
+    {
+     "nome": "O Tempo",
+     "url": "https://www.otempo.com.br/politica/governo/2026/11/5/lula-assina-mp-do-imposto-do-pecado-e-regulamenta-taxa-sobre-produtos-prejudiciais-a-saude",
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "mercado-ia-queda-data-centers-openai",
+   "data": "2026-11-05",
+   "tabuleiro": "maquinas",
+   "manchete": "As ações americanas perdem cerca de 3 trilhões de dólares com a queda das empresas de IA, e a OpenAI discute rever a capacidade de data centers que espera para 2027",
+   "narrativa": "Na lista de IA do X do Jean, Chubby (@kimmonismus) repassou o Wall Street Journal: os líderes da OpenAI discutem rever a expectativa de capacidade de data centers para 2027 depois do resultado da eleição. Derya Unutmaz (@DeryaTR_) chamou a perda de presente de quem quer pausar a IA.",
+   "movimento": "Segundo a Fortune, durante o pregão de quinta 5 o Nasdaq caía 5,2% e o S&P 500, 3,8%; AMD e Micron perdiam cerca de 15% cada, e a Nvidia quase 9%. A Fortune conta 41 consultas em votação sobre frear data centers, a maioria aprovada, e cita Gina Hinojosa, que venceu Greg Abbott no Texas e quer uma moratória imediata de data centers novos. A OpenAI não anunciou decisão.",
+   "leitura": "Volta da edição nº 16, que contou a vitória de Abdul El-Sayed, que quer pausar a IA. A eleição virou freio físico: sem licença e sem energia, não há onde pôr os chips (provável). Seguir o dinheiro (hipótese): quem vende chip e quem constrói data center perde primeiro; quem já tem capacidade instalada ganha tempo. Leitura contrária (hipótese): parte da queda é realização de lucro de fundos, e o número de 3 trilhões é de um momento do pregão de quinta, antes do fechamento.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, que também depende de data centers nos EUA e concorre com a OpenAI.",
+   "emJogo": [
+    "OpenAI",
+    "Nvidia",
+    "AMD",
+    "Micron",
+    "Gina Hinojosa",
+    "Greg Abbott",
+    "Partido Democrata",
+    "Wall Street Journal"
+   ],
+   "fontes": [
+    {
+     "nome": "Fortune",
+     "url": "https://fortune.com/2026/11/05/wall-street-drop-off-tech-ai-plunge-2-trillion/",
+     "data": "2026-11-05"
+    },
+    {
+     "nome": "Lista do X (kimmonismus)",
+     "url": "https://x.com/kimmonismus/status/2118344279613489564",
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "metr-anthropic-aceleracao",
+   "data": "2026-11-05",
+   "tabuleiro": "maquinas",
+   "manchete": "O METR, avaliador independente, estima que a Anthropic está melhorando os modelos 1,9 vez mais rápido que antes de outubro de 2025, e que a maior parte disso vem da própria IA",
+   "narrativa": "Na lista de IA do X do Jean, Chubby (@kimmonismus) escreveu que o METR estima que a Anthropic avança cerca de duas vezes mais rápido, puxada pelo uso da própria IA.",
+   "movimento": "O METR publicou o relatório na quinta 5, depois de trabalhar de agosto a outubro com informações internas da Anthropic. A estimativa é de 1,9 vez, com intervalo de 1,5 a 2,8 vezes; o METR estima, de forma subjetiva e com incerteza grande, que cerca de 80% da aceleração atual vem do uso da própria IA na pesquisa. A Anthropic tirou da versão pública a maior parte das provas que o METR achou mais úteis, e o METR avisa que a aceleração pode valer só para tarefas bem definidas.",
+   "leitura": "Sai no mesmo dia em que o mercado castiga a IA pelo medo de pausa (provável). Seguir o calendário (hipótese): uma avaliação de fora dá crédito à Anthropic perto da abertura de capital contada nas edições nº 15 e nº 16, e ao mesmo tempo dá munição a quem quer frear. Leitura contrária (hipótese): com a maior parte das provas cortada pela própria empresa, o número diz tanto sobre o que a Anthropic quis mostrar quanto sobre o que acontece lá dentro.",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da própria Anthropic, e o relatório fala da velocidade com que modelos como este são feitos. Leia com o dobro de desconfiança.",
+   "emJogo": [
+    "METR",
+    "Anthropic"
+   ],
+   "fontes": [
+    {
+     "nome": "METR",
+     "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+     "data": "2026-11-05"
+    },
+    {
+     "nome": "Lista do X (kimmonismus)",
+     "url": "https://x.com/kimmonismus/status/2118423591364546856",
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "openai-gpt-6-cyber",
+   "data": "2026-11-05",
+   "tabuleiro": "maquinas",
+   "manchete": "A OpenAI lança o GPT-6 Cyber, um modelo para achar e testar falhas de segurança, com acesso só para clientes aprovados",
+   "narrativa": "No X, a OpenAI (@OpenAI) chamou o modelo de grande avanço em pesquisa de segurança, com mais capacidade e melhor alinhamento. Segundo a empresa, ele achou pelo menos 81 falhas novas no Firefox.",
+   "movimento": "Na quinta 5, a OpenAI liberou o modelo para um grupo limitado do programa Daybreak Red. Segundo a CyberScoop, ele desenvolveu exploits para 948 falhas do kernel do Linux, e as do Firefox foram reportadas e corrigidas. A empresa pede mais checagem de identidade e de conta e promete vigiar pedidos de alto risco.",
+   "leitura": "A briga dos modelos passa para a segurança digital, onde o mesmo modelo serve para defender e para atacar (provável). Os números de falhas são da própria OpenAI, sem conferência de fora (provável). Leitura contrária (hipótese): lançar com acesso restrito vende o modelo como perigoso e valioso ao mesmo tempo.",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente direta da OpenAI.",
+   "emJogo": [
+    "OpenAI",
+    "Mozilla",
+    "Linux"
+   ],
+   "fontes": [
+    {
+     "nome": "Lista do X (OpenAI)",
+     "url": "https://x.com/OpenAI/status/2118390190246879554",
+     "data": "2026-11-05"
+    },
+    {
+     "nome": "CyberScoop",
+     "url": "https://cyberscoop.com/openai-gpt-6-cyber-security-model/",
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "google-gemini-omni-flash-12",
+   "data": "2026-11-05",
+   "tabuleiro": "maquinas",
+   "manchete": "O Google lança o Gemini Omni Flash 1.2, que gera e edita vídeos de até 15 segundos e custa 30% menos que a versão anterior",
+   "narrativa": "No X, Logan Kilpatrick (@OfficialLoganK), do Google, anunciou vídeo mais longo, mais controle de câmera, edição em conversa e menos deriva visual. Chubby (@kimmonismus), na lista do Jean, contou que o vídeo em 720p custa 0,07 dólar por segundo.",
+   "movimento": "O Google começou a liberar o modelo na quinta 5. O preço é 30% menor que o do Omni Flash 1, segundo o post de Kilpatrick.",
+   "leitura": "Vídeo barato com IA chega mais perto de quem produz conteúdo pequeno, como os vídeos de lançamento que o Jean já fez com as ferramentas do PC (hipótese). As duas fontes são posts, uma delas do próprio Google; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente do Google na IA.",
+   "emJogo": [
+    "Google",
+    "Logan Kilpatrick"
+   ],
+   "fontes": [
+    {
+     "nome": "Lista do X (OfficialLoganK)",
+     "url": "https://x.com/OfficialLoganK/status/2118390838434693281",
+     "data": "2026-11-05"
+    },
+    {
+     "nome": "Lista do X (kimmonismus)",
+     "url": "https://x.com/kimmonismus/status/2118396513541857743",
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "openai-contrata-cat-wu",
+   "data": "2026-11-05",
+   "tabuleiro": "maquinas",
+   "manchete": "Cat Wu, que ajudou a liderar o Claude Code e o Cowork na Anthropic, vai para a OpenAI, segundo um post da lista do X",
+   "narrativa": "Na lista de IA do X do Jean, Chubby (@kimmonismus) chamou a contratação de vitória importante da OpenAI: ela leva uma das principais cabeças de produto da maior rival.",
+   "movimento": "Segundo o post, Cat Wu passou rápido pelo Cursor, voltou à Anthropic e agora vai para a OpenAI. Nem a OpenAI nem a Anthropic confirmaram nas fontes lidas.",
+   "leitura": "Volta da edição nº 16, que contou a OpenAI comprando a Pierre para o Codex. A OpenAI junta empresa e gente para brigar com o Claude Code no código (provável). Uma fonte só, um post; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, a empresa que perde a pessoa.",
+   "emJogo": [
+    "OpenAI",
+    "Anthropic",
+    "Cursor",
+    "Cat Wu"
+   ],
+   "fontes": [
+    {
+     "nome": "Lista do X (kimmonismus)",
+     "url": "https://x.com/kimmonismus/status/2118311860218835282",
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "liberai-liber-0-robos",
+   "data": "2026-11-03",
+   "tabuleiro": "maquinas",
+   "manchete": "A LiberAI lança o Liber-0, um modelo para robôs treinado com mais de 2,2 milhões de horas de experiência humana gravada com luvas de sensores",
+   "narrativa": "Na lista de IA do X do Jean, Superintelligence. (@getsuperintel) contou que o Liber-0 é um modelo de ação para robôs, treinado em grande parte com vídeo e movimento das mãos gravado com as luvas da própria empresa.",
+   "movimento": "O lançamento foi na terça 3, segundo o post. Os números vêm da própria empresa.",
+   "leitura": "Na robótica, a corrida é por dado de movimento humano, e quem grava o próprio dado sai na frente (provável). Uma fonte só, um post; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, uma peça do tabuleiro Máquinas, sem negócio direto com a LiberAI.",
+   "emJogo": [
+    "LiberAI"
+   ],
+   "fontes": [
+    {
+     "nome": "Lista do X (getsuperintel)",
+     "url": "https://x.com/getsuperintel/status/2118362271533396416",
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "sao-paulo-corinthians-0-0",
+   "data": "2026-11-04",
+   "tabuleiro": "bola",
+   "manchete": "São Paulo 0 x 0 Corinthians na Vila Belmiro, com gol anulado e Yuri Alberto expulso; o São Paulo segue em 10º, com 44 pontos",
+   "narrativa": "Segundo a Gazeta Esportiva, foi um clássico de chances perdidas, gol anulado e expulsão.",
+   "movimento": "Na quarta 4, pela 34ª rodada do Brasileirão, em Santos. O Corinthians teve um gol anulado por impedimento, e Yuri Alberto foi expulso depois de o árbitro Raphael Claus rever no VAR uma entrada em Ferreira. O São Paulo, de Dorival Júnior, continua em 10º com 44 pontos. O próximo jogo é contra o Fluminense, no dia 19, às 21h30, no Morumbis.",
+   "leitura": "Fecha a prévia das edições nº 15 e nº 16. O empate deixa o São Paulo longe do rebaixamento e longe do G4 (provável). Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "São Paulo F.C.",
+    "Corinthians",
+    "Dorival Júnior",
+    "Yuri Alberto",
+    "Raphael Claus"
+   ],
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/sao-paulo-corinthians-empate-sem-gols-brasileirao/",
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "capao-festino-2026",
+   "data": "2026-11-05",
+   "tabuleiro": "capao",
+   "manchete": "O FESTINO, o 8º Festival Internacional Diamantino de Circo, começa hoje no Vale do Capão e vai até domingo, sem patrocínio garantido, segundo a organização em reportagem de A Tarde",
+   "narrativa": "A programação foi postada por Samuel de Fê e Ravi no grupo de WhatsApp do Capão. Segundo A Tarde, a edição será feita mesmo sem patrocínio garantido, por decisão coletiva.",
+   "movimento": "De 6 a 8 de novembro, no Vale do Capão. O festival junta circo, música, formação e intercâmbio, num modelo de autogestão com artistas, produtores e comunidade. A Tarde não diz se a entrada é paga.",
+   "leitura": "A edição nº 13 já tinha avisado as datas. Sem patrocínio, o festival vive da comunidade, o mesmo chão do chapéu que o Jean pensa para o CapON (hipótese). Duas fontes dizem as datas; por isso, fato para as datas. A falta de patrocínio vem só de A Tarde, numa reportagem de setembro.",
+   "confianca": "fato",
+   "emJogo": [
+    "FESTINO",
+    "Circo do Capão"
+   ],
+   "fontes": [
+    {
+     "nome": "A Tarde",
+     "url": "https://atarde.com.br/cultura/festino-2026-reune-circo-e-musica-no-vale-do-capao-em-novembro-1400962",
+     "data": "2026-09-05"
+    }
+   ]
+  },
+  {
+   "id": "chapada-pretas-diamantina-mulungu",
+   "data": "2026-10-31",
+   "tabuleiro": "capao",
+   "manchete": "A Coletiva Pretas Diamantina leva cuidado, cultura e uma roda sobre saúde bucal ao Quilombo Mulungu, em Boninal",
+   "narrativa": "Segundo o Portal Vale do Capão, o encontro foi mais uma ação de fortalecimento comunitário da Coletiva, presidida por Nelcy Freire.",
+   "movimento": "No dia 31 de outubro, no Quilombo Mulungu, em Boninal (BA), na Chapada. Teve passeio ao Morro de Areias com frutas nativas e plantas medicinais, almoço feito por Dona Abília Jorge, roda de conversa sobre saúde bucal, prática de respiração, cantigas africanas, dança afro e samba do Grupo Cultural Nova Geração. O texto fala em mulheres, crianças e jovens, sem número.",
+   "leitura": "É notícia da Chapada, não do vale, mas mostra coletivos levando saúde e cultura às comunidades quilombolas da região, como a Defensoria em Palmeiras na edição nº 16 (provável). Uma fonte só; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Coletiva Pretas Diamantina",
+    "Nelcy Freire",
+    "Quilombo Mulungu",
+    "Grupo Cultural Nova Geração"
+   ],
+   "fontes": [
+    {
+     "nome": "Portal Vale do Capão",
+     "url": "https://portalvaledocapao.com.br/cuidado-ancestralidade-e-cultura-marcam-encontro-da-coletiva-pretas-diamantina-no-quilombo-mulungu/",
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "brasil-mp-ministerio-seguranca",
+   "data": "2026-11-05",
+   "tabuleiro": "geopolitica",
+   "manchete": "Lula anuncia que cria o Ministério da Segurança Pública por medida provisória, prometida para esta sexta, 6",
+   "narrativa": "Segundo a CartaCapital, Lula disse que o ministério vai coordenar, com estados e municípios, as políticas nacionais de segurança pública. Nas redes, segundo O Tempo, ele falou em foco em inteligência, planejamento e cooperação para enfrentar facções e milícias.",
+   "movimento": "O anúncio foi na quinta 5, numa live com o deputado André Janones (Rede-MG), dois dias depois de o Senado aprovar a PEC da Segurança. O Tempo diz que a MP deve sair nesta sexta 6. Nas fontes lidas, a MP ainda não aparece publicada, e nenhum nome de ministro foi citado. Uma MP vale na hora, mas o Congresso precisa votá-la depois.",
+   "leitura": "Continua a notícia da PEC da Segurança, nesta mesma edição: a PEC aprovada na terça 3 abriu o caminho e o governo anunciou o ministério dois dias depois, na live da vitória (provável). Seguir o calendário (hipótese): o anúncio numa live de vitória, com Janones, fala ao eleitor antes de falar ao Congresso. Leitura contrária (hipótese): por MP, o ministério nasce antes de o Congresso discutir o que ele faz, e a briga com a Polícia Federal e com os estados fica para depois.",
+   "confianca": "fato",
+   "acrescentada": "04h",
+   "emJogo": [
+    "Lula",
+    "André Janones",
+    "Senado Federal",
+    "Congresso Nacional"
+   ],
+   "fontes": [
+    {
+     "nome": "CartaCapital",
+     "url": "https://www.cartacapital.com.br/politica/lula-vai-criar-ministerio-da-seguranca-publica-com-medida-provisoria/",
+     "data": "2026-11-05"
+    },
+    {
+     "nome": "O Tempo",
+     "url": "https://otempo.com.br/politica/governo/2026/11/5/lula-promete-mp-para-criar-ministerio-da-seguranca-publica-nesta-sexta-feira-6-11",
+     "data": "2026-11-05"
+    }
+   ]
+  }
+ ]
+}

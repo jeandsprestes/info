@@ -1,0 +1,297 @@
+{
+ "data": "2026-11-08",
+ "numero": 19,
+ "titulo": "Os Estados Unidos voltam a atacar o Irã enquanto Trump fala em acordo, a Rússia usa mísseis norte-coreanos contra a energia da Ucrânia e a Chapada vira cenário da novela das seis",
+ "abertura": "Domingo, 8. Na sexta à noite, os Estados Unidos bombardearam uma defesa antiaérea na ilha de Qeshm, no sul do Irã, e Trump chamou a ação de pequena, dizendo que o Irã quer um acordo. Na Ucrânia, Zelensky diz que a Rússia atingiu uma instalação de energia importante com mísseis feitos na Coreia do Norte, a poucos dias da rodada de Abu Dhabi. No Paraguai, Pedro Alliana tomou posse depois do impeachment de Santiago Peña, que está em prisão domiciliar. Em Cracóvia, na Polônia, um atirador matou pelo menos seis pessoas na praça central no sábado.\n\nNa IA, o Google DeepMind diz que seus agentes acharam duas falhas na criptografia RSA de 1024 bits, o Departamento de Justiça dos EUA criou uma força-tarefa de superinteligência, a Axon põe 1,2 bilhão de dólares na fabricante de drones Skydio, e um professor de Chicago contou que o Claude, da Anthropic (de quem escreve este jornal), apagou as notas de aula dele. O bitcoin ficou perto de 76 mil dólares depois da queda das ações de IA. O São Paulo para na data Fifa e volta no dia 19 com três suspensos e Sabino operado.\n\nO grupo de WhatsApp do Capão e a lista do X não foram lidos hoje: o Chrome não respondeu. Da Chapada vêm duas notícias: a novela Lá na Minha Terra, gravada em parte na região, estreia na segunda 9, e o Ministério Público Federal investiga uma tentativa de mexer nos limites de um quilombo em Ibitiara.",
+ "aviso": "Exercício lúdico: nada aqui afirma a realidade.",
+ "atualizado": "2026-11-07T21:35:00Z",
+ "itens": [
+  {
+   "id": "eua-atacam-ira-qeshm",
+   "data": "2026-11-06",
+   "tabuleiro": "geopolitica",
+   "manchete": "Os Estados Unidos bombardeiam uma defesa antiaérea na ilha de Qeshm, no sul do Irã, e Trump diz que o Irã quer um acordo; o Catar nega que a conversa tenha acabado",
+   "narrativa": "Trump chamou a ação de uma operação militar pequena e disse que os Estados Unidos não estão em guerra e avançaram muito na conversa com o Irã. Segundo a Euronews, ele disse: \"They want to make a deal\".",
+   "movimento": "Na noite de sexta 6, forças americanas fizeram ataques no sul do Irã. Trump disse que o alvo foi um sistema de defesa antiaérea em Qeshm. A TV estatal iraniana falou em dois mísseis na área de Suza, em Qeshm, sem dizer o alvo. A Guarda Revolucionária diz ter derrubado um drone americano, o que os EUA não confirmaram. O Irã diz que só negocia o programa nuclear depois do fim do bloqueio dos portos, das sanções e da guerra no Líbano.",
+   "leitura": "Volta das edições nº 17 e nº 18 (Ormuz e a mensagem de Khamenei a Putin). Atacar e negociar ao mesmo tempo é pressão para fechar o acordo do jeito americano (provável). Leitura contrária (hipótese): com o Congresso agora democrata, Trump pode querer mostrar força antes de perder espaço para a guerra. Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Estados Unidos",
+    "Donald Trump",
+    "Irã",
+    "Guarda Revolucionária",
+    "Abbas Araghchi",
+    "Catar",
+    "Pete Hegseth"
+   ],
+   "fontes": [
+    {
+     "nome": "Euronews",
+     "url": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran",
+     "data": "2026-11-07"
+    }
+   ]
+  },
+  {
+   "id": "russia-misseis-norte-coreanos-energia-ucrania",
+   "data": "2026-11-07",
+   "tabuleiro": "geopolitica",
+   "manchete": "A Rússia lança 36 mísseis balísticos contra Kiev e a região, e Zelensky diz que mísseis feitos na Coreia do Norte atingiram uma instalação de energia importante",
+   "narrativa": "O chanceler Andrii Sybiha diz que Moscou quer deixar milhões de ucranianos sem luz, aquecimento e água. Zelensky diz que o ataque busca pressionar a Ucrânia antes da conversa a três em Abu Dhabi e pede aos aliados que acelerem a entrega de mísseis interceptadores.",
+   "movimento": "Na madrugada de sábado 7, a Rússia lançou 36 mísseis balísticos contra Kiev e a região, e quatro foram derrubados. Segundo a Euronews, a análise inicial aponta mísseis KN-23, feitos e fornecidos pela Coreia do Norte. Foram atingidas subestações em cinco regiões (Vinnytsia, Zhytomyr, Rivne, Kharkiv e Dnipro), além de uma subestação que liga as usinas nucleares de Rivne e Khmelnytskyi a Kiev, a ponte Pivnichnyi e um jardim de infância. Pelo menos seis pessoas ficaram feridas, uma delas criança.",
+   "leitura": "Volta das edições nº 16, nº 17 e nº 18, que contaram a rodada de Abu Dhabi marcada para 10 e 11 de novembro. Bater na energia antes da mesa é jeito de chegar à conversa com mais força (provável). Leitura contrária (hipótese): Kiev também ganha ao mostrar o ataque agora, para cobrar defesa antiaérea do Congresso americano recém-eleito. Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Rússia",
+    "Ucrânia",
+    "Volodymyr Zelensky",
+    "Coreia do Norte",
+    "Vitali Klitschko"
+   ],
+   "fontes": [
+    {
+     "nome": "Euronews",
+     "url": "https://www.euronews.com/2026/11/07/russia-fires-north-korean-missiles-at-key-ukrainian-energy-facility-zelenskyy-says",
+     "data": "2026-11-07"
+    }
+   ]
+  },
+  {
+   "id": "paraguai-alliana-posse-pena-impeachment",
+   "data": "2026-11-07",
+   "tabuleiro": "geopolitica",
+   "manchete": "Pedro Alliana toma posse como presidente do Paraguai depois do impeachment de Santiago Peña, que está em prisão domiciliar por causa da quebra de um banco",
+   "narrativa": "Segundo a Euronews, os promotores acusam Peña de abuso de confiança, tráfico de influência e desvio de dinheiro.",
+   "movimento": "Peña sofreu impeachment no meio da crise bancária aberta com a quebra do Ueno Bank, que congelou a poupança de cerca de metade dos adultos do país. Na sexta 6 ele foi posto em prisão domiciliar em Assunção, e devia ser ouvido no sábado. Alliana, de 52 anos, do Partido Colorado, era o vice havia três anos e fica até agosto de 2028. A reportagem não traz o placar da votação.",
+   "leitura": "Uma crise de banco derrubou o presidente do vizinho com quem o Brasil divide Itaipu (provável). Leitura contrária (hipótese): o impeachment também resolve uma briga dentro do Partido Colorado, onde Alliana rompeu com o ex-presidente Horacio Cartes. Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Paraguai",
+    "Pedro Alliana",
+    "Santiago Peña",
+    "Partido Colorado",
+    "Horacio Cartes",
+    "Ueno Bank"
+   ],
+   "fontes": [
+    {
+     "nome": "Euronews",
+     "url": "https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment",
+     "data": "2026-11-07"
+    }
+   ]
+  },
+  {
+   "id": "polonia-ataque-cracovia",
+   "data": "2026-11-07",
+   "tabuleiro": "geopolitica",
+   "manchete": "Um atirador mata pelo menos seis pessoas na praça central de Cracóvia, na Polônia; o governo fala em ato de terror e diz que ele tinha ideias ultranacionalistas",
+   "narrativa": "O ministro do Interior, Marcin Kierwiński, disse que o suspeito era fascinado por ideologias de extrema direita. O ministro da Defesa, Władysław Kosiniak-Kamysz, chamou o ataque de ato de terror e negou que ele fosse soldado.",
+   "movimento": "No sábado 7, na Praça do Mercado, no centro histórico, um polonês de 25 anos com roupa militar, colete à prova de bala e arma longa matou pelo menos seis pessoas e feriu 16, entre elas dois policiais e cinco estrangeiros. Ele foi preso. A polícia achou mais armas no carro, registrado em nome do pai. O presidente decretou luto nacional em 8 e 9 de novembro.",
+   "leitura": "O ataque cai num país que se arma contra a Rússia e debate o acesso a armas (provável). Leitura contrária (hipótese): a pressa em falar de extrema direita também serve à disputa política interna na Polônia. Uma fonte lida, e os números ainda mudavam; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Polônia",
+    "Marcin Kierwiński",
+    "Władysław Kosiniak-Kamysz"
+   ],
+   "fontes": [
+    {
+     "nome": "Euronews",
+     "url": "https://www.euronews.com/2026/11/07/at-least-five-killed-in-shooting-in-krakow-polish-police-say",
+     "data": "2026-11-07"
+    }
+   ]
+  },
+  {
+   "id": "deepmind-rsa-1024",
+   "data": "2026-11-06",
+   "tabuleiro": "maquinas",
+   "manchete": "O Google DeepMind diz que modelos de IA, guiados por pesquisadores, acharam duas falhas na criptografia RSA de 1024 bits; a RSA de 2048 bits, a usada hoje, segue segura contra essa ameaça específica",
+   "narrativa": "Segundo a Crypto Briefing, o DeepMind apresenta o trabalho como uma demonstração do que a IA faz na pesquisa de criptografia.",
+   "movimento": "Anunciado na sexta 6. As falhas são um jeito de forjar assinaturas digitais e um algoritmo que barateia quebrar em lote chaves parecidas. Os modelos fizeram boa parte da exploração de ideias. O trabalho foi liderado por Dj Dvijotham e Abhradeep Thakurta, com os criptógrafos Nadia Heninger e Emmanuel Thomé.",
+   "leitura": "Toca blockchain e segurança: chaves antigas e curtas ficam mais frágeis, e quem ainda as usa precisa trocar (provável). Volta da edição nº 18, que contou outra prova feita por IA na computação quântica. Leitura contrária (hipótese): anunciar a IA como quebradora de código também vende a ideia de que só os grandes laboratórios dão conta da segurança. Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente do Google na IA.",
+   "emJogo": [
+    "Google DeepMind",
+    "Nadia Heninger",
+    "Emmanuel Thomé"
+   ],
+   "fontes": [
+    {
+     "nome": "Crypto Briefing",
+     "url": "https://cryptobriefing.com/google-deepmind-ai-rsa-1024-bit-weaknesses/",
+     "data": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "id": "eua-justica-forca-tarefa-superinteligencia",
+   "data": "2026-11-05",
+   "tabuleiro": "maquinas",
+   "manchete": "O Departamento de Justiça dos EUA cria uma força-tarefa de superinteligência para impedir que governos estrangeiros, crime organizado e fraudadores atrapalhem a liderança americana na IA",
+   "narrativa": "O procurador-geral Todd Blanche disse, no comunicado, que o desenvolvimento da superinteligência vai continuar movido por inovadores americanos.",
+   "movimento": "Anunciada na quinta 5. A força-tarefa é liderada por Stanley Woodward e Stephen Weiss, com Jay Clayton na presidência. O objetivo declarado é estimular a inovação e impedir o mau uso da tecnologia.",
+   "leitura": "O governo Trump trata a IA como assunto de segurança nacional e põe a polícia federal do lado das empresas americanas (provável). Seguir o calendário (hipótese): a força-tarefa sai dois dias depois da eleição que deu o Congresso aos democratas, alguns deles a favor de frear a IA. Uma fonte só, o próprio governo; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, uma das empresas americanas de IA que a força-tarefa diz proteger.",
+   "emJogo": [
+    "Departamento de Justiça dos EUA",
+    "Todd Blanche",
+    "Stanley Woodward",
+    "Jay Clayton"
+   ],
+   "fontes": [
+    {
+     "nome": "Departamento de Justiça dos EUA",
+     "url": "https://www.justice.gov/opa/pr/department-justice-launches-super-intelligence-task-force",
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "axon-skydio-drones",
+   "data": "2026-11-05",
+   "tabuleiro": "maquinas",
+   "manchete": "A Axon põe 1,2 bilhão de dólares na Skydio, fabricante de drones, e vira a única vendedora deles para polícias nos EUA e no Canadá; as ações da Axon caem cerca de 18%",
+   "narrativa": "Segundo a DroneXL, o presidente da Axon chamou a exclusividade de uma das partes mais valiosas do negócio.",
+   "movimento": "Anunciado na quinta 5. Com todas as parcelas, a fatia da Axon na Skydio sobe de cerca de 15% para cerca de 37%, numa avaliação de 5,2 bilhões de dólares antes do aporte. Só cerca de 255 milhões entram como dinheiro novo; o resto compra ações de outros investidores. Na sexta 6, as ações da Axon caíram de 382,56 para perto de 314 dólares, também por um resultado abaixo do esperado.",
+   "leitura": "Robótica e vigilância se juntam: a dona das câmeras corporais da polícia americana passa a controlar a venda de drones para ela (provável). Leitura contrária (hipótese): a queda das ações mostra que o mercado vê pouco dinheiro novo e muita aposta. Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, uma empresa de IA; a notícia não envolve a Anthropic diretamente.",
+   "emJogo": [
+    "Axon",
+    "Skydio",
+    "Rick Smith"
+   ],
+   "fontes": [
+    {
+     "nome": "DroneXL",
+     "url": "https://dronexl.co/2026/11/06/axon-skydio-1-2-billion-exclusive-police-distributor/",
+     "data": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "id": "claude-apaga-notas-professor",
+   "data": "2026-11-05",
+   "tabuleiro": "maquinas",
+   "manchete": "William Baude, professor de direito em Chicago, conta que o Claude apagou um ano de notas de aula e o programa do curso enquanto ele almoçava; ele recuperou tudo pelo Dropbox",
+   "narrativa": "Baude postou o caso no X na quinta 5 como um aviso público.",
+   "movimento": "Segundo a Dexerto, ele pediu ao Claude para atualizar números de página em notas antigas de direito constitucional. O Claude apagou as notas e o programa e depois admitiu que apagou os arquivos por engano. A reportagem não diz se era o Claude Code, o Cowork ou outro produto.",
+   "leitura": "Toca o aX2 direto: o LOOMB também mexe em arquivos, e o que salvou o professor foi ter cópia no Dropbox, o mesmo cuidado que a regra de nunca apagar de vez e manter cópia busca (provável). Uma fonte lida, que repete o post dele; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da própria Anthropic, falando de um erro do Claude. Leia com desconfiança dobrada nos dois sentidos.",
+   "emJogo": [
+    "Anthropic",
+    "William Baude",
+    "Universidade de Chicago",
+    "Dropbox"
+   ],
+   "fontes": [
+    {
+     "nome": "Dexerto",
+     "url": "https://www.dexerto.com/entertainment/professor-returns-from-lunch-to-find-ai-deleted-years-worth-of-lecture-notes-3425652/",
+     "data": "2026-11-07"
+    }
+   ]
+  },
+  {
+   "id": "bitcoin-76-mil-queda-ia",
+   "data": "2026-11-06",
+   "tabuleiro": "maquinas",
+   "manchete": "O bitcoin para perto de 76 mil dólares depois de cair 5,3% com a queda das ações de IA; mais de 1 bilhão de dólares em apostas alavancadas foram liquidados",
+   "narrativa": "Segundo a CoinDesk, a queda das ações de tecnologia, por medo de que o Congresso democrata freie os data centers de IA, passou para as criptomoedas.",
+   "movimento": "O bitcoin caiu até cerca de 75.200 dólares na quinta 5 e voltou a cerca de 76.150 na sexta 6. O ether caiu 7,3% no período. Os fundos de bitcoin à vista nos EUA perderam dinheiro de novo: cerca de 200 milhões no da Fidelity e 105 milhões no da BlackRock, que somou cinco pregões seguidos de saída.",
+   "leitura": "Volta da edição nº 17, que contou a perda de cerca de 3 trilhões nas ações de IA. O bitcoin anda junto com as ações de tecnologia, e não como proteção contra elas (provável). Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, uma das empresas de IA cujas ações e avaliações puxam essa queda.",
+   "emJogo": [
+    "Bitcoin",
+    "Fidelity",
+    "BlackRock",
+    "CoinGlass"
+   ],
+   "fontes": [
+    {
+     "nome": "CoinDesk",
+     "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
+     "data": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "id": "sao-paulo-data-fifa-desfalques",
+   "data": "2026-11-07",
+   "tabuleiro": "bola",
+   "manchete": "O São Paulo para pela data Fifa e volta contra o Fluminense no dia 19 sem Newton, Luciano e Ferreira, suspensos, e sem Sabino, operado no joelho",
+   "narrativa": "Segundo a Gazeta Esportiva, Dorival Júnior estuda opções para os desfalques; Bobadilla já jogou na função de Luciano em outras ausências.",
+   "movimento": "Os três tomaram o terceiro amarelo no clássico com o Corinthians. Sabino operou a cartilagem do joelho direito e dificilmente volta em 2026. O jogo com o Fluminense é na quinta 19, às 21h30, no Morumbis, pela 35ª rodada. Depois vêm Botafogo, fora, no dia 23, e Remo.",
+   "leitura": "Volta da edição nº 18 (Dorival sem garantia para 2027). Com quatro jogos pela frente, a briga por vaga na Libertadores fica mais difícil sem três titulares (provável). Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "São Paulo F.C.",
+    "Dorival Júnior",
+    "Newton",
+    "Luciano",
+    "Ferreira",
+    "Sabino",
+    "Bobadilla"
+   ],
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-estuda-opcoes-para-suprir-desfalques-no-sao-paulo-apos-data-fifa/",
+     "data": "2026-11-07"
+    }
+   ]
+  },
+  {
+   "id": "capao-novela-la-na-minha-terra-chapada",
+   "data": "2026-11-03",
+   "tabuleiro": "capao",
+   "manchete": "A novela das seis Lá na Minha Terra, da Globo, gravada em parte na Chapada Diamantina, estreia na segunda 9",
+   "narrativa": "Segundo o Diário do Grande ABC, a Chapada foi escolhida para representar a cidade fictícia de Lavra Seca, no sertão nordestino.",
+   "movimento": "A estreia é na segunda 9 de novembro, no horário das seis. Uma equipe de cerca de cem pessoas gravou por cinco dias em pontos da região. A reportagem não diz em quais cidades; outras matérias nas buscas falam de parte do elenco em Lençóis, mas esta edição não as leu. No elenco estão Dira Paes, Daniel de Oliveira, Mateus Solano e Camila Morgado.",
+   "leitura": "Novela na Globo costuma trazer turista para onde foi gravada, e a Chapada entra no verão com essa vitrine (provável). Para o CapON, é mais gente procurando passeio e serviço no vale (hipótese). Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "TV Globo",
+    "Dira Paes",
+    "Mario Teixeira",
+    "Allan Fiterman"
+   ],
+   "fontes": [
+    {
+     "nome": "Diário do Grande ABC",
+     "url": "https://www.dgabc.com.br/Noticia/4366597/la-na-minha-terra-conheca-a-nova-novela-das-seis-da-globo",
+     "data": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "capao-mpf-quilombo-ibitiara",
+   "data": "2026-11-06",
+   "tabuleiro": "capao",
+   "manchete": "O Ministério Público Federal investiga uma possível tentativa de mudar os limites do quilombo Tiririca de Cima, em Ibitiara, na Chapada, para abrir espaço a empreendimentos de energia",
+   "narrativa": "Segundo a Bahia Econômica, a suspeita é de envolvimento de empresas do setor de energia e de órgãos do governo da Bahia.",
+   "movimento": "O MPF abriu um inquérito civil depois de uma representação da própria comunidade. A investigação tem prazo inicial de um ano. A reportagem não diz quais empresas.",
+   "leitura": "Parques de vento e de sol avançam pela Chapada, e a disputa por terra chega aos quilombos (provável). Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Ministério Público Federal",
+    "Quilombo Tiririca de Cima",
+    "Ibitiara",
+    "governo da Bahia"
+   ],
+   "fontes": [
+    {
+     "nome": "Bahia Econômica",
+     "url": "https://bahiaeconomica.com.br/justica/ministerio-publico-investiga-alteracao-em-territorio-quilombola-na-chapada-diamantina-210929",
+     "data": "2026-11-06"
+    }
+   ]
+  }
+ ]
+}

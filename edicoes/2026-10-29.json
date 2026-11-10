@@ -1,0 +1,295 @@
+{
+ "data": "2026-10-29",
+ "numero": 10,
+ "titulo": "O Fed segura os juros, Israel conta sem maioria e o Google lança o Gemini 4 Carbon",
+ "abertura": "O Fed manteve os juros dos EUA entre 3,75% e 4%, numa votação de 10 a 2, com dois votos por nova alta. Em Israel, com quase 5 milhões de votos contados, o bloco de Netanyahu deve ficar com 53 cadeiras, e ninguém chega às 61. Na Ucrânia, Zelensky diz que os ataques ucranianos doem mais na Rússia, e os EUA votam daqui a seis dias, com os democratas favoritos na Câmara.\n\nNas Máquinas, o Google lançou o Gemini 4 Carbon, só para defensores de cibersegurança por enquanto, e a Oracle vai oferecer os chips do Google na nuvem dela em 2027. A Anthropic, a empresa de quem escreve este jornal, comprou uma empresa de uma pessoa só que pesquisa remédios para distrofia muscular. Uma falha na API da OpenAI deixava ver o raciocínio escondido dos modelos. Na Bola, o São Paulo pega o Bahia de Rogério Ceni na noite da quarta.\n\nNo Capão, tem festa de Halloween para as crianças no Coreto no sábado 31, e um grupo de estudos antirracista começa no Ateliê Querosene.",
+ "aviso": "Exercício lúdico: nada aqui afirma a realidade.",
+ "atualizado": "2026-10-29T12:03:34Z",
+ "itens": [
+  {
+   "id": "fed-mantem-juros-28-10",
+   "data": "2026-10-28",
+   "tabuleiro": "geopolitica",
+   "manchete": "O Fed mantém os juros dos EUA entre 3,75% e 4%, numa votação de 10 a 2; os dois votos contra queriam nova alta",
+   "narrativa": "O comunicado diz que a inflação segue alta e que mais informação vai ajudar a decidir o próximo passo. O presidente do Fed, Kevin Warsh, disse que a política não teve papel na decisão, a seis dias das eleições americanas, segundo a Fox Business.",
+   "movimento": "Na quarta 28, o Fed votou por 10 a 2 manter a taxa básica entre 3,75% e 4% ao ano, segundo a Fox Business e a AOL. A faixa veio da alta de 0,25 ponto em setembro. A próxima reunião é em 8 e 9 de dezembro.",
+   "leitura": "Volta da edição nº 9, que esperava esta decisão. Juros americanos parados e altos seguram o dólar forte e pesam sobre a bolsa brasileira, que já vive a semana de cautela depois da eleição brasileira (hipótese). Seguir o calendário (hipótese): segurar agora evita mexer no bolso dos americanos a seis dias da votação, mesmo com Warsh dizendo que a política não pesou. Os dois votos por alta sugerem que dezembro fica em aberto (hipótese).",
+   "confianca": "fato",
+   "emJogo": [
+    "Federal Reserve",
+    "Kevin Warsh"
+   ],
+   "fontes": [
+    {
+     "nome": "Fox Business",
+     "url": "https://www.foxbusiness.com/economy/federal-reserve-interest-rate-decision-october-28-2026",
+     "data": "2026-10-28"
+    },
+    {
+     "nome": "AOL",
+     "url": "https://www.aol.com/articles/fomc-holds-rates-steady-markets-182926000.html",
+     "data": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "id": "israel-contagem-53-cadeiras",
+   "data": "2026-10-28",
+   "tabuleiro": "geopolitica",
+   "manchete": "Com quase 5 milhões de votos contados em Israel, o bloco de Netanyahu deve ficar com 53 cadeiras, segundo as projeções; ninguém chega a 61",
+   "narrativa": "O Jerusalem Post diz que o bloco de Netanyahu deve entrar no Parlamento com 53 cadeiras. O Ynet diz que o Likud segue como o maior partido.",
+   "movimento": "Na quarta 28, com 85,6% dos votos contados, o Ynet dava 53 cadeiras ao bloco de Netanyahu e 48 ao bloco de Eisenkot; o Likud tinha 26 e o Yashar!, de Eisenkot, 21. O Jerusalem Post, depois de quase 5 milhões de votos contados, dava os mesmos 53 e 48, e 19 cadeiras aos partidos árabes. São precisas 61 para a maioria. A contagem ainda não é o resultado oficial.",
+   "leitura": "Volta da edição nº 9: a projeção da madrugada dava 54 a Netanyahu, e a contagem o empurrou para 53. Os partidos árabes, com 19, ficam no meio da conta: sem eles, nenhum lado governa (provável). Isso deixa duas saídas, uma aliança que hoje parece difícil ou uma nova eleição (hipótese). Leitura contrária (hipótese): Netanyahu, à frente do maior partido, pode ganhar tempo e atrair desertores da oposição antes do resultado oficial.",
+   "confianca": "fato",
+   "emJogo": [
+    "Benjamin Netanyahu",
+    "Gadi Eisenkot",
+    "Likud",
+    "Yashar!",
+    "Comitê Central de Eleições de Israel"
+   ],
+   "fontes": [
+    {
+     "nome": "Ynet",
+     "url": "https://www.ynetnews.com/article/hjnatbkaml",
+     "data": "2026-10-28"
+    },
+    {
+     "nome": "Jerusalem Post",
+     "url": "https://www.jpost.com/israel-election-2026/article-913122",
+     "data": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "id": "zelensky-ataques-doem-mais",
+   "data": "2026-10-28",
+   "tabuleiro": "geopolitica",
+   "manchete": "Zelensky diz que os ataques ucranianos doem mais na Rússia, que é mais centralizada, e que a Ucrânia parou 3 dias de atacar refinarias enquanto a Rússia seguiu batendo na energia",
+   "narrativa": "Em entrevista ao jornal britânico The Sun, contada pelo Kyiv Post, Zelensky disse que os ataques de retaliação são mais dolorosos para a Rússia porque lá tudo é mais centralizado.",
+   "movimento": "Na terça 27, num briefing com jornalistas, Zelensky disse que a Ucrânia suspendeu por três dias os ataques às refinarias russas, e que a Rússia continuou atacando a energia ucraniana durante a trégua de energia, segundo o Kyiv Independent. Na quarta 28, o Kyiv Post contou a entrevista ao The Sun, em que ele fala dos ataques de lado a lado à infraestrutura de dados.",
+   "leitura": "Volta da edição nº 9, com o cessar-fogo local de Oleshky. A trégua de energia anunciada pelos EUA em 11 de outubro está valendo só de um lado, segundo Kiev (provável). As duas fontes são ucranianas e trazem a versão de Zelensky; a Rússia não foi ouvida. Leitura contrária (hipótese): falar que o ataque dói mais na Rússia também é recado para os aliados que pedem contenção nos alvos de energia.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Volodymyr Zelensky",
+    "Rússia",
+    "The Sun"
+   ],
+   "fontes": [
+    {
+     "nome": "Kyiv Independent",
+     "url": "https://kyivindependent.com/ukraine-paused-attacks-on-oil-refineries-for-3-days-as-russia-continued-strikes-on-energy-infrastructure-zelensky-says/",
+     "data": "2026-10-27"
+    },
+    {
+     "nome": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/88431",
+     "data": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "id": "eua-eleicoes-uma-semana",
+   "data": "2026-10-28",
+   "tabuleiro": "geopolitica",
+   "manchete": "A seis dias das eleições de 3 de novembro nos EUA, os democratas são favoritos na Câmara e, na atualização da quarta 28, também passaram a favoritos para virar o Senado, segundo o Yahoo News",
+   "narrativa": "O Yahoo News diz que os democratas são favoritos claros nas previsões para a Câmara, que a disputa do Senado é bem mais apertada, e, numa atualização da quarta 28, que eles passaram a ser favoritos para virar o Senado.",
+   "movimento": "Na quarta 28, o Yahoo News diz que os democratas lideram a pesquisa genérica para o Congresso por cerca de 9 pontos, em média. A eleição é na terça 3 de novembro e renova a Câmara inteira e parte do Senado.",
+   "leitura": "Volta da edição nº 9, onde a eleição americana aparecia como o calendário por trás de Oleshky e da fala de Trump sobre o Brasil. Se os democratas levarem a Câmara, Trump perde força no Congresso nos dois anos que restam (provável). As duas reportagens são do mesmo veículo, uma de segunda e outra de quarta, e pesquisa não é voto; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Partido Democrata",
+    "Partido Republicano",
+    "Donald Trump",
+    "Congresso dos EUA"
+   ],
+   "fontes": [
+    {
+     "nome": "Yahoo News (28/10)",
+     "url": "https://www.yahoo.com/news/politics/article/the-2026-midterms-are-next-week-which-party-has-a-better-chance-of-winning-heres-what-the-latest-polls-say-155319308.html",
+     "data": "2026-10-28"
+    },
+    {
+     "nome": "Yahoo News (26/10)",
+     "url": "https://www.yahoo.com/news/politics/articles/winning-2026-midterms-latest-polls-170453259.html",
+     "data": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "id": "gemini-4-carbon",
+   "data": "2026-10-28",
+   "tabuleiro": "maquinas",
+   "manchete": "O Google lança o Gemini 4 Carbon, que diz ser o 1º no índice da Artificial Analysis, mas por enquanto só para defensores de cibersegurança",
+   "narrativa": "O Google diz que o Carbon é o modelo mais forte dele, com o melhor desempenho em cibersegurança e em tarefas longas, e que ficou em 1º lugar, com 59 pontos, na versão 5.0 do índice de inteligência da Artificial Analysis.",
+   "movimento": "Na quarta 28, o Google anunciou o Gemini 4 Carbon no blog dele, duas semanas depois do Argon. O acesso começa por um grupo de defensores de cibersegurança nesta semana, segundo o Google e o 9to5Google; desenvolvedores, empresas e consumidores ficam para depois, sem data. Na lista do X que o Jean acompanha, o anúncio foi o assunto do dia.",
+   "leitura": "A corrida segue em semanas, não em meses: Argon e Carbon saíram com duas semanas de diferença (fato). Os números são do próprio Google e de um índice que ele escolheu citar, ainda sem teste independente (provável). Seguir o dinheiro (hipótese): lançar para defensores de cibersegurança primeiro mostra força e responsabilidade ao mesmo tempo, na semana em que a Anthropic está com o pedido de bolsa nas manchetes. Leitura contrária (hipótese): o acesso restrito também esconde o modelo de testes independentes por mais tempo.",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente direta do Google, e o Carbon é comparado ao Opus 5.5, um modelo da própria Anthropic. A desconfiança sobre quem divulga vale para as duas empresas.",
+   "emJogo": [
+    "Google",
+    "Google DeepMind",
+    "Artificial Analysis",
+    "Anthropic"
+   ],
+   "fontes": [
+    {
+     "nome": "Blog do Google",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+     "data": "2026-10-28"
+    },
+    {
+     "nome": "9to5Google",
+     "url": "https://9to5google.com/2026/10/28/gemini-4-carbon-announcement/",
+     "data": "2026-10-28"
+    },
+    {
+     "nome": "Lista do X (OfficialLoganK)",
+     "url": "https://x.com/OfficialLoganK/status/2115489284404940898",
+     "data": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "id": "oracle-tpus-google",
+   "data": "2026-10-28",
+   "tabuleiro": "maquinas",
+   "manchete": "A Oracle vai oferecer os chips de IA do Google na nuvem dela a partir de 2027, a primeira grande nuvem fora do Google a ter as TPUs, segundo a TokenPost; e a OpenAI, segundo fontes não nomeadas, planeja comprar esses chips",
+   "narrativa": "Segundo a TokenPost, a nuvem da Oracle será a primeira grande nuvem fora do Google a oferecer os chips. A TrendForce diz que a OpenAI, uma das maiores clientes de chips da NVIDIA, planeja comprar chips do Google, segundo fontes.",
+   "movimento": "Na terça 27, a Oracle e o Google anunciaram que as TPUs, os chips de IA do Google, vão chegar à nuvem da Oracle em 2027, segundo a TrendForce e a TokenPost. O anúncio não disse o modelo do chip, o trimestre, a quantidade, o preço nem quem já encomendou, segundo a TokenPost.",
+   "leitura": "É o Google vendendo o chip dele fora de casa, contra o quase monopólio da NVIDIA (provável). Se a OpenAI comprar TPUs, a briga entre os modelos passa também pelos fornecedores: o Google vende chip a quem compete com o Gemini (provável). A compra da OpenAI vem de fontes não nomeadas; por isso, a notícia inteira fica como provável. Seguir o calendário (hipótese): o anúncio sai junto do lançamento do Gemini 4 Carbon.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, que também usa chips do Google e tem contrato de computação com ele, segundo a edição nº 9. A desconfiança sobre quem divulga vale também para a Anthropic.",
+   "emJogo": [
+    "Oracle",
+    "Google",
+    "OpenAI",
+    "NVIDIA"
+   ],
+   "fontes": [
+    {
+     "nome": "TrendForce",
+     "url": "https://www.trendforce.com/news/2026/10/28/news-openai-reportedly-plans-to-buy-google-tpus-oracle-to-bring-tpus-to-its-cloud-in-2027-adding-pressure-on-nvidia/",
+     "data": "2026-10-28"
+    },
+    {
+     "nome": "TokenPost",
+     "url": "https://www.tokenpost.com/news/technology/42452",
+     "data": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-compra-mithril",
+   "data": "2026-10-27",
+   "tabuleiro": "maquinas",
+   "manchete": "A Anthropic compra a Mithril Medicine, uma empresa de uma pessoa só que pesquisa remédios para duas formas raras de distrofia muscular",
+   "narrativa": "A Anthropic diz que o remédio pode estar pronto para os primeiros testes em humanos já no fim de 2028, se os candidatos continuarem dando certo.",
+   "movimento": "Na terça 27, a Anthropic contou, num texto sobre o uso do Claude no desenvolvimento de remédios, que comprou a Mithril Medicine, que pesquisava tratamentos para duas formas raras de distrofia muscular. O fundador, Cody Tranbarger, entrou na Anthropic e segue a pesquisa lá, segundo a TokenPost. O valor não foi divulgado.",
+   "leitura": "A Anthropic volta das edições nº 8 e 9, com o pedido de bolsa. Contar que uma pessoa só, com o Claude, levou um remédio aos testes em camundongos é também propaganda do produto, na semana em que a empresa vende ações (provável). Seguir o calendário (hipótese): a notícia sai junto do pedido de bolsa e do lançamento do Gemini 4 Carbon. Os resultados ainda são pré-clínicos, em animais.",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da Anthropic: esta notícia é sobre a própria empresa de quem escreve, e sobre o uso dele. A desconfiança sobre quem divulga vale também para a Anthropic. Leia com o dobro de desconfiança.",
+   "emJogo": [
+    "Anthropic",
+    "Mithril Medicine",
+    "Cody Tranbarger"
+   ],
+   "fontes": [
+    {
+     "nome": "Anthropic",
+     "url": "https://www.anthropic.com/research/early-progress-drug-development",
+     "data": "2026-10-27"
+    },
+    {
+     "nome": "TokenPost",
+     "url": "https://www.tokenpost.com/news/business/42707",
+     "data": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "id": "openai-falha-raciocinio",
+   "data": "2026-10-26",
+   "tabuleiro": "maquinas",
+   "manchete": "Uma falha na API da OpenAI deixava ver o raciocínio escondido dos modelos dela; a empresa corrigiu em 23 de outubro e pagou recompensa a quem achou",
+   "narrativa": "A empresa de segurança Xint diz que a falha vazava o raciocínio bruto dos modelos de ponta da OpenAI, que a empresa esconde dos clientes.",
+   "movimento": "Na segunda 26, a Xint publicou o relatório da falha, que ela chamou de contrabando pela compactação: pedindo de um jeito específico, a função que resume a conversa devolvia o raciocínio protegido. A OpenAI confirmou a falha e aplicou uma correção em 23 de outubro, segundo a Xint, e pagou uma recompensa pela descoberta, segundo a CSO Online.",
+   "leitura": "O raciocínio escondido vale dinheiro: com ele, um concorrente pode treinar um modelo mais barato imitando o da OpenAI (provável). A falha foi achada em agosto e corrigida só em outubro, segundo a Xint. Leitura contrária (hipótese): publicar a falha também é vitrine para a Xint, que vende segurança.",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da Anthropic, rival direta da OpenAI. A desconfiança sobre quem divulga vale também para a Anthropic.",
+   "emJogo": [
+    "OpenAI",
+    "Xint"
+   ],
+   "fontes": [
+    {
+     "nome": "Xint",
+     "url": "https://xint.io/blog/compaction-smuggling-reasoning-traces",
+     "data": "2026-10-26"
+    },
+    {
+     "nome": "CSO Online",
+     "url": "https://www.csoonline.com/article/4240662/openais-august-fix-for-theft-of-reasoning-traces-was-quickly-bypassed.html",
+     "data": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "id": "sao-paulo-bahia-ceni",
+   "data": "2026-10-28",
+   "tabuleiro": "bola",
+   "manchete": "O São Paulo pega o Bahia de Rogério Ceni na Fonte Nova, na noite da quarta 28, às 21h30; o placar sai depois desta edição",
+   "narrativa": "O Aratu On diz que o Bahia, comandado por Rogério Ceni, vinha sem vencer na rodada anterior, depois de empatar com o Santos.",
+   "movimento": "O jogo é na quarta 28, às 21h30, na Arena Fonte Nova, em Salvador, pela 33ª rodada do Brasileirão. O Bahia é o 7º, com 50 pontos, segundo o Aratu On e o Alô Alô Bahia; o São Paulo é o 9º, com 43, segundo o Alô Alô Bahia. Calleri volta, e Iago, suspenso, e Artur, machucado, desfalcam o São Paulo.",
+   "leitura": "Volta da edição nº 9, que contava a preparação. O fato novo é o reencontro com Ceni, do outro lado. O São Paulo está 7 pontos atrás do Bahia na tabela. O placar entra na atualização das 4h.",
+   "confianca": "fato",
+   "emJogo": [
+    "São Paulo F.C.",
+    "Bahia",
+    "Rogério Ceni",
+    "Jonathan Calleri",
+    "Dorival Júnior"
+   ],
+   "fontes": [
+    {
+     "nome": "Aratu On",
+     "url": "https://aratuon.com.br/futebol/bahia-x-sao-paulo-onde-assistir-como-chegam-e-provaveis-escalacoes/",
+     "data": "2026-10-28"
+    },
+    {
+     "nome": "Alô Alô Bahia",
+     "url": "https://aloalobahia.com/esportes/2026/10/27/bahia-recebe-o-sao-paulo-na-fonte-nova-em-busca-de-reacao-no-brasileirao/",
+     "data": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "id": "sao-paulo-perde-bahia-3x2",
+   "data": "2026-10-28",
+   "tabuleiro": "bola",
+   "manchete": "O São Paulo perde para o Bahia de Rogério Ceni por 3 a 2 na Fonte Nova e cai para o 10º lugar, com 43 pontos",
+   "narrativa": "O Futebol Interior diz que o Bahia venceu o duelo de tricolores e que o resultado deixa o São Paulo na 10ª posição.",
+   "movimento": "Na quarta 28, pela 33ª rodada do Brasileirão, o Bahia venceu o São Paulo por 3 a 2 na Arena Fonte Nova, em Salvador. Rodrigo Nestor, Erick Pulga e Marcos Victor fizeram os gols do Bahia; Lucas Moura e Bobadilla, os do São Paulo, ainda no primeiro tempo. O terceiro gol do Bahia saiu aos 35 minutos do segundo tempo. O Bahia sobe para 6º, com 53 pontos, segundo o Futebol Interior.",
+   "leitura": "É o placar que a edição prometia, no reencontro com Ceni. O São Paulo saiu perdendo por 2 a 0 em 9 minutos, buscou o empate antes do intervalo e perdeu no segundo tempo. Com 10 pontos atrás do Bahia e 5 rodadas pela frente, a vaga na Libertadores fica mais longe (provável).",
+   "confianca": "fato",
+   "acrescentada": "04h",
+   "emJogo": [
+    "São Paulo F.C.",
+    "Bahia",
+    "Rogério Ceni"
+   ],
+   "fontes": [
+    {
+     "nome": "Futebol Interior",
+     "url": "https://www.futebolinterior.com.br/bahia-vence-sao-paulo-pelo-brasileirao/",
+     "data": "2026-10-28"
+    },
+    {
+     "nome": "VAVEL Brasil",
+     "url": "https://www.vavel.com/br/futebol/2026/10/28/1277048-bahia-x-sao-paulo-ao-vivo-brasileirao.html",
+     "data": "2026-10-28"
+    }
+   ]
+  }
+ ]
+}

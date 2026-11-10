@@ -1,0 +1,324 @@
+{
+ "data": "2026-11-03",
+ "numero": 14,
+ "titulo": "Os EUA vão às urnas, uma IA mexe nos pesos de outra e a Anthropic diz que a aceleração pode estar perto",
+ "abertura": "Hoje, terça 3, os EUA votam para a Câmara inteira e um terço do Senado, e o Congresso de Trump está em jogo. Na guerra, a trégua de Kherson acabou e a Rússia voltou a atacar; do outro lado, a Ucrânia atingiu uma grande refinaria russa e a Rússia derrubou a luz de centenas de milhares de casas. No Brasil, Lula diz que nenhum programa social acaba e o governo corre com a PEC da Segurança antes do novo Congresso.\n\nNas Máquinas, a maior parte veio da lista de IA do X: o GPT-6 Astra consertou um modelo pequeno mexendo direto em 0,016% dos pesos dele; a Anthropic, a empresa de quem escreve este jornal, diz num documento para a bolsa que pode estar perto do limiar de progresso acelerado pela própria IA, e abre a Residência; a OpenAI põe preço no Astra para Direito; e mais o OpenRouter, a DeepSeek e um agente que testa jogos. Na Bola, Sabino opera o joelho na quarta, dia do clássico.\n\nNo Capão, o grupo reclama dos banheiros fechados durante a feira e lembra a aula de dança das mulheres, toda segunda.",
+ "aviso": "Exercício lúdico: nada aqui afirma a realidade.",
+ "atualizado": "2026-11-03T13:10:08Z",
+ "itens": [
+  {
+   "id": "eua-eleicao-terca",
+   "data": "2026-11-02",
+   "tabuleiro": "geopolitica",
+   "manchete": "Os EUA votam hoje para as 435 cadeiras da Câmara e 35 do Senado; os democratas precisam de quatro cadeiras para tomar o Senado",
+   "narrativa": "Segundo O Tempo, as pesquisas apontam vantagem estreita dos democratas em cinco estados, e Trump já avisou que pode usar o veto para barrar propostas da oposição.",
+   "movimento": "A eleição de meio de mandato é nesta terça 3. Estão em disputa as 435 cadeiras da Câmara e 35 das 100 do Senado. A Câmara tem hoje 219 republicanos e 214 democratas; o Senado, 53 republicanos, 45 democratas e 2 independentes aliados, segundo o Brasil 247.",
+   "leitura": "Volta da edição nº 13, que deu a média nacional favorável aos democratas. O resultado diz se Trump governa os dois últimos anos com o Congresso a favor (provável). Leitura contrária (hipótese): a vantagem nas pesquisas nacionais pode não virar cadeiras, porque o Senado se decide em poucos estados apertados.",
+   "confianca": "fato",
+   "emJogo": [
+    "Donald Trump",
+    "Partido Democrata",
+    "Partido Republicano"
+   ],
+   "fontes": [
+    {
+     "nome": "O Tempo",
+     "url": "https://www.otempo.com.br/mundo/2026/11/2/partidos-fazem-ultimos-atos-antes-de-eleicoes-de-meio-de-mandato-que-podem-enfraquecer-trump",
+     "data": "2026-11-02"
+    },
+    {
+     "nome": "Brasil 247",
+     "url": "https://www.brasil247.com/tendencias/2026/11/02/eleicoes-nos-estados-unidos-acontecem-nesta-terca-feira-3-de-novembro-e-podem-mudar-o-controle-da-camara-e-do-senado/",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "ucrania-kherson-fim-tregua",
+   "data": "2026-11-02",
+   "tabuleiro": "geopolitica",
+   "manchete": "Acaba a trégua de Kherson, a mais longa da guerra, e a Rússia volta a atacar a região depois de recusar a extensão",
+   "narrativa": "Kiev diz que a Rússia recusou a oferta ucraniana de estender a trégua local e retomou os ataques na segunda 2.",
+   "movimento": "Na segunda 2, a Rússia voltou a atacar a região de Kherson. Uma mulher de 62 anos e um homem de 73 foram feridos e levados ao hospital. As conversas mediadas pelos EUA entre Rússia e Ucrânia devem voltar ainda este mês, segundo a Euronews.",
+   "leitura": "Volta da edição nº 13, que contou a invasão dos aplicativos de alerta logo depois do fim da trégua. Recusar a extensão a semanas das conversas mediadas pelos EUA sugere que a Rússia quer chegar à mesa com pressão no terreno (hipótese). Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Rússia",
+    "Ucrânia",
+    "EUA"
+   ],
+   "fontes": [
+    {
+     "nome": "Euronews",
+     "url": "https://www.euronews.com/2026/11/02/russia-resumes-attacks-on-ukraines-kherson-region-after-truce-ends-kyiv-says",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "ucrania-kstovo-apagao",
+   "data": "2026-11-01",
+   "tabuleiro": "geopolitica",
+   "manchete": "A Ucrânia atinge a refinaria de Kstovo e a Rússia abre caso de terrorismo; ataques russos deixam centenas de milhares de casas ucranianas sem luz",
+   "narrativa": "A mídia ucraniana diz que o ataque atingiu a refinaria de Kstovo, na região de Níjni Novgorod. A Rússia chama o ataque de terrorismo. Zelensky diz que a Rússia atingiu a rede elétrica de quatro regiões.",
+   "movimento": "Investigadores russos abriram um caso de terrorismo pelo ataque a uma instalação industrial. A Rússia diz ter derrubado 235 drones ucranianos numa noite; a Ucrânia diz ter derrubado 371 de 433 drones russos desde o sábado. No domingo 1º, centenas de milhares de casas ucranianas ficaram sem luz, segundo a ABC.",
+   "leitura": "Os dois lados batem na energia do outro na mesma semana em que a trégua de Kherson acaba e as conversas são marcadas (provável). Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Rússia",
+    "Ucrânia",
+    "Volodymyr Zelensky"
+   ],
+   "fontes": [
+    {
+     "nome": "ABC News (Austrália)",
+     "url": "https://www.abc.net.au/news/2026-11-01/russia-opens-terrorism-case-over-ukraine-oil-refinery-attack/107334242",
+     "data": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "brasil-lula-programas-pec",
+   "data": "2026-11-02",
+   "tabuleiro": "geopolitica",
+   "manchete": "Lula diz que nenhum programa social acaba no próximo mandato, e o governo corre com a PEC da Segurança antes do novo Congresso",
+   "narrativa": "Lula diz, num vídeo de domingo, que não vai extinguir nenhum programa social de 2027 a 2030 e chama de mentira os boatos de corte: \"Em uma semana que eu fiquei sem falar, a mentira tomou conta deste país outra vez\".",
+   "movimento": "A partir desta segunda, o governo retoma a articulação para aprovar no Senado a PEC da Segurança Pública antes da renovação do Congresso, que reforça a oposição, segundo o ND+. Para a vaga no STF, o favorito é Rodrigo Pacheco, ex-presidente do Senado e hoje ministro do TCU.",
+   "leitura": "Depois da eleição, o governo tenta fechar pautas enquanto o Congresso atual ainda é o mesmo (provável). Seguir o calendário (hipótese): a pressa sugere que o governo espera menos votos a favor a partir de fevereiro.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Lula",
+    "Rodrigo Pacheco",
+    "Congresso Nacional",
+    "STF"
+   ],
+   "fontes": [
+    {
+     "nome": "Imirante",
+     "url": "https://imirante.com/noticias/brasil/2026/11/02/ipolitica-lula-afirma-mantera-programas-sociais-proximo-governo",
+     "data": "2026-11-02"
+    },
+    {
+     "nome": "ND+",
+     "url": "https://ndmais.com.br/politica/governo-lula-acelera-pautas-de-seu-interesse-no-congresso-nacional-e-indicacao-para-o-stf/",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "astra-edita-pesos-qwen",
+   "data": "2026-11-02",
+   "tabuleiro": "maquinas",
+   "manchete": "Pesquisadores do MIT dizem que o GPT-6 Astra mexeu direto em 0,016% dos pesos de um modelo pequeno e a nota de matemática dele foi de 7,9% para 48,1%",
+   "narrativa": "Posts da lista do X tratam o caso como um salto: uma IA lendo e reescrevendo os pesos de outra. Postado por Chubby (@kimmonismus) no X: \"MIT researchers say GPT-6 Astra improved a small Qwen model's math score from 7.9% to 48.1%\".",
+   "movimento": "Pesquisadores do MIT CSAIL pediram ao GPT-6 Astra, da OpenAI, que editasse os pesos do Qwen3.5-0.8B, um modelo aberto pequeno, sem treino. A edição tocou 0,016% dos pesos e consertou um defeito que prendia o modelo em laços de raciocínio; a nota no MATH-500 subiu de 7,9% para 48,1%, segundo a Runtime Wire. No teste com outro modelo (Gemma), segundo a Runtime Wire, o método tirou um defeito de repetição e não acrescentou capacidade de raciocínio. Os dados vêm de um post do pesquisador Rikiya Takehi, do MIT CSAIL, e ainda não foram replicados por outros.",
+   "leitura": "O ganho vem de tirar um defeito, não de ensinar matemática nova: o modelo já sabia mais do que mostrava (provável). Leitura contrária (hipótese): o barulho em torno do Astra serve à OpenAI às vésperas de lançar um modelo novo, e o resultado ainda não foi replicado por outros (a Runtime Wire diz isso).",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente da OpenAI no tabuleiro Máquinas.",
+   "emJogo": [
+    "OpenAI",
+    "MIT CSAIL",
+    "Alibaba (Qwen)",
+    "Rikiya Takehi"
+   ],
+   "fontes": [
+    {
+     "nome": "Runtime Wire",
+     "url": "https://runtimewire.com/article/gpt-6-astra-edits-qwen-weights-weight-space-programming",
+     "data": "2026-11-02"
+    },
+    {
+     "nome": "X (lista AI do Jean)",
+     "url": "https://x.com/kimmonismus/status/2117343192245064004",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-s1-limiar-aceleracao",
+   "data": "2026-11-02",
+   "tabuleiro": "maquinas",
+   "manchete": "A Anthropic diz no documento da abertura de capital que pode estar perto do limiar de \"progresso dramaticamente acelerado\" pela própria IA",
+   "narrativa": "Num S-1 emendado, o documento que a empresa entrega ao regulador da bolsa dos EUA, a Anthropic diz que as estimativas internas sugerem que os modelos futuros podem em breve atingir a definição da sua política de escala responsável para progresso dramaticamente acelerado pela IA. Postado por Chubby (@kimmonismus) no X.",
+   "movimento": "O texto fala dos modelos futuros: segundo o Hugging News, o documento diz que nenhum modelo atual atingiu um limite de segurança designado, e a Anthropic avalia as implicações.",
+   "leitura": "Leitura contrária (hipótese): no documento de venda de ações, dizer que a IA está perto de se acelerar sozinha também é propaganda de capacidade, e não só aviso de risco. Seguir o dinheiro (hipótese): a frase entra justamente no papel da abertura de capital.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da própria Anthropic. A desconfiança sobre quem divulga vale aqui para a Anthropic, que publica os riscos dos próprios modelos no mesmo documento em que pede dinheiro.",
+   "emJogo": [
+    "Anthropic",
+    "SEC"
+   ],
+   "fontes": [
+    {
+     "nome": "Hugging News",
+     "url": "https://huggingnews.com/ai/anthropics-internal-estimates-show-upcoming-ai-models-may-imminently-hit-393dfe22",
+     "data": "2026-11-02"
+    },
+    {
+     "nome": "X (lista AI do Jean)",
+     "url": "https://x.com/kimmonismus/status/2117287409750561163",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-residencia",
+   "data": "2026-11-02",
+   "tabuleiro": "maquinas",
+   "manchete": "A Anthropic abre a Residência, um programa de pesquisa pago de seis semanas a seis meses; as inscrições vão até 22 de novembro",
+   "narrativa": "Postado pela Anthropic (@AnthropicAI) no X: o programa é para acadêmicos, fundadores técnicos e engenheiros que queiram tornar a IA segura.",
+   "movimento": "As vagas duram de seis semanas a seis meses, e as inscrições desta rodada fecham em 22 de novembro de 2026, segundo a página da Anthropic.",
+   "leitura": "A empresa disputa gente de pesquisa com as outras do setor (provável).",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da própria Anthropic.",
+   "emJogo": [
+    "Anthropic"
+   ],
+   "fontes": [
+    {
+     "nome": "Anthropic (Alignment)",
+     "url": "https://alignment.anthropic.com/2026/anthropic-residency",
+     "data": "2026-11-02"
+    },
+    {
+     "nome": "X (lista AI do Jean)",
+     "url": "https://x.com/AnthropicAI/status/2117343929960112486",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "openai-astra-law-preco",
+   "data": "2026-11-02",
+   "tabuleiro": "maquinas",
+   "manchete": "A OpenAI põe o gpt-6-astra-law, o Astra para Direito, na tabela da API pelo mesmo preço do Astra comum",
+   "narrativa": "Postado por Superintelligence. (@getsuperintel) no X: a página de preços da API lista o modelo a 10 dólares por milhão de tokens de entrada e 50 de saída.",
+   "movimento": "O preço é o mesmo do gpt-6-astra comum: 10 dólares por milhão de tokens de entrada, 50 de saída e 1 em cache.",
+   "leitura": "A OpenAI começa a vender versões do mesmo modelo por profissão (hipótese). Uma fonte lida (a página da OpenAI não abriu); por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente da OpenAI.",
+   "emJogo": [
+    "OpenAI"
+   ],
+   "fontes": [
+    {
+     "nome": "X (lista AI do Jean)",
+     "url": "https://x.com/getsuperintel/status/2117305124817150277",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "openrouter-10-quatrilhoes",
+   "data": "2026-11-02",
+   "tabuleiro": "maquinas",
+   "manchete": "O OpenRouter passa de 10 quatrilhões de tokens por ano no ritmo atual, e o volume dobra a cada 10,5 semanas",
+   "narrativa": "Postado por Deedy (@deedydas) no X: o OpenRouter, que distribui pedidos entre vários modelos de IA, cruzou hoje esse ritmo anual.",
+   "movimento": "Segundo o post, o volume de tokens dobra a cada 10,5 semanas.",
+   "leitura": "O uso de IA por programas segue crescendo muito rápido (provável). Uma voz só; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, cujos modelos também passam pelo OpenRouter.",
+   "emJogo": [
+    "OpenRouter"
+   ],
+   "fontes": [
+    {
+     "nome": "X (lista AI do Jean)",
+     "url": "https://x.com/deedydas/status/2117185584330645931",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "deepseek-dsh-superagent",
+   "data": "2026-11-02",
+   "tabuleiro": "maquinas",
+   "manchete": "A DeepSeek publica de graça o dsh-superagent, um agente de programação que fica ligado o tempo todo num repositório",
+   "narrativa": "Postado por Superintelligence. (@getsuperintel) no X: a DeepSeek pôs o projeto no GitHub em 31 de outubro, com licença MIT, como protótipo de pesquisa.",
+   "movimento": "O agente fica sempre ligado num só repositório de código, com um roteador que cuida das pessoas e do contexto compartilhado.",
+   "leitura": "Os chineses seguem soltando ferramentas abertas onde as americanas cobram (provável). Uma voz só; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, que vende um agente de programação concorrente.",
+   "emJogo": [
+    "DeepSeek"
+   ],
+   "fontes": [
+    {
+     "nome": "X (lista AI do Jean)",
+     "url": "https://x.com/getsuperintel/status/2117243971873173695",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "ramen-aura-autopilot-jogos",
+   "data": "2026-11-02",
+   "tabuleiro": "maquinas",
+   "manchete": "Sai de graça o Aura Autopilot, um agente que testa jogos sozinho no Unreal, no Unity e no Godot",
+   "narrativa": "Postado por Superintelligence. (@getsuperintel) no X: a Ramen abriu o código em 30 de outubro, com licença Apache 2.0.",
+   "movimento": "O agente lê o código do jogo e escreve sozinho um jeito de controlá-lo para testar, no Unreal Engine 5, no Unity 6 e no Godot 4.",
+   "leitura": "Testar jogo é uma das partes mais caras de fazer jogo; um agente aberto pode servir a projetos pequenos, como os jogos do Jean (hipótese). Uma voz só; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, que também vende agentes.",
+   "emJogo": [
+    "Ramen"
+   ],
+   "fontes": [
+    {
+     "nome": "X (lista AI do Jean)",
+     "url": "https://x.com/getsuperintel/status/2117213251045818652",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "sao-paulo-sabino-cirurgia",
+   "data": "2026-11-01",
+   "tabuleiro": "bola",
+   "manchete": "Sabino opera o joelho direito na quarta 4, dia do clássico com o Corinthians",
+   "narrativa": "O São Paulo diz que o zagueiro já fazia fisioterapia por dores no joelho direito e que a cirurgia é para reparar a cartilagem.",
+   "movimento": "A cirurgia é na quarta 4, segundo o site do clube. Sabino já estava fora do clássico, suspenso pelo terceiro amarelo (edição nº 13).",
+   "leitura": "O São Paulo perde o zagueiro titular na reta final do Brasileiro (provável). Se ele volta ainda em 2026, não há fonte nesta edição (hipótese).",
+   "confianca": "provavel",
+   "emJogo": [
+    "São Paulo F.C.",
+    "Sabino",
+    "Corinthians"
+   ],
+   "fontes": [
+    {
+     "nome": "São Paulo F.C.",
+     "url": "https://www.saopaulofc.net/sabino-sera-submetido-a-cirurgia-para-reparo-de-cartilagem-do-joelho-direito/",
+     "data": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "capao-clarice-maria-artista",
+   "data": "2026-11-02",
+   "tabuleiro": "capao",
+   "manchete": "O Portal Vale do Capão apresenta Clarice Mariá, a Clariart, pintora de 18 anos criada no vale, e abre um perfil dela com contato",
+   "narrativa": "Segundo o portal, Clarice Mariá pinta a partir da observação do cotidiano, da natureza e da luz, com realismo, algumas experiências em surrealismo, acrílica, aquarela e grafite, e já fez murais e pintura em roupas e tecidos.",
+   "movimento": "Em 2 de novembro, segunda, o portal publicou uma matéria sobre a artista e uma página de perfil dela (Clariart), com WhatsApp e Instagram. Ela ainda cursa o Ensino Médio e mostra o trabalho ao público desde 2023, sobretudo em eventos escolares, como os do IFBA e de Seabra.",
+   "leitura": "O portal passa a dar vitrine a artistas do vale, com contato direto: é o tipo de vitrine local que o CapON também quer ser (hipótese). Duas páginas do mesmo portal; por isso, provável.",
+   "confianca": "provavel",
+   "acrescentada": "04h",
+   "emJogo": [
+    "Clarice Mariá (Clariart)",
+    "Portal Vale do Capão"
+   ],
+   "fontes": [
+    {
+     "nome": "Portal Vale do Capão",
+     "url": "https://portalvaledocapao.com.br/conheca-o-trabalho-de-clarice-maria-jovem-artista-que-transforma-observacao-em-pintura/",
+     "data": "2026-11-02"
+    },
+    {
+     "nome": "Portal Vale do Capão (perfil Clariart)",
+     "url": "https://portalvaledocapao.com.br/clariart/",
+     "data": "2026-11-02"
+    }
+   ]
+  }
+ ]
+}

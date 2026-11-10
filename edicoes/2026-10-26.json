@@ -1,0 +1,297 @@
+{
+ "data": "2026-10-26",
+ "numero": 7,
+ "titulo": "Lula vira, Flávio contesta e Vucic perde",
+ "abertura": "Lula ganhou o segundo turno com 51,79% dos votos válidos e virou a eleição que perdia no primeiro turno. Flávio Bolsonaro não reconhece o resultado e diz que vai pedir a anulação, por causa das duas horas a mais de votação. Líderes da direita e da esquerda da região parabenizaram Lula; de Trump, nada ainda.\n\nNa Sérvia, Vucic admitiu a derrota para a lista dos estudantes. Em Teerã, o ministro da Defesa saudita, o chefe do exército paquistanês e o chefe da inteligência turca tentam evitar uma guerra maior.\n\nNas Máquinas, o economista da Apollo diz que a IA não deu retorno às empresas fora da tecnologia, e o Grok mostrou sete minutos da sua Odisseia. Na Bola, o Palmeiras assumiu a ponta e o São Paulo vai a Salvador sem Iago. No Capão, o portal não publicou nada novo.",
+ "aviso": "Exercício lúdico: nada aqui afirma a realidade.",
+ "atualizado": "2026-10-26T14:38:47Z",
+ "itens": [
+  {
+   "id": "lula-quarto-mandato",
+   "data": "2026-10-25",
+   "tabuleiro": "geopolitica",
+   "manchete": "Lula vence o segundo turno com 51,79% dos votos válidos e ganha o quarto mandato depois de perder o primeiro turno",
+   "narrativa": "A Fox News chama a vitória de freio na onda conservadora. Os veículos falam em virada.",
+   "movimento": "Com 100% das urnas apuradas, Lula teve 51,79% dos votos válidos e Flávio Bolsonaro 48,21%, segundo a Gazeta do Povo. Lula teve 64.256.232 votos e Flávio 59.826.041, segundo a Revista Oeste, uma diferença de cerca de 4,4 milhões, como diz a Fox News. Brancos foram 1.430.496, nulos 2.723.305 e a abstenção 19,22%, segundo a Revista Oeste. No primeiro turno, em 4 de outubro, Flávio teve 47% e Lula 45%.",
+   "leitura": "Lula e Flávio voltam da edição nº 6: o último Datafolha dava 51% a 49% para Flávio, e o resultado saiu ao contrário, ainda perto da margem. Com 4,4 milhões de votos de diferença, a conta é maior que a de 2022, mas pequena o bastante para alimentar a contestação (provável).",
+   "confianca": "fato",
+   "emJogo": [
+    "Luiz Inácio Lula da Silva",
+    "Flávio Bolsonaro",
+    "TSE"
+   ],
+   "fontes": [
+    {
+     "nome": "Gazeta do Povo",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-pronunciamento-anulacao-eleicao/",
+     "data": "2026-10-25"
+    },
+    {
+     "nome": "Revista Oeste",
+     "url": "https://revistaoeste.com/politica/confira-os-numeros-do-2o-turno-com-100-da-apuracao-concluida/",
+     "data": "2026-10-26"
+    },
+    {
+     "nome": "Fox News",
+     "url": "https://www.foxnews.com/world/conservative-wave-hits-roadblock-brazil-lula-holds-off-bolsonaro-challenge",
+     "data": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "id": "flavio-pede-anulacao",
+   "data": "2026-10-25",
+   "tabuleiro": "geopolitica",
+   "manchete": "Flávio Bolsonaro não reconhece a derrota e diz que vai pedir a anulação da eleição por causa das duas horas a mais de votação",
+   "narrativa": "Flávio disse que é impossível reconhecer o resultado no contexto em que as coisas aconteceram e que nunca vai saber quantos votos teria nos estados onde as urnas não foram reabertas. Disse também que os fiscais do PL foram tirados da sala-cofre.",
+   "movimento": "No domingo 25, o ministro Cristiano Zanin, do STF, prorrogou a votação por duas horas em todo o país, segundo a Gazeta do Povo. Segundo a InfoMoney, a decisão veio depois de um pedido da campanha de Lula, por dificuldades no transporte de eleitores; a Al Jazeera diz que os dois candidatos pediram mais tempo de votação. Flávio anunciou que o jurídico vai pedir a anulação, segundo a Gazeta do Povo. A InfoMoney diz que as acusações ainda não foram comprovadas.",
+   "leitura": "A edição nº 6 já previa, como hipótese, que o lado que perdesse por pouco poderia contestar. O ponto frágil para o governo é a decisão ter vindo de um ministro do STF e não do TSE, que Flávio criticou (provável). Leitura contrária (hipótese): se os dois lados pediram a prorrogação, como diz a Al Jazeera, a contestação é mais discurso para a base do que um caso na Justiça.",
+   "confianca": "fato",
+   "emJogo": [
+    "Flávio Bolsonaro",
+    "Cristiano Zanin",
+    "PL",
+    "TSE"
+   ],
+   "fontes": [
+    {
+     "nome": "InfoMoney",
+     "url": "https://www.infomoney.com.br/politica/flavio-nao-reconhece-resultado-da-eleicao-e-diz-que-pedira-anulacao-ao-tse/",
+     "data": "2026-10-25"
+    },
+    {
+     "nome": "Gazeta do Povo",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-pronunciamento-anulacao-eleicao/",
+     "data": "2026-10-25"
+    },
+    {
+     "nome": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race",
+     "data": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "id": "mundo-reage-lula",
+   "data": "2026-10-26",
+   "tabuleiro": "geopolitica",
+   "manchete": "Da esquerda à direita, a região parabeniza Lula, de Sheinbaum a Kast e Noboa; de Trump, nenhuma palavra, e o filho dele critica a prorrogação",
+   "narrativa": "Segundo a Al Jazeera, Donald Trump Jr. criticou o resultado, e o deputado democrata Ro Khanna disse que Trump deve respeitar o resultado e não minar a eleição brasileira.",
+   "movimento": "Segundo a Al Jazeera, parabenizaram Lula Claudia Sheinbaum (México), Mark Carney (Canadá), Miguel Díaz-Canel (Cuba), José Antonio Kast (Chile), Keiko Fujimori (Peru), Rodrigo Paz (Bolívia), José Raúl Mulino (Panamá), Daniel Noboa (Equador), Santiago Peña (Paraguai), Yamandu Orsi (Uruguai), Pedro Sánchez (Espanha), Emmanuel Macron (França), Ursula von der Leyen (União Europeia), a chancelaria da China e o Kremlin. O texto não traz declaração de Trump nem da Casa Branca.",
+   "leitura": "Quando presidentes de direita como Kast, Noboa e Peña parabenizam logo, fica difícil sustentar fora do Brasil o pedido de anulação (provável). O silêncio de Trump pode ser uma espera para ver a força da contestação (hipótese). Cuba volta da edição nº 6, quando Rubio chamou os cubanos a trabalhar com a CIA: Díaz-Canel está entre os primeiros a celebrar. A fonte é uma só; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Donald Trump",
+    "Donald Trump Jr.",
+    "Ro Khanna",
+    "José Antonio Kast",
+    "Daniel Noboa",
+    "Miguel Díaz-Canel"
+   ],
+   "fontes": [
+    {
+     "nome": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race",
+     "data": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "id": "servia-vucic-perde",
+   "data": "2026-10-25",
+   "tabuleiro": "geopolitica",
+   "manchete": "Vucic admite a derrota na Sérvia para a lista que nasceu dos protestos dos estudantes",
+   "narrativa": "Vucic disse que está claro que perderam a eleição, antes do resultado final.",
+   "movimento": "No domingo 25, segundo a Al Jazeera, Vucic disse que, por uma amostra dos votos, a Lista dos Estudantes deve ficar com 135 a 140 das 250 cadeiras do parlamento, contra 105 da lista dele. O comparecimento chegou a 64,9% até as 18h, o maior desde o fim da Iugoslávia, em 1992. Os protestos começaram depois que a marquise da estação de trem de Novi Sad caiu, em novembro de 2024, e matou 16 pessoas.",
+   "leitura": "A Sérvia volta da edição nº 5. Um governo nascido de protesto, sem um líder único, vai ter de montar maioria e lidar com a pressão entre a Rússia e a União Europeia (hipótese). A fonte é uma só e o resultado não é final; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Aleksandar Vucic",
+    "Lista dos Estudantes"
+   ],
+   "fontes": [
+    {
+     "nome": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader",
+     "data": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "id": "teera-pacto-de-meca",
+   "data": "2026-10-26",
+   "tabuleiro": "geopolitica",
+   "manchete": "O ministro da Defesa saudita, o chefe do exército paquistanês e o chefe da inteligência turca vão a Teerã para evitar uma guerra maior",
+   "narrativa": "Segundo o governo saudita, citado pelo The National, a visita quer reduzir a escalada, estimular o diálogo e apoiar a mediação do Catar e do Paquistão.",
+   "movimento": "Na segunda 26, segundo a RTE, Khalid bin Salman, ministro da Defesa saudita, o general Asim Munir, chefe do exército do Paquistão, e Ibrahim Kalin, chefe da inteligência turca, se reúnem com o chefe de segurança do Irã, Mohsen Rezaei. Os três países assinaram em agosto o Acordo de Meca, uma aliança de defesa em que o ataque a um é ataque a todos, segundo o The National. A RTE cita ameaças recentes dos EUA e de Israel de novos ataques ao Irã e ataques dos Houthis ao aeroporto de Riad, um deles com 13 mortos neste mês.",
+   "leitura": "O Irã volta da edição nº 6, com os petroleiros de Hormuz. Uma aliança militar sunita indo a Teerã mostra que o Golfo prefere negociar a pagar a conta de outra rodada de guerra (provável). Seguir o dinheiro (hipótese): com os Houthis atingindo Riad, a Arábia Saudita pode estar comprando calma para o próprio território.",
+   "confianca": "fato",
+   "emJogo": [
+    "Khalid bin Salman",
+    "Asim Munir",
+    "Ibrahim Kalin",
+    "Mohsen Rezaei",
+    "Houthis"
+   ],
+   "fontes": [
+    {
+     "nome": "RTE",
+     "url": "https://www.rte.ie/news/2026/1026/1596838-middle-east/",
+     "data": "2026-10-26"
+    },
+    {
+     "nome": "The National",
+     "url": "https://thenationalnews.com/news/2026/10/26/saudi-minister-of-defence-heading-delegation-to-tehran-with-makkah-pact-countries",
+     "data": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "id": "apollo-ia-sem-retorno",
+   "data": "2026-10-25",
+   "tabuleiro": "maquinas",
+   "manchete": "O economista-chefe da Apollo diz que a IA deu retorno financeiro zero às empresas americanas fora da tecnologia",
+   "narrativa": "Torsten Slok, da Apollo Global Management, diz que a IA pode ser uma ótima calculadora, mas que nos negócios a inteligência é sobretudo julgamento.",
+   "movimento": "Segundo o TechCrunch, Slok olhou o S&P 493, as empresas do S&P 500 menos Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia e Tesla. Nelas, as margens de lucro e a receita por trabalhador estão paradas, sem sinal de que a IA aumenta a produtividade. O texto não traz os números.",
+   "leitura": "A nota sai dias depois da rodada de 30 bilhões da OpenAI a 1,25 trilhão e da conversa sobre a bolsa da Anthropic, que voltam da edição nº 6. Seguir o dinheiro (hipótese): a Apollo administra fortunas e pode ganhar com um mercado mais cauteloso. Leitura contrária (hipótese): o ganho da IA pode demorar a aparecer no balanço, como aconteceu com outras tecnologias.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, que vende IA para empresas: a tese de Slok vai contra o negócio de quem escreve. Leia com desconfiança.",
+   "emJogo": [
+    "Torsten Slok",
+    "Apollo Global Management"
+   ],
+   "fontes": [
+    {
+     "nome": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+     "data": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "id": "grok-odisseia",
+   "data": "2026-10-25",
+   "tabuleiro": "maquinas",
+   "manchete": "Musk prometeu um filme inteiro da Odisseia feito por IA; o Grok entregou sete minutos, agora chamados de episódio 1",
+   "narrativa": "A conta do Grok Imagine chamou o vídeo de episódio 1 da série Odisseia. Musk já tinha atacado a versão de Christopher Nolan da Odisseia.",
+   "movimento": "Segundo o TechCrunch, três meses depois de Musk anunciar um longa da Odisseia, o Grok publicou sete minutos. Para o jornalista, falta ao vídeo arte, inspiração e interesse humano.",
+   "leitura": "A troca de filme por série reduz a promessa sem admitir o recuo (provável). Leitura contrária (hipótese): sete minutos já servem de vitrine para vender a ferramenta, que é o produto de verdade.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente da empresa de Musk dona do Grok. Leia com desconfiança.",
+   "emJogo": [
+    "Elon Musk",
+    "Grok",
+    "Christopher Nolan"
+   ],
+   "fontes": [
+    {
+     "nome": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+     "data": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "id": "sao-paulo-bahia-sem-iago",
+   "data": "2026-10-26",
+   "tabuleiro": "bola",
+   "manchete": "O São Paulo vai a Salvador na quarta para pegar o Bahia sem o lateral Iago, suspenso, e deve ter a volta de Calleri",
+   "narrativa": "O SPFC.net diz que Calleri deve reforçar o ataque e que o meia Cauly foi liberado para voltar ao banco.",
+   "movimento": "Iago levou o terceiro cartão amarelo no empate com o Mirassol e cumpre suspensão, segundo o Sergipe News e o SPFC.net. Nicolas, Buta e Domingos Duarte estão fora, em recuperação de cirurgia, e a comissão técnica avalia Danielzinho, Ferreira, Artur e Calleri, segundo o Sergipe News. O jogo é na quarta 28, às 21h30, na Arena Fonte Nova, pela 33ª rodada.",
+   "leitura": "O São Paulo vem do 1 a 1 com o Mirassol, da edição nº 6, em 9º com 43 pontos.",
+   "confianca": "fato",
+   "emJogo": [
+    "São Paulo F.C.",
+    "Bahia",
+    "Iago",
+    "Jonathan Calleri"
+   ],
+   "fontes": [
+    {
+     "nome": "Sergipe News",
+     "url": "https://www.sergipenewsoficial.com/noticia/com-desfalque-de-iago-veja-a-escalacao-do-sao-paulo-contra-o-bahia",
+     "data": "2026-10-25"
+    },
+    {
+     "nome": "SPFC.net",
+     "url": "https://spfc.net/news/286161/dois-jogadores-devem-reforcar-o-sao-paulo-contra-o-bahia.html",
+     "data": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "id": "palmeiras-lider-corinthians-z4",
+   "data": "2026-10-24",
+   "tabuleiro": "bola",
+   "manchete": "O Palmeiras vence o Bragantino por 2 a 0 e passa o Flamengo na ponta; o Corinthians perde para o Vasco e abre a zona de rebaixamento",
+   "narrativa": "O ES Brasil resume a rodada com o Palmeiras líder e o Corinthians no Z-4.",
+   "movimento": "No sábado 24, pela 32ª rodada, o Palmeiras venceu o Bragantino por 2 a 0 em Barueri e chegou a 69 pontos, segundo o ES Brasil e a Netflu. O Flamengo tem 67 e joga nesta segunda 26 contra o Atlético-MG, às 20h, no Maracanã, segundo as duas fontes. O Vasco venceu o Corinthians por 3 a 2 em São Januário, e o Corinthians, com 33 pontos, é o 17º e abre o Z-4, segundo o ES Brasil.",
+   "leitura": "A ponta pode voltar ao Flamengo hoje à noite, se ele vencer o Atlético-MG.",
+   "confianca": "fato",
+   "emJogo": [
+    "Palmeiras",
+    "Flamengo",
+    "Corinthians",
+    "Vasco"
+   ],
+   "fontes": [
+    {
+     "nome": "ES Brasil",
+     "url": "https://esbrasil.com.br/32a-rodada-do-brasileirao-palmeiras-lider/",
+     "data": "2026-10-25"
+    },
+    {
+     "nome": "Netflu",
+     "url": "https://www.netflu.com.br/brasileirao-confira-todos-os-resultados-da-32a-rodada-ate-aqui-e-a-classificacao-atualizada/",
+     "data": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "id": "israel-vota-terca",
+   "data": "2026-10-26",
+   "tabuleiro": "geopolitica",
+   "manchete": "Israel vota amanhã com a oposição projetada em 52 cadeiras e o bloco de Netanyahu em 50, longe das 61 da maioria",
+   "narrativa": "A Al Jazeera trata a eleição como uma das mais importantes da história de Israel e diz que uma derrota deixaria Netanyahu mais exposto ao processo por corrupção.",
+   "movimento": "Os israelenses votam na terça 27 para os 120 lugares do Knesset. Na última pesquisa da KAN, antes da proibição de novas pesquisas, a aliança da oposição tinha 52 cadeiras e o bloco de Netanyahu 50, segundo a Al Jazeera. Nenhum dos blocos chega às 61 da maioria.",
+   "leitura": "Israel volta da edição nº 6, com o protesto em Tel Aviv. Com nenhum lado perto da maioria, o resultado de terça deve ser só o começo de uma negociação longa (provável). A fonte é uma só; por isso, provável.",
+   "confianca": "provavel",
+   "acrescentada": "04h",
+   "emJogo": [
+    "Benjamin Netanyahu",
+    "Gadi Eisenkot",
+    "Knesset"
+   ],
+   "fontes": [
+    {
+     "nome": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know",
+     "data": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "id": "golfo-centcom-barris",
+   "data": "2026-10-25",
+   "tabuleiro": "geopolitica",
+   "manchete": "Os EUA dizem que ajudaram o Golfo a exportar 1,5 bilhão de barris desde junho, com o Brent a 114,50 dólares",
+   "narrativa": "O Comando Central dos EUA diz que mais de 95% dos navios passaram em segurança pelo estreito nos últimos meses e que as rotas principais estão livres de minas iranianas.",
+   "movimento": "No domingo 25, durante uma visita do almirante Brad Cooper, o Comando Central anunciou os números, segundo a Al Jazeera. O barril de Brent estava em cerca de 114,50 dólares no domingo, contra 72,48 em 27 de fevereiro, véspera dos ataques ao Irã.",
+   "leitura": "Hormuz volta da edição nº 6, quando o Irã dizia ter atingido sete petroleiros num dia e o Brent estava em 112 dólares. O número dos EUA não pode ser conferido, como o do Irã não podia. Seguir o calendário (hipótese): o anúncio sai a nove dias das eleições americanas de meio de mandato. Leitura contrária (hipótese): se a rota está segura, o preço alto vem de outro lugar, e o anúncio não explica de onde.",
+   "confianca": "provavel",
+   "acrescentada": "04h",
+   "emJogo": [
+    "Comando Central dos EUA",
+    "Brad Cooper",
+    "Irã"
+   ],
+   "fontes": [
+    {
+     "nome": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil",
+     "data": "2026-10-26"
+    }
+   ]
+  }
+ ]
+}

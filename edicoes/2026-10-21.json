@@ -1,0 +1,218 @@
+{
+ "data": "2026-10-21",
+ "numero": 2,
+ "titulo": "Sem Patriots em Kiev, um milhão de minas na Finlândia e a Meta no banco dos réus eleitoral",
+ "abertura": "A Ucrânia diz que quase não tem mais interceptores Patriot, e o enviado de Trump foi a Oslo ouvir Zelensky. Na fronteira com a Rússia, a Finlândia planeja comprar um milhão de minas terrestres. No Iêmen, mísseis houthis mataram 58 num campo de treino; no Sudão, um drone matou ao menos 80 perto de um mercado.\n\nNo Brasil, a cinco dias do segundo turno, o TSE deu 24 horas para a Meta provar que trata Lula e Flávio Bolsonaro do mesmo jeito. A Meta diz que trata.\n\nNas Máquinas, um ex-engenheiro da OpenAI acusado de grampear uma sala de reuniões fica preso sem fiança. No São Paulo, Dorival quer ficar em 2027, mas espera a eleição do clube.",
+ "aviso": "Exercício lúdico: nada aqui afirma a realidade.",
+ "atualizado": "2026-10-21T07:05:23Z",
+ "itens": [
+  {
+   "id": "ucrania-patriots-oslo",
+   "data": "2026-10-20",
+   "tabuleiro": "geopolitica",
+   "manchete": "Ucrânia diz que quase acabaram os interceptores Patriot, e o enviado de Trump vai a Oslo ouvir Zelensky",
+   "narrativa": "Zelensky disse na segunda-feira que a Ucrânia quase não tem mais interceptores Patriot, feitos nos EUA. Trump disse que é hora de outra pessoa negociar pela Ucrânia. O secretário de Estado Marco Rubio chamou de escandalosa a acusação de que os EUA estariam negando os mísseis.",
+   "movimento": "Steve Witkoff se reuniu com Zelensky em Oslo, com Jared Kushner a distância. Zelensky ofereceu parar por 30 dias os ataques a refinarias russas em troca de mais interceptores. No mesmo dia, um novo ataque russo com mísseis e drones matou ao menos nove pessoas na Ucrânia, segundo a 1News.",
+   "leitura": "O interceptor virou a moeda da negociação: quem controla o estoque controla o ritmo da guerra. Trocar ataques a refinarias por defesa aérea mostra que Kiev tem pouco mais a oferecer.",
+   "confianca": "fato",
+   "emJogo": [
+    "Volodymyr Zelensky",
+    "Donald Trump",
+    "Steve Witkoff",
+    "Jared Kushner",
+    "Marco Rubio"
+   ],
+   "fontes": [
+    {
+     "nome": "NBC News",
+     "url": "https://nbcnews.com/world/ukraine/ukraine-us-support-rubio-scandalous-zelenskyy-meeting-trump-oslo-rcna604530",
+     "data": "2026-10-20"
+    },
+    {
+     "nome": "1News",
+     "url": "https://www.1news.co.nz/2026/10/21/russian-blitz-kills-9-in-ukraine-as-zelensky-meets-allies-in-norway/",
+     "data": "2026-10-21"
+    },
+    {
+     "nome": "Democracy Now",
+     "url": "https://www.democracynow.org/2026/10/20/headlines",
+     "data": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "id": "finlandia-um-milhao-de-minas",
+   "data": "2026-10-19",
+   "tabuleiro": "geopolitica",
+   "manchete": "Finlândia planeja comprar um milhão de minas terrestres contra pessoas, por cerca de 100 milhões de euros",
+   "narrativa": "O governo diz que a Rússia é uma ameaça de longo prazo. Os militares dizem que não vão enterrar minas em tempo de paz, só em emergência.",
+   "movimento": "As Forças de Defesa da Finlândia querem comprar um milhão de minas antipessoais, de preferência de fábricas finlandesas, com contratos até o fim de 2027 e produção no país em 2028. A Finlândia saiu do tratado que proíbe essas minas (a Convenção de Ottawa) e deixou de estar presa a ele em janeiro. Estônia, Letônia, Lituânia e Polônia também saíram.",
+   "leitura": "Sair de um tratado é discurso; comprar um milhão de minas é ato. A fronteira com a Rússia volta a ser pensada como linha de guerra, e a indústria local ganha um cliente garantido.",
+   "confianca": "fato",
+   "emJogo": [
+    "Forças de Defesa da Finlândia",
+    "Petteri Orpo",
+    "Convenção de Ottawa"
+   ],
+   "fontes": [
+    {
+     "nome": "Helsinki Times",
+     "url": "https://www.helsinkitimes.fi/finland/finland-news/domestic/29409-finland-plans-to-buy-one-million-landmines-for-100-million.html",
+     "data": "2026-10-19"
+    },
+    {
+     "nome": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat",
+     "data": "2026-10-19"
+    }
+   ]
+  },
+  {
+   "id": "iemen-houthis-shabwa",
+   "data": "2026-10-19",
+   "tabuleiro": "geopolitica",
+   "manchete": "Mísseis houthis matam 58 num campo de treino do governo do Iêmen, e o Reino Unido manda patrulhas aéreas para proteger a Arábia Saudita",
+   "narrativa": "O porta-voz militar houthi, Yahya Saree, disse que o campo era comandado por forças sauditas. A Arábia Saudita não comentou de imediato.",
+   "movimento": "Na segunda-feira 19, mísseis atingiram um campo de treino das forças de segurança em Shabwa. O governador Awad al-Wazir falou em 58 mortos, mais de 200 feridos e 14 desaparecidos. O Reino Unido anunciou patrulhas aéreas defensivas e assessores militares para proteger cidades sauditas dos houthis, segundo a AP citada pelo Just Security.",
+   "leitura": "Londres entra mais fundo ao lado de Riad, segundo a AP citada pelo Just Security. Os números de mortos são do governador e não puderam ser confirmados de forma independente.",
+   "confianca": "fato",
+   "emJogo": [
+    "houthis",
+    "Awad al-Wazir",
+    "Yahya Saree",
+    "Arábia Saudita",
+    "Reino Unido"
+   ],
+   "fontes": [
+    {
+     "nome": "Al-Monitor (Reuters)",
+     "url": "https://www.al-monitor.com/originals/2026/10/houthi-attack-kills-58-yemen-government-training-camp-governor-says",
+     "data": "2026-10-20"
+    },
+    {
+     "nome": "Just Security",
+     "url": "https://www.justsecurity.org/161419/early-edition-october-20-2026/",
+     "data": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "id": "sudao-drone-kordofan",
+   "data": "2026-10-18",
+   "tabuleiro": "geopolitica",
+   "manchete": "Drone mata ao menos 80 perto de um mercado no Kordofão Ocidental, um dos ataques mais letais da guerra do Sudão",
+   "narrativa": "A administração montada pelas Forças de Apoio Rápido (RSF), chamada Tasis, culpa o exército sudanês.",
+   "movimento": "No domingo 18, um drone atingiu a área de um mercado no estado do Kordofão Ocidental e matou ao menos 80 pessoas, segundo uma fonte médica e uma testemunha ouvidas pela France 24. Outro ataque de drone em Cartum matou quatro pessoas, três delas crianças.",
+   "leitura": "Cada lado culpa o outro e nenhum paga o preço: a guerra de drones barateou matar à distância. Sem um número oficial, o total de mortos da guerra passa de 200 mil pela estimativa de trabalhadores humanitários.",
+   "confianca": "fato",
+   "emJogo": [
+    "Forças Armadas do Sudão",
+    "Forças de Apoio Rápido (RSF)",
+    "Tasis"
+   ],
+   "fontes": [
+    {
+     "nome": "France 24",
+     "url": "https://www.france24.com/en/africa/20261019-drone-attack-near-southern-sudan-market-kills-scores",
+     "data": "2026-10-19"
+    },
+    {
+     "nome": "Democracy Now",
+     "url": "https://www.democracynow.org/2026/10/20/headlines",
+     "data": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "id": "meta-tse-isonomia",
+   "data": "2026-10-20",
+   "tabuleiro": "maquinas",
+   "manchete": "TSE dá 24 horas para a Meta provar que trata Lula e Flávio do mesmo jeito, sob multa de R$ 1 milhão por dia, e a Meta culpa um problema técnico",
+   "narrativa": "A Meta diz ao TSE que trata igual as publicações das duas campanhas e atribui a diferença encontrada a um problema técnico isolado. Diz também que seus sistemas estão temporariamente impedidos de gerar imagens de candidatos.",
+   "movimento": "No domingo 18, o ministro Marco Aurélio Bellizze deu 24 horas para a Meta comprovar que cumpriu a decisão e subiu a multa diária para R$ 1 milhão. A ação começou com a queixa da campanha de Lula de que a Meta AI impedia imagens favoráveis a ele; a campanha de Flávio também recorreu ao TSE. Em São Paulo, manifestantes acusaram a Meta de interferir na eleição.",
+   "leitura": "O algoritmo virou cabo eleitoral, e a Justiça quer ver a engrenagem. Dizer que foi um problema técnico é a versão da Meta; o fato é que o TSE deu 24 horas e subiu a multa diária para R$ 1 milhão.",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da Anthropic, que concorre com a Meta em IA. Leia com desconfiança.",
+   "emJogo": [
+    "Meta",
+    "Tribunal Superior Eleitoral",
+    "Marco Aurélio Bellizze",
+    "Luiz Inácio Lula da Silva",
+    "Flávio Bolsonaro"
+   ],
+   "fontes": [
+    {
+     "nome": "Poder360",
+     "url": "https://www.poder360.com.br/poder-eleicoes-2026/tse-da-24h-para-meta-comprovar-isonomia-entre-lula-e-flavio/",
+     "data": "2026-10-18"
+    },
+    {
+     "nome": "Conjur",
+     "url": "https://conjur.com.br/2026-out-19/tse-da-24h-para-meta-comprovar-isonomia-em-campanhas-de-lula-e-flavio/",
+     "data": "2026-10-19"
+    },
+    {
+     "nome": "Imirante",
+     "url": "https://m.imirante.com/noticias/brasil/2026/10/20/ipolitica-meta-tratou-campanhas-lula-flavio-forma-igual",
+     "data": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "id": "openai-grampo-sem-fianca",
+   "data": "2026-10-19",
+   "tabuleiro": "maquinas",
+   "manchete": "Ex-engenheiro da OpenAI acusado de grampear uma sala de reuniões fica preso sem fiança, e o juiz desconfia da oferta do consulado saudita",
+   "narrativa": "A acusação diz que Abdulrahman Alfozan, cidadão saudita, escondeu um gravador na sede da OpenAI em San Francisco. Ele ainda não foi julgado.",
+   "movimento": "Na segunda-feira 19, o juiz Alex Tse mandou mantê-lo preso sem fiança até o julgamento, por risco de fuga. O consulado saudita em Los Angeles ofereceu bancar a fiança inteira, e o juiz achou a oferta problemática. A acusação é de interceptar conversas; a próxima audiência é em 6 de novembro.",
+   "leitura": "O segredo de um laboratório de IA virou assunto de Estado: um governo estrangeiro se ofereceu para pagar a fiança. Ser acusado não é ser culpado; o caso está no começo.",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente direta da OpenAI. Leia com desconfiança.",
+   "emJogo": [
+    "OpenAI",
+    "Abdulrahman Alfozan",
+    "Alex Tse",
+    "Consulado da Arábia Saudita em Los Angeles"
+   ],
+   "fontes": [
+    {
+     "nome": "KQED",
+     "url": "https://www.kqed.org/news/12104786/san-francisco-judge-denies-bail-to-engineer-accused-of-bugging-openai-hq",
+     "data": "2026-10-19"
+    },
+    {
+     "nome": "24 News HD (AFP)",
+     "url": "https://www.24newshd.tv/20-Oct-2026/us-judge-orders-saudi-engineer-held-openai-case",
+     "data": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "id": "spfc-dorival-espera-eleicao",
+   "data": "2026-10-20",
+   "tabuleiro": "bola",
+   "manchete": "Dorival quer ficar no São Paulo em 2027, mas diz que a política divide o clube e espera a eleição de dezembro",
+   "narrativa": "Dorival disse que continuar seria um grande prazer e que o novo comando tem o direito de escolher os profissionais. Também disse que aspectos políticos estão criando divisões no clube.",
+   "movimento": "O contrato dele vai até o fim desta temporada, e a decisão fica para depois da eleição para presidente, prevista para a primeira quinzena de dezembro. Ele falou depois da vitória de 1 a 0 sobre o Vasco, no sábado 17.",
+   "leitura": "No São Paulo, quem manda no banco é a urna do clube. Um técnico que fala em divisões políticas está avisando que o problema não é só de campo.",
+   "confianca": "fato",
+   "emJogo": [
+    "São Paulo F.C.",
+    "Dorival Júnior",
+    "Vasco da Gama"
+   ],
+   "fontes": [
+    {
+     "nome": "CartaCapital",
+     "url": "https://www.cartacapital.com.br/esporte/dorival-decide-sobre-permanecer-no-sao-paulo-em-meio-as-criticas/",
+     "data": "2026-10-20"
+    },
+    {
+     "nome": "Imirante",
+     "url": "https://m.imirante.com/esporte/brasil/2026/10/19/dorival-evita-falar-permanencia-paulo-2027",
+     "data": "2026-10-19"
+    }
+   ]
+  }
+ ]
+}

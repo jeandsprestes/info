@@ -1,0 +1,327 @@
+{
+ "data": "2026-10-23",
+ "numero": 4,
+ "titulo": "Irã na mira depois das eleições americanas, Brasil empatado na véspera do debate e a Meta multada em 25 bilhões",
+ "abertura": "Segundo o New York Times, os militares dos EUA e de Israel já têm planos para voltar a atacar o Irã depois das eleições americanas. No Golfo, o Irã diz ter atingido sete navios, e os EUA negam as minas. Os houthis matam na Arábia Saudita, e Washington tira parte dos diplomatas de lá.\n\nNo Brasil, a três dias do segundo turno, o PoderData dá Flávio 51% e Lula 49% dos votos válidos, empate técnico. A Nigéria confirma um caso de ebola em Abuja.\n\nNas Máquinas, um juiz manda a Meta pagar 25 bilhões de dólares ao Novo México, e falhas no PHP achadas com ajuda de IA tiram sites do ar pelo mundo. O São Paulo tenta quebrar o jejum fora de casa no sábado. No Capão, o Festival de Reggae, chefs do Tempero Bahia e uma mercearia a granel.",
+ "aviso": "Exercício lúdico: nada aqui afirma a realidade.",
+ "atualizado": "2026-10-23T13:03:34Z",
+ "itens": [
+  {
+   "id": "eua-israel-planos-ira",
+   "data": "2026-10-22",
+   "tabuleiro": "geopolitica",
+   "manchete": "EUA e Israel teriam planos prontos para voltar a atacar o Irã depois das eleições americanas, enquanto o Irã diz ter atingido sete navios no Golfo",
+   "narrativa": "A Guarda Revolucionária diz que atingiu quatro navios que faziam transferência ilegal de petróleo e que outros três bateram em minas. Um porta-voz anônimo do Comando Central dos EUA, citado pela Al Jazeera, chama de incorreta a história das minas. Trump escreveu que o Irã está inventando ataques e minas.",
+   "movimento": "Segundo o New York Times, citado pela Just Security e pela Democracy Now, os militares dos EUA e de Israel montaram planos específicos para novos ataques ao Irã depois das eleições americanas de meio de mandato. Dezenas de caças israelenses fizeram exercícios na fronteira oeste do Irã, segundo a Democracy Now. Na quinta 22, a Guarda Revolucionária disse ter atingido sete navios no Golfo Pérsico: quatro petroleiros em transferência de óleo e três que teriam batido em minas. Não há confirmação independente dos ataques.",
+   "leitura": "Os planos são relato de jornal, com fontes anônimas, não anúncio oficial. Se a espera pela eleição é cálculo político, as fontes não dizem; mas o ataque marcado para depois da urna é, por si, um dado sobre o voto.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Guarda Revolucionária do Irã (IRGC)",
+    "Comando Central dos EUA (CENTCOM)",
+    "Donald Trump",
+    "Forças Armadas de Israel"
+   ],
+   "fontes": [
+    {
+     "nome": "Just Security (citando o New York Times)",
+     "url": "https://www.justsecurity.org/161692/early-edition-october-22-2026/",
+     "data": "2026-10-22"
+    },
+    {
+     "nome": "Democracy Now",
+     "url": "https://www.democracynow.org/2026/10/22/headlines",
+     "data": "2026-10-22"
+    },
+    {
+     "nome": "Newscord (comparando 13 veículos)",
+     "url": "https://newscord.org/article/irans-irgc-navy-targets-four-vessels-in-northern-persian-gulf-warns-us-bases--Story_20261022_IRGCNavysaysfouroffe584e7d7e",
+     "data": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "id": "houthis-arabia-saudita-diplomatas",
+   "data": "2026-10-21",
+   "tabuleiro": "geopolitica",
+   "manchete": "Os houthis atacam o aeroporto de Dammam e um campo de petróleo saudita, e os EUA mandam parte dos diplomatas sair da Arábia Saudita",
+   "narrativa": "A aviação civil saudita culpa os houthis, do Iêmen, aliados do Irã. O Departamento de Estado diz que mandou sair os funcionários que não são essenciais e as famílias.",
+   "movimento": "Na quarta 21, segundo a Democracy Now, um ataque ao Aeroporto Internacional King Fahd, em Dammam, matou pelo menos duas pessoas e feriu oito, e um ataque de drones dos houthis a um campo de petróleo saudita matou mais duas. Depois, o Departamento de Estado dos EUA mandou sair do país os funcionários não essenciais e as famílias deles.",
+   "leitura": "Quando a embaixada americana manda gente embora, é sinal de que Washington espera mais ataques, não menos. A guerra do Irã já se espalhou para os aeroportos do Golfo.",
+   "confianca": "fato",
+   "emJogo": [
+    "Houthis (Ansar Allah)",
+    "Arábia Saudita",
+    "Departamento de Estado dos EUA"
+   ],
+   "fontes": [
+    {
+     "nome": "Democracy Now",
+     "url": "https://www.democracynow.org/2026/10/22/headlines",
+     "data": "2026-10-22"
+    },
+    {
+     "nome": "Just Security (citando BBC e Wall Street Journal)",
+     "url": "https://www.justsecurity.org/161692/early-edition-october-22-2026/",
+     "data": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "id": "poderdata-flavio-51-lula-49",
+   "data": "2026-10-22",
+   "tabuleiro": "geopolitica",
+   "manchete": "A três dias do segundo turno, o PoderData dá Flávio 51% e Lula 49% dos votos válidos, empate técnico",
+   "narrativa": "A pesquisa fala em empate técnico dentro da margem de erro.",
+   "movimento": "A pesquisa PoderData/AYA, divulgada na quinta 22, ouviu 4.000 eleitores por telefone (registro no TSE BR-07926/2026). Nos votos válidos, Flávio Bolsonaro (PL) tem 51% e Lula (PT), 49%, com margem de erro de 1,6 ponto. Na rodada anterior, de 19 de outubro, era 52% a 48%.",
+   "leitura": "Lula subiu um ponto e Flávio caiu um desde a rodada anterior, mas tudo dentro da margem. A pesquisa não diz quem ganha.",
+   "confianca": "fato",
+   "emJogo": [
+    "Flávio Bolsonaro",
+    "Luiz Inácio Lula da Silva",
+    "PoderData/AYA",
+    "TV Globo"
+   ],
+   "fontes": [
+    {
+     "nome": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/poderdata-aya-flavio-tem-51-dos-votos-validos-no-2o-turno-lula-49-2/",
+     "data": "2026-10-22"
+    },
+    {
+     "nome": "Poder360",
+     "url": "https://www.poder360.com.br/poderdata/pesquisa-poderdata-aya-leia-os-resultados-de-lula-e-flavio-na-reta-final-do-2o-turno-3/",
+     "data": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "id": "ebola-nigeria-abuja",
+   "data": "2026-10-20",
+   "tabuleiro": "geopolitica",
+   "manchete": "A Nigéria, o país mais populoso da África, confirma um caso de ebola em Abuja, e o surto que começou no Congo já matou mais de 4.600 pessoas",
+   "narrativa": "O ministro da Saúde, Muhammad Pate, diz que o governo faz tudo para conter o caso, rastreando os contatos da paciente.",
+   "movimento": "Na terça 20, o Ministério da Saúde da Nigéria confirmou ebola numa mulher internada num hospital particular de Abuja em 11 de outubro. A PBS diz que ela chegou de Uganda; Uganda diz que ela é nigeriana e só passou por lá, vinda do Congo; a Democracy Now diz que ela veio da Etiópia. É o vírus Bundibugyo, o do surto do leste do Congo. As autoridades rastreiam 44 contatos. Segundo a PBS, o surto já infectou mais de 9.500 pessoas e matou mais de 4.600.",
+   "leitura": "A paciente teve sintomas em 7 de outubro e o caso só foi confirmado em 20 de outubro, treze dias depois. A cada país novo, o surto deixa de ser problema do Congo e vira problema de rota aérea.",
+   "confianca": "fato",
+   "emJogo": [
+    "Muhammad Pate",
+    "Ministério da Saúde da Nigéria",
+    "Organização Mundial da Saúde"
+   ],
+   "fontes": [
+    {
+     "nome": "PBS NewsHour",
+     "url": "https://www.pbs.org/newshour/world/nigeria-confirms-ebola-case-in-its-capital-as-woman-who-arrived-from-uganda-tests-positive",
+     "data": "2026-10-20"
+    },
+    {
+     "nome": "Democracy Now",
+     "url": "https://www.democracynow.org/2026/10/22/headlines",
+     "data": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "id": "meta-multa-25-bilhoes",
+   "data": "2026-10-21",
+   "tabuleiro": "maquinas",
+   "manchete": "Um juiz do Novo México manda a Meta pagar 25 bilhões de dólares por mentir sobre os dados dos usuários do Facebook",
+   "narrativa": "O Novo México diz que a Meta mentiu por anos sobre os dados dos usuários do Facebook.",
+   "movimento": "Na quarta 21, um juiz do Novo México fixou a multa em 25 bilhões de dólares, depois que um júri de setembro concluiu que a Meta enganou os usuários sobre a privacidade dos dados. Pela conta máxima da lei, o valor seria de quase 220 bilhões. O caso vem do escândalo da Cambridge Analytica. O Novo México foi o único estado a ir a julgamento: outros 48 fizeram acordo com a Meta.",
+   "leitura": "O Novo México recusou o acordo e foi a julgamento; os valores dos acordos dos outros estados não estão nas fontes. A multa é a maior da história da Meta, mas é uma fração do que a lei permitia.",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da Anthropic, uma empresa de IA que também guarda dados de usuários e pode ser alvo de leis parecidas. Leia com desconfiança.",
+   "emJogo": [
+    "Meta",
+    "Estado do Novo México",
+    "Cambridge Analytica"
+   ],
+   "fontes": [
+    {
+     "nome": "Democracy Now",
+     "url": "https://www.democracynow.org/2026/10/22/headlines",
+     "data": "2026-10-22"
+    },
+    {
+     "nome": "Just Security (citando o Axios)",
+     "url": "https://www.justsecurity.org/161692/early-edition-october-22-2026/",
+     "data": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "id": "php-falhas-achadas-com-ia",
+   "data": "2026-10-22",
+   "tabuleiro": "maquinas",
+   "manchete": "Falhas antigas no PHP, achadas com ajuda de IA, viram milhões de tentativas de ataque, e bancos e governos tiram sites do ar",
+   "narrativa": "Os criadores do PHP soltaram consertos urgentes e pediram atualização imediata. Uma especialista diz que os detalhes vazaram antes de os consertos ficarem prontos.",
+   "movimento": "As falhas estavam no PHP, a linguagem que roda boa parte dos sites, havia anos, e foram achadas com ferramentas de IA. Segundo o chefe da Cloudflare, Matthew Prince, houve milhares de tentativas de ataque nas 10 horas antes do anúncio e milhões depois. Na quarta 21 e na quinta 22, bancos e empresas do Japão, a Orange, na França, e o governo da Finlândia suspenderam serviços na internet para consertar.",
+   "leitura": "A IA acha em dias o que ficou escondido por anos, e o atacante ganha a mesma arma. A corrida agora é de velocidade: quem acha a falha primeiro, quem conserta primeiro.",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da Anthropic, que vende IA usada para achar falhas em código. Leia com desconfiança.",
+   "emJogo": [
+    "PHP",
+    "Cloudflare",
+    "Matthew Prince",
+    "Orange",
+    "Valtori (governo da Finlândia)"
+   ],
+   "fontes": [
+    {
+     "nome": "HuffPost (com a Reuters)",
+     "url": "https://www.huffpost.com/entry/php-cybersecurity-flaws_n_6ada0890e4b0ba084e14ffa9",
+     "data": "2026-10-22"
+    },
+    {
+     "nome": "Just Security (citando Axios e Reuters)",
+     "url": "https://www.justsecurity.org/161692/early-edition-october-22-2026/",
+     "data": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "id": "spfc-mirassol-jejum-fora",
+   "data": "2026-10-22",
+   "tabuleiro": "bola",
+   "manchete": "O São Paulo vai a Mirassol no sábado 24 tentando a terceira vitória seguida e o fim de mais de seis meses sem vencer fora de casa",
+   "narrativa": "O São Paulo diz que tenta manter a reação na reta final, depois das vitórias sobre Vitória e Vasco.",
+   "movimento": "O jogo é no sábado 24, às 16h30, no estádio José Maria de Campos Maia, em Mirassol, pela 32ª rodada, com transmissão da Globo e do Premiere. O técnico é Dorival Júnior. Segundo a Gazeta Esportiva, a última vitória fora de casa no Brasileiro foi em 15 de março, contra o Bragantino, e a última fora em qualquer torneio foi em 7 de abril, na Sul-Americana; em 15 jogos fora no Brasileiro, foram 2 vitórias, 3 empates e 10 derrotas.",
+   "leitura": "O jejum fora de casa é um dos principais obstáculos do time na reta final, segundo a Gazeta Esportiva. Com o Morumbis cedido aos shows do BTS no fim do mês (edição nº 3), vencer longe de casa pesa ainda mais.",
+   "confianca": "fato",
+   "emJogo": [
+    "São Paulo F.C.",
+    "Mirassol",
+    "Dorival Júnior"
+   ],
+   "fontes": [
+    {
+     "nome": "Lance!",
+     "url": "https://www.lance.com.br/sao-paulo/sao-paulo-tenta-embalar-no-brasileirao-e-busca-terceira-vitoria-seguida-contra-o-mirassol.html",
+     "data": "2026-10-22"
+    },
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-tenta-encerrar-jejum-de-mais-de-seis-meses-sem-vencer-fora-de-casa/",
+     "data": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "id": "capao-festival-reggae-3",
+   "data": "2026-09-29",
+   "tabuleiro": "capao",
+   "manchete": "O 3º Festival de Reggae do Vale do Capão, Nós Somos o Mundo, foi marcado para 9 a 11 de outubro, de graça e independente",
+   "narrativa": "O portal diz que o festival é feito a partir do território e reúne música, cultura, bem-estar e comunidade.",
+   "movimento": "O Nós Somos o Mundo, Festival de Reggae do Vale do Capão, teve a 3ª edição marcada de 9 a 11 de outubro de 2026, em Caeté-Açu, distrito de Palmeiras (BA), com entrada gratuita. Quem idealizou é Dery Lima. O texto não traz a programação nem patrocinadores; cita parceiros e empreendedores locais. O texto é anterior ao festival e não conta como foi.",
+   "leitura": "Mais um evento grande do vale que se sustenta sem patrocínio citado, pela própria comunidade. Para o CapON, é um calendário de eventos que se repete todo ano e pede um lugar para ser anunciado.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Nós Somos o Mundo",
+    "Dery Lima"
+   ],
+   "fontes": [
+    {
+     "nome": "Portal Vale do Capão",
+     "url": "https://portalvaledocapao.com.br/3o-festival-de-reggae-do-vale-do-capao-reune-musica-cultura-e-comunidade-na-chapada-diamantina/",
+     "data": "2026-09-29"
+    }
+   ]
+  },
+  {
+   "id": "capao-tempero-bahia-senac",
+   "data": "2026-09-21",
+   "tabuleiro": "capao",
+   "manchete": "Chefs formados pelo Senac, donos do restaurante Artesanale no Capão, entram no festival Tempero Bahia",
+   "narrativa": "O texto, da comunicação do Senac Bahia, conta a história do casal como fruto da formação da escola.",
+   "movimento": "Jean Lucas Carvalho e Elisa Caballero se conheceram em 2011 no curso de Cozinheiro Profissional do Senac Bahia. Tiveram um food truck no Vale do Capão por quatro anos e abriram em 2026 o restaurante Artesanale, Cozinha Afetiva. Eles participaram da 3ª edição do festival Tempero Bahia, de 17 a 27 de setembro, no circuito do Vale do Capão.",
+   "leitura": "O Capão já é um circuito de festival gastronômico do estado. Para o CapON, os restaurantes da vila são um público possível de ferramentas e de vitrine.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Senac Bahia",
+    "Jean Lucas Carvalho",
+    "Elisa Caballero",
+    "Artesanale, Cozinha Afetiva",
+    "Festival Tempero Bahia"
+   ],
+   "fontes": [
+    {
+     "nome": "Portal Vale do Capão",
+     "url": "https://portalvaledocapao.com.br/chefs-formados-pelo-senac-bahia-participam-do-festival-tempero-bahia-no-vale-do-capao/",
+     "data": "2026-09-21"
+    }
+   ]
+  },
+  {
+   "id": "capao-almazen",
+   "data": "2026-10-08",
+   "tabuleiro": "capao",
+   "manchete": "O guia comercial do portal apresenta o Almazen do Capão, uma mercearia de produtos naturais e a granel",
+   "narrativa": "O anúncio fala em alimentos de verdade, menos embalagem e consumo mais consciente.",
+   "movimento": "O Almazen do Capão vende grãos, sementes, temperos, chás, castanhas, frutas secas, vinhos e cafés da região, com produtos orgânicos e da agricultura familiar. Dá para levar o próprio pote e encher azeite, shoyu e óleos. Abre de segunda a sábado, das 9h às 13h e das 16h às 20h, e no domingo, das 8h30 às 15h. A página só diz Vale do Capão, sem rua, e não diz quem é o dono.",
+   "leitura": "É uma página do guia comercial do portal: leia como anúncio, não como notícia. A página não diz se foi paga. Para o CapON, mostra que o comércio da vila já procura aparecer na internet.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Almazen do Capão"
+   ],
+   "fontes": [
+    {
+     "nome": "Portal Vale do Capão",
+     "url": "https://portalvaledocapao.com.br/almazen-do-capao/",
+     "data": "2026-10-08"
+    }
+   ]
+  },
+  {
+   "id": "datafolha-empate-50-50",
+   "data": "2026-10-22",
+   "tabuleiro": "geopolitica",
+   "manchete": "Depois do PoderData, o Datafolha também mostra empate: Flávio e Lula com 50% dos votos válidos cada",
+   "narrativa": "Os jornais falam em empate numérico nos votos válidos, a três dias do segundo turno.",
+   "movimento": "O Datafolha divulgou na noite de quinta 22 a pesquisa feita de 20 a 22 de outubro (registro no TSE BR-09709/2026). Nos votos válidos, Flávio Bolsonaro (PL) tem 50,54% e Lula (PT), 49,46%; arredondado, 50% a 50%. Nos votos totais, 47% a 46%. A margem de erro é de dois pontos. Na rodada anterior, da semana passada segundo a Exame, era 51% a 49% para Flávio nos votos válidos. O tamanho da amostra difere entre as fontes (2.154 no Metrópoles, 2.520 na Exame), por isso fica de fora.",
+   "leitura": "Duas pesquisas no mesmo dia, o mesmo retrato: Lula subiu um ponto, Flávio caiu um, tudo dentro da margem. A três dias do segundo turno, a eleição está empatada até nos números redondos.",
+   "confianca": "fato",
+   "acrescentada": "00h",
+   "emJogo": [
+    "Flávio Bolsonaro",
+    "Luiz Inácio Lula da Silva",
+    "Datafolha"
+   ],
+   "fontes": [
+    {
+     "nome": "Metrópoles",
+     "url": "https://www.metropoles.com/brasil/datafolha-flavio-bolsonaro-lula-22-10",
+     "data": "2026-10-22"
+    },
+    {
+     "nome": "Exame",
+     "url": "https://exame.com/brasil/pesquisa-datafolha-flavio-bolsonaro-lula-empatam-numericamente/",
+     "data": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "id": "openai-30-bilhoes-1-25-trilhao",
+   "data": "2026-10-22",
+   "tabuleiro": "maquinas",
+   "manchete": "A OpenAI negocia mais 30 bilhões de dólares em dinheiro privado, com investidores dos Emirados, em vez de correr para a bolsa",
+   "narrativa": "A OpenAI não quis comentar. Quem conta são fontes ouvidas pela CNBC, citadas pelo TechCrunch.",
+   "movimento": "Segundo o TechCrunch, na quinta 22, citando a CNBC, a OpenAI tenta captar até 30 bilhões de dólares, com avaliação de 1,25 trilhão antes do aporte, numa rodada liderada pela Coatue e por investidores dos Emirados Árabes Unidos. Um relato anterior da Bloomberg falava em 1,4 trilhão. Os termos ainda estão em negociação e podem mudar. A OpenAI entregou em junho os papéis da abertura de capital em sigilo.",
+   "leitura": "A avaliação ficou abaixo do que se falava há um mês, e parte do dinheiro viria de investidores dos Emirados, no meio da guerra do Irã. A notícia tem uma fonte só, a CNBC, com fontes não nomeadas no texto: é provável, não fato.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente direta da OpenAI, que também busca dinheiro e bolsa. Leia com desconfiança.",
+   "acrescentada": "04h",
+   "emJogo": [
+    "OpenAI",
+    "Coatue",
+    "Emirados Árabes Unidos"
+   ],
+   "fontes": [
+    {
+     "nome": "TechCrunch (citando a CNBC)",
+     "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+     "data": "2026-10-22"
+    }
+   ]
+  }
+ ]
+}

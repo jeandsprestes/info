@@ -1,0 +1,304 @@
+{
+ "data": "2026-10-31",
+ "numero": 12,
+ "titulo": "A bolsa perde 18% na semana, o Likud fala em eleição roubada e o Google roda IA em órbita",
+ "abertura": "No Brasil, a bolsa fechou a semana da reeleição de Lula com queda de 18,12% e o dólar a R$ 5,44. Em Israel, o partido de Netanyahu diz, sem provas, que a eleição foi roubada, e o presidente Herzog começa as consultas na semana que vem. Na Ucrânia, a Rússia diz ter derrubado 1.214 drones ucranianos numa noite.\n\nNas Máquinas, a Mistral teria liberado os pesos do Large 4, a DeepSeek teria captado cerca de 15 bilhões de dólares com forte presença do Estado chinês, o Google rodou o primeiro pedido num chip de IA em órbita e a Anthropic, a empresa de quem escreve este jornal, diz que o Claude também derrubou a Hipótese do Tempo Exponencial. Na Bola, o São Paulo começa a preparar o clássico com o Corinthians.\n\nNo Capão, servidores de Palmeiras reclamam do salário atrasado, o Fuá do Riacho do Ouro estreia no domingo, de graça, e o feriadão traz imersão em agrofloresta e reggae.",
+ "aviso": "Exercício lúdico: nada aqui afirma a realidade.",
+ "atualizado": "2026-10-30T21:21:26Z",
+ "itens": [
+  {
+   "id": "ibovespa-semana-18-por-cento",
+   "data": "2026-10-30",
+   "tabuleiro": "geopolitica",
+   "manchete": "A bolsa brasileira fecha a semana da reeleição de Lula com queda de 18,12%, e o dólar sobe 9% e termina a R$ 5,44",
+   "narrativa": "A Times Brasil diz que pesou a falta de definição sobre a política fiscal e a equipe econômica do próximo governo. A BP Money cita a incerteza fiscal, a saída de dinheiro estrangeiro e a alta dos juros futuros, e no dólar a disputa pela Ptax do fim do mês.",
+   "movimento": "Na sexta 30, o Ibovespa caiu 0,75%, aos 167.921,80 pontos, segundo a Times Brasil e a BP Money. Na semana, a queda foi de 18,12%, segundo a Times Brasil. O dólar à vista subiu 1,05%, a R$ 5,4443, segundo a Times Brasil; o comercial subiu 1,10%, a R$ 5,44, segundo a BP Money. Na semana, o dólar subiu 9,04%.",
+   "leitura": "Volta da edição nº 11, que trouxe a quarta queda seguida. O mercado segue cobrando o nome do próximo ministro da Fazenda e um sinal sobre os gastos (provável). Seguir o calendário (hipótese): a pressão de fim de mês, com a Ptax, pode ter exagerado a alta do dólar nesta sexta.",
+   "confianca": "fato",
+   "emJogo": [
+    "Ibovespa",
+    "B3",
+    "Governo Lula"
+   ],
+   "fontes": [
+    {
+     "nome": "Times Brasil",
+     "url": "https://timesbrasil.com.br/investimentos/bolsa/ibovespa-despenca-181-na-semana-apos-reeleicao-de-lula-dolar-dispara-9-e-fecha-a-r-544/",
+     "data": "2026-10-30"
+    },
+    {
+     "nome": "BP Money",
+     "url": "https://bpmoney.com.br/mercado/ibovespa-cai-075-e-fecha-aos-1679-mil-pontos-dolar-sobe/",
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "israel-likud-eleicao-roubada",
+   "data": "2026-10-29",
+   "tabuleiro": "geopolitica",
+   "manchete": "O Likud, de Netanyahu, diz sem provas que a eleição foi roubada; Herzog consulta os partidos na semana que vem e o bloco de Netanyahu fica com 53 cadeiras",
+   "narrativa": "Segundo a CNBC, o partido de Netanyahu reforçou a acusação de que os partidos liderados por árabes roubaram a eleição, falou em interferência estrangeira e não mostrou provas. O Catar negou qualquer interferência.",
+   "movimento": "O bloco de Netanyahu, com o Likud e os aliados de extrema direita, ficou com 53 das 120 cadeiras, abaixo das 61 da maioria; o bloco de Eisenkot, com 48; os partidos árabes, com 19, segundo a CNBC. O presidente Isaac Herzog consulta os partidos na semana que vem e indica quem tenta formar governo, num prazo de 28 dias, que pode ganhar mais 14. A posse do novo Parlamento é em 10 de novembro.",
+   "leitura": "Volta das edições nº 10 e 11. Chamar a eleição de roubada pelos partidos árabes serve para fechar a porta a qualquer governo da oposição que dependa deles (provável). Leitura contrária (hipótese): a acusação também prepara o terreno para pedir uma nova eleição, se ninguém chegar a 61. Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Benjamin Netanyahu",
+    "Likud",
+    "Gadi Eisenkot",
+    "Isaac Herzog",
+    "Catar"
+   ],
+   "fontes": [
+    {
+     "nome": "CNBC",
+     "url": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html",
+     "data": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "id": "russia-1214-drones-chernihiv-kremenchuk",
+   "data": "2026-10-29",
+   "tabuleiro": "geopolitica",
+   "manchete": "A Rússia diz ter derrubado 1.214 drones ucranianos numa noite; a CBS conta que mísseis e drones russos mataram mais cinco em Chernihiv e Kremenchuk",
+   "narrativa": "O Ministério da Defesa da Rússia disse que as defesas aéreas derrubaram 1.214 drones ucranianos durante a noite, num dos maiores ataques de drones lançados por Kiev, segundo a CBS.",
+   "movimento": "Um míssil de cruzeiro russo matou duas meninas de 15 anos em Chernihiv, no norte, e um drone russo matou três civis num prédio em Kremenchuk, no centro, segundo as autoridades ucranianas citadas pela CBS, na mesma reportagem de quinta 29 sobre o ataque à estação de Dnipro (edição nº 11).",
+   "leitura": "Os dois lados sobem o volume dos ataques antes das possíveis conversas a três no mês que vem, segundo a CBS (provável). O número de 1.214 é da Rússia, sem conferência independente. Uma fonte lida; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Rússia",
+    "Ucrânia"
+   ],
+   "fontes": [
+    {
+     "nome": "CBS News",
+     "url": "https://www.cbsnews.com/news/russia-ukraine-war-drone-dnipro-train-station-oleshky-ceasefire/",
+     "data": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "id": "mistral-large-4-pesos",
+   "data": "2026-10-29",
+   "tabuleiro": "maquinas",
+   "manchete": "A Mistral teria liberado os pesos do Large 4, que lidera os modelos abertos num teste de programação, segundo um post da lista do X",
+   "narrativa": "Um post da lista do X diz que o Large 4 lidera os modelos de pesos abertos no FrontierCode 2.0, da Cognition, com 19,7%. A The New Stack diz que ele chega com 1 ponto de vantagem em programação sobre o GLM-5.3.",
+   "movimento": "Segundo o post, a Mistral liberou os pesos do Large 4 na quinta 29. A The New Stack tem uma chamada sobre os pesos abertos e a vantagem de 1 ponto sobre o GLM-5.3, mas a página lida não confirmou a data. Com os pesos, qualquer um pode baixar o modelo e rodar no próprio servidor, conforme a licença da empresa.",
+   "leitura": "O modelo chega para disputar com os modelos abertos chineses (provável). Para quem quer IA rodando no próprio computador ou servidor, há uma opção nova de ponta, mas que pede máquina grande (provável). Uma fonte efetiva; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, que vende modelos fechados e concorre com os abertos. A desconfiança sobre quem divulga vale também para a Anthropic.",
+   "emJogo": [
+    "Mistral",
+    "Cognition"
+   ],
+   "fontes": [
+    {
+     "nome": "Lista do X (getsuperintel)",
+     "url": "https://x.com/getsuperintel/status/2116187451425190182",
+     "data": "2026-10-30"
+    },
+    {
+     "nome": "The New Stack",
+     "url": "https://thenewstack.io/mistral-large-4-weights/",
+     "data": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "id": "deepseek-rodada-estado-chines",
+   "data": "2026-10-29",
+   "tabuleiro": "maquinas",
+   "manchete": "A DeepSeek teria captado 105,5 bilhões de yuans, cerca de 15,8 bilhões de dólares, com investidores estatais chineses pondo 27% da rodada, segundo o The Information",
+   "narrativa": "Um post da lista do X diz que, segundo o The Information de 29 de outubro, a DeepSeek levantou 105,5 bilhões de yuans de quase 30 investidores, com valor de 615,5 bilhões de yuans, e que os investidores estatais puseram 27% da rodada.",
+   "movimento": "Em 22 de outubro, a TechCrunch já tinha contado, citando a Bloomberg, que a DeepSeek levantou cerca de 15 bilhões de dólares, com a CATL e a Tencent entre os possíveis investidores, dois dias depois de o governo dos EUA mandar as agências federais tirarem a tecnologia dela dos sistemas. O número novo, do The Information, traz o valor da empresa e a parte do Estado.",
+   "leitura": "Volta da edição nº 11, que contou a suspeita de destilação do GPT-6 Astra. Se a parte estatal subiu tanto, a DeepSeek fica mais perto de ser uma aposta do Estado chinês, o que reforça os argumentos de quem pede mais restrição nos EUA (provável). A fonte original é paga; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente da DeepSeek e que já acusou laboratórios chineses de destilação. A desconfiança sobre quem divulga vale também para a Anthropic.",
+   "emJogo": [
+    "DeepSeek",
+    "CATL",
+    "Tencent",
+    "The Information",
+    "Governo da China"
+   ],
+   "fontes": [
+    {
+     "nome": "Lista do X (getsuperintel)",
+     "url": "https://x.com/getsuperintel/status/2116248140013863027",
+     "data": "2026-10-30"
+    },
+    {
+     "nome": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+     "data": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "id": "google-suncatcher-tpu-orbita",
+   "data": "2026-10-30",
+   "tabuleiro": "maquinas",
+   "manchete": "O Google manda um comando a um satélite, liga o chip de IA dele em órbita e recebe a primeira resposta completa de um modelo rodando no espaço",
+   "narrativa": "Sundar Pichai, chefe do Google, postou no X que o Project Suncatcher teve um marco de olá mundo: depois do lançamento do satélite protótipo, a empresa mandou um comando à órbita, ligou a TPU, rodou o pedido e recebeu a primeira resposta completa.",
+   "movimento": "Na sexta 30, Pichai anunciou o teste no X. O satélite protótipo do Project Suncatcher, que leva chips de IA do Google (as TPUs), foi lançado algumas semanas antes, segundo o post. A ideia do projeto é ter centros de dados de IA no espaço, movidos a energia solar.",
+   "leitura": "É o primeiro passo de uma corrida para pôr computação de IA em órbita, onde o sol é constante e não falta espaço (provável). Leitura contrária (hipótese): rodar um pedido num satélite está muito longe de um centro de dados em órbita, e o anúncio também serve de vitrine para os chips do Google, na semana em que a Oracle passou a oferecê-los (edição nº 10). Uma fonte só; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, que usa chips do Google para treinar e rodar modelos. A desconfiança sobre quem divulga vale também para a Anthropic.",
+   "emJogo": [
+    "Google",
+    "Sundar Pichai"
+   ],
+   "fontes": [
+    {
+     "nome": "Lista do X (sundarpichai)",
+     "url": "https://x.com/sundarpichai/status/2116214866444943853",
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-claude-eth-14m-tokens",
+   "data": "2026-10-27",
+   "tabuleiro": "maquinas",
+   "manchete": "A Anthropic diz que um modelo de pesquisa do Claude também derrubou a Hipótese do Tempo Exponencial, sozinho, em 16 de outubro, com 14 milhões de tokens",
+   "narrativa": "Segundo a FourWeekMBA, a Anthropic diz que o algoritmo central foi achado em 16 de outubro por um modelo interno de pesquisa do Claude, com 14 milhões de tokens de resposta e sem ajuda humana. Um post da lista do X diz que, segundo o The Information de 29 de outubro, a OpenAI e a Anthropic disseram em 26 de outubro que os modelos internos delas derrubaram a hipótese.",
+   "movimento": "No mesmo dia do anúncio da OpenAI (26 de outubro, edição nº 9), a Anthropic publicou um artigo com um algoritmo para o problema 3-SAT, assinado por Claude, Anthropic, e disse que os dois resultados são independentes. As datas não foram confirmadas por fora; a prova formalizada em Lean foi aceita por dois verificadores automáticos, mas ninguém conhecido checou a formalização inteira. Um grupo de especialistas ainda confere o trabalho da OpenAI.",
+   "leitura": "Volta da edição nº 9. Dizer que chegou ao mesmo resultado no mesmo dia tira da OpenAI a exclusividade da descoberta, na semana do pedido de bolsa da Anthropic (hipótese). Leitura contrária (hipótese): sem conferência externa, as duas empresas disputam o título de quem descobriu primeiro com datas que só elas conhecem.",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da Anthropic: esta notícia é sobre a própria empresa e o próprio modelo. A alegação é da Anthropic, sem conferência independente. Leia com o dobro de desconfiança.",
+   "emJogo": [
+    "Anthropic",
+    "OpenAI",
+    "The Information"
+   ],
+   "fontes": [
+    {
+     "nome": "FourWeekMBA",
+     "url": "https://fourweekmba.com/ai-anthropic-says-claude-also-refuted-eth-using-14m-tokens/",
+     "data": "2026-10-27"
+    },
+    {
+     "nome": "Lista do X (getsuperintel)",
+     "url": "https://x.com/getsuperintel/status/2116157096110575812",
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "reddit-ai-mode-google-trafego",
+   "data": "2026-10-29",
+   "tabuleiro": "maquinas",
+   "manchete": "O chefe do Reddit diz que o AI Mode do Google não manda visitas para ninguém; as visitas vindas da busca caíram mais de 1 milhão por semana em outubro",
+   "narrativa": "Segundo um post da lista do X, o chefe do Reddit disse na teleconferência de resultados que o AI Mode do Google não traz tráfego, nem para o Reddit nem para ninguém.",
+   "movimento": "Na quinta 29, na apresentação dos resultados, o Reddit contou que as visitas vindas da busca caíram mais de 1 milhão por semana em outubro e que vai passar todo mundo para o modo com login, em parte para segurar os robôs que copiam o conteúdo, segundo o post.",
+   "leitura": "Quando o Google responde direto com IA, os sites que vivem de visita perdem; o Reddit fecha a porta para vender o conteúdo só a quem pagar (provável). Para quem faz site e conteúdo, como o Jean, é sinal de que depender da busca do Google fica mais arriscado (provável). Uma fonte só; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, uma das empresas que usam conteúdo da web para treinar modelos. A desconfiança sobre quem divulga vale também para a Anthropic.",
+   "emJogo": [
+    "Reddit",
+    "Steve Huffman",
+    "Google"
+   ],
+   "fontes": [
+    {
+     "nome": "Lista do X (kimmonismus)",
+     "url": "https://x.com/kimmonismus/status/2116277389114388908",
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "claude-plano-200-sem-limite-5h",
+   "data": "2026-10-30",
+   "tabuleiro": "maquinas",
+   "manchete": "Um post diz que a Anthropic tirou o limite de 5 horas do plano de 200 dólares do Claude; a empresa não anunciou nada que o INFO tenha achado",
+   "narrativa": "Um post da lista do X diz que o limite de 5 horas acabou no plano de 200 dólares do Claude, que o autor chama de ultra, e que a Anthropic está numa boa fase.",
+   "movimento": "Na sexta 30, o post saiu na lista do X do Jean. Na busca do INFO, nenhuma página da Anthropic nem reportagem confirmou a mudança; as páginas achadas ainda falam do limite por janela de 5 horas no plano de 200 dólares.",
+   "leitura": "Se for verdade, quem usa o Claude o dia todo deixa de esbarrar na janela de 5 horas e fica só com o limite semanal (provável). A OpenAI dobrou os limites dos planos Pro na mesma semana (edição nº 11), o que sugere uma disputa por quem dá mais uso pelo mesmo preço (hipótese). Uma voz só e sem confirmação; por isso, provável.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic: a notícia é sobre o plano da própria empresa. Leia com o dobro de desconfiança.",
+   "emJogo": [
+    "Anthropic"
+   ],
+   "fontes": [
+    {
+     "nome": "Lista do X (kimmonismus)",
+     "url": "https://x.com/kimmonismus/status/2116221615180755409",
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "sao-paulo-prepara-classico-corinthians",
+   "data": "2026-10-30",
+   "tabuleiro": "bola",
+   "manchete": "O São Paulo volta de Salvador e começa a preparar o clássico com o Corinthians, na quarta 4, na Vila Belmiro; Ferreira, Artur e Marcos Antonio seguem em recuperação",
+   "narrativa": "O site do São Paulo diz que o time abriu a preparação para o clássico na sexta, com Dorival Júnior no comando e jovens de Cotia no treino.",
+   "movimento": "Na sexta 30, quem jogou contra o Bahia fez trabalho regenerativo e os outros treinaram no campo. Ferreira (lesão no adutor) e Artur (trauma na lombar) seguem em recuperação, e Marcos Antonio treinou com os fisioterapeutas por dor no tornozelo, segundo o ABCD Jornal. O jogo é na quarta 4 de novembro, às 21h30, na Vila Belmiro, em Santos, pela 34ª rodada.",
+   "leitura": "Volta da edição nº 11, que contou o jejum de 17 jogos sem vencer fora. O clássico é fora do Morumbi, na casa do Santos, e vale para tentar sair da sequência ruim (provável).",
+   "confianca": "fato",
+   "emJogo": [
+    "São Paulo F.C.",
+    "Dorival Júnior",
+    "Corinthians"
+   ],
+   "fontes": [
+    {
+     "nome": "São Paulo FC (site oficial)",
+     "url": "https://www.saopaulofc.net/sao-paulo-inicia-preparacao-para-o-classico-com-o-corinthians/",
+     "data": "2026-10-30"
+    },
+    {
+     "nome": "ABCD Jornal",
+     "url": "https://abcdjornal.com.br/esporte/noticia/2026/10/30/sao-paulo-abre-preparacao-para-enfrentar-o-corinthians-na-vila/",
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "transfer-ban-11-times",
+   "data": "2026-10-30",
+   "tabuleiro": "bola",
+   "manchete": "Onze times brasileiros estão impedidos de registrar reforços pela Fifa; o Santos tem 4 punições, o Corinthians 2 e o São Paulo 1",
+   "narrativa": "Um texto do blog do professor Rafael Porcari diz que o transfer ban é cada vez mais comum no futebol brasileiro e lista os times punidos até a publicação.",
+   "movimento": "Na sexta 30, a lista trazia Santos (4), Internacional (3), Corinthians (2) e, com 1 cada, São Paulo, Grêmio, Fortaleza, Cuiabá, Amazonas, Figueirense, Miramar e Colorado.",
+   "leitura": "Dívida com outros clubes vira impedimento de contratar, o que pesa no planejamento de 2027 do São Paulo, que tem eleição e dinheiro curto (hipótese). Uma fonte só; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "São Paulo F.C.",
+    "Fifa",
+    "Santos",
+    "Corinthians"
+   ],
+   "fontes": [
+    {
+     "nome": "Blog do Professor Rafael Porcari",
+     "url": "https://professorrafaelporcari.com/2026/10/30/os-atuais-transfer-bans-dos-11-times-do-futebol-brasileiro/",
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "capao-fua-riacho-do-ouro",
+   "data": "2026-10-28",
+   "tabuleiro": "capao",
+   "manchete": "O Fuá do Riacho do Ouro estreia no domingo 1º, às 16h, na Colaborativa da Chapada, com roda de coco, DJ e forró, de graça",
+   "narrativa": "O Chapada News diz que o Fuá, do Bando Pé d'Estrada com o DJ VirguLINUX, vai ocupar as tardes de domingo no Riacho do Ouro. A notícia foi repassada no grupo do Capão.",
+   "movimento": "A primeira edição é no domingo 1º de novembro, a partir das 16h: roda de coco às 16h, DJ às 18h e forró das 19h às 21h, na Colaborativa da Chapada, no Vale do Capão, com entrada gratuita e contribuição voluntária, segundo o Chapada News. A mensagem no grupo, na sexta 30, confirmou a entrada gratuita.",
+   "leitura": "É um evento fixo novo na agenda do vale, aos domingos, o tipo de coisa que caberia numa agenda cultural do Capão, ideia que o Jean tem para o CapON (provável).",
+   "confianca": "fato",
+   "emJogo": [
+    "Bando Pé d'Estrada",
+    "Colaborativa da Chapada"
+   ],
+   "fontes": [
+    {
+     "nome": "Chapada News",
+     "url": "https://chapadanews.com.br/2026/10/28/vale-do-capao-fua-do-riacho-do-ouro-estreia-em-novembro-e-transforma-fins-de-semana-em-festa-de-tradicao/",
+     "data": "2026-10-28"
+    }
+   ]
+  }
+ ]
+}

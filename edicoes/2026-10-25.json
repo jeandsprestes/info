@@ -1,0 +1,287 @@
+{
+ "data": "2026-10-25",
+ "numero": 6,
+ "titulo": "O Brasil vota empatado, Hormuz pega fogo e a IA escolhe partido",
+ "abertura": "Hoje é o segundo turno. Lula e Flávio Bolsonaro chegam empatados em 50% dos votos válidos no Datafolha de quinta. Israel vota na terça, e milhares protestaram contra Netanyahu em Tel Aviv neste sábado.\n\nNo Estreito de Hormuz, o Irã diz ter atingido sete petroleiros num dia, e Trump chama tudo de invenção para subir o petróleo antes das eleições americanas. Rubio convidou os cubanos a trabalhar com a CIA, e Kim Jong Un cruzou a ponte nova para a China.\n\nNas Máquinas, um estudo mostra o Grok escolhendo republicanos e o GPT escolhendo democratas, e a OpenAI negocia 30 bilhões de dólares a 1,25 trilhão. Na Bola, o São Paulo em Mirassol e os técnicos Crespo e Filipe Luís. No Capão, o portal não publicou nada novo.",
+ "aviso": "Exercício lúdico: nada aqui afirma a realidade.",
+ "atualizado": "2026-10-25T11:31:52Z",
+ "itens": [
+  {
+   "id": "segundo-turno-empatado",
+   "data": "2026-10-24",
+   "tabuleiro": "geopolitica",
+   "manchete": "O Brasil vota hoje no segundo turno com Lula e Flávio empatados em 50% dos votos válidos no Datafolha de quinta",
+   "narrativa": "Segundo a Al Jazeera, Flávio se apresenta como o candidato da mudança e acusa Lula de deixar o crime organizado crescer e de endividar as famílias. Lula compara o corte de gastos de Flávio ao de Javier Milei, na Argentina, e questiona a experiência dele.",
+   "movimento": "No Datafolha divulgado na quinta 22, os dois têm 50% dos votos válidos cada. Nos votos totais, Flávio tem 47% e Lula 46%, com 5% de brancos e nulos e 2% de indecisos, segundo a CartaCapital. No primeiro turno, em 4 de outubro, Flávio teve 47% e Lula 45%, segundo a Al Jazeera. O Datafolha marcou a última pesquisa para este sábado, às 18h40, com 4.050 entrevistas e margem de dois pontos.",
+   "leitura": "Duas semanas antes, as pesquisas davam Flávio quatro pontos na frente, segundo a Al Jazeera; Lula encostou. Com empate na margem, o resultado pode sair voto a voto, e o lado que perder por pouco pode contestar (hipótese).",
+   "confianca": "fato",
+   "emJogo": [
+    "Luiz Inácio Lula da Silva",
+    "Flávio Bolsonaro",
+    "Datafolha"
+   ],
+   "fontes": [
+    {
+     "nome": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off",
+     "data": "2026-10-24"
+    },
+    {
+     "nome": "CartaCapital",
+     "url": "https://www.cartacapital.com.br/politica/os-detalhes-da-ultima-pesquisa-datafolha-sobre-lula-x-flavio-bolsonaro-no-2o-turno/",
+     "data": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "id": "hormuz-sete-petroleiros",
+   "data": "2026-10-22",
+   "tabuleiro": "geopolitica",
+   "manchete": "O Irã diz que atingiu sete petroleiros em Hormuz num só dia, e Trump chama os ataques de invenção para subir o petróleo antes das eleições americanas",
+   "narrativa": "A Guarda Revolucionária do Irã diz que quatro petroleiros foram atingidos e pegaram fogo e três bateram em minas, e ameaça as bases americanas na região. Trump diz que o Irã inventa \"ataques falsos, minas e tudo mais\" para subir o preço do petróleo antes das eleições de meio de mandato.",
+   "movimento": "Na quinta 22, segundo a Al Jazeera, a Guarda Revolucionária anunciou o maior número de navios atingidos num dia desde o começo da guerra, em 28 de fevereiro. O Comando Central dos EUA disse que as alegações sobre minas são incorretas, que as rotas internacionais foram limpas e que 95% dos navios passam. Segundo a CBS, o barril de Brent chegou a 112 dólares na quinta, o maior preço desde 18 de maio. A Al Jazeera não conseguiu confirmar os ataques de forma independente.",
+   "leitura": "Os dois lados contam números que não se pode conferir: o Irã os navios, os EUA os 95%. O preço do petróleo pode ser a arma real dos dois (hipótese), a poucos dias das eleições americanas do começo de novembro. O Irã volta da edição nº 5, quando o embaixador dos EUA na ONU falou em mais um ano de guerra. Leitura contrária (hipótese): o anúncio iraniano pode ser exagerado de propósito, para pesar no bolso do eleitor americano.",
+   "confianca": "fato",
+   "emJogo": [
+    "Guarda Revolucionária do Irã",
+    "Donald Trump",
+    "Comando Central dos EUA"
+   ],
+   "fontes": [
+    {
+     "nome": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response",
+     "data": "2026-10-22"
+    },
+    {
+     "nome": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+     "data": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "id": "rubio-cubanos-cia",
+   "data": "2026-10-23",
+   "tabuleiro": "geopolitica",
+   "manchete": "Rubio chama os cubanos a uma \"parceria discreta\" com a CIA, e Havana zomba do recrutamento público",
+   "narrativa": "O secretário de Estado Marco Rubio escreveu no X que \"agora é a hora\" de quem quer mudança em Cuba, citou corrupção e privilégios de poucos e pediu uma parceria discreta com a CIA. O vice-chanceler cubano Carlos Fernández de Cossío respondeu que os EUA agora recorrem ao recrutamento público para a CIA.",
+   "movimento": "Na sexta 23, segundo a Al Jazeera, Rubio publicou o chamado no X. Depois, a CIA publicou um vídeo em espanhol para quem tem informações, dizendo para ir a uma embaixada americana se puder chegar com segurança. Cuba vive um bloqueio de petróleo dos EUA, com falta de combustível e apagões, segundo a Al Jazeera.",
+   "leitura": "Cuba volta da edição nº 5, quando acusou Washington de pressionar países na votação da ONU contra o embargo. O padrão sugere pressão crescente sobre Havana: bloqueio, votação e agora recrutamento aberto (provável). A fonte é uma só; por isso, provável.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Marco Rubio",
+    "CIA",
+    "Carlos Fernández de Cossío"
+   ],
+   "fontes": [
+    {
+     "nome": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change",
+     "data": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "id": "kim-ponte-china",
+   "data": "2026-10-24",
+   "tabuleiro": "geopolitica",
+   "manchete": "Kim Jong Un vai à China pela ponte nova sobre o rio Yalu e é recebido pelo número 4 de Pequim",
+   "narrativa": "Segundo a agência chinesa Xinhua, citada pela Al Jazeera, os dois lados prometeram fortalecer as relações.",
+   "movimento": "No sábado 24, segundo a Al Jazeera (com AFP e Reuters), Kim fez uma visita de um dia a Dandong, cidade chinesa da fronteira, pela Nova Ponte do Rio Yalu, aberta oficialmente cerca de uma semana antes. A ponte ficou pronta em 2014, mas esperou anos pelas estradas e pela alfândega do lado norte-coreano. Kim foi acompanhado por Wang Huning, o quarto nome do poder chinês, que levou os cumprimentos de Xi Jinping, e visitou um memorial da Guerra da Coreia e uma fábrica de carros.",
+   "leitura": "A visita caiu na véspera do aniversário da entrada da China na Guerra da Coreia. Desde 2022, a Coreia do Norte se aproximou da Rússia; a ponte aberta e a visita mostram Pequim recuperando espaço (provável).",
+   "confianca": "provavel",
+   "emJogo": [
+    "Kim Jong Un",
+    "Wang Huning",
+    "Xi Jinping"
+   ],
+   "fontes": [
+    {
+     "nome": "Al Jazeera (com AFP e Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says",
+     "data": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "id": "israel-protesto-antes-da-eleicao",
+   "data": "2026-10-24",
+   "tabuleiro": "geopolitica",
+   "manchete": "Milhares protestam contra Netanyahu em Tel Aviv a três dias da eleição em Israel e pedem uma investigação independente do 7 de outubro",
+   "narrativa": "O Conselho de Outubro, grupo de famílias de reféns levados para Gaza, pede uma comissão de Estado independente sobre as falhas de segurança antes do ataque do Hamas de 7 de outubro de 2023.",
+   "movimento": "No sábado 24, segundo a Al Jazeera, milhares se reuniram na Praça dos Reféns, em Tel Aviv. O governo recusou a comissão independente e ofereceu uma com metade dos nomes escolhidos pelo governo e metade pela oposição; a oposição disse que vai boicotar. Gadi Eisenkot, principal rival de Netanyahu, e Yair Golan estavam lá. A eleição é na terça.",
+   "leitura": "Segundo a Al Jazeera, o bloco de Netanyahu e o de Eisenkot estão perto, e nenhum dos dois deve ter maioria. Quem controla a comissão pode controlar a culpa pelo 7 de outubro, o que talvez pese no voto (hipótese).",
+   "confianca": "provavel",
+   "emJogo": [
+    "Benjamin Netanyahu",
+    "Gadi Eisenkot",
+    "Yair Golan",
+    "Conselho de Outubro"
+   ],
+   "fontes": [
+    {
+     "nome": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election",
+     "data": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "id": "grok-gpt-escolhem-partido",
+   "data": "2026-10-24",
+   "tabuleiro": "maquinas",
+   "manchete": "Forçados a escolher, o Grok indica o republicano em 92% das respostas e o GPT o democrata em 97%, mostra estudo",
+   "narrativa": "O estúdio Convovo, liderado pelo professor Tapan Parikh, da Universidade Cornell, diz que os modelos por trás dos chatbots já têm lado. A OpenAI diz que o teste usou a interface para programadores, com uma pergunta que exige uma escolha, e não o aplicativo.",
+   "movimento": "Segundo o TechCrunch, os pesquisadores pediram aos dois modelos, pela interface para programadores, um nome em quase 500 disputas das eleições de meio de mandato dos EUA. O Grok 4.7 indicou o republicano em 92% das respostas; o GPT-6.1 Sol, o democrata em 97%. Os dois concordaram em menos de 10% das disputas. Os aplicativos se recusaram a responder. Cada pedido ao Grok levava cerca de 1.240 tokens de texto que os pesquisadores não escreveram, que Parikh chamou de possíveis \"instruções escondidas\". Sem a busca na internet, o GPT continuou democrata e o Grok quase só se recusou a escolher; para Parikh, o viés do GPT está nos pesos do modelo.",
+   "leitura": "Segundo uma pesquisa do Pew citada na matéria, 8% dos americanos usam chatbots para se informar sobre eleições. O estudo saiu a dias das eleições americanas e no dia da eleição brasileira. Leitura contrária (hipótese): a pergunta que obriga a escolher força um resultado que o uso real não mostraria, como diz a OpenAI.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente da OpenAI e da SpaceXAI, e também um modelo que poderia ser testado do mesmo jeito. Leia com desconfiança.",
+   "emJogo": [
+    "OpenAI",
+    "SpaceXAI",
+    "Convovo",
+    "Tapan Parikh"
+   ],
+   "fontes": [
+    {
+     "nome": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+     "data": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "id": "openai-30-bilhoes",
+   "data": "2026-10-22",
+   "tabuleiro": "maquinas",
+   "manchete": "A OpenAI negocia até 30 bilhões de dólares numa avaliação de 1,25 trilhão, com dinheiro dos Emirados, em vez de ir logo à bolsa",
+   "narrativa": "A OpenAI não comentou. Os termos ainda estão em negociação e podem mudar, segundo os dois veículos que deram a notícia.",
+   "movimento": "Segundo o TechCrunch, que cita a CNBC, a Coatue lidera a rodada, com investidores dos Emirados Árabes Unidos; o dinheiro dos Emirados pode estar ligado a um acordo de mais capacidade de computação. Em março, a OpenAI foi avaliada em 852 bilhões depois do aporte. Ela pediu em segredo a abertura de capital em junho, mas agora busca a rodada privada.",
+   "leitura": "A notícia volta da edição nº 5, quando os sócios da Anthropic contavam o lucro antes da bolsa: as duas maiores rivais disputam o mesmo dinheiro ao mesmo tempo. A Anthropic, segundo a mesma matéria, busca de 1,5 a 2 trilhões na bolsa. Seguir o dinheiro (provável): o vazamento do valor ajuda a OpenAI a marcar preço antes de a Anthropic abrir o capital.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, que disputa com a OpenAI o mesmo dinheiro e a mesma bolsa. Leia com desconfiança redobrada.",
+   "emJogo": [
+    "OpenAI",
+    "Coatue",
+    "Emirados Árabes Unidos",
+    "Anthropic"
+   ],
+   "fontes": [
+    {
+     "nome": "TechCrunch (citando a CNBC)",
+     "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+     "data": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "id": "crespo-filipe-luis-resultados",
+   "data": "2026-10-22",
+   "tabuleiro": "bola",
+   "manchete": "Os técnicos: o Atlas de Crespo perde de 5 a 2 para o América; o Monaco de Filipe Luís vence o Fribourg por 3 a 0",
+   "narrativa": "Crespo disse que o resultado foi justo, mas largo demais pelo que o Atlas criou, e que segue sonhando com a fase final.",
+   "movimento": "Na quarta 21, pela 13ª rodada do Apertura do México, o Atlas, de Hernán Crespo, perdeu de 5 a 2 para o América, segundo a Fox Sports México. Na quinta 22, pela Liga Conferência da Europa, o Monaco, de Filipe Luís, venceu o Fribourg por 3 a 0 no Stade Louis-II, com gols de Brunner, Camara e Ansu Fati, segundo o Morning Foot.",
+   "leitura": "Cada placar tem uma fonte só.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Hernán Crespo",
+    "Atlas",
+    "Filipe Luís",
+    "AS Monaco"
+   ],
+   "fontes": [
+    {
+     "nome": "Fox Sports México",
+     "url": "https://www.foxsports.com.mx/2026/10/21/no-nos-quitaran-la-posibilidad-de-sonar-crespo-apunta-a-la-liguilla-tras-derrota-del-atlas/",
+     "data": "2026-10-21"
+    },
+    {
+     "nome": "Morning Foot",
+     "url": "https://morning-foot.com/ligue-1/monaco/as-monaco-fribourg-filipe-luis-victoire/",
+     "data": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "id": "datafolha-vespera-51-49",
+   "data": "2026-10-24",
+   "tabuleiro": "geopolitica",
+   "manchete": "Na véspera, o último Datafolha dá Flávio com 51% e Lula com 49% dos votos válidos, empate dentro da margem",
+   "narrativa": "O Datafolha divulgou no sábado 24 a última pesquisa antes do segundo turno. Os veículos que a publicaram falam em empate técnico.",
+   "movimento": "Segundo a Gazeta do Povo, o Datafolha entrevistou 4.050 pessoas em 23 e 24 de outubro, com margem de dois pontos, e registrou a pesquisa no TSE. Flávio Bolsonaro tem 51% dos votos válidos e Lula 49%, segundo a Gazeta do Povo e a BNews. Nos votos totais, segundo a BNews, Flávio tem 48% e Lula 47%. Numa conta que considera quem tende a ir votar, Flávio tem 52% e Lula 48%, segundo a BNews. Na pesquisa de quinta 22, os dois estavam com 50%.",
+   "leitura": "A diferença de dois pontos cabe na margem de erro: a pesquisa não aponta um vencedor. Flávio entra no dia da votação com o número a favor, o que pode animar o eleitor dele a ir à urna (hipótese). Leitura contrária (hipótese): a conta do comparecimento depende de suposições do instituto, e um erro nela pode virar o resultado.",
+   "confianca": "fato",
+   "acrescentada": "04h",
+   "emJogo": [
+    "Flávio Bolsonaro",
+    "Luiz Inácio Lula da Silva",
+    "Datafolha"
+   ],
+   "fontes": [
+    {
+     "nome": "Gazeta do Povo",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-outubro-2026-vespera-segundo-turno/",
+     "data": "2026-10-24"
+    },
+    {
+     "nome": "BNews",
+     "url": "https://www.bnewssaopaulo.com.br/noticias/politica/na-vespera-do-2-turno-flavio-tem-51-e-lula-49-dos-votos-validos-diz-datafolha.html",
+     "data": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "id": "sao-paulo-empata-mirassol",
+   "data": "2026-10-24",
+   "tabuleiro": "bola",
+   "manchete": "O São Paulo empata com o Mirassol por 1 a 1 no Maião e fica em 9º, com 43 pontos",
+   "narrativa": "A CNN Brasil chamou a partida de jogo morno, com o São Paulo freando uma sequência de vitórias.",
+   "movimento": "No sábado 24, pela 32ª rodada do Brasileirão, o Mirassol abriu o placar no começo do jogo com um gol contra do goleiro Rafael, depois de uma cabeçada de Neto Moura, segundo a CNN Brasil. Pedro Lima empatou aos 38 do primeiro tempo, depois de um passe de Bobadilla, segundo a CNN. O placar final de 1 a 1 está na CNN e na VAVEL. O São Paulo fica em 9º, com 43 pontos, e na quarta 28 enfrenta o Bahia na Arena Fonte Nova, em Salvador, segundo a CNN.",
+   "leitura": "O São Paulo parou de subir na tabela a seis rodadas do fim.",
+   "confianca": "fato",
+   "acrescentada": "04h",
+   "emJogo": [
+    "São Paulo F.C.",
+    "Mirassol",
+    "Pedro Lima",
+    "Rafael"
+   ],
+   "fontes": [
+    {
+     "nome": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/em-jogo-morno-sao-paulo-empata-com-mirassol-e-freia-sequencia-de-vitorias/",
+     "data": "2026-10-24"
+    },
+    {
+     "nome": "VAVEL Brasil",
+     "url": "https://www.vavel.com/br/futebol/2026/10/24/1276642-mirassol-sao-paulo-ao-vivo.html",
+     "data": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "id": "capao-morada-do-miuan",
+   "data": "2026-10-24",
+   "tabuleiro": "capao",
+   "manchete": "O portal apresenta a Morada do Miuan, turismo comunitário com o café de uma família nativa do Capão",
+   "narrativa": "O Portal Vale do Capão diz que o turismo também pode ser um jeito de conhecer as histórias e os modos de vida de quem construiu o vale.",
+   "movimento": "Segundo o portal, a Morada do Miuan é uma propriedade de agricultura familiar. Mara Santos, que estudou Agronomia, conduz a vivência, e a mãe dela, Dona Juceli, torra os grãos. A visita dura de três a quatro horas, começa nos cafezais e passa pela colheita, secagem, pilagem, torra e moagem, e termina com o café feito pelo grupo. O texto não traz preço, endereço nem datas fixas.",
+   "leitura": "Mais uma experiência de turismo de base comunitária no vale, do tipo que o CapON poderia mostrar aos visitantes. A fonte é uma só; por isso, provável.",
+   "confianca": "provavel",
+   "acrescentada": "04h",
+   "emJogo": [
+    "Morada do Miuan",
+    "Mara Santos",
+    "Dona Juceli"
+   ],
+   "fontes": [
+    {
+     "nome": "Portal Vale do Capão",
+     "url": "https://portalvaledocapao.com.br/morada-do-miuan-turismo-comunitario-no-vale-do-capao/",
+     "data": "2026-10-24"
+    }
+   ]
+  }
+ ]
+}
