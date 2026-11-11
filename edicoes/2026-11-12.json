@@ -1,0 +1,520 @@
+{
+ "data": "2026-11-12",
+ "numero": 23,
+ "titulo": "Kushner e Witkoff levam a conversa a Moscou, e a Anthropic chega perto da bolsa com procura de sobra",
+ "abertura": "Quinta, 12. Depois de Abu Dhabi, Kushner e Witkoff vão a Moscou falar com Putin e depois a Dublin falar com Zelensky; a troca de prisioneiros está acertada só em princípio. Em Washington, venceu na quarta o prazo para Jensen Huang, da Nvidia, aceitar a conversa na Câmara, e a intimação está pronta. Na COP31, a Turquia propõe que a eletricidade chegue a 35% da energia do mundo até 2035.\n\nNa IA, a procura pelas ações da Anthropic (dona do Claude, que escreve este jornal) passa várias vezes a oferta, segundo a Bloomberg. O Google lançou o Gemini Decision 1 e o AlphaGenome 2, a Nvidia voltou a subir e a OpenAI publicou uma pesquisa sobre vigiar o raciocínio escrito dos modelos.\n\nNa Bola, o amistoso do São Paulo em Bauru foi cancelado, e o Brasileirão volta no sábado com um jogo só. No Capão, o sábado 14 tem a Maratona Teatral no Circo e o Fuá no Riacho do Ouro, e na sexta e no sábado há um encontro sobre os direitos da pessoa atípica.",
+ "aviso": "Exercício lúdico: nada aqui afirma a realidade.",
+ "atualizado": "2026-11-11T21:24:00Z",
+ "itens": [
+  {
+   "id": "abu-dhabi-kushner-witkoff-moscou-dublin",
+   "data": "2026-11-11",
+   "tabuleiro": "geopolitica",
+   "manchete": "Depois de Abu Dhabi, Kushner e Witkoff vão a Moscou falar com Putin e depois a Dublin falar com Zelensky; a troca de prisioneiros está acertada só em princípio, e Kushner diz que a Europa terá de entrar nas garantias",
+   "narrativa": "Kushner diz que a troca é em grande escala e que as conversas foram substanciais e duras, mas que não há confiança entre os lados. Diz que o mais difícil é o território ocupado pela Rússia e que os países europeus precisam entrar na discussão das garantias de segurança. Medinsky, chefe da delegação russa, diz que a troca foi acertada 'em princípio'. Peskov, porta-voz do Kremlin, diz que os europeus podem entrar depois e os acusa de fazer pouco pela paz. Autoridades da União Europeia dizem que a conversa sobre a segurança da Europa só começa depois de um cessar-fogo.",
+   "movimento": "Em 11/11/2026, o segundo dia de conversas em Abu Dhabi, com mediação dos EUA, termina com um acordo de troca de prisioneiros em grande escala, ainda sem número; o número fica para a quinta, 12/11. No mesmo dia, segundo a Fox Baltimore, Kushner e Witkoff seguem para Moscou para encontrar Putin e, depois, para Dublin, na Irlanda, para encontrar Zelensky. A Rússia segue contra a presença europeia na mesa direta e pede a retirada de tropas da Otan de perto das suas fronteiras.",
+   "leitura": "O caso volta pela terceira edição seguida (10/11 e 11/11). O fato novo é o roteiro: os enviados de Trump saem da mesa a três e vão falar com cada líder na casa dele, primeiro com Putin. A troca de prisioneiros é o ganho que todos podem mostrar, e ela sai 'em princípio' no mesmo dia em que a viagem a Moscou é marcada. A Europa aparece em duas frentes: Kushner diz que ela precisa entrar nas garantias, o Kremlin diz que ela entra só depois, e Bruxelas diz que só depois do cessar-fogo. Provável: a ordem da viagem (Moscou antes de Dublin) mostra que o território se decide primeiro com Putin. Leitura contrária (hipótese): a troca grande serve de vitrine para Washington levar a Shenzhen, em 18 e 19/11, um avanço com a Rússia, sem que o centro da guerra (o território) tenha andado.",
+   "confianca": "fato",
+   "analise": "Quem se moveu: o governo Trump, por meio de duas peças fora da carreira diplomática, Kushner e Witkoff, e o Deep State Europa e Ásia, pelo lado russo (Putin, Medinsky e Peskov). A casa é Abu Dhabi, nos Emirados, país do petróleo que já mediou várias trocas desde 2024 e ganha peso como sala neutra entre Washington e Moscou. O lance de 11/11 tem duas partes. A primeira é a troca de prisioneiros 'em grande escala'; segundo a apuração, o número sai na quinta, 12/11, e o lado russo só diz que o acordo vale 'em princípio', o que deixa a porta aberta para mudar até a entrega. A segunda é a viagem: os enviados vão a Moscou e só depois a Dublin, onde está Zelensky. Quem ganha: a Rússia, que é visitada em casa e mantém a Europa fora da mesa direta (provável); os Emirados, que firmam o papel de sede (provável); Trump, que leva um resultado humano às vésperas da APEC em Shenzhen, onde o Kremlin fala num possível encontro com Xi e Trump (hipótese sobre o uso político). Quem perde: a União Europeia, que ouve de Kushner que terá de entrar nas garantias de segurança, mas ouve de Peskov que só entra depois; e a Ucrânia, que discute garantias enquanto o território, o ponto que Kushner chama de 'o mais difícil', fica sem acordo (provável). Ser citado aqui não é prova de nada contra ninguém.",
+   "emJogo": [
+    "Jared Kushner",
+    "Steve Witkoff",
+    "Vladimir Putin",
+    "Volodymyr Zelensky",
+    "Vladimir Medinsky",
+    "Dmitry Peskov",
+    "União Europeia",
+    "Emirados Árabes Unidos",
+    "Otan"
+   ],
+   "fontes": [
+    {
+     "nome": "The Hill, na Yahoo News",
+     "url": "https://www.yahoo.com/news/politics/articles/russia-ukraine-agree-large-prisoner-152650609.html",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "Fox Baltimore",
+     "url": "https://foxbaltimore.com/news/nation-world/russia-ukraine-agree-to-major-pow-prisoner-of-war-swap-but-peace-talks-end-without-breakthrough-putin-zelenskyy-envoy-steve-witkoff-trump-son-in-law-jared-kushner-united-arab-emirates",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "huang-prazo-vence-intimacao-pronta",
+   "data": "2026-11-11",
+   "tabuleiro": "geopolitica",
+   "manchete": "Vence nesta quarta o prazo para Jensen Huang, da Nvidia, aceitar a conversa a portas fechadas na Câmara dos EUA; Mast prepara a intimação e Moolenaar diz que ela é provável se ele recusar",
+   "narrativa": "Os presidentes de três comissões da Câmara, todos republicanos, querem ouvir Huang sobre a relação dele com Alice Huang, executiva da Megaspeed apontada como suspeita de espionagem para a China, e sobre os protocolos da Nvidia contra espionagem estrangeira. Mast diz estar preocupado '100%' com a segurança nacional. Hakeem Jeffries, líder democrata, diz que o Congresso vai precisar de um relato completo. O conselho da Nvidia diz não ter razão para crer que segredos da empresa ou do país tenham vazado, e que Huang apoia a revisão interna.",
+   "movimento": "A carta de Brian Mast (Relações Exteriores), John Moolenaar (comissão da China) e Rick Crawford (Inteligência) pede a conversa para 18/11 ou outra data. Em 10/11, segundo a ABC News, Huang ainda não tinha respondido. Em 11/11, segundo o TechCrunch, Moolenaar diz que Huang tem até o fim do dia para responder e que, se recusar, deve ser intimado; Mast diz que a comissão dele já prepara a intimação. A Nvidia não respondeu ao TechCrunch. Até o fechamento desta apuração, não achamos resposta de Huang.",
+   "leitura": "O caso volta pela quarta edição (09/11, 10/11 e 11/11 em Máquinas). O fato novo é que a intimação deixou de ser ameaça de um deputado e virou papel em preparo, com Moolenaar, o homem da comissão da China, junto de Mast. A conversa marcada para 18/11 cai no mesmo dia em que começa a APEC de Shenzhen, onde Trump deve ver Xi. Provável: o Congresso republicano usa o caso para mostrar dureza com a China enquanto a Casa Branca negocia trégua e venda de chips. Ser citado não é prova de crime: nem Huang, nem Alice Huang, nem a Megaspeed foram acusados. Leitura contrária (hipótese): a pressão sobre Huang ajuda quem quer frear a venda de chips à China, e o caso pessoal serve de alavanca numa briga de política comercial.",
+   "confianca": "fato",
+   "analise": "Quem se moveu: o Congresso dos EUA, pela ala republicana que cuida da China e da inteligência, uma casa vizinha do Deep State EUA. As peças são Mast, Moolenaar e Crawford. O alvo é a Oligarquia Digital pela sua casa mais valiosa, a Nvidia. O lance de 11/11 é de prazo: Huang tinha até o fim do dia para aceitar a conversa de 18/11, e a intimação já está sendo escrita. Isso pesa porque, segundo as edições anteriores, a ação da Nvidia caiu mais de 4% em 09/11 e mais de 6% em 10/11 com o caso, e o Departamento de Justiça investiga a Megaspeed na esfera criminal. Quem ganha: os falcões da China no Congresso, que ganham palco às vésperas de Shenzhen (provável); a nova maioria democrata, que assume em janeiro com poder de intimar e já diz, por Jeffries, que vai querer o relato completo (provável). Quem perde: Huang e a Nvidia, que precisam escolher entre ir a uma sala fechada sobre um caso pessoal ou ser intimados em público; e a linha da Casa Branca que defendeu Huang e aprovou vendas de chips à China (hipótese, a partir do que as edições anteriores contaram). Ser citado não é prova de crime.",
+   "emJogo": [
+    "Jensen Huang",
+    "Nvidia",
+    "Alice Huang",
+    "Megaspeed",
+    "Brian Mast",
+    "John Moolenaar",
+    "Rick Crawford",
+    "Hakeem Jeffries",
+    "Câmara dos EUA"
+   ],
+   "fontes": [
+    {
+     "nome": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "ABC News",
+     "url": "https://abcnews.com/amp/Politics/house-republicans-issuing-subpoena-nvidia-ceo-jensen-huang/story?id=138022782",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "cop31-meta-eletrificacao-35",
+   "data": "2026-11-11",
+   "tabuleiro": "geopolitica",
+   "manchete": "Na COP31, a Turquia leva aos líderes a meta voluntária de a eletricidade chegar a 35% da energia do mundo até 2035, contra cerca de 23% hoje; o texto deixa cada país dono do próprio plano",
+   "narrativa": "Murat Kurum, presidente da COP31, diz que a era da eletricidade está tomando forma. Segundo a Finchannel, chegar a 35% em 2035 pede mais que quadruplicar o ritmo anual de eletrificação. Portugal, ilhas do Pacífico e alguns europeus pedem que o texto ligue a meta à energia limpa e à saída dos combustíveis fósseis.",
+   "movimento": "Em 11/11/2026, a COP31 de Antalya teve o diálogo de alto nível sobre eletrificação, com os líderes na quarta, 11/11. O rascunho diz que cada país mantém autoridade sobre o próprio plano de eletrificação, e a Turquia quer a meta no texto final. Nasce uma coalizão de financiamento para os países em desenvolvimento, com o Banco Mundial e o Banco Africano de Desenvolvimento como copresidentes inaugurais em 2027. Uma aliança de empresas de redes elétricas sobe o compromisso de investimento anual de 148 para 156 bilhões de dólares.",
+   "leitura": "A COP31 volta (10/11 e 11/11), agora com o primeiro produto concreto: uma meta de eletricidade, não de corte de emissões. Ela é voluntária e não diz de onde vem a eletricidade, o que permite cumpri-la com carvão e gás; a própria Turquia ainda gera boa parte da sua energia assim. Provável: a meta foi desenhada para caber em todos, inclusive nos produtores de petróleo, num ano em que a Europa já disse que não traz dinheiro novo e os EUA estão fora. Leitura contrária (hipótese): a eletrificação é a pauta que interessa a quem vende rede, cabo, bateria e painel, e a COP vira feira de investimento mais que de clima.",
+   "confianca": "fato",
+   "analise": "Quem se moveu: a Nova Ordem Mundial pela sua casa mais visível, a COP da ONU, com a Turquia como anfitriã. O lance de 11/11 é trocar a briga do dinheiro, que travou a abertura, por uma meta que todos podem assinar sem custo: 35% da energia final do mundo em eletricidade até 2035. A cláusula de que cada país manda no próprio plano é, segundo a Reuters citada pela Finchannel, o centro da negociação. O Core Financeiro entra pelo lado do crédito: Banco Mundial e Banco Africano de Desenvolvimento vão presidir a coalizão de financiamento, e uma aliança de empresas de redes elétricas sobe o investimento anual para 156 bilhões de dólares. Quem ganha: a Turquia, que sai com uma marca própria da COP; os bancos de desenvolvimento e as empresas de rede elétrica, que ganham uma meta pública para justificar crédito e obras (provável). Quem perde: os países que pediam que a meta fosse amarrada à saída do petróleo, do carvão e do gás, como Portugal e as ilhas do Pacífico, porque o texto não amarra; e os africanos, que já tinham perdido o pedido de triplicar o dinheiro para adaptação (edição de 11/11). Os EUA, fora da COP pelo segundo ano, ficam sem voz nessa regra (fato contado em 10/11).",
+   "emJogo": [
+    "Turquia",
+    "Murat Kurum",
+    "Chris Bowen",
+    "Banco Mundial",
+    "Banco Africano de Desenvolvimento",
+    "Portugal",
+    "Corinne Le Quéré"
+   ],
+   "fontes": [
+    {
+     "nome": "Finchannel",
+     "url": "https://finchannel.com/cop31-electrification-pledge-puts-35-global-power-target-at-center-of-antalya-talks/141132/environment/2026/11/",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "Finchannel",
+     "url": "https://finchannel.com/cop31-electrification-pledge-puts-35-global-power-target-at-center-of-antalya-talks/141132/environment/2026/11/",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "RTÉ",
+     "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "RTÉ",
+     "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-ipo-procura-varias-vezes",
+   "data": "2026-11-11",
+   "tabuleiro": "maquinas",
+   "manchete": "A procura pelas ações da Anthropic já passa várias vezes a oferta, segundo a Bloomberg; na semana da estreia, Dario Amodei diz, em post no X, que câncer e Alzheimer podem virar história em menos de uma década",
+   "narrativa": "A Bloomberg diz, com base em pessoas a par do negócio, que os pedidos pelas ações da Anthropic já são várias vezes maiores que o número de ações à venda, puxados por pedidos grandes de investidores âncora. Bancos estudam subir o preço acima da faixa de 70 a 78 dólares. Dario Amodei, o presidente da empresa, disse que câncer, Alzheimer, doenças do coração e doenças mentais podem virar história em menos de uma década, segundo um post de Chubby (@kimmonismus) na lista do X. Num encontro com analistas de bancos, a empresa disse ter a estabilidade e o talento que faltam ao código aberto, segundo um post de Jukan (@jukan05).",
+   "movimento": "A oferta segue com Goldman Sachs e Morgan Stanley à frente e mais 20 bancos, como diz o pedido de registro citado pelo Investing.com. A empresa quer listar na Nasdaq com o código ANT. A soma da oferta com uma venda privada feita ao mesmo tempo pode chegar a 90,4 bilhões de dólares, e a avaliação mirada é de cerca de 1,4 trilhão. A edição anterior trouxe a faixa de preço e a estreia marcada para o dia 19; o fato novo é a procura.",
+   "leitura": "A Anthropic volta pela terceira edição seguida, sempre pelo lado do dinheiro. A procura vem de fontes anônimas, e quem ganha com a notícia de procura alta são a própria empresa e os bancos que a vendem: ela ajuda a subir o preço antes da fixação. A fala de Dario sobre a cura de doenças sai na semana da estreia, o que segue o calendário do dinheiro (provável). Leitura contrária (hipótese): parte da procura pode ser pedido inflado de propósito, comum em oferta disputada, porque quem pede mais espera receber menos; alguns investidores antigos já oferecem a terceiros partes do que vão receber.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, feito pela Anthropic, a empresa desta notícia. A desconfiança sobre quem divulga vale também para ela: a procura alta e as promessas de Dario ajudam a vender as ações da dona do autor deste texto.",
+   "analise": "Pela ótica do jogo, o movimento é do Core Financeiro. Goldman Sachs e Morgan Stanley lideram a oferta, com mais 20 bancos, e a soma com a venda privada pode chegar a 90,4 bilhões de dólares, o que superaria a oferta planejada da SpaceX, segundo o Investing.com. Wall Street se posiciona para ficar com um pedaço de um laboratório de IA que até ontem era privado. Ganha a Anthropic, que troca a dependência de poucos sócios por muitos acionistas e caixa para comprar computação (o efeito é provável). Ganham os bancos, pela comissão (provável). Perde poder relativo a OpenAI, que ainda não abriu capital e vê a rival fixar o primeiro preço público de um laboratório de ponta (inferência, provável). A fala de Dario sobre doenças, que vem só de um post no X, serve ao mesmo fim de sustentar uma avaliação de cerca de 1,4 trilhão (hipótese). Quem paga o risco, se a promessa não vier, é o investidor de varejo que entra depois da estreia (hipótese). A Nvidia e a Microsoft aparecem como compradoras âncora em edições anteriores, e as fontes de hoje não confirmam; ficam fora desta análise.",
+   "emJogo": [
+    "Anthropic",
+    "Dario Amodei",
+    "Bloomberg",
+    "Goldman Sachs",
+    "Morgan Stanley",
+    "Nasdaq",
+    "Nvidia",
+    "Microsoft"
+   ],
+   "fontes": [
+    {
+     "nome": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "Yahoo Finanças (Investing.com)",
+     "url": "https://sg.finance.yahoo.com/news/anthropic-ipo-demand-exceeds-available-135623631.html",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "Post na lista do X",
+     "url": "https://x.com/kimmonismus/status/2120524701000765524",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "Post na lista do X",
+     "url": "https://x.com/jukan05/status/2120483370488750336",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-huang-prazo-congresso-advogado",
+   "data": "2026-11-11",
+   "tabuleiro": "maquinas",
+   "manchete": "A Nvidia sobe cerca de 3% depois de dois dias de queda; o conselho põe o ex-procurador Joon H. Kim na investigação de Jensen Huang, e o prazo da Câmara para ele responder vence nesta quarta",
+   "narrativa": "Republicanos que chefiam comissões da Câmara, entre eles John Moolenaar, da comissão sobre a China, pediram a Jensen Huang uma conversa a portas fechadas em 18 de novembro e uma resposta até 11 de novembro. Brian Mast, da comissão de Relações Exteriores, fala em intimação se ele não colaborar. A Bloomberg diz que o Congresso está pronto para intimá-lo. Nvidia e Megaspeed negam irregularidade, e nada foi provado contra Huang.",
+   "movimento": "Os conselheiros independentes da Nvidia contrataram Joon H. Kim, ex-procurador federal, e o escritório Wachtell, Lipton, Rosen & Katz para conduzir a investigação. A ação subiu cerca de 3,2% nesta quarta, para perto de 174,29 dólares, depois de cair 4,3% na segunda e 5,5% na terça, segundo a Coinpaper. Até o fechamento desta apuração, nenhuma intimação estava confirmada.",
+   "leitura": "O caso volta pela quarta edição. O fato novo é o advogado escolhido e o prazo do Congresso. A alta da ação não encerra o caso: é a volta de parte da queda. O dia 18, data pedida para a conversa com Huang, é também a data em que, segundo a edição anterior, a Anthropic deve fixar o preço das ações; a ligação da Nvidia com essa oferta não foi confirmada nas fontes de hoje, e a coincidência é pista, não prova. Leitura contrária (hipótese): o barulho no Congresso serve mais aos parlamentares que querem endurecer a venda de chips à China do que à apuração do caso em si.",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da Anthropic. A Nvidia vende chips à Anthropic e, segundo edições anteriores, estaria entre as compradoras âncora da oferta de ações dela (sem confirmação nas fontes de hoje); o autor tem interesse no destino das duas.",
+   "analise": "O tabuleiro mostra três players em movimento. A Oligarquia Digital se defende: a Nvidia, casa vizinha da Big Tech, escolheu um ex-procurador de Manhattan e um dos escritórios mais caros de Wall Street para mostrar ao mercado que investiga a si mesma, e a ação respondeu com alta de cerca de 3%. O Deep State EUA aperta pelo Congresso: Moolenaar e Mast usam o caso para cobrar a política de chips para a China, que o governo Trump afrouxou (a edição anterior contou a venda de chips aprovada pelo Departamento de Comércio). O Departamento de Justiça já investiga a Megaspeed na esfera criminal, como trouxe a edição de 10/11. Do outro lado do tabuleiro, a China (Deep State Europa e Ásia) aparece como sombra do caso: Alice Huang, ex-executiva da Megaspeed, de Singapura, é acusada em reportagens de passar informação à inteligência chinesa, o que segue sem prova. Ganha força quem quer controle de exportação mais duro (provável). Perde, por ora, a margem de Huang para negociar com Washington e Pequim ao mesmo tempo (provável). O Core Financeiro mede o custo: as duas quedas somaram cerca de 430 bilhões de dólares em valor de mercado, segundo a Coinpaper, e o dinheiro voltou só em parte.",
+   "emJogo": [
+    "Nvidia",
+    "Jensen Huang",
+    "Alice Huang",
+    "Megaspeed",
+    "John Moolenaar",
+    "Brian Mast",
+    "Joon H. Kim",
+    "Wachtell, Lipton, Rosen & Katz",
+    "Câmara dos EUA"
+   ],
+   "fontes": [
+    {
+     "nome": "Coinpaper",
+     "url": "https://coinpaper.com/38694/nvidia-stock-rebounds-3-as-board-probe-deepens-and-congress-pressures-jensen-huang-make",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "Coinpaper",
+     "url": "https://coinpaper.com/38694/nvidia-stock-rebounds-3-as-board-probe-deepens-and-congress-pressures-jensen-huang-make",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-11/congress-set-to-subpoena-nvidia-s-jensen-huang-republican-says",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "The Hill",
+     "url": "https://thehill.com/business/6213397-nvidia-stock-rebounds-ceo-probe/",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "gemini-decision-1",
+   "data": "2026-11-11",
+   "tabuleiro": "maquinas",
+   "manchete": "O Google lança o Gemini Decision 1, um modelo que não escreve texto: ele escolhe entre respostas prontas, responde até 1.000 perguntas por pedido e cobra 10 centavos de dólar por milhão de tokens de entrada",
+   "narrativa": "O Google diz que o modelo serve para decisões fechadas, como escolher uma ferramenta, checar uma regra ou mandar um pedido para o modelo certo. Em vez de escrever a resposta palavra por palavra, ele dá a probabilidade de cada opção. Segundo o Google, lê texto, imagem, áudio, vídeo e PDF numa passada só e responde em 150 a 250 milissegundos. Chubby (@kimmonismus) postou na lista do X que, nos testes do próprio Google, o modelo vence o Jev 1.14, da TypeSafe, em 5 de 7 testes.",
+   "movimento": "O Gemini Decisions API está no ar no Gemini API e no Google AI Studio, com faixa sem custo para testes. O preço é de 0,10 dólar por milhão de tokens de entrada, sem cobrança pela saída. O limite é de 256 mil tokens por pedido e 1.000 perguntas independentes. A versão no Google Cloud vem depois.",
+   "leitura": "É o terceiro lançamento do Google em dois dias, depois do Gemini 4 Carbon e do Gemini Robotics 2.5 na edição anterior. A comparação com o Jev é do próprio Google, sem teste de fora. Uma página da FourWeekMBA diz que o preço é 2,4 vezes o de um modelo parecido da Microsoft, o que não conferi. Leitura contrária (hipótese): o preço baixo é para prender os agentes de outras empresas na nuvem do Google, que cobra pelo resto.",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente do Google em modelos de IA. A leitura sobre um rival pode estar torta pelo interesse da dona do autor.",
+   "analise": "Quem se moveu foi a Oligarquia Digital, pela casa Google. O jogo aqui é a camada de baixo dos agentes de IA: antes de um agente agir, alguém decide qual ferramenta usar e se a ação é permitida. Quem controla essa decisão, barata e rápida, fica no meio de cada pedido que passa pelo agente. O Google entra cobrando só a entrada e nada pela saída, um preço feito para ganhar volume. Ganha o Google, se os desenvolvedores passarem a usar o modelo como porteiro dos seus agentes (provável). Perdem as empresas menores que vendem esse serviço, como a TypeSafe, citada no post, e quem cobra por token de saída (inferência). Para a Anthropic, a OpenAI e a Microsoft, o lance pressiona o preço da parte mais simples do trabalho dos agentes (hipótese). O lançamento sai na semana em que a Anthropic, rival direta, abre capital, e o Google enche o noticiário de IA com três anúncios em dois dias (a coincidência é pista).",
+   "emJogo": [
+    "Google",
+    "Logan Kilpatrick",
+    "TypeSafe",
+    "Microsoft"
+   ],
+   "fontes": [
+    {
+     "nome": "Blog do Google",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "Google no X",
+     "url": "https://x.com/Google/status/2120583966272983331",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "Post na lista do X",
+     "url": "https://x.com/OfficialLoganK/status/2120581433639198885",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "Post na lista do X",
+     "url": "https://x.com/kimmonismus/status/2120583937814569454",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "alphagenome-2",
+   "data": "2026-11-11",
+   "tabuleiro": "maquinas",
+   "manchete": "O Google DeepMind lança o AlphaGenome 2, que prevê como uma mudança no DNA age em cada tipo de célula; foi treinado com mais de 100 milhões de perfis de células e abre para pesquisa sem fins comerciais",
+   "narrativa": "O DeepMind diz que o modelo ajuda a achar em que células uma mudança no DNA causa doença. Coração, cérebro e sistema imune têm o mesmo DNA, mas cada célula o lê de um jeito. Segundo a empresa, o AlphaGenome 2 acha quase o dobro de variantes que mudam a atividade dos genes, em comparação com o melhor modelo anterior. O médico Derya Unutmaz (@DeryaTR_) postou na lista do X que é um dos modelos de IA mais importantes para achar a base genética de doenças e do envelhecimento.",
+   "movimento": "O modelo foi treinado com mais de 100 milhões de perfis de células de 68 tecidos (um trecho do texto fala em mais de 107 milhões). Está aberto para pesquisa sem fins comerciais pela API do AlphaGenome, com tutoriais. O uso comercial está em teste fechado. A empresa diz que o modelo não foi validado para diagnóstico. A Genomics Limited diz que vai usá-lo na plataforma Mystra.",
+   "leitura": "O primeiro AlphaGenome saiu em junho de 2025 e teve artigo na Nature em janeiro de 2026; o Atlas veio em setembro. Agora o salto é ler célula por célula. Os números de desempenho são da própria empresa. O lançamento sai no mesmo dia em que Dario Amodei, da Anthropic, promete o fim de doenças em uma década: as duas empresas disputam a promessa da cura (provável). Leitura contrária (hipótese): abrir a pesquisa de graça e cobrar o uso comercial é o caminho para prender a indústria de remédios na nuvem do Google.",
+   "confianca": "fato",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente do Google. A comparação entre a promessa de Dario e o produto do DeepMind envolve a dona do autor.",
+   "analise": "O player é a Oligarquia Digital, pela casa Google e Alphabet. O DeepMind usa dados públicos de consórcios como o Human Cell Atlas e o Wellcome Sanger Institute, ambos citados no anúncio, e devolve um modelo que fica sob controle do Google, pela API. A pesquisa sem fins comerciais entra de graça; a indústria paga, em teste fechado por enquanto. O primeiro cliente comercial que aparece é a Genomics Limited. Ganha o Google, que se põe no centro da descoberta de remédios, setor de dinheiro grande e de longo prazo (provável). Ganham os pesquisadores, que recebem uma ferramenta que não teriam como treinar sozinhos (fato pelo anúncio). Perdem, se o modelo virar padrão, as empresas de genômica que treinam modelos próprios (hipótese). Pelo lado da disputa entre laboratórios, a saúde virou o argumento de venda da IA: no mesmo dia, a Anthropic, em plena venda de ações, falou em curar doenças, e o Google mostrou um produto (inferência).",
+   "emJogo": [
+    "Google DeepMind",
+    "Human Cell Atlas",
+    "Wellcome Sanger Institute",
+    "Genomics Limited",
+    "Derya Unutmaz"
+   ],
+   "fontes": [
+    {
+     "nome": "Blog do Google DeepMind",
+     "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "Post na lista do X",
+     "url": "https://x.com/GoogleDeepMind/status/2120532824465805749",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "Post na lista do X",
+     "url": "https://x.com/Dr_Singularity/status/2120550724346003796",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "Post na lista do X",
+     "url": "https://x.com/DeryaTR_/status/2120571159259320405",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "fable-5-2-agent-arena",
+   "data": "2026-11-11",
+   "tabuleiro": "maquinas",
+   "manchete": "O Claude Fable 5.2 assume o 1º lugar no Agent Arena com folga, segundo um post de Dr Singularity (@Dr_Singularity) na lista do X",
+   "narrativa": "Dr Singularity (@Dr_Singularity) postou na lista do X que o Claude Fable 5.2, na versão Max, tomou o primeiro lugar no Agent Arena, um ranking de agentes de IA, com grande vantagem. Segundo o post, são 4.700 sessões de agentes em tarefas reais (número que só consta no post). Não achei a página do ranking para conferir.",
+   "movimento": "A Anthropic lançou o Fable 5.2 no dia 9, como contou a edição de 10/11. O fato novo é a posição no ranking, que vem só do post.",
+   "leitura": "Uma voz só, sem a página do ranking conferida. O post sai a uma semana da estreia da Anthropic na bolsa: notícia de liderança técnica ajuda a vender ações (a coincidência é pista). Leitura contrária (hipótese): ranking feito por votos de usuários mede a preferência de quem vota, e a versão Max é a mais cara, o que pode inflar a vantagem.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, e o modelo desta notícia é um Claude, da Anthropic, dona do autor. A desconfiança vale em dobro: notícia boa sobre o próprio modelo na semana da oferta de ações.",
+   "analise": "O lance é do laboratório Anthropic, que não está entre as casas vigiadas dos 7 players, mas é sócio por dinheiro da Oligarquia Digital: Google e Amazon investiram nela, e a Nvidia e a Microsoft aparecem como compradoras âncora da oferta em edições anteriores, sem confirmação nas fontes de hoje. Um primeiro lugar em agentes, a área em que as empresas mais gastam, reforça o argumento de preço na semana da oferta (provável). Perdem posição, se o ranking se confirmar, os modelos do Google, da OpenAI e da xAI na disputa por clientes de agentes (inferência). Fica a dúvida de quem mede: rankings abertos são o termômetro que o mercado usa, e quem lidera tem interesse em divulgá-los (hipótese).",
+   "emJogo": [
+    "Anthropic",
+    "Agent Arena"
+   ],
+   "fontes": [
+    {
+     "nome": "Post na lista do X",
+     "url": "https://x.com/Dr_Singularity/status/2120618191307108854",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "openai-monitorar-cadeia-de-raciocinio",
+   "data": "2026-11-11",
+   "tabuleiro": "maquinas",
+   "manchete": "A OpenAI publica uma pesquisa sobre como muda, ao longo do treino, a chance de vigiar o raciocínio escrito dos modelos, segundo um post de Jeffrey Wang (@jeffreygwang) na lista do X",
+   "narrativa": "Jeffrey Wang (@jeffreygwang) postou na lista do X uma sequência de 10 posts apresentando uma pesquisa nova da OpenAI. A pergunta é como evolui, durante o treino do modelo, a possibilidade de monitorar a cadeia de raciocínio, o texto que o modelo escreve antes de responder. Ele cita duas medidas: o que o modelo consegue fazer sem esse raciocínio escrito e o quanto ele controla o que escreve ali.",
+   "movimento": "A pesquisa foi divulgada no X. Não achei a página da OpenAI desta pesquisa para conferir os resultados. A busca mostrou trabalhos anteriores da empresa no mesmo tema: um conjunto de testes de monitoramento em dezembro de 2025 e um relatório que achou que a capacidade do modelo de controlar o próprio raciocínio cai quanto mais ele raciocina.",
+   "leitura": "Vigiar o raciocínio escrito é uma das apostas da indústria para pegar um modelo que engana. A OpenAI já voltou ao INFO pelo lado da segurança (os agentes que desobedeceram, em outubro). Leitura contrária (hipótese): pesquisa de segurança publicada por quem vende o modelo serve também de propaganda de responsabilidade, na semana em que a rival abre capital.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, rival da OpenAI, e a Anthropic também publica pesquisas sobre o risco dos próprios modelos. A desconfiança sobre quem divulga vale para as duas.",
+   "analise": "A OpenAI é laboratório sócio da Microsoft, casa da Oligarquia Digital. O lance é de reputação, não de dinheiro: mostrar que mede o risco dos próprios modelos. Isso pesa no jogo com o Congresso americano, que terá maioria democrata a partir de janeiro, depois da eleição de 3/11, e pode cobrar regras de segurança de IA (inferência). Ganha a OpenAI, se a pesquisa sustentar que os modelos dela continuam vigiáveis (provável). Ganham os pesquisadores de segurança, com dados de dentro de um laboratório (fato, se a pesquisa sair completa). Sem a página da pesquisa, não dá para dizer o resultado; o post só apresenta a pergunta.",
+   "emJogo": [
+    "OpenAI",
+    "Jeffrey Wang"
+   ],
+   "fontes": [
+    {
+     "nome": "Post na lista do X",
+     "url": "https://x.com/jeffreygwang/status/2120581630196879460",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "grok-bot-1-0",
+   "data": "2026-11-11",
+   "tabuleiro": "maquinas",
+   "manchete": "Sai o Grok Bot 1.0, robôs de conversa que podem ser compartilhados e trabalham em grupo, segundo um post da conta SpaceX Super Intelli (@SpaceXSI) na lista do X",
+   "narrativa": "A conta SpaceX Super Intelli (@SpaceXSI) postou na lista do X o lançamento do Grok Bot 1.0, com vídeo. Segundo o post, os bots podem ser compartilhados e são mais colaborativos e capazes que antes. Não achei outra fonte nem a página do produto.",
+   "movimento": "O anúncio foi feito no X, com vídeo. Preço, acesso e data de chegada não aparecem no post.",
+   "leitura": "Uma voz só. O Grok é a IA ligada a Elon Musk, e o nome da conta liga o produto à SpaceX; não conferi quem opera a conta. Leitura contrária (hipótese): lançar no X, rede do próprio dono, é anúncio e distribuição ao mesmo tempo, sem filtro de imprensa.",
+   "confianca": "provavel",
+   "conflito": "Quem escreve é o Claude, da Anthropic, concorrente do Grok em assistentes de IA.",
+   "analise": "O lance é da Oligarquia Digital, pela casa X, rede social vigiada pela varredura. O Grok nasce e é vendido dentro da rede do próprio dono, o que dá a ele uma vitrine que os rivais não têm (inferência). Bots compartilháveis são o caminho para disputar com os assistentes personalizados de OpenAI e Google (hipótese). O padrão já apareceu no INFO: a edição de 11/11 contou que o comitê de Musk perdeu força na eleição de 3/11, e o produto sai num momento de pressão política sobre ele (a ligação é hipótese). Sem página oficial, o alcance do lançamento fica em aberto.",
+   "emJogo": [
+    "Grok",
+    "SpaceX Super Intelli",
+    "Elon Musk"
+   ],
+   "fontes": [
+    {
+     "nome": "Post na lista do X",
+     "url": "https://x.com/SpaceXSI/status/2120584928983441826",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "spfc-amistoso-noroeste-cancelado",
+   "data": "2026-11-11",
+   "tabuleiro": "bola",
+   "manchete": "Cancelado o amistoso do São Paulo com o Noroeste, que seria na sexta (13/11) em Bauru: a organizadora cita alerta de tempestade, e o clube deixa de receber o cachê de R$ 1,5 milhão",
+   "narrativa": "O São Paulo publicou nota oficial na quarta (11/11), às 16h33: o amistoso com o EC Noroeste, marcado para a sexta (13/11) em Bauru, foi cancelado. A organizadora, a AEC, citou o alerta do Inmet para tempestades, ventos fortes e risco de granizo, e falou em segurança do público. O clube diz que não tinha responsabilidade operacional, financeira nem de organização: era só o time convidado. O Noroeste era quem cedia o estádio. Quem comprou ingresso recebe 100% do valor de volta.",
+   "movimento": "Jogo cancelado dois dias antes, em 11/11. A partida seria no Estádio Alfredo de Castilho. Segundo a CNN Brasil, o São Paulo deixa de receber R$ 1,5 milhão de cachê, a diretoria não pretende marcar outro jogo e o elenco segue a rotina de treinos no CT da Barra Funda. O próximo jogo oficial é São Paulo x Fluminense, na quinta (19/11), às 21h30, no Morumbis, pela 35ª rodada do Brasileirão. O time, de Dorival Júnior, está em 10º, com 44 pontos (CNN Brasil).",
+   "leitura": "O São Paulo perde o único jogo da pausa da data Fifa e R$ 1,5 milhão que entrariam no caixa. A nota do clube se preocupa em dizer que a responsabilidade era toda da organizadora, o que indica que a perda do cachê não deve virar briga pública com o Noroeste (provável). No campo, o time segue só com treinos no CT até o Fluminense, no dia 19.",
+   "confianca": "fato",
+   "emJogo": [
+    "São Paulo F.C.",
+    "EC Noroeste",
+    "AEC (organizadora)",
+    "Inmet",
+    "Dorival Júnior",
+    "Fluminense"
+   ],
+   "fontes": [
+    {
+     "nome": "São Paulo FC (site oficial), nota oficial",
+     "url": "https://www.saopaulofc.net/nota-oficial-cancelamento-do-amistoso-noroeste-x-sao-paulo/",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/amistoso-do-sao-paulo-na-data-fifa-e-cancelado-por-risco-de-tempestade/",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "brasileirao-35-rodada-volta-14-11",
+   "data": "2026-10-30",
+   "tabuleiro": "bola",
+   "manchete": "O Brasileirão volta no sábado (14/11) com um jogo só, Mirassol x Atlético; o resto da 35ª rodada é na quarta (18) e na quinta (19), e Palmeiras x Flamengo é no sábado 21/11",
+   "narrativa": "A CBF definiu datas e horários das rodadas 35 e 36. A 35ª é nos dias 14, 18 e 19 de novembro, e a 36ª, entre 21 e 25 de novembro. Na pausa da data Fifa não houve jogo, então a tabela segue a mesma da última rodada.",
+   "movimento": "Sábado (14/11), 18h30: Mirassol x Atlético, no Maião. Quarta (18/11), 20h30: Flamengo x Athletico-PR, no Maracanã, e Cruzeiro x Palmeiras, no Mineirão. Quinta (19/11), 21h30: São Paulo x Fluminense, no Morumbis. Sábado (21/11), 16h30: Palmeiras x Flamengo, no Nubank Parque, pela 36ª rodada.",
+   "leitura": "O Flamengo joga em casa e o Palmeiras fora na quarta (18/11), e três dias depois os dois se enfrentam no Nubank Parque. O Lance diz que o duelo pode ter peso decisivo na disputa pelo título. Quem lidera hoje não consta nas fontes desta edição.",
+   "confianca": "fato",
+   "emJogo": [
+    "CBF",
+    "Flamengo",
+    "Palmeiras",
+    "Mirassol",
+    "Atlético",
+    "Athletico-PR",
+    "Cruzeiro",
+    "São Paulo F.C.",
+    "Fluminense"
+   ],
+   "fontes": [
+    {
+     "nome": "Lance!",
+     "url": "https://www.lance.com.br/futebol-nacional/cbf-detalha-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios-dos-jogos.html",
+     "data": "2026-10-30"
+    },
+    {
+     "nome": "O Tempo",
+     "url": "https://www.otempo.com.br/sports/futebol-nacional/2026/10/30/cbf-detalha-tabela-das-rodadas-35-e-36-do-campeonato-brasileiro-serie-a",
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "selecao-japao-singapura-novembro",
+   "data": "2026-10-29",
+   "tabuleiro": "bola",
+   "manchete": "A Seleção de Ancelotti joga com o Japão no sábado (14/11), às 7h15, e com Singapura na terça (17/11), às 7h, as duas no Estádio Nacional de Singapura, sem jogadores de Flamengo e Palmeiras",
+   "narrativa": "Carlo Ancelotti convocou 26 jogadores em 29/10 para os dois últimos amistosos do ano (o texto da Tribuna de Jundiaí fala em 28 no corpo, mas a lista tem 26 nomes). A convocação deixou de fora Flamengo e Palmeiras, os dois que brigam pelo título do Brasileirão.",
+   "movimento": "Brasil x Japão: sábado, 14/11, às 7h15 de Brasília. Brasil x Singapura: terça, 17/11, às 7h. Os dois jogos no Estádio Nacional de Singapura. Lista com 26 nomes: 3 goleiros, 9 defensores, 7 meio-campistas e 7 atacantes.",
+   "leitura": "Os jogos caem na pausa do Brasileirão e terminam um dia antes da volta da rodada no meio da semana. As fontes dizem que a lista exclui Flamengo e Palmeiras e não explicam o motivo.",
+   "confianca": "fato",
+   "emJogo": [
+    "Seleção Brasileira",
+    "Carlo Ancelotti",
+    "CBF",
+    "Japão",
+    "Singapura",
+    "Flamengo",
+    "Palmeiras"
+   ],
+   "fontes": [
+    {
+     "nome": "Tribuna de Jundiaí",
+     "url": "https://tribunadejundiai.com.br/mais/esportes/veja-os-convocados-da-selecao-para-os-ultimos-amistosos-de-2026/",
+     "data": "2026-10-29"
+    },
+    {
+     "nome": "Acessa.com (Agência Brasil)",
+     "url": "https://www.acessa.com/esporte/2026/10/343289-ancelotti-convoca-selecao-para-amistosos-contra-japao-e-singapura.html",
+     "data": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "id": "capao-fua-riacho-do-ouro-segunda-edicao",
+   "data": "2026-11-11",
+   "tabuleiro": "capao",
+   "manchete": "Segunda edição do Fuá no Riacho do Ouro é neste sábado (14/11), na Colaborativa da Chapada, com maracatu, roda de coco e forró, entrada gratuita",
+   "narrativa": "O portal Vale do Capão publicou nesta quarta (11/11), em texto de Pedro Jatobá, que a parceria entre a Colaborativa da Chapada e o Bando Pé d'Estrada chega à segunda edição do Fuá no Riacho do Ouro. A programação tem ensaio aberto do grupo de Maracatu, roda de coco, a seleta nordestina do DJ VirguLINUX e o forró do Bando Pé d'Estrada. A entrada é gratuita, com contribuição voluntária no chapéu.",
+   "movimento": "Sábado, 14/11, na Colaborativa da Chapada, no Riacho do Ouro. Ensaio de maracatu a partir das 14h30, roda de coco a partir das 16h20, DJ VirguLINUX às 19h e forró do Bando Pé d'Estrada a partir das 20h. Organizam a Colaborativa da Chapada e o Bando Pé d'Estrada. A mesma notícia circulou hoje no grupo de WhatsApp do vale.",
+   "leitura": "Um sábado de cultura popular de graça dentro do vale, pago no chapéu, do jeito que a cultura do Capão costuma se sustentar. É a segunda edição, o que indica que o encontro está virando ponto fixo da agenda. Para quem gosta de forró, é a opção mais perto de casa nesta semana.",
+   "confianca": "provavel",
+   "emJogo": [
+    "Colaborativa da Chapada",
+    "Bando Pé d'Estrada",
+    "DJ VirguLINUX",
+    "Pedro Jatobá"
+   ],
+   "fontes": [
+    {
+     "nome": "Portal Vale do Capão",
+     "url": "https://valedocapao.chapada.ba/cultura/segunda-edicao-do-fua-no-riacho-do-ouro-acontece-neste-sabado-na-colaborativa-da-chapada/",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "capao-encontro-pessoa-atipica-13-14-novembro",
+   "data": "2026-11-11",
+   "tabuleiro": "capao",
+   "manchete": "O 3º Encontro de Desenvolvimento e Direitos da Pessoa Atípica acontece na sexta e no sábado (13 e 14/11) em Caeté-Açu, com previsão de 12 palestrantes e 50 vagas",
+   "narrativa": "O jornal A Tarde publicou em 03/11, em texto de Miriam Hermes, que direitos e inclusão de pessoas atípicas serão debatidos no Capão. O encontro é do Projeto Ressignificar, terá dois dias de programação com previsão de 12 palestrantes e reúne especialistas, educadores e famílias atípicas de municípios da Chapada Diamantina. A página do projeto confirma as datas, o local e o valor; o limite de 50 vagas e a gratuidade para pessoas com deficiência comprovada estão no texto de A Tarde.",
+   "movimento": "Sexta 13/11 e sábado 14/11, na Pousada Villa Flor, em Caeté-Açu. Organiza o Projeto Ressignificar. Inscrição de R$ 30 para os dois dias, gratuita para pessoas com deficiência comprovada, limitada a 50 participantes, com confirmação antecipada pelo site ressignificarcapao.com.br.",
+   "leitura": "É um encontro feito no vale para as famílias da Chapada que cuidam de pessoas atípicas, um tema com pouco espaço na região. Como as vagas são só 50, quem quiser ir precisa confirmar antes pelo site.",
+   "confianca": "fato",
+   "emJogo": [
+    "Projeto Ressignificar",
+    "Pousada Villa Flor",
+    "Miriam Hermes (A Tarde)"
+   ],
+   "fontes": [
+    {
+     "nome": "A Tarde",
+     "url": "https://atarde.com.br/bahia/direitos-e-inclusao-de-pessoas-atipicas-serao-debatidos-no-capao-1408110",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Projeto Ressignificar",
+     "url": "https://ressignificarcapao.com.br/3-encontro-desenvolvimento-e-direitos-da-pessoa-atipica/",
+     "data": ""
+    }
+   ]
+  }
+ ],
+ "editais": [
+  {
+   "titulo": "Temporada de Projetos 2027 do Paço das Artes",
+   "orgao": "Paço das Artes (São Paulo)",
+   "para": "artistas, coletivos e curadores de todo o Brasil",
+   "prazo": "2026-11-20",
+   "valor": "a página não informa valor; fala em infraestrutura e vitrine institucional",
+   "resumo": "Seleção de projetos de exposição para a temporada 2027 do Paço das Artes, em São Paulo. A inscrição é gratuita e pela internet.",
+   "url": "https://abcdoabc.com.br/paco-das-artes-temporada-de-projetos-2027"
+  }
+ ]
+}
