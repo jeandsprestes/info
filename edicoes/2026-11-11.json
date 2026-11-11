@@ -1556,16 +1556,15 @@
   "versao": 3
  },
  "dualidade": {
-  "versao": 1,
   "polos": {
    "antiga": {
-    "dia": "Nos 30 dias, a elite antiga ganhou pela política e pelo petróleo. Na eleição de 3/11, os democratas ganharam a Câmara e, segundo a Time citando a AP, também o Senado. Em Michigan, venceu Abdul El-Sayed, que defende uma pausa na IA. O petróleo seguiu caro com a guerra do Irã: o Brent estava perto de 114,50 dólares em 25/10, e a Opep+ manteve as metas de produção de dezembro em 1/11. A Justiça do Novo México mandou a Meta pagar 25 bilhões de dólares, e a S&P pôs a nota da Meta em perspectiva negativa. A ideia de que democratas, Opep+ e finança tradicional formam um mesmo polo é a hipótese do Jean. Nada aqui prova um comando comum."
+    "dia": "Nos 30 dias, a elite antiga ganhou no caixa e no Congresso. A guerra do Irã deu a Shell e TotalEnergies o maior lucro desde 2022, e a Aramco lucrou US$ 36,2 bilhões no trimestre. Em 3/11, os democratas, partido de Obama e dos Clinton, tomaram a Câmara e o Senado. A Justiça do Novo México mandou a Meta pagar 25 bilhões de dólares, e o mercado já conta com alta de juros do Fed em dezembro. A Opep+ manteve as metas de dezembro. Perdeu no preço: o Brent caiu uns 25% desde o pico de outubro. E os polos se misturam: a Aramco comprou 49% da Humain, de IA, e bancos de Wall Street financiam a Shield AI e levam a Anthropic à bolsa. Pôr os democratas, a Justiça estadual, os bancos e o Fed neste polo é hipótese do Jean."
    },
    "nova": {
-    "dia": "A nova elite perdeu no mercado e ganhou dentro do Estado. Em 5/11, as ações americanas perderam cerca de 3 trilhões de dólares com a queda das empresas de IA, logo depois da eleição. A OpenAI baixou a rodada de 30 para 20 bilhões de dólares e discute rever os data centers que espera para 2027. A Nvidia caiu dois dias seguidos com o caso Huang; ser citado não é prova de crime. A Palantir avançou: Trump indicou o chefe de segurança dela para a CISA, ela contratou um ex-senador democrata e fechou contrato com três polícias inglesas. A Anthropic, dona do Claude, que escreve este quadro, marcou a estreia na bolsa para 19/11."
+    "dia": "A nova elite ganhou no dinheiro e no Estado, e perdeu na urna e na bolsa. Segundo a Public Citizen, cripto, Big Tech e IA puseram nos super PACs quase seis vezes o dinheiro dos combustíveis fósseis. A Palantir teve receita 96% maior, e Trump indicou o chefe de segurança dela para a CISA. A Anthropic, dona do Claude que escreve isto, marcou a estreia na bolsa para 19/11. As perdas: até 4/11, 29 republicanos apoiados pelo comitê de Musk tinham perdido e 3 ganhado, a bolsa dos EUA perdeu cerca de US$ 3 trilhões com a queda da IA, a OpenAI baixou a rodada de 30 para 20 bilhões, e a Nvidia caminhou para perder mais de US$ 470 bilhões com o caso Huang. Ser citado não é prova de crime. Thiel criticou a guerra do Irã. Pôr cripto e Big Tech no mesmo polo é hipótese."
    },
    "trump": {
-    "dia": "Trump acenou para os dois polos na janela. Para o lado do petróleo: em 16/10, suspendeu as sanções contra a Rússia e comprou diesel russo. O comando militar dele diz ter ajudado o Golfo a exportar 1,5 bilhão de barris, e os EUA ficaram fora da COP31 pelo segundo ano. Para a nova elite: em 19/10, agradeceu a Musk pelas ações da SpaceX prometidas ao programa Trump Accounts. Em 9/11, defendeu Jensen Huang e indicou um chefe da Palantir para a CISA. Depois de perder o Congresso, disse que não via a derrota como um golpe nele. Nenhum aceno prova troca."
+    "dia": "Trump acenou aos dois polos, com mais peso para a nova elite. Para ela: indicou o chefe de segurança da Palantir para a CISA e defendeu Jensen Huang (9/11), o governo dele liberou chips de IA a empresas chinesas (NYT, 8/11), e ele prometeu perdão a Musk (2/11). Para a elite antiga: suspendeu as sanções contra a Rússia e comprou diesel russo (16/10), o comando militar dele diz ter ajudado o Golfo a exportar 1,5 bilhão de barris, os EUA faltaram à COP31, e o governo media Rússia e Ucrânia em Abu Dhabi (hipótese de aceno). O que chega a ele: a cripto da família rendeu US$ 1,4 bilhão, segundo a NPR, com meio bilhão de um xeque dos Emirados, e o MAGA Inc. recebeu US$ 12,5 milhões da Energy Transfer. Disse ter ameaçado prender um executivo de IA. Nenhum aceno prova troca."
    }
   },
   "pecas": [
@@ -1573,9 +1572,9 @@
     "id": "donald-trump",
     "nome": "Donald Trump",
     "polo": "trump",
-    "papel": "Na hipótese do Jean, o negociador que acena ora para a elite antiga, ora para a nova, conforme o que pode receber.",
-    "fez": "Suspendeu sanções contra a Rússia em 16/10, agradeceu a Musk em 19/10 e, em 9/11, indicou o chefe de segurança da Palantir para dirigir a CISA.",
-    "confianca": "fato",
+    "papel": "Na hipótese do Jean, o negociador mercenário que apoia quem der mais e acena ora a um polo, ora ao outro. Cabe mal quando diz ter ameaçado um executivo de IA.",
+    "fez": "Suspendeu as sanções contra a Rússia (16/10). O MAGA Inc., super PAC pró-Trump, recebeu US$ 12,5 milhões da Energy Transfer, de energia. Disse ter ameaçado prender um executivo de IA, por segurança.",
+    "confianca": "provavel",
     "fontes": [
      {
       "data": "2026-10-20",
@@ -1584,16 +1583,44 @@
       "url": "https://www.cbsnews.com/news/trump-faces-bipartisan-backlash-over-waiving-russia-sanctions/"
      },
      {
-      "data": "2026-11-09",
-      "nome": "MeriTalk",
-      "trecho": "President Donald Trump on Nov. 9 nominated Michael LoSapio",
-      "url": "https://www.meritalk.com/articles/trump-nominates-palantirs-losapio-to-lead-cisa/"
+      "nome": "NationofChange (Public Citizen)",
+      "url": "https://www.nationofchange.org/2026/11/05/corporations-gave-737-million-to-super-pacs-in-2026-midterms/",
+      "data": "2026-11-05",
+      "trecho": "Energy Transfer gave $15.9 million, including $12.5 million to MAGA Inc."
      },
      {
-      "data": "2026-10-20",
-      "nome": "TimesLIVE",
-      "trecho": "A big thank you to our legendary friend, Elon Musk, for his incredible generosity",
-      "url": "https://www.timeslive.co.za/news/world/2026-10-20-elon-musk-to-give-every-american-child-a-share-of-spacex/"
+      "nome": "Business Standard (manchete)",
+      "url": "https://www.business-standard.com/amp/world-news/trump-says-he-threatened-ai-executive-with-arrest-over-security-concerns-126111000275_1.html",
+      "data": "2026-11-10",
+      "trecho": "Trump says he threatened AI executive with arrest over security concerns"
+     }
+    ]
+   },
+   {
+    "id": "world-liberty",
+    "nome": "World Liberty Financial",
+    "polo": "trump",
+    "papel": "A empresa de cripto da família Trump. A hipótese põe a cripto na nova elite; aqui ela serve de caixa da família, com dinheiro de fora.",
+    "fez": "Segundo a NPR (10/11), já rendeu US$ 1,4 bilhão a Trump e à família, e um xeque dos Emirados pôs meio bilhão de dólares nela. A empresa não quis comentar. Fonte única, a NPR.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "NPR",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-5983730/trumps-crypto-profits-raise-alarms-for-transparency-advocates",
+      "data": "2026-11-10",
+      "trecho": "it's earned him and his family $1.4 billion for a company that's just over 2 years old"
+     },
+     {
+      "nome": "NPR",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-5983730/trumps-crypto-profits-raise-alarms-for-transparency-advocates",
+      "data": "2026-11-10",
+      "trecho": "A member of the United Arab Emirates royal family known as Sheikh Tahnoon invested half $1 billion into World Liberty"
+     },
+     {
+      "nome": "NPR",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-5983730/trumps-crypto-profits-raise-alarms-for-transparency-advocates",
+      "data": "2026-11-10",
+      "trecho": "World Liberty Financial declined to comment"
      }
     ]
    },
@@ -1601,7 +1628,7 @@
     "id": "opep-mais",
     "nome": "Opep+ (núcleo de sete países)",
     "polo": "antiga",
-    "papel": "Os países do petróleo, que a hipótese do Jean põe na elite antiga.",
+    "papel": "Os países do petróleo, que a hipótese do Jean põe na elite antiga. O bloco perdeu um membro: os Emirados saíram da Opep em maio.",
     "fez": "Em 1/11, Arábia Saudita, Rússia, Iraque, Kuwait, Argélia, Cazaquistão e Omã mantiveram as metas de produção de dezembro. As cotas de 2027 ficam para a reunião de 29/11.",
     "confianca": "fato",
     "fontes": [
@@ -1616,98 +1643,211 @@
       "nome": "GV Wire (Reuters)",
       "trecho": "All members of the 21-country group are due to meet on November 29, when analysts expect it will decide 2027 quotas.",
       "url": "https://gvwire.com/2026/11/01/opec-keeps-december-oil-output-targets-steady-ahead-of-tougher-call-for-2027/"
-     }
-    ]
-   },
-   {
-    "id": "governo-russo",
-    "nome": "Governo russo",
-    "polo": "antiga",
-    "papel": "País do petróleo e membro da Opep+, por isso na elite antiga pela hipótese do Jean. Não há prova de ligação a uma elite.",
-    "fez": "Teve as sanções americanas suspensas por Trump em 16/10, dois dias antes de a lei entrar em vigor.",
-    "confianca": "provavel",
-    "fontes": [
-     {
-      "data": "2026-10-20",
-      "nome": "CBS News",
-      "trecho": "The president's decision to waive Russia sanctions was also met with immediate criticism and concern from Zelenskyy.",
-      "url": "https://www.cbsnews.com/news/trump-faces-bipartisan-backlash-over-waiving-russia-sanctions/"
-     }
-    ]
-   },
-   {
-    "id": "partido-democrata",
-    "nome": "Partido Democrata",
-    "polo": "antiga",
-    "papel": "Hipótese: parte do establishment que se alternou no governo dos EUA até Trump. Nada aqui prova que ele sirva a uma elite.",
-    "fez": "Ganhou a Câmara na eleição de 3/11 e, segundo a Time citando a AP, também o Senado.",
-    "confianca": "provavel",
-    "fontes": [
-     {
-      "data": "2026-11-04",
-      "nome": "NBC News",
-      "trecho": "NBC News projects Democrats win control.",
-      "url": "https://www.nbcnews.com/politics/2026-elections/house-results"
      },
      {
-      "data": "2026-11-04",
-      "nome": "Time",
-      "trecho": "AP called the Senate for Democrats shortly before midnight.",
-      "url": "https://time.com/article/2026/11/03/midterm-elections-2026-key-races-live-results-polls-latest-news-updates/"
+      "nome": "Star-Advertiser (Reuters)",
+      "url": "https://www.staradvertiser.com/2026/11/01/breaking-news/opec-keeps-december-oil-output-targets-steady-as-iran-war-disrupt-flows/",
+      "data": "2026-11-01",
+      "trecho": "quit OPEC in May"
      }
     ]
    },
    {
-    "id": "abdul-el-sayed",
-    "nome": "Abdul El-Sayed",
+    "id": "barack-obama",
+    "nome": "Barack Obama",
     "polo": "antiga",
-    "papel": "Senador democrata eleito. Ele está na elite antiga só pelo partido, como hipótese, sem prova.",
-    "fez": "Venceu em Michigan em 4/11. Na campanha, pediu uma pausa séria no avanço da IA.",
-    "confianca": "provavel",
+    "papel": "Presidente democrata de 2009 a 2017. A hipótese do Jean o põe no centro do establishment que se alternou no governo dos EUA até 2016.",
+    "fez": "Em 4/11, disse que o eleitor mandou uma mensagem clara com a vitória democrata no Congresso e que o trabalho agora é arregaçar as mangas.",
+    "confianca": "fato",
     "fontes": [
      {
+      "nome": "IBTimes UK",
+      "url": "https://www.ibtimes.co.uk/democrats-win-house-senate-2026-midterm-elections-1830250",
       "data": "2026-11-04",
-      "nome": "Al Jazeera",
-      "trecho": "Abdul El-Sayed defeats Mike Rogers to win US Senate seat in Michigan",
-      "url": "https://www.aljazeera.com/news/2026/11/4/el-sayed-defeats-rogers-to-win-senate-seat-in-michigan"
+      "trecho": "Tonight, the American people sent a clear message"
      },
      {
-      "data": "2026-09-09",
-      "nome": "Abdul El-Sayed (campanha)",
-      "trecho": "I think it’s important for us to really hit pause, hit pause in a serious way",
-      "url": "https://abdulforsenate.com/2026/09/new-dr-abdul-el-sayed-calls-for-pausing-ai-development/"
+      "nome": "IBTimes UK",
+      "url": "https://www.ibtimes.co.uk/democrats-win-house-senate-2026-midterm-elections-1830250",
+      "data": "2026-11-04",
+      "trecho": "our job now is to roll up our sleeves"
+     },
+     {
+      "nome": "theGrio",
+      "url": "https://thegrio.com/2026/11/04/barack-obama-democrats-regain-house-senate-midterms/",
+      "data": "2026-11-04",
+      "trecho": "Obama touts a ‘clear message’ from voters as Democrats regain control of House and Senate"
      }
     ]
    },
    {
-    "id": "federal-reserve",
-    "nome": "Federal Reserve",
+    "id": "bill-e-hillary-clinton",
+    "nome": "Bill e Hillary Clinton",
     "polo": "antiga",
-    "papel": "Banco central dos EUA. Ele está na elite antiga como hipótese, por ser a casa da finança tradicional.",
-    "fez": "Com a inflação de outubro acima do esperado, o mercado dá como certa uma alta de juros em 8 e 9/12. Isso encarece a dívida de quem constrói data center (hipótese).",
+    "papel": "Bill foi presidente de 1993 a 2001; Hillary, secretária de Estado de Obama e candidata em 2016. Na hipótese, são a velha guarda democrata.",
+    "fez": "Segundo a Fox News (15/10), Bill marcou para 20/10, na Flórida, a primeira campanha do ciclo, com David Jolly, ex-republicano que virou democrata. Hillary lançou um podcast com Kara Swisher.",
     "confianca": "provavel",
     "fontes": [
      {
-      "data": "2026-11-10",
-      "nome": "CNBC",
-      "trecho": "Traders are now fully pricing in a quarter percentage-point increase when the Fed next meets Dec. 8-9.",
-      "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+      "nome": "Fox News",
+      "url": "https://www.foxnews.com/politics/bill-hillary-clinton-make-eleventh-hour-midterm-moves-partys-old-guard-faces-new-reality",
+      "data": "2026-10-15",
+      "trecho": "The former president is scheduled to make his first public campaign appearance of the 2026 election cycle on Oct. 20"
+     },
+     {
+      "nome": "Fox News",
+      "url": "https://www.foxnews.com/politics/bill-hillary-clinton-make-eleventh-hour-midterm-moves-partys-old-guard-faces-new-reality",
+      "data": "2026-10-15",
+      "trecho": "a former Republican congressman turned Democrat"
+     },
+     {
+      "nome": "Fox News",
+      "url": "https://www.foxnews.com/politics/bill-hillary-clinton-make-eleventh-hour-midterm-moves-partys-old-guard-faces-new-reality",
+      "data": "2026-10-15",
+      "trecho": "Hillary, meanwhile, has teamed up with journalist Kara Swisher for a new midterm-focused podcast series"
      }
     ]
    },
    {
-    "id": "torsten-slok",
-    "nome": "Torsten Slok (Apollo)",
+    "id": "george-w-bush",
+    "nome": "George W. Bush",
     "polo": "antiga",
-    "papel": "Economista-chefe de uma grande gestora de fundos, da finança tradicional. O polo é hipótese.",
-    "fez": "Disse em 25/10 que a IA não deu retorno financeiro às empresas americanas fora da tecnologia: as margens e a receita por trabalhador estão paradas.",
+    "papel": "Presidente republicano de 2001 a 2009. A hipótese o põe no mesmo establishment que se alternou com os democratas no governo até 2016.",
+    "fez": "Em 5/11, o instituto dele chamou o PEPFAR, plano contra a aids lançado em 2003, de lembrete do que a liderança americana alcança, e apontou US$ 8,1 bilhões a menos nos novos acordos.",
     "confianca": "provavel",
     "fontes": [
      {
-      "data": "2026-10-25",
-      "nome": "TechCrunch",
-      "trecho": "profit margins and revenue per worker appear to be flat, with no evidence that AI is improving productivity.",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+      "nome": "George W. Bush Presidential Center",
+      "url": "https://www.bushcenter.org/publications/global-health-update-nov-5-2026",
+      "data": "2026-11-05",
+      "trecho": "Emergency Plan for AIDS Relief (PEPFAR) in 2003"
+     },
+     {
+      "nome": "George W. Bush Presidential Center",
+      "url": "https://www.bushcenter.org/publications/global-health-update-nov-5-2026",
+      "data": "2026-11-05",
+      "trecho": "is a reminder of what sustained American leadership can achieve"
+     },
+     {
+      "nome": "George W. Bush Presidential Center",
+      "url": "https://www.bushcenter.org/publications/global-health-update-nov-5-2026",
+      "data": "2026-11-05",
+      "trecho": "is $8.1 billion below prior levels of U.S. commitments to the same countries"
+     }
+    ]
+   },
+   {
+    "id": "bill-gates",
+    "nome": "Bill Gates",
+    "polo": "antiga",
+    "papel": "A hipótese o põe no polo antigo pela filantropia e pela agenda global. Cabe mal: ele fundou a Microsoft, uma Big Tech, e a fundação dele inclui IA nos planos.",
+    "fez": "Em 21/10, na World Bio Summit, organizada pelo governo coreano com a OMS, anunciou o primeiro escritório da fundação na Coreia, para biotecnologia, farmacêutica e IA.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Korea JoongAng Daily",
+      "url": "https://www.koreajoongangdaily.com/korea/gates-foundation-to-establish-first-korea-office-by-end-of-2026/12932773",
+      "data": "2026-10-21",
+      "trecho": "The Gates Foundation will be opening our first office in Korea,"
+     },
+     {
+      "nome": "Korea JoongAng Daily",
+      "url": "https://www.koreajoongangdaily.com/korea/gates-foundation-to-establish-first-korea-office-by-end-of-2026/12932773",
+      "data": "2026-10-21",
+      "trecho": "to support the country's biotechnology, pharmaceuticals and AI initiatives and strengthen global health cooperation."
+     },
+     {
+      "nome": "Korea JoongAng Daily",
+      "url": "https://www.koreajoongangdaily.com/korea/gates-foundation-to-establish-first-korea-office-by-end-of-2026/12932773",
+      "data": "2026-10-21",
+      "trecho": "was jointly hosted by the Ministry of Health and Welfare and the World Health Organization (WHO)"
+     }
+    ]
+   },
+   {
+    "id": "aramco",
+    "nome": "Saudi Aramco",
+    "polo": "antiga",
+    "papel": "Petroleira estatal da Arábia Saudita. A hipótese a põe na elite antiga do petróleo, e ela cabe bem; cabe mal num ponto: agora compra uma fatia da IA.",
+    "fez": "Em 3/11, lucro líquido de US$ 36,2 bilhões no 3º trimestre (Khaleej Times) e compra de 49% da Humain, de IA, com cerca de US$ 2,6 bilhões em aportes em dinheiro, segundo a própria Aramco.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Khaleej Times",
+      "url": "https://www.khaleejtimes.com/business/energy/saudi-aramco-profits-surge-third-quarter-middle-east-war",
+      "data": "2026-11-03",
+      "trecho": "net profit hit 135.9 billion riyals ($36.2 billion) in the third quarter"
+     },
+     {
+      "nome": "Saudi Aramco",
+      "url": "https://www.aramco.com/en/news-media/news/2026/Aramco-announces-third-quarter-2026-results",
+      "data": "2026-11-03",
+      "trecho": "Acquisition of 49% stake in HUMAIN"
+     },
+     {
+      "nome": "Saudi Aramco",
+      "url": "https://www.aramco.com/en/news-media/news/2026/Aramco-announces-third-quarter-2026-results",
+      "data": "2026-11-03",
+      "trecho": "approximately $2.6 billion in cash contributions"
+     }
+    ]
+   },
+   {
+    "id": "jpmorgan",
+    "nome": "JPMorgan Chase",
+    "polo": "antiga",
+    "papel": "Maior banco dos EUA. A hipótese o põe na finança antiga, e ele cabe; também financia empresas novas de tecnologia militar.",
+    "fez": "Em 13/10, lucro de US$ 15,3 bilhões no trimestre, abaixo do esperado. Em 9/11, entrou com a Blackstone no pacote de US$ 2,5 bilhões para a Shield AI comprar a Echodyne.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "AP (ClickOnDetroit)",
+      "url": "https://www.clickondetroit.com/business/2026/10/13/big-banks-post-strong-q3-profits-but-warn-higher-rates-and-inflation-could-bite/",
+      "data": "2026-10-13",
+      "trecho": "JPMorgan posted a $15.3 billion profit in the third quarter, or $5.57 a share"
+     },
+     {
+      "nome": "AP (ClickOnDetroit)",
+      "url": "https://www.clickondetroit.com/business/2026/10/13/big-banks-post-strong-q3-profits-but-warn-higher-rates-and-inflation-could-bite/",
+      "data": "2026-10-13",
+      "trecho": "with Wall Street looking for the bank to earn $5.93 a share"
+     },
+     {
+      "nome": "AltAssets",
+      "url": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-news-shield-strikes-5-3bn-echodyne-acquisition-backed-by-blackstone-financing-permira-buys-flint-group.html",
+      "data": "2026-11-09",
+      "trecho": "$2.5bn financing package involving Blackstone, JPMorgan and venture capital investors"
+     }
+    ]
+   },
+   {
+    "id": "peter-thiel",
+    "nome": "Peter Thiel",
+    "polo": "nova",
+    "papel": "Cofundador da Palantir e maior financiador da campanha de JD Vance ao Senado em 2022: a hipótese o põe no centro da nova elite. Cabe mal no time de Trump.",
+    "fez": "Num evento fechado em Nashville, em outubro, disse que os EUA não deviam ter feito a guerra do Irã. Mesmo assim, reafirmou o apoio a Trump.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "The Daily Beast",
+      "autor": "Martha McHardy",
+      "url": "https://www.thedailybeast.com/maga-billionaire-peter-thiel-caught-turning-on-trump-in-leaked-audio",
+      "data": "2026-10-22",
+      "trecho": "I think we should not have done it"
+     },
+     {
+      "nome": "National Security Journal",
+      "autor": "Brandon Weichert",
+      "url": "https://nationalsecurityjournal.org/we-should-not-have-done-it-a-secret-recording-has-a-major-trump-supporter-in-silicon-valley-calling-the-iran-war-a-mistake/",
+      "data": "2026-10-23",
+      "trecho": "Thiel made his remarks at a private event in Nashville earlier this month."
+     },
+     {
+      "nome": "The Daily Beast",
+      "autor": "Martha McHardy",
+      "url": "https://www.thedailybeast.com/maga-billionaire-peter-thiel-caught-turning-on-trump-in-leaked-audio",
+      "data": "2026-10-22",
+      "trecho": "reiterated his support for the president"
      }
     ]
    },
@@ -1715,8 +1855,8 @@
     "id": "elon-musk",
     "nome": "Elon Musk",
     "polo": "nova",
-    "papel": "Dono da SpaceX e da Tesla. A hipótese o põe na nova elite, mas ele cabe mal às vezes: brigou com Trump em 2025.",
-    "fez": "Prometeu em 19/10 dar uma ação da SpaceX a cada criança americana em 2027, pelo programa Trump Accounts.",
+    "papel": "Dono de Tesla, SpaceX, xAI e X: a hipótese o põe na nova elite. Cabe mal como aliado fixo de Trump: os dois já brigaram, e ele voltou a bancar os republicanos.",
+    "fez": "Em 19/10, prometeu uma ação da SpaceX a cada criança americana. Gastou ao menos US$ 474 milhões, recorde; até a quarta 4/11, 29 dos republicanos que o comitê apoiou tinham perdido e 3 ganhado.",
     "confianca": "provavel",
     "fontes": [
      {
@@ -1724,17 +1864,36 @@
       "nome": "TimesLIVE",
       "trecho": "Next year, I will give one of my SpaceX shares to every kid in America",
       "url": "https://www.timeslive.co.za/news/world/2026-10-20-elon-musk-to-give-every-american-child-a-share-of-spacex/"
+     },
+     {
+      "nome": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
+      "data": "2026-11-04",
+      "trecho": "Musk, who spent a record of at least $474 million on the midterms"
+     },
+     {
+      "nome": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
+      "data": "2026-11-04",
+      "trecho": "By Wednesday morning, Republicans it backed had lost 29 contests and won just three, with 12 still uncalled."
      }
     ]
    },
    {
     "id": "palantir",
-    "nome": "Palantir",
+    "nome": "Palantir (Alex Karp)",
     "polo": "nova",
-    "papel": "Empresa de dados fundada com Peter Thiel e dirigida por Alex Karp. A hipótese do Jean a põe no centro da tecnocracia.",
-    "fez": "O chefe de segurança dela foi indicado para a CISA, ela contratou o ex-senador democrata Jon Tester e fechou contrato de mais de 10 milhões de libras com três polícias inglesas.",
-    "confianca": "fato",
+    "papel": "Empresa de dados e IA para governos, cofundada por Peter Thiel e dirigida por Alex Karp. A hipótese do Jean a põe no centro da tecnocracia.",
+    "fez": "Teve receita 96% maior no trimestre (2/11). Trump indicou o chefe de segurança dela para a CISA (9/11), e ela contratou o ex-senador democrata Jon Tester como consultor.",
+    "confianca": "provavel",
     "fontes": [
+     {
+      "nome": "Fortune",
+      "autor": "Amanda Gerut",
+      "url": "https://fortune.com/2026/11/02/palantir-q3-results-stock-ai-trade-selloff/",
+      "data": "2026-11-02",
+      "trecho": "third quarter revenue rose 96% year over year to $2.3 billion"
+     },
      {
       "data": "2026-11-09",
       "nome": "Nextgov/FCW",
@@ -1746,56 +1905,34 @@
       "nome": "Gizmodo",
       "trecho": "Palantir just hired a former Democratic Senator as an adviser",
       "url": "https://gizmodo.com/palantir-hires-former-democratic-senator-and-braces-for-political-backlash-2000837206"
-     },
-     {
-      "data": "2026-11-10",
-      "nome": "PublicTechnology",
-      "trecho": "A trio of police forces have agreed a £10m-plus agreement with Palantir",
-      "url": "https://www.publictechnology.net/2026/11/10/public-order-justice-and-rights/eastern-police-forces-sign-10m-palantir-deal-to-support-safeguarding-as-reports-claim-nhs-extension-planned/"
-     }
-    ]
-   },
-   {
-    "id": "openai",
-    "nome": "OpenAI",
-    "polo": "nova",
-    "papel": "Dona do ChatGPT, dirigida por Sam Altman. A hipótese do Jean a põe na nova elite.",
-    "fez": "Em outubro, negociou até 30 bilhões de dólares com investidores dos Emirados. Em 31/10, segundo a CNBC, baixou o alvo para até 20 bilhões.",
-    "confianca": "provavel",
-    "fontes": [
-     {
-      "data": "2026-10-22",
-      "nome": "TechCrunch (citando a CNBC)",
-      "trecho": "Terms are still being negotiated, both outlets report, so they could ultimately change.",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
-     },
-     {
-      "data": "2026-10-31",
-      "nome": "CNBC",
-      "trecho": "OpenAI is seeking to raise up to $20 billion in a new funding round.",
-      "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html"
      }
     ]
    },
    {
     "id": "jensen-huang",
-    "nome": "Jensen Huang e a Nvidia",
+    "nome": "Jensen Huang (Nvidia)",
     "polo": "nova",
-    "papel": "O chefe da Nvidia, que faz os chips da IA. A hipótese do Jean o põe na nova elite.",
-    "fez": "A ação caiu dois dias seguidos com o caso Alice Huang, e um deputado diz estar pronto para intimá-lo. Ser citado não é prova de crime.",
+    "papel": "Chefe da Nvidia, a casa dos chips de IA, que a hipótese põe na nova elite. Ser citado no caso de Alice Huang não é prova de crime.",
+    "fez": "Segue no cargo durante a investigação independente do conselho, enquanto a Nvidia caminha para perder mais de US$ 470 bilhões em dois pregões. Pequim chama de calúnia a história da espiã.",
     "confianca": "provavel",
     "fontes": [
      {
-      "data": "2026-11-10",
-      "nome": "Yahoo Finance",
-      "trecho": "he's prepared to issue a subpoena to Nvidia CEO Jensen Huang over Huang's affair.",
-      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html"
+      "nome": "Anadolu",
+      "url": "https://aa.com.tr/en/world/nvidia-board-opens-independent-probe-into-foreign-intelligence-targeting-of-ceo-jensen-huang/4116358",
+      "data": "2026-11-09",
+      "trecho": "Huang will continue to lead the company during the investigation, the board said, according to The New York Times."
      },
      {
-      "data": "2026-11-10",
       "nome": "Reuters (The Standard)",
-      "trecho": "putting the chip giant on track to shed more than $470 billion",
-      "url": "https://www.thestandard.com.hk/finance/article/348113/Nvidia-heads-for-470-billion-two-day-wipeout-as-CEO-affair-fallout-deepens"
+      "url": "https://www.thestandard.com.hk/finance/article/348113/Nvidia-heads-for-470-billion-two-day-wipeout-as-CEO-affair-fallout-deepens",
+      "data": "2026-11-10",
+      "trecho": "putting the chip giant on track to shed more than $470 billion"
+     },
+     {
+      "nome": "CBS News",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+      "data": "2026-11-09",
+      "trecho": "The so-called Chinese spy narrative is entirely baseless and constitutes slander and smear."
      }
     ]
    },
@@ -1828,11 +1965,33 @@
     ]
    },
    {
+    "id": "openai",
+    "nome": "OpenAI",
+    "polo": "nova",
+    "papel": "Dona do ChatGPT, dirigida por Sam Altman. A hipótese do Jean a põe na nova elite.",
+    "fez": "Em outubro, negociou até 30 bilhões de dólares com investidores dos Emirados. Em 31/10, segundo a CNBC, baixou o alvo para até 20 bilhões.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "data": "2026-10-22",
+      "nome": "TechCrunch (citando a CNBC)",
+      "trecho": "Terms are still being negotiated, both outlets report, so they could ultimately change.",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+     },
+     {
+      "data": "2026-10-31",
+      "nome": "CNBC",
+      "trecho": "OpenAI is seeking to raise up to $20 billion in a new funding round.",
+      "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html"
+     }
+    ]
+   },
+   {
     "id": "anthropic",
     "nome": "Anthropic",
     "polo": "nova",
     "papel": "Dona do Claude, que escreve este quadro: há conflito de interesse. A hipótese do Jean a põe na nova elite.",
-    "fez": "Marcou as ações entre 70 e 78 dólares. O preço sai em 18/11, e a estreia na Nasdaq é em 19/11.",
+    "fez": "Marcou as ações entre 70 e 78 dólares. O preço sai em 18/11, e a estreia na bolsa é em 19/11.",
     "confianca": "fato",
     "fontes": [
      {
@@ -1848,79 +2007,9 @@
       "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
      }
     ]
-   },
-   {
-    "id": "google-pichai",
-    "nome": "Google (Pichai)",
-    "polo": "nova",
-    "papel": "Alphabet, de Page, Brin e Pichai. A hipótese do Jean a põe na nova elite.",
-    "fez": "Em 30/10, rodou um modelo de IA num chip em órbita (Project Suncatcher). Em 10/11, lançou o Gemini 4 Carbon.",
-    "confianca": "provavel",
-    "fontes": [
-     {
-      "data": "2026-10-30",
-      "nome": "X (sundarpichai)",
-      "trecho": "we’ve now successfully sent a command up to orbit, booted up the TPU, ran the prompt, and received our first complete response",
-      "url": "https://x.com/sundarpichai/status/2116214866444943853"
-     },
-     {
-      "data": "2026-11-10",
-      "nome": "9to5Google",
-      "trecho": "AI Ultra subscribers can now access Carbon in the Gemini app, AI Mode, and Antigravity.",
-      "url": "https://9to5google.com/2026/11/10/gemini-app-4-carbon/"
-     }
-    ]
    }
   ],
   "lances": [
-   {
-    "id": "du-20261025-brent-perto-de-115",
-    "data": "2026-10-25",
-    "polo": "antiga",
-    "rumo": "antiga",
-    "campo": "energia",
-    "texto": "Com a guerra do Irã, o Brent estava perto de 114,50 dólares em 25/10. Na véspera dos ataques, em 27/2, custava 72,48. O comando militar dos EUA diz ter ajudado o Golfo a exportar 1,5 bilhão de barris desde junho.",
-    "peso": 3,
-    "porquePeso": "O petróleo caro por meses dá caixa aos países e às empresas do petróleo. Fica em 3 porque depende da guerra e pode virar rápido, como virou depois da eleição.",
-    "confianca": "provavel",
-    "fontes": [
-     {
-      "data": "2026-10-26",
-      "nome": "Al Jazeera",
-      "trecho": "Brent crude futures stood at about $114.50 a barrel on Sunday.",
-      "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil"
-     }
-    ],
-    "peca": "opep-mais",
-    "pontos": -1.8
-   },
-   {
-    "id": "du-20261101-opep-segura-dezembro",
-    "data": "2026-11-01",
-    "polo": "antiga",
-    "rumo": "antiga",
-    "campo": "energia",
-    "texto": "Em 1/11, os sete países do núcleo da Opep+ mantiveram as metas de produção de dezembro, ainda com a exportação travada pela guerra. As cotas de 2027 ficam para 29/11.",
-    "peso": 2,
-    "porquePeso": "Segurar a oferta com o preço alto protege a receita do petróleo. Pesa 2 porque é decisão de um mês e a produção real já está abaixo das metas.",
-    "confianca": "fato",
-    "fontes": [
-     {
-      "data": "2026-11-01",
-      "nome": "Star-Advertiser (Reuters)",
-      "trecho": "as the group continues to struggle with export disruptions from the US-Iran war",
-      "url": "https://www.staradvertiser.com/2026/11/01/breaking-news/opec-keeps-december-oil-output-targets-steady-as-iran-war-disrupt-flows/"
-     },
-     {
-      "data": "2026-11-01",
-      "nome": "GV Wire (Reuters)",
-      "trecho": "OPEC+ oil-producing countries kept December production targets steady on Sunday",
-      "url": "https://gvwire.com/2026/11/01/opec-keeps-december-oil-output-targets-steady-ahead-of-tougher-call-for-2027/"
-     }
-    ],
-    "peca": "opep-mais",
-    "pontos": -2.0
-   },
    {
     "id": "du-20261021-meta-multa-25-bilhoes",
     "data": "2026-10-21",
@@ -1949,106 +2038,134 @@
     "pontos": -3.0
    },
    {
-    "id": "du-20261022-openai-dinheiro-dos-emirados",
-    "data": "2026-10-22",
+    "id": "dinheiro-novo-passa-o-do-petroleo",
+    "data": "2026-10-29",
     "polo": "nova",
     "rumo": "nova",
     "campo": "dinheiro",
-    "texto": "A OpenAI negociou até 30 bilhões de dólares, numa avaliação de 1,25 trilhão, com a Coatue e investidores dos Emirados, em vez de ir logo à bolsa. Os termos ainda podiam mudar.",
-    "peso": 2,
-    "porquePeso": "É dinheiro grande para a nova elite, mas vem de investidores de um país do petróleo, o que mistura os polos. Pesa 2 porque ainda era negociação.",
+    "texto": "Segundo a Public Citizen, no ciclo de 2026 a cripto pôs US$ 233 milhões em super PACs, e Big Tech, IA e data centers, US$ 73,1 milhões: juntos, quase seis vezes os US$ 51,4 milhões das empresas de combustíveis fósseis.",
+    "peso": 3,
+    "porquePeso": "Mostra quem banca a política americana neste ciclo. Não pesa mais porque é um ciclo só, dinheiro dado não garante voto nem lei, e a fonte é uma só. Pôr a cripto na nova elite é hipótese.",
     "confianca": "provavel",
     "fontes": [
      {
-      "data": "2026-10-22",
-      "nome": "TechCrunch (citando a CNBC)",
-      "trecho": "Terms are still being negotiated, both outlets report, so they could ultimately change.",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+      "nome": "NationofChange (Public Citizen)",
+      "url": "https://www.nationofchange.org/2026/11/05/corporations-gave-737-million-to-super-pacs-in-2026-midterms/",
+      "data": "2026-11-05",
+      "trecho": "Cryptocurrency companies gave $233 million"
+     },
+     {
+      "nome": "NationofChange (Public Citizen)",
+      "url": "https://www.nationofchange.org/2026/11/05/corporations-gave-737-million-to-super-pacs-in-2026-midterms/",
+      "data": "2026-11-05",
+      "trecho": "Big Tech, artificial intelligence and data center interests gave $73.1 million"
+     },
+     {
+      "nome": "NationofChange (Public Citizen)",
+      "url": "https://www.nationofchange.org/2026/11/05/corporations-gave-737-million-to-super-pacs-in-2026-midterms/",
+      "data": "2026-11-05",
+      "trecho": "Fossil fuel corporations gave $51.4 million, led by Energy Transfer and Chevron."
      }
     ],
-    "peca": "openai",
-    "pontos": 1.2
+    "pontos": 1.8
    },
    {
-    "id": "du-20261031-openai-reduz-e-sp-alerta-meta",
-    "data": "2026-10-31",
+    "id": "petroleiras-lucro-de-guerra",
+    "data": "2026-10-30",
     "polo": "antiga",
     "rumo": "antiga",
     "campo": "dinheiro",
-    "texto": "A OpenAI baixou o alvo da rodada para até 20 bilhões de dólares. A S&P, agência de risco da finança tradicional, pôs a nota da Meta em perspectiva negativa pelo gasto com IA.",
-    "peso": 2,
-    "porquePeso": "Mostra o dinheiro antigo cobrando retorno da IA. Pesa 2 porque a rodada não fechou e a nota da Meta continua alta.",
-    "confianca": "provavel",
+    "texto": "As petroleiras fecham o 3º trimestre com lucro de guerra: Shell e TotalEnergies têm o maior lucro desde 2022, com preços puxados pela guerra e margens recorde no refino, e a ExxonMobil bate a previsão dos analistas.",
+    "peso": 3,
+    "porquePeso": "Dinheiro concreto no caixa da elite antiga, num trimestre. Não pesa mais porque é o prêmio de uma guerra, que pode acabar num acordo, e não uma mudança de regra.",
+    "confianca": "fato",
     "fontes": [
      {
-      "data": "2026-10-31",
+      "nome": "Reuters (gCaptain)",
+      "url": "https://gcaptain.com/shell-and-total-post-highest-quarterly-profit-since-2022/",
+      "data": "2026-10-29",
+      "trecho": "Shell and Total Post Highest Quarterly Profit Since 2022"
+     },
+     {
+      "nome": "Reuters (gCaptain)",
+      "url": "https://gcaptain.com/shell-and-total-post-highest-quarterly-profit-since-2022/",
+      "data": "2026-10-29",
+      "trecho": "war-driven energy prices and record refining margins"
+     },
+     {
+      "nome": "AP (ClickOnDetroit)",
+      "url": "https://www.clickondetroit.com/business/2026/10/30/exxonmobil-and-chevron-top-q3-estimates-on-higher-prices-and-strong-output/",
+      "data": "2026-10-30",
+      "trecho": "On an adjusted basis, profit totaled $4.23 per share, easily topping the average analyst estimate of $4.12 per share."
+     }
+    ],
+    "pontos": -3.0
+   },
+   {
+    "id": "urna-freia-musk-e-a-ia",
+    "data": "2026-11-03",
+    "polo": "nova",
+    "rumo": "antiga",
+    "campo": "politica",
+    "texto": "Na eleição de 3/11, a urna freou a nova elite: dos republicanos que o comitê de Musk apoiou, 29 perderam e 3 ganharam até a quarta 4; os comitês da IA tiveram resultado misto; e eleitores aprovaram restrições a data centers.",
+    "peso": 3,
+    "porquePeso": "Freio concreto, que mexe em quem escreve as leis de IA nos próximos dois anos e onde se constroem data centers (provável). Não é mais alto porque o resultado dos comitês da IA foi misto.",
+    "confianca": "provavel",
+    "peca": "elon-musk",
+    "fontes": [
+     {
       "nome": "CNBC",
-      "trecho": "OpenAI is seeking to raise up to $20 billion in a new funding round.",
-      "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html"
+      "url": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
+      "data": "2026-11-04",
+      "trecho": "By Wednesday morning, Republicans it backed had lost 29 contests and won just three, with 12 still uncalled."
      },
      {
-      "data": "2026-10-31",
-      "nome": "Fortune",
-      "trecho": "unclear when these revenue streams will generate material contributions",
-      "url": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex"
+      "nome": "TechCrunch",
+      "autor": "Rebecca Bellan",
+      "url": "https://techcrunch.com/?p=3185268",
+      "data": "2026-11-04",
+      "trecho": "That spending produced mixed results, with some of the most heavily backed candidates losing their races."
+     },
+     {
+      "nome": "Political Wire (citando a CNBC)",
+      "url": "https://politicalwire.com/2026/11/05/elon-musk-suffers-political-setback/",
+      "data": "2026-11-05",
+      "trecho": "electing critics of the AI industry and approving restrictions on data centers fueling its expansion."
      }
     ],
-    "peca": "openai",
-    "pontos": -1.2
+    "pontos": -1.8
    },
    {
-    "id": "du-20261104-democratas-ganham-congresso",
-    "data": "2026-11-04",
+    "id": "democratas-tomam-o-congresso",
+    "data": "2026-11-03",
     "polo": "antiga",
     "rumo": "antiga",
     "campo": "politica",
-    "texto": "Os democratas ganharam a Câmara e, segundo a Time citando a AP, também o Senado. Trump perde as duas casas a partir de janeiro. Pôr os democratas na elite antiga é a hipótese do Jean.",
+    "texto": "Os democratas ganham a Câmara e o Senado em 3/11: devem passar de 250 cadeiras na Câmara e ter de 54 a 56 senadores (projeções), e assumem em 3/1/2027. Na hipótese, é o establishment de antes de 2016 de volta ao comando do Congresso.",
     "peso": 4,
-    "porquePeso": "Mudar o controle do Congresso mexe nas leis, nos orçamentos e nas investigações por dois anos. Não é 5 porque a Casa Branca segue com Trump.",
-    "confianca": "provavel",
+    "porquePeso": "Controle das duas casas por dois anos, com orçamento, investigações e confirmações, como a da CISA. Não é 5 porque a Casa Branca segue com Trump, e a eleição de 2028 pode virar o quadro.",
+    "confianca": "fato",
     "fontes": [
      {
-      "data": "2026-11-04",
-      "nome": "NBC News",
-      "trecho": "NBC News projects Democrats win control.",
-      "url": "https://www.nbcnews.com/politics/2026-elections/house-results"
+      "nome": "CNN",
+      "url": "https://www.cnn.com/2026/11/05/politics/live-news/midterm-election-congress",
+      "data": "2026-11-05",
+      "trecho": "Democrats projected to win over 250 House seats"
      },
      {
-      "data": "2026-11-04",
-      "nome": "Time",
-      "trecho": "AP called the Senate for Democrats shortly before midnight.",
-      "url": "https://time.com/article/2026/11/03/midterm-elections-2026-key-races-live-results-polls-latest-news-updates/"
-     }
-    ],
-    "peca": "partido-democrata",
-    "pontos": -2.4
-   },
-   {
-    "id": "du-20261104-el-sayed-pausa-ia",
-    "data": "2026-11-04",
-    "polo": "antiga",
-    "rumo": "antiga",
-    "campo": "politica",
-    "texto": "Abdul El-Sayed, que pediu uma pausa séria na IA, venceu para o Senado em Michigan. A vaga já era democrata.",
-    "peso": 2,
-    "porquePeso": "Leva ao Senado uma voz contra o ritmo da IA. Pesa 2 porque é um voto entre cem e a cadeira não mudou de partido.",
-    "confianca": "provavel",
-    "fontes": [
-     {
-      "data": "2026-11-04",
       "nome": "Al Jazeera",
-      "trecho": "Abdul El-Sayed defeats Mike Rogers to win US Senate seat in Michigan",
-      "url": "https://www.aljazeera.com/news/2026/11/4/el-sayed-defeats-rogers-to-win-senate-seat-in-michigan"
+      "url": "https://www.aljazeera.com/news/2026/11/5/division-among-us-democrats-over-schumers-leadership-role",
+      "data": "2026-11-05",
+      "trecho": "the Democratic Senate caucus, projected to comprise 54-56 members"
      },
      {
-      "data": "2026-09-09",
-      "nome": "Abdul El-Sayed (campanha)",
-      "trecho": "I think it’s important for us to really hit pause, hit pause in a serious way",
-      "url": "https://abdulforsenate.com/2026/09/new-dr-abdul-el-sayed-calls-for-pausing-ai-development/"
+      "nome": "IBTimes UK",
+      "url": "https://www.ibtimes.co.uk/democrats-win-house-senate-2026-midterm-elections-1830250",
+      "data": "2026-11-04",
+      "trecho": "Despite winning both chambers, Democrats will not assume congressional control until 3 January 2027."
      }
     ],
-    "peca": "abdul-el-sayed",
-    "pontos": -1.2
+    "pontos": -4.0
    },
    {
     "id": "du-20261105-ia-perde-3-trilhoes",
@@ -2056,7 +2173,7 @@
     "polo": "nova",
     "rumo": "antiga",
     "campo": "dinheiro",
-    "texto": "Depois da eleição, as ações americanas perderam cerca de 3 trilhões de dólares com a queda das empresas de IA. O bitcoin também caiu. A OpenAI discute rever os data centers que espera para 2027, segundo o WSJ.",
+    "texto": "Depois da eleição, as ações americanas perderam cerca de 3 trilhões de dólares com a queda das empresas de IA. O bitcoin também caiu.",
     "peso": 3,
     "porquePeso": "Perder valor encarece o dinheiro da nova elite e enfraquece o argumento dela. Pesa 3 porque queda de bolsa pode voltar em semanas.",
     "confianca": "provavel",
@@ -2077,30 +2194,57 @@
     "pontos": -1.8
    },
    {
-    "id": "du-20261110-camara-pressiona-huang",
+    "id": "bancos-financiam-a-shield-ai",
+    "data": "2026-11-09",
+    "polo": "antiga",
+    "rumo": "nova",
+    "campo": "tecnologia",
+    "texto": "JPMorgan e Blackstone entram num pacote de US$ 2,5 bilhões, com fundos de risco, para a Shield AI, de IA militar, comprar a Echodyne por até US$ 5,3 bilhões. Na hipótese, a finança antiga banca a nova indústria de guerra (leitura nossa).",
+    "peso": 3,
+    "porquePeso": "Negócio concreto, que faz crescer uma empresa de IA militar com dinheiro de banco antigo. Pôr a Shield AI na nova elite é hipótese, e a fonte é uma só.",
+    "confianca": "provavel",
+    "peca": "jpmorgan",
+    "fontes": [
+     {
+      "nome": "AltAssets",
+      "url": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-news-shield-strikes-5-3bn-echodyne-acquisition-backed-by-blackstone-financing-permira-buys-flint-group.html",
+      "data": "2026-11-09",
+      "trecho": "$2.5bn financing package involving Blackstone, JPMorgan and venture capital investors"
+     }
+    ],
+    "pontos": 1.8
+   },
+   {
+    "id": "caso-huang-derruba-a-nvidia",
     "data": "2026-11-10",
     "polo": "antiga",
     "rumo": "antiga",
     "campo": "tecnologia",
-    "texto": "No caso Alice Huang, um deputado diz estar pronto para intimar Jensen Huang, e a Nvidia caminha para perder 470 bilhões em dois dias. Pôr o Congresso na elite antiga é hipótese. Ser citado não é prova de crime.",
+    "texto": "No caso Huang, a ação da Nvidia caminha para perder mais de US$ 470 bilhões em dois pregões, a Justiça dos EUA investiga a Megaspeed, e há propostas de dar ao Congresso a fiscalização das licenças de chips. Ser citado não é prova de crime.",
     "peso": 3,
-    "porquePeso": "Atinge o fornecedor central dos chips da IA e pode dar ao Congresso o controle das licenças. Pesa 3 porque ainda não há decisão nem acusação formal contra Huang.",
+    "porquePeso": "Perda grande, mas reversível, e sem acusação formal contra Huang; pesaria mais se o Congresso levar as licenças. Pôr a Justiça e o Congresso no polo antigo é hipótese: a Justiça é do governo Trump.",
     "confianca": "provavel",
+    "peca": "jensen-huang",
     "fontes": [
      {
+      "nome": "Reuters (The Standard)",
+      "url": "https://www.thestandard.com.hk/finance/article/348113/Nvidia-heads-for-470-billion-two-day-wipeout-as-CEO-affair-fallout-deepens",
       "data": "2026-11-10",
-      "nome": "Yahoo Finance",
-      "trecho": "he's prepared to issue a subpoena to Nvidia CEO Jensen Huang over Huang's affair.",
-      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html"
+      "trecho": "putting the chip giant on track to shed more than $470 billion"
      },
      {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-09",
+      "trecho": "The DOJ is now conducting a criminal inquiry into Megaspeed."
+     },
+     {
+      "nome": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
       "data": "2026-11-10",
-      "nome": "Reuters (The Standard)",
-      "trecho": "putting the chip giant on track to shed more than $470 billion",
-      "url": "https://www.thestandard.com.hk/finance/article/348113/Nvidia-heads-for-470-billion-two-day-wipeout-as-CEO-affair-fallout-deepens"
+      "trecho": "Proposals could allow Congress oversight of chip export licenses"
      }
     ],
-    "peca": "jensen-huang",
     "pontos": -1.8
    },
    {
@@ -2109,7 +2253,7 @@
     "polo": "nova",
     "rumo": "nova",
     "campo": "tecnologia",
-    "texto": "A Palantir fechou contrato de 10 milhões de libras com três polícias inglesas e contratou o ex-senador democrata Jon Tester como consultor para a área de governo.",
+    "texto": "A Palantir fechou contrato de mais de 10 milhões de libras com três polícias inglesas e contratou o ex-senador democrata Jon Tester como consultor.",
     "peso": 2,
     "porquePeso": "É mais dado de polícia numa empresa da nova elite e é ponte com o partido que ganhou o Congresso. Pesa 2 porque o contrato é pequeno e a consultoria não é lobby, segundo Tester.",
     "confianca": "fato",
@@ -2137,48 +2281,98 @@
     "pontos": 2.0
    },
    {
-    "id": "du-20261110-anthropic-marca-estreia",
+    "id": "anthropic-vai-a-bolsa",
     "data": "2026-11-10",
     "polo": "nova",
     "rumo": "nova",
     "campo": "dinheiro",
-    "texto": "A Anthropic marcou as ações entre 70 e 78 dólares, com estreia na Nasdaq em 19/11. No topo da faixa, o valor implícito é de 1,404 trilhão de dólares.",
+    "texto": "A Anthropic, dona do Claude que escreve isto, marcou as ações entre 70 e 78 dólares, com preço em 18/11 e estreia na bolsa em 19/11. No topo da faixa, valeria 1,404 trilhão de dólares. Goldman Sachs e Morgan Stanley estão na oferta.",
     "peso": 2,
-    "porquePeso": "Põe capital novo na mão de uma empresa de IA, mas abaixo do valor falado antes. Quem escreve é o Claude, da Anthropic: leia com desconfiança.",
+    "porquePeso": "Muito capital para uma empresa de IA, pela porta de bancos de Wall Street. Pesa 2 porque a faixa ainda pode mudar até o preço de 18/11. Conflito: escreve o Claude, da Anthropic.",
     "confianca": "fato",
     "fontes": [
      {
-      "data": "2026-11-10",
       "nome": "CNBC",
-      "trecho": "The company is planning to price on Nov. 18 and trade on Nov. 19",
-      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+      "data": "2026-11-10",
+      "trecho": "The company is planning to price on Nov. 18 and trade on Nov. 19"
      },
      {
-      "data": "2026-11-10",
       "nome": "TechCrunch",
-      "trecho": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "data": "2026-11-10",
+      "trecho": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion"
+     },
+     {
+      "nome": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "data": "2026-11-10",
+      "trecho": "Underwriters, including Goldman Sachs and Morgan Stanley"
      }
     ],
     "peca": "anthropic",
     "pontos": 2.0
    },
    {
-    "id": "du-20261102-marvell-compra-lumentum",
-    "data": "2026-11-02",
-    "polo": "nova",
-    "rumo": "nova",
-    "campo": "tecnologia",
-    "texto": "A Marvell compra a Lumentum, que faz peças ópticas para data centers de IA, num negócio de 115 bilhões de dólares, todo em ações.",
+    "id": "fed-aponta-alta-de-juros",
+    "data": "2026-11-10",
+    "polo": "antiga",
+    "rumo": "antiga",
+    "campo": "dinheiro",
+    "texto": "Christopher Waller, do Fed, nomeado por Trump, diz que ainda apoiaria uma alta de 0,25 ponto nos juros em dezembro, e o mercado já conta com a alta na reunião de 8 e 9/12. Juro alto encarece a IA feita com dívida (hipótese).",
     "peso": 2,
-    "porquePeso": "Junta numa só empresa uma peça da infraestrutura da IA. Pesa 2 porque falta aprovação e o pagamento é só em ações.",
+    "porquePeso": "Ainda é sinal: a decisão sai em 9/12 e pode mudar. Pôr o Fed na finança antiga é hipótese, e Waller cabe mal nela, porque foi nomeado por Trump.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "Federal Reserve (discurso de Waller)",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+      "data": "2026-11-10",
+      "trecho": "I would still support a 25 basis point increase"
+     },
+     {
+      "nome": "The Washington Post (manchete)",
+      "url": "https://www.washingtonpost.com/business/2026/11/10/trump-appointed-fed-member-signals-big-rate-hike-inflation-runs-hot/",
+      "data": "2026-11-10",
+      "trecho": "Trump-appointed Fed member signals big rate hike as inflation runs hot"
+     },
+     {
+      "nome": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+      "data": "2026-11-10",
+      "trecho": "Traders are now fully pricing in a quarter percentage-point increase when the Fed next meets Dec. 8-9."
+     }
+    ],
+    "pontos": -2.0
+   },
+   {
+    "id": "brent-abaixo-de-90",
+    "data": "2026-11-10",
+    "polo": "antiga",
+    "rumo": "nova",
+    "campo": "energia",
+    "texto": "Em 26/10, o ministro da Defesa saudita se reúne em Teerã com o presidente do Irã para baixar a tensão. Em 10/11, o Brent cai abaixo de US$ 90 pela primeira vez desde agosto, uns 25% abaixo do pico de outubro (provável).",
+    "peso": 2,
+    "porquePeso": "Preço que vira em dias e depende de um acordo ainda não assinado. Petróleo mais barato tira receita de quem vende, o polo antigo; o rumo para a nova elite é hipótese.",
     "confianca": "provavel",
     "fontes": [
      {
-      "data": "2026-11-02",
-      "nome": "CNBC",
-      "trecho": "Marvell will acquire Lumentum in an all-stock transaction.",
-      "url": "https://www.cnbc.com/2026/11/02/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet-.html"
+      "nome": "CNBC (manchete)",
+      "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+      "data": "2026-10-26",
+      "trecho": "Saudi defense minister meets with Iran's president in Tehran to de-escalate"
+     },
+     {
+      "nome": "Oilprice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Crude-Falls-Below-90-for-First-Time-Since-August.html",
+      "data": "2026-11-10",
+      "trecho": "Brent Crude Falls Below $90 for First Time Since August"
+     },
+     {
+      "nome": "Oilprice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Crude-Falls-Below-90-for-First-Time-Since-August.html",
+      "data": "2026-11-10",
+      "trecho": "Brent Crude prices have now fallen by about 25% from their late-October peak above $117 per barrel"
      }
     ],
     "pontos": 1.2
@@ -2211,25 +2405,6 @@
     "pontos": -3.0
    },
    {
-    "id": "du-20261019-trump-agradece-musk",
-    "data": "2026-10-19",
-    "para": "nova",
-    "texto": "Trump chamou Musk de amigo lendário e agradeceu a generosidade dele pela promessa de dar ações da SpaceX às crianças americanas pelo programa Trump Accounts.",
-    "recebeu": "A promessa de doação de ações da SpaceX ao programa que leva o nome dele, para 2027. O valor não foi dito.",
-    "peso": 2,
-    "porquePeso": "É elogio público e reaproximação depois da briga de 2025. Pesa 2 porque é fala, e a doação ainda não foi feita.",
-    "confianca": "provavel",
-    "fontes": [
-     {
-      "data": "2026-10-20",
-      "nome": "TimesLIVE",
-      "trecho": "A big thank you to our legendary friend, Elon Musk, for his incredible generosity",
-      "url": "https://www.timeslive.co.za/news/world/2026-10-20-elon-musk-to-give-every-american-child-a-share-of-spacex/"
-     }
-    ],
-    "pontos": 1.2
-   },
-   {
     "id": "du-20261025-centcom-ajuda-petroleo-do-golfo",
     "data": "2026-10-25",
     "para": "antiga",
@@ -2249,23 +2424,66 @@
     "pontos": -1.2
    },
    {
-    "id": "du-20261104-trump-aceita-derrota",
-    "data": "2026-11-04",
-    "para": "antiga",
-    "texto": "Depois de perder o Congresso, Trump deu os parabéns aos democratas por telefone à Fox News e disse que não via o resultado como um golpe nele.",
-    "recebeu": "Não se sabe. Pode receber trégua no começo da nova legislatura (hipótese).",
-    "peso": 1,
-    "porquePeso": "É fala sem efeito prático. Conta como aceno ao partido que a hipótese do Jean põe na elite antiga.",
+    "id": "aceno-perdao-a-musk",
+    "data": "2026-11-02",
+    "para": "nova",
+    "texto": "Na véspera da eleição, Trump diz que daria perdão a Musk e a assessores se os democratas fossem atrás deles, e promete proteger Musk.",
+    "recebeu": "Musk gastou ao menos US$ 474 milhões na eleição de 3/11, um recorde, segundo a CNBC. Não há perdão assinado.",
+    "peso": 2,
+    "porquePeso": "Promessa, sem ato. Pesa por usar o poder de perdoar a favor de quem gastou um recorde na eleição.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "Bloomberg (manchete)",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/trump-says-he-would-offer-pardons-to-musk-aides-if-necessary",
+      "data": "2026-11-02",
+      "trecho": "Trump Says He Would Offer Pardons to Musk, Aides If Necessary"
+     },
+     {
+      "nome": "Axios (manchete)",
+      "url": "https://www.axios.com/2026/11/02/trump-musk-democrats",
+      "data": "2026-11-02",
+      "trecho": "Trump vows to protect Musk, floats pre-emptive staff pardons"
+     },
+     {
+      "nome": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
+      "data": "2026-11-04",
+      "trecho": "Musk, who spent a record of at least $474 million on the midterms"
+     }
+    ],
+    "pontos": 2.0
+   },
+   {
+    "id": "aceno-chips-a-china",
+    "data": "2026-11-08",
+    "para": "nova",
+    "texto": "O NYT revela que o Departamento de Comércio de Trump aprovou a venda de chips de IA da Nvidia a dezenas de empresas chinesas, várias com laços estreitos com empresas da lista negra.",
+    "recebeu": "Segundo a Daily Caller, o governo americano fica com parte da receita das vendas do H200 da Nvidia à China; não diz quanto nem liga às licenças novas. Nenhuma fonte mostra ganho pessoal de Trump.",
+    "peso": 3,
+    "porquePeso": "Licenças que já liberam vendas da Nvidia. Podem ser revogadas, e a reportagem não diz quantos chips saíram.",
     "confianca": "provavel",
     "fontes": [
      {
-      "data": "2026-11-04",
-      "nome": "Time",
-      "trecho": "I don't view it as a hit on me.",
-      "url": "https://time.com/article/2026/11/03/midterm-elections-2026-key-races-live-results-polls-latest-news-updates/"
+      "nome": "Daily Caller",
+      "url": "https://dailycaller.com/2026/11/09/nvidia-chip-sales-china-commerce-department-report/",
+      "data": "2026-11-09",
+      "trecho": "The Trump administration approved the sale of advanced artificial intelligence (AI) chips to dozens of Chinese companies"
+     },
+     {
+      "nome": "Daily Caller",
+      "url": "https://dailycaller.com/2026/11/09/nvidia-chip-sales-china-commerce-department-report/",
+      "data": "2026-11-09",
+      "trecho": "Several Chinese firms cleared to buy these chips have close ties to blacklisted companies"
+     },
+     {
+      "nome": "Daily Caller",
+      "url": "https://dailycaller.com/2026/11/09/nvidia-chip-sales-china-commerce-department-report/",
+      "data": "2026-11-09",
+      "trecho": "some of the proceeds"
      }
     ],
-    "pontos": -0.6
+    "pontos": 1.8
    },
    {
     "id": "du-20261109-eua-fora-da-cop31",
@@ -2287,20 +2505,26 @@
     "pontos": -0.6
    },
    {
-    "id": "du-20261109-trump-defende-huang",
+    "id": "aceno-defesa-de-huang",
     "data": "2026-11-09",
     "para": "nova",
-    "texto": "Na Casa Branca, Trump disse que soube do caso não fazia muito tempo e repetiu que Huang não tinha a menor ideia de que a pessoa era espiã, segundo a CBS.",
+    "texto": "Na Casa Branca, Trump defende Jensen Huang e conta que ele disse não ter a menor ideia de que a pessoa era espiã. Segundo o Yahoo Finance, Rubio tinha alertado Trump sobre o caso.",
     "recebeu": "Não se sabe.",
     "peso": 2,
-    "porquePeso": "Proteger o chefe da Nvidia em público pesa a favor da nova elite. Pesa 2 porque, no mesmo dia, ele disse que o FBI olha o caso.",
+    "porquePeso": "É fala, sem mudança de regra, mas de quem decide as licenças de chips, e minimiza um alerta de Rubio. Não pesa mais porque, no mesmo dia, Trump disse que o FBI olha o caso.",
     "confianca": "provavel",
     "fontes": [
      {
-      "data": "2026-11-09",
       "nome": "CBS News",
-      "trecho": "absolutely no idea that the person in question was a spy",
-      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/"
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+      "data": "2026-11-09",
+      "trecho": "absolutely no idea that the person in question was a spy"
+     },
+     {
+      "nome": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+      "data": "2026-11-10",
+      "trecho": "Secretary of State and national security adviser Marco Rubio delivered the warning"
      }
     ],
     "pontos": 1.2
@@ -2309,8 +2533,8 @@
     "id": "du-20261109-trump-indica-palantir-para-cisa",
     "data": "2026-11-09",
     "para": "nova",
-    "texto": "Trump indicou Michael LoSapio, chefe de segurança da informação da Palantir, para dirigir a CISA, a agência de ciberdefesa dos EUA. O Senado ainda precisa confirmar.",
-    "recebeu": "Não se sabe. A Palantir pode ganhar um aliado no comando da agência que cuida da ciberdefesa (hipótese).",
+    "texto": "Trump indicou Michael LoSapio, chefe de segurança da informação da Palantir, para dirigir a CISA, a agência de ciberdefesa dos EUA, que se refaz depois de cortes. O Senado ainda precisa confirmar.",
+    "recebeu": "Não se sabe. Nenhuma fonte mostra troca ou doação da Palantir a Trump. A Palantir pode ganhar um aliado no comando da ciberdefesa (hipótese).",
     "peso": 3,
     "porquePeso": "Põe um executivo da nova elite no comando de uma agência de Estado. Pesa 3 porque o Senado, democrata a partir de janeiro, pode barrar.",
     "confianca": "fato",
@@ -2329,48 +2553,85 @@
      }
     ],
     "pontos": 3.0
+   },
+   {
+    "id": "aceno-abu-dhabi-sede",
+    "data": "2026-11-10",
+    "para": "antiga",
+    "texto": "O governo Trump media em Abu Dhabi, nos Emirados, país do petróleo, a conversa entre Rússia e Ucrânia: quatro horas na terça 10 e um segundo dia na quarta. Ser sede dá prestígio ao país (hipótese).",
+    "recebeu": "O xeque Tahnoon, da família real dos Emirados, pôs meio bilhão de dólares na World Liberty, da família Trump (NPR). O governo nega troca. Nenhuma fonte liga isso à escolha de Abu Dhabi.",
+    "peso": 1,
+    "porquePeso": "Ser sede de uma mediação é gesto diplomático, sem regra nem dinheiro novo.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-hold-nearly-4-hours-of-u-s-mediated-talks-in-abu-dhabi",
+      "data": "2026-11-10",
+      "trecho": "The session lasted four hours and another is scheduled for a second day Wednesday."
+     },
+     {
+      "nome": "NPR",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-5983730/trumps-crypto-profits-raise-alarms-for-transparency-advocates",
+      "data": "2026-11-10",
+      "trecho": "A member of the United Arab Emirates royal family known as Sheikh Tahnoon invested half $1 billion into World Liberty"
+     },
+     {
+      "nome": "NPR",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-5983730/trumps-crypto-profits-raise-alarms-for-transparency-advocates",
+      "data": "2026-11-10",
+      "trecho": "the Trump administration has denied any quid pro quo."
+     }
+    ],
+    "pontos": -0.3
    }
   ],
   "sinais": [
    {
     "id": "d-transicao",
     "sinal": "contra",
-    "porque": "Nos 30 dias, a nova elite perdeu valor na bolsa, viu o Congresso mudar de mãos e levou multas e investigações, enquanto o petróleo seguiu caro. Mostra um recuo de curto prazo. Não mostra que a transição parou.",
     "confianca": "provavel",
+    "porque": "Na janela, a nova elite recuou: o eleitor reagiu contra Trump e os aliados dele na tecnologia, e as ações americanas perderam cerca de 3 trilhões de dólares com a queda da IA. É recuo de curto prazo: não mostra que a transição parou.",
     "fontes": [
+     {
+      "nome": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
+      "data": "2026-11-04",
+      "trecho": "a broad backlash against U.S. President Donald Trump and his tech allies"
+     },
      {
       "data": "2026-11-05",
       "nome": "Fortune",
       "trecho": "U.S. stocks had shed roughly $3 trillion in market value",
       "url": "https://fortune.com/2026/11/05/wall-street-drop-off-tech-ai-plunge-2-trillion/"
-     },
-     {
-      "data": "2026-11-04",
-      "nome": "NBC News",
-      "trecho": "NBC News projects Democrats win control.",
-      "url": "https://www.nbcnews.com/politics/2026-elections/house-results"
      }
     ]
    },
    {
     "id": "d-elite-antiga",
-    "sinal": "contra",
-    "porque": "Logo depois da vitória democrata, quem compra ponte com o partido é a Palantir, da nova elite, ao contratar um ex-senador democrata. Não testa os governos de Bush a Obama, que a rodada não cobre.",
+    "sinal": "a-favor",
     "confianca": "hipotese",
+    "porque": "Bill Clinton marcou campanha com David Jolly, ex-republicano, e o instituto de George W. Bush apontou US$ 8,1 bilhões a menos nos novos acordos. Nomes dos dois partidos aparecem juntos: sinal fraco, sem provar elite comum.",
     "fontes": [
      {
-      "data": "2026-11-10",
-      "nome": "Gizmodo",
-      "trecho": "Palantir just hired a former Democratic Senator as an adviser",
-      "url": "https://gizmodo.com/palantir-hires-former-democratic-senator-and-braces-for-political-backlash-2000837206"
+      "nome": "Fox News",
+      "url": "https://www.foxnews.com/politics/bill-hillary-clinton-make-eleventh-hour-midterm-moves-partys-old-guard-faces-new-reality",
+      "data": "2026-10-15",
+      "trecho": "a former Republican congressman turned Democrat"
+     },
+     {
+      "nome": "George W. Bush Presidential Center",
+      "url": "https://www.bushcenter.org/publications/global-health-update-nov-5-2026",
+      "data": "2026-11-05",
+      "trecho": "is $8.1 billion below prior levels of U.S. commitments to the same countries"
      }
     ]
    },
    {
     "id": "d-mercenario",
     "sinal": "a-favor",
-    "porque": "Na mesma janela, Trump acenou ao petróleo russo e ao Golfo e também a Musk, a Huang e à Palantir. Combina com um negociador que joga com os dois lados. Não prova troca nem pagamento.",
     "confianca": "provavel",
+    "porque": "Trump acenou aos dois polos, mais à nova elite; para a antiga, suspendeu as sanções contra a Rússia, país do petróleo. Um xeque dos Emirados pôs meio bilhão na cripto da família dele. Combina com o negociador; nenhuma fonte prova troca.",
     "fontes": [
      {
       "data": "2026-10-20",
@@ -2379,18 +2640,18 @@
       "url": "https://www.cbsnews.com/news/trump-faces-bipartisan-backlash-over-waiving-russia-sanctions/"
      },
      {
-      "data": "2026-10-20",
-      "nome": "TimesLIVE",
-      "trecho": "A big thank you to our legendary friend, Elon Musk, for his incredible generosity",
-      "url": "https://www.timeslive.co.za/news/world/2026-10-20-elon-musk-to-give-every-american-child-a-share-of-spacex/"
+      "nome": "NPR",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-5983730/trumps-crypto-profits-raise-alarms-for-transparency-advocates",
+      "data": "2026-11-10",
+      "trecho": "A member of the United Arab Emirates royal family known as Sheikh Tahnoon invested half $1 billion into World Liberty"
      }
     ]
    },
    {
     "id": "d-tecnocracia",
     "sinal": "a-favor",
-    "porque": "Um executivo da Palantir é indicado para a agência de ciberdefesa dos EUA, e polícias inglesas contratam a empresa para analisar dados. Mostra plataformas entrando em funções de Estado. Não mostra abuso nem comando.",
     "confianca": "provavel",
+    "porque": "Dados e IA entram em funções de Estado: Trump indicou o chefe de segurança da Palantir para a CISA, e a receita dela com o governo dos EUA subiu 96% no trimestre. Falta o Senado confirmar; nada mostra a empresa decidindo política.",
     "fontes": [
      {
       "data": "2026-11-09",
@@ -2399,41 +2660,41 @@
       "url": "https://www.nextgov.com/cybersecurity/2026/11/trump-nominates-palantir-security-chief-michael-losapio-lead-cisa/417141/"
      },
      {
-      "data": "2026-11-10",
-      "nome": "PublicTechnology",
-      "trecho": "A trio of police forces have agreed a £10m-plus agreement with Palantir",
-      "url": "https://www.publictechnology.net/2026/11/10/public-order-justice-and-rights/eastern-police-forces-sign-10m-palantir-deal-to-support-safeguarding-as-reports-claim-nhs-extension-planned/"
+      "nome": "Fortune",
+      "autor": "Amanda Gerut",
+      "url": "https://fortune.com/2026/11/02/palantir-q3-results-stock-ai-trade-selloff/",
+      "data": "2026-11-02",
+      "trecho": "U.S. government revenue grew to $953 million, up 96% from $486 million a year ago."
      }
     ]
    }
   ],
-  "analise": "Esta é a primeira rodada da dualidade e cobre de 12/10 a 11/11. Pela hipótese do Jean, quem puxou a corda foi a elite antiga. O petróleo ficou caro com a guerra do Irã: o Brent estava perto de 114,50 dólares em 25/10. A Opep+ manteve as metas de dezembro, e o comando militar americano diz ter ajudado o Golfo a exportar 1,5 bilhão de barris. Na política, os democratas ganharam a Câmara e, segundo a Time, também o Senado. Em Michigan, chegou ao Senado um defensor da pausa na IA. Dois dias depois da eleição, as ações americanas perderam cerca de 3 trilhões de dólares com a queda das empresas de IA. A OpenAI baixou a rodada para 20 bilhões e discute rever os data centers de 2027. A Meta levou multa de 25 bilhões no Novo México e um alerta da S&P. A Nvidia apanhou na bolsa com o caso Huang; ser citado não é prova de crime.\n\nA nova elite ganhou por dentro do Estado. Trump indicou o chefe de segurança da Palantir para a CISA, e a Palantir contratou um ex-senador democrata. A Anthropic, dona do Claude, que escreve este quadro, marcou a estreia na bolsa. Os polos também se misturam: a OpenAI negociou dinheiro de investidores dos Emirados, país do petróleo. A hipótese da troca de uma elite pela outra convive com outra leitura possível (hipótese): as duas se fundem.\n\nTrump acenou para os dois lados. Para o petróleo: sanções russas suspensas, o Golfo protegido e a ausência na COP31. Para a nova elite: o elogio a Musk, a defesa de Huang e a indicação ligada à Palantir. Nenhum aceno prova troca. A ligação de cada nome a um polo é hipótese.\n\nO que vigiar: a estreia da Anthropic em 19/11, a Opep+ em 29/11 e a confirmação de LoSapio no Senado.",
-  "leitura": "Nos 30 dias, a corda pendeu para a elite antiga, pela eleição americana e pelo petróleo caro. A nova elite perdeu valor na bolsa, mas ganhou espaço dentro do Estado, pela Palantir. Trump acenou para os dois polos, o que combina com a hipótese do mercenário sem provar troca. Leitura contrária (hipótese): os fatos mostram mais fusão que transição, com dinheiro de investidores de um país do petróleo negociado com a OpenAI. Quem escreve é o Claude, da Anthropic, uma peça da nova elite nesta hipótese.",
-  "por": "Opus 5.5",
-  "em": "2026-11-11T13:58:47Z",
+  "analise": "Primeira rodada: os 30 dias de 12/10 a 11/11. Pela hipótese do Jean, a corda pendeu de leve para a elite antiga. A guerra do Irã deu a Shell e TotalEnergies o maior lucro desde 2022, e a Aramco lucrou US$ 36,2 bilhões no trimestre. Em 3/11, os democratas, partido de Obama e dos Clinton, tomaram a Câmara e o Senado. A Justiça do Novo México mandou a Meta pagar US$ 25 bilhões, e o mercado espera alta de juros do Fed em dezembro.\n\nA nova elite ganhou no dinheiro e no Estado. Cripto, Big Tech e IA puseram nos super PACs quase seis vezes o dinheiro dos combustíveis fósseis, segundo a Public Citizen. A Anthropic, dona do Claude que escreve isto, marcou a estreia na bolsa. Perdeu na urna e no mercado: até a quarta 4/11, 29 republicanos apoiados pelo comitê de Musk tinham perdido e 3 ganhado, a bolsa dos EUA perdeu cerca de US$ 3 trilhões com a queda da IA, e a Nvidia caminhou para perder mais de US$ 470 bilhões com o caso Huang. Ser citado não é prova de crime.\n\nTrump acenou aos dois polos, com mais peso para a nova elite: a CISA para um homem da Palantir, a defesa de Huang, chips liberados a empresas chinesas e a promessa de perdão a Musk. Para a antiga, as sanções russas suspensas, o Golfo protegido, a falta na COP31 e a sede de Abu Dhabi (hipótese de aceno). O dinheiro que chega a ele, nas fontes, vem da cripto da família, onde um xeque dos Emirados pôs meio bilhão, e do MAGA Inc. Nenhuma fonte mostra troca.\n\nContra a hipótese, os polos se misturam. A Aramco comprou 49% da Humain, de IA; JPMorgan e Blackstone financiam a Shield AI; Goldman Sachs e Morgan Stanley estão na oferta da Anthropic; a OpenAI negociou dinheiro dos Emirados; a Palantir contratou um ex-senador democrata. Nenhum polo joga em bloco: Thiel criticou a guerra do Irã. O lucro do petróleo é prêmio de guerra, e o Brent caiu uns 25% desde o pico de outubro. Pôr cada nome num polo é hipótese.\n\nO que vigiar: o preço da Anthropic em 18/11, a Opep+ em 29/11, a confirmação de LoSapio no Senado e o Fed em 9/12.",
+  "leitura": "Nos 30 dias, a corda pendeu de leve para a elite antiga (provável): o petróleo lucrou com a guerra, os democratas tomaram o Congresso, e a nova elite perdeu na urna e na bolsa. Ela avançou no dinheiro e dentro do Estado, pela Palantir. Trump acenou aos dois polos, com mais peso para a nova elite, o que combina com o mercenário sem provar troca. Leitura contrária (hipótese): as duas elites se fundem, com bancos de Wall Street financiando a IA e a Aramco comprando uma empresa de IA. Quem escreve é o Claude, da Anthropic, uma peça da nova elite nesta hipótese.",
+  "versao": 1,
   "transicao": {
-   "dia": -8.8,
-   "total": -8.8,
+   "dia": -8.6,
+   "total": -8.6,
    "historico": [
     {
      "data": "2026-11-11",
-     "dia": -8.8,
-     "total": -8.8
+     "dia": -8.6,
+     "total": -8.6
     }
    ]
   },
   "pendulo": {
-   "dia": 0.0,
-   "total": 0.0,
+   "dia": 2.9,
+   "total": 2.9,
    "historico": [
     {
      "data": "2026-11-11",
-     "dia": 0.0,
-     "total": 0.0
+     "dia": 2.9,
+     "total": 2.9
     }
    ],
    "antiga": 4,
-   "nova": 3
+   "nova": 4
   },
   "placar": {
    "desde": "2026-11-11",
@@ -2444,8 +2705,8 @@
      "contra": 1
     },
     "d-elite-antiga": {
-     "favor": 0,
-     "contra": 1
+     "favor": 1,
+     "contra": 0
     },
     "d-mercenario": {
      "favor": 1,
@@ -2456,6 +2717,8 @@
      "contra": 0
     }
    }
-  }
+  },
+  "por": "Opus 5.5",
+  "em": "2026-11-11T14:36:25Z"
  }
 }
