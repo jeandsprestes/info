@@ -516,5 +516,1464 @@
    "resumo": "Seleção de projetos de exposição para a temporada 2027 do Paço das Artes, em São Paulo. A inscrição é gratuita e pela internet.",
    "url": "https://abcdoabc.com.br/paco-das-artes-temporada-de-projetos-2027"
   }
- ]
+ ],
+ "mapa": {
+  "versao": 3,
+  "por": "Opus 5.5",
+  "em": "2026-11-11T21:29:14Z",
+  "players": [
+   {
+    "id": "core-financeiro",
+    "dia": "O Core Financeiro se moveu pela oferta de ações da Anthropic (dona do Claude, que escreve este jornal). Segundo a Bloomberg, a procura passa várias vezes o número de ações à venda. O pedido de registro diz que Goldman Sachs e Morgan Stanley lideram a oferta, com mais 20 bancos. A Morgan Stanley está na lista do Jean com este player; a ligação é a hipótese da lista. Com procura alta, o preço inicial pode subir, decisão da Anthropic, não dos bancos, segundo a reportagem. Na COP31, uma coalizão de crédito para os países em desenvolvimento nasce com o Banco Mundial e o Banco Africano de Desenvolvimento como copresidentes em 2027; esses bancos não estão na lista, e ligá-los ao player é hipótese. O autor deste texto tem interesse direto na oferta.",
+    "ganhos": [
+     {
+      "texto": "Morgan Stanley e Goldman Sachs lideram uma oferta de IA com procura várias vezes maior que a oferta, segundo a Bloomberg (a ligação ao player é a hipótese da lista).",
+      "confianca": "hipotese"
+     }
+    ],
+    "perdas": [],
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed",
+      "data": "2026-11-11",
+      "trecho": "Anthropic IPO Draws Oversubscription as Demand Surges for Record Listing"
+     },
+     {
+      "nome": "Yahoo Finanças (Investing.com)",
+      "url": "https://sg.finance.yahoo.com/news/anthropic-ipo-demand-exceeds-available-135623631.html",
+      "data": "2026-11-11",
+      "trecho": "Goldman Sachs and Morgan Stanley are leading the offering, with 20 other banks participating, according to the filing."
+     }
+    ],
+    "saldo": "ganha"
+   },
+   {
+    "id": "deep-state-eua",
+    "dia": "Nenhuma agência (CIA, NSA, DIA, FBI) teve ato visível na janela. O movimento veio de uma casa vizinha, a Câmara dos EUA: Brian Mast, John Moolenaar e Rick Crawford deram a Jensen Huang, da Nvidia, até o fim de 11/11 para aceitar uma conversa fechada, e a comissão de Mast prepara a intimação. Ligar a Câmara a este player é hipótese: quem age são deputados eleitos, e nada mostra comando de agência. O caso nasceu de relatos sobre Alice Huang, da Megaspeed, que seguem sem prova; ser citado não é prova de crime.",
+    "ganhos": [
+     {
+      "texto": "A pressão sobre Huang deixa de ser ameaça e vira intimação em preparo (a ligação da Câmara ao player é hipótese).",
+      "confianca": "hipotese"
+     }
+    ],
+    "perdas": [],
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "data": "2026-11-11",
+      "trecho": "his committee is preparing a subpoena for Huang to send if he doesn’t respond"
+     }
+    ],
+    "saldo": "ganha"
+   },
+   {
+    "id": "empresas-controle",
+    "dia": "Parado. Nenhum ato de RAND, Brookings, Heritage, das empresas militares privadas ou das grandes gestoras apareceu nas notícias da janela.",
+    "ganhos": [],
+    "perdas": [],
+    "confianca": "provavel",
+    "fontes": [],
+    "saldo": "parado"
+   },
+   {
+    "id": "oligarquia-digital",
+    "dia": "A Oligarquia Digital ficou dividida. O Google lançou o Gemini Decision 1, um modelo que escolhe entre respostas prontas em vez de escrever, a 0,10 dólar por milhão de tokens de entrada e nada pela saída: um preço feito para ganhar volume na camada de decisão dos agentes (provável). O DeepMind lançou o AlphaGenome 2, que prevê como uma mudança no DNA age em cada tipo de célula, aberto para pesquisa e pago no uso comercial. A Nvidia, casa vizinha da Big Tech, voltou cerca de 3% depois de cair 4,3% e 5,5%, mas segue sob cerco: o prazo da Câmara para Huang venceu em 11/11. A conta SpaceX Super Intelli postou o Grok Bot 1.0, sem outra fonte. A OpenAI apresentou no X uma pesquisa sobre vigiar o raciocínio escrito dos modelos. O autor, da Anthropic, concorre com todas essas casas.",
+    "ganhos": [
+     {
+      "texto": "O Google entra na camada de decisão dos agentes com preço baixo, o Gemini Decision 1 (provável).",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "O DeepMind se põe no centro da pesquisa genética com o AlphaGenome 2, aberto à pesquisa e pago no uso comercial (provável).",
+      "confianca": "provavel"
+     }
+    ],
+    "perdas": [
+     {
+      "texto": "A Nvidia recupera só parte da queda, e Huang segue sob pressão da Câmara (provável).",
+      "confianca": "provavel"
+     }
+    ],
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Blog do Google",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "data": "2026-11-11",
+      "trecho": "Gemini Decision 1 can process text, images, audio, video, and PDFs directly in a single forward pass."
+     },
+     {
+      "nome": "Blog do Google DeepMind",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "data": "2026-11-11",
+      "trecho": "AlphaGenome 2 can match or outperform models trained or fine-tuned directly on those datasets."
+     },
+     {
+      "nome": "Coinpaper",
+      "url": "https://coinpaper.com/38694/nvidia-stock-rebounds-3-as-board-probe-deepens-and-congress-pressures-jensen-huang-make",
+      "data": "2026-11-11",
+      "trecho": "Shares traded near $174.29 after falling 4.3% Monday and another 5.5% Tuesday."
+     }
+    ],
+    "saldo": "disputa"
+   },
+   {
+    "id": "deep-state-europa-asia",
+    "dia": "O player avançou pelas duas capitais do leste. Moscou: depois de Abu Dhabi, Kushner e Witkoff, enviados de Trump, vão falar com Putin em casa, e só depois com Zelensky, em Dublin. A troca de prisioneiros saiu acertada só em princípio, e o número fica para 12/11. A ordem da viagem coloca Putin antes de Zelensky (provável). Pequim: na noite de 10/11, Scott Bessent, secretário do Tesouro, anunciou um novo mecanismo de diálogo com a China sobre superinteligência. A China ganha um canal de governo com os EUA sobre a IA mais avançada, a uma semana do encontro de Trump e Xi em Shenzhen (provável). O lado europeu do player segue fora da mesa direta: Kushner diz que as conversas em Moscou testam se os europeus podem entrar. A ligação da Rússia, da China e da Europa ao player é hipótese da lista.",
+    "ganhos": [
+     {
+      "texto": "A Rússia recebe os enviados de Trump em Moscou antes de Zelensky ser ouvido (provável).",
+      "confianca": "provavel"
+     },
+     {
+      "texto": "A China ganha um canal de governo com os EUA sobre superinteligência antes de Shenzhen (provável).",
+      "confianca": "provavel"
+     }
+    ],
+    "perdas": [
+     {
+      "texto": "A União Europeia segue fora da mesa direta (provável).",
+      "confianca": "provavel"
+     }
+    ],
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "The Hill, na Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/russia-ukraine-agree-large-prisoner-152650609.html",
+      "data": "2026-11-11",
+      "trecho": "Kushner and Witkoff are headed to Moscow to meet with Russian President Vladimir Putin"
+     },
+     {
+      "nome": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+      "data": "2026-11-11",
+      "trecho": "a new dialogue mechanism on"
+     }
+    ],
+    "saldo": "disputa"
+   },
+   {
+    "id": "nova-ordem",
+    "dia": "A Nova Ordem Mundial se moveu pela COP31, a conferência do clima da ONU em Antalya. A presidência turca propõe uma meta voluntária: a eletricidade chegar a 35% da energia final do mundo até 2035, contra cerca de 23% hoje, com cada país dono do próprio plano. Nasce também uma coalizão de crédito para os países em desenvolvimento, com Banco Mundial e Banco Africano de Desenvolvimento como copresidentes em 2027. A meta é voluntária e deixa cada país com o próprio plano (provável). A ligação da COP ao player é a hipótese da lista, que fala da pauta do clima.",
+    "ganhos": [
+     {
+      "texto": "A presidência da COP31 propõe uma meta voluntária de eletrificação e lança uma coalizão de crédito (provável).",
+      "confianca": "provavel"
+     }
+    ],
+    "perdas": [
+     {
+      "texto": "A meta é voluntária, e cada país manda no próprio plano (provável).",
+      "confianca": "provavel"
+     }
+    ],
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "Finchannel",
+      "url": "https://finchannel.com/cop31-electrification-pledge-puts-35-global-power-target-at-center-of-antalya-talks/141132/environment/2026/11/",
+      "data": "2026-11-11",
+      "trecho": "participating countries retain authority over their own electrification plans"
+     },
+     {
+      "nome": "RTÉ",
+      "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/",
+      "data": "2026-11-11",
+      "trecho": "Turkey has said it wants governments to sign a pledge to electrify 35% of the global economy by 2035"
+     }
+    ],
+    "saldo": "disputa"
+   },
+   {
+    "id": "espionagem-privada",
+    "dia": "Parado. A Palantir não teve ato novo nas notícias da janela; o contrato com as polícias inglesas e a indicação de um chefe dela para a CISA já entraram nas edições de 10 e 11/11.",
+    "ganhos": [],
+    "perdas": [],
+    "confianca": "provavel",
+    "fontes": [],
+    "saldo": "parado"
+   }
+  ],
+  "casas": [
+   {
+    "id": "abu-dhabi",
+    "nome": "Abu Dhabi",
+    "dominio": "territorio",
+    "dono": "",
+    "aconteceu": "No segundo dia, Rússia e Ucrânia acertam uma troca de prisioneiros em grande escala, ainda sem número; Kushner diz que não há confiança entre os lados.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "The Hill, na Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/russia-ukraine-agree-large-prisoner-152650609.html",
+      "data": "2026-11-11",
+      "trecho": "Kushner and Witkoff are headed to Moscow to meet with Russian President Vladimir Putin"
+     },
+     {
+      "nome": "Fox Baltimore",
+      "url": "https://foxbaltimore.com/news/nation-world/russia-ukraine-agree-to-major-pow-prisoner-of-war-swap-but-peace-talks-end-without-breakthrough-putin-zelenskyy-envoy-steve-witkoff-trump-son-in-law-jared-kushner-united-arab-emirates",
+      "data": "2026-11-11",
+      "trecho": "There's no trust right now between the sides"
+     }
+    ]
+   },
+   {
+    "id": "kremlin",
+    "nome": "Kremlin",
+    "dominio": "governo",
+    "dono": "deep-state-europa-asia",
+    "aconteceu": "Vai receber Kushner e Witkoff em Moscou, depois de Abu Dhabi. Dono: hipótese da lista, que põe a Rússia com este player.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "The Hill, na Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/russia-ukraine-agree-large-prisoner-152650609.html",
+      "data": "2026-11-11",
+      "trecho": "Kushner and Witkoff are headed to Moscow to meet with Russian President Vladimir Putin"
+     }
+    ]
+   },
+   {
+    "id": "apec-shenzhen",
+    "nome": "APEC em Shenzhen",
+    "dominio": "territorio",
+    "dono": "deep-state-europa-asia",
+    "aconteceu": "Trump deve ir a Shenzhen na semana que vem para ver Xi pela terceira vez no ano. Dono: hipótese, a China recebe a cúpula.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "AP, na Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/treasury-secretary-scott-bessent-calls-022843614.html",
+      "data": "2026-11-11",
+      "trecho": "Trump is expected to travel to the southern Chinese city of Shenzhen next week to meet Xi for the third time this year."
+     }
+    ]
+   },
+   {
+    "id": "tesouro-eua",
+    "nome": "Tesouro dos EUA",
+    "dominio": "dinheiro",
+    "dono": "",
+    "aconteceu": "Bessent anuncia, em Nova York, um novo diálogo com a China sobre superinteligência e diz que o objetivo é reduzir o risco, não romper.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+      "data": "2026-11-11",
+      "trecho": "a new dialogue mechanism on"
+     },
+     {
+      "nome": "WHBL (Reuters)",
+      "url": "https://whbl.com/2026/11/10/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/",
+      "data": "2026-11-10",
+      "trecho": "The dialogue is meant to guard against shared risks"
+     }
+    ]
+   },
+   {
+    "id": "camara-eua",
+    "nome": "Câmara dos EUA",
+    "dominio": "governo",
+    "dono": "",
+    "aconteceu": "Vence em 11/11 o prazo para Huang aceitar uma conversa fechada; a comissão de Mast prepara a intimação.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "data": "2026-11-11",
+      "trecho": "Huang has until the end of the day to respond to the request."
+     },
+     {
+      "nome": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/congress-set-to-subpoena-nvidia-s-jensen-huang-republican-says",
+      "data": "2026-11-11",
+      "trecho": "Congress Set to Subpoena Nvidia's Jensen Huang, Republican Says"
+     }
+    ]
+   },
+   {
+    "id": "nvidia",
+    "nome": "Nvidia",
+    "dominio": "tecnologia",
+    "dono": "oligarquia-digital",
+    "aconteceu": "A ação volta cerca de 3%, para perto de 174,29 dólares, depois de cair 4,3% e 5,5%.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "Coinpaper",
+      "url": "https://coinpaper.com/38694/nvidia-stock-rebounds-3-as-board-probe-deepens-and-congress-pressures-jensen-huang-make",
+      "data": "2026-11-11",
+      "trecho": "Shares traded near $174.29 after falling 4.3% Monday and another 5.5% Tuesday."
+     },
+     {
+      "nome": "The Hill",
+      "url": "https://thehill.com/business/6213397-nvidia-stock-rebounds-ceo-probe/",
+      "data": "2026-11-11",
+      "trecho": "Nvidia stocks rise as lawmaker scrutiny intensifies over CEO Jensen Huang"
+     }
+    ]
+   },
+   {
+    "id": "oferta-anthropic",
+    "nome": "Oferta de ações da Anthropic",
+    "dominio": "dinheiro",
+    "dono": "",
+    "aconteceu": "A procura passa várias vezes a oferta, segundo a Bloomberg. A Anthropic é a dona do Claude, que escreve este jornal.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed",
+      "data": "2026-11-11",
+      "trecho": "Anthropic IPO Draws Oversubscription as Demand Surges for Record Listing"
+     },
+     {
+      "nome": "Yahoo Finanças (Investing.com)",
+      "url": "https://sg.finance.yahoo.com/news/anthropic-ipo-demand-exceeds-available-135623631.html",
+      "data": "2026-11-11",
+      "trecho": "Goldman Sachs and Morgan Stanley are leading the offering, with 20 other banks participating, according to the filing."
+     }
+    ]
+   },
+   {
+    "id": "bancos-da-oferta",
+    "nome": "Goldman Sachs e Morgan Stanley",
+    "dominio": "dinheiro",
+    "dono": "core-financeiro",
+    "aconteceu": "Lideram a oferta da Anthropic, com mais 20 bancos. Dono: hipótese da lista, que põe a Morgan Stanley com este player.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Yahoo Finanças (Investing.com)",
+      "url": "https://sg.finance.yahoo.com/news/anthropic-ipo-demand-exceeds-available-135623631.html",
+      "data": "2026-11-11",
+      "trecho": "Goldman Sachs and Morgan Stanley are leading the offering, with 20 other banks participating, according to the filing."
+     }
+    ]
+   },
+   {
+    "id": "google",
+    "nome": "Google e DeepMind",
+    "dominio": "tecnologia",
+    "dono": "oligarquia-digital",
+    "aconteceu": "Lança o Gemini Decision 1, que escolhe entre respostas prontas, e o AlphaGenome 2, que lê o efeito do DNA célula por célula.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "Blog do Google",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "data": "2026-11-11",
+      "trecho": "Gemini Decision 1 can process text, images, audio, video, and PDFs directly in a single forward pass."
+     },
+     {
+      "nome": "Blog do Google DeepMind",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "data": "2026-11-11",
+      "trecho": "AlphaGenome 2 can match or outperform models trained or fine-tuned directly on those datasets."
+     }
+    ]
+   },
+   {
+    "id": "openai",
+    "nome": "OpenAI",
+    "dominio": "tecnologia",
+    "dono": "",
+    "aconteceu": "Apresenta no X uma pesquisa sobre vigiar o raciocínio escrito dos modelos ao longo do treino; a página da pesquisa não foi achada.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Post na lista do X",
+      "url": "https://x.com/jeffreygwang/status/2120581630196879460",
+      "data": "2026-11-11",
+      "trecho": "How does CoT monitorability (no-CoT capability and CoT controllability) evolve over the model training lifecycle?"
+     }
+    ]
+   },
+   {
+    "id": "x-grok",
+    "nome": "X e Grok",
+    "dominio": "informacao",
+    "dono": "oligarquia-digital",
+    "aconteceu": "Uma conta no X anuncia o Grok Bot 1.0, com bots que podem ser compartilhados; não há outra fonte.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Post na lista do X",
+      "url": "https://x.com/SpaceXSI/status/2120584928983441826",
+      "data": "2026-11-11",
+      "trecho": "Introducing Grok Bot 1.0. Bots can be shared and are more collaborative and capable than ever."
+     }
+    ]
+   },
+   {
+    "id": "cop31",
+    "nome": "COP31 em Antalya",
+    "dominio": "territorio",
+    "dono": "nova-ordem",
+    "aconteceu": "A Turquia propõe a meta voluntária de 35% de eletricidade na energia do mundo até 2035; cada país mantém o próprio plano. Dono: hipótese da lista.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "Finchannel",
+      "url": "https://finchannel.com/cop31-electrification-pledge-puts-35-global-power-target-at-center-of-antalya-talks/141132/environment/2026/11/",
+      "data": "2026-11-11",
+      "trecho": "lift electricity's share of global final energy consumption to 35% by 2035, from about 23% now"
+     },
+     {
+      "nome": "RTÉ",
+      "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/",
+      "data": "2026-11-11",
+      "trecho": "Turkey has said it wants governments to sign a pledge to electrify 35% of the global economy by 2035"
+     }
+    ]
+   },
+   {
+    "id": "coalizao-financiamento",
+    "nome": "Coalizão de crédito da COP31",
+    "dominio": "dinheiro",
+    "dono": "",
+    "aconteceu": "Nasce para ajudar os países em desenvolvimento a obter o investimento da eletrificação; Banco Mundial e Banco Africano de Desenvolvimento serão copresidentes em 2027.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "RTÉ",
+      "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/",
+      "data": "2026-11-11",
+      "trecho": "A new international finance coalition is being established to help developing countries secure the investment needed"
+     }
+    ]
+   }
+  ],
+  "pecas": [
+   {
+    "id": "jared-kushner",
+    "nome": "Jared Kushner",
+    "cargo": "Enviado de Trump nas conversas de paz",
+    "casa": "abu-dhabi",
+    "dono": "",
+    "fez": "Media a troca de prisioneiros e segue para Moscou, para falar com Putin.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "The Hill, na Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/russia-ukraine-agree-large-prisoner-152650609.html",
+      "data": "2026-11-11",
+      "trecho": "Kushner and Witkoff are headed to Moscow to meet with Russian President Vladimir Putin"
+     }
+    ]
+   },
+   {
+    "id": "steve-witkoff",
+    "nome": "Steve Witkoff",
+    "cargo": "Enviado especial de Trump",
+    "casa": "abu-dhabi",
+    "dono": "",
+    "fez": "Media em Abu Dhabi ao lado de Kushner e segue com ele para Moscou.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "The Hill, na Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/russia-ukraine-agree-large-prisoner-152650609.html",
+      "data": "2026-11-11",
+      "trecho": "Kushner and Witkoff are headed to Moscow to meet with Russian President Vladimir Putin"
+     }
+    ]
+   },
+   {
+    "id": "vladimir-putin",
+    "nome": "Vladimir Putin",
+    "cargo": "Presidente da Rússia",
+    "casa": "kremlin",
+    "dono": "deep-state-europa-asia",
+    "fez": "Vai receber os enviados de Trump em Moscou. Dono: hipótese da lista.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "The Hill, na Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/russia-ukraine-agree-large-prisoner-152650609.html",
+      "data": "2026-11-11",
+      "trecho": "Kushner and Witkoff are headed to Moscow to meet with Russian President Vladimir Putin"
+     }
+    ]
+   },
+   {
+    "id": "scott-bessent",
+    "nome": "Scott Bessent",
+    "cargo": "Secretário do Tesouro dos EUA",
+    "casa": "tesouro-eua",
+    "dono": "",
+    "fez": "Anuncia o diálogo sobre superinteligência com a China e diz que o objetivo é reduzir o risco, não romper.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "WHBL (Reuters)",
+      "url": "https://whbl.com/2026/11/10/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/",
+      "data": "2026-11-10",
+      "trecho": "The dialogue is meant to guard against shared risks"
+     },
+     {
+      "nome": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+      "data": "2026-11-11",
+      "trecho": "a new dialogue mechanism on"
+     }
+    ]
+   },
+   {
+    "id": "brian-mast",
+    "nome": "Brian Mast",
+    "cargo": "Presidente da comissão de Relações Exteriores",
+    "casa": "camara-eua",
+    "dono": "",
+    "fez": "A comissão dele prepara a intimação de Huang, se ele não responder.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "data": "2026-11-11",
+      "trecho": "his committee is preparing a subpoena for Huang to send if he doesn’t respond"
+     }
+    ]
+   },
+   {
+    "id": "john-moolenaar",
+    "nome": "John Moolenaar",
+    "cargo": "Presidente da comissão da Câmara sobre a China",
+    "casa": "camara-eua",
+    "dono": "",
+    "fez": "Diz que Huang tem até o fim de 11/11 para responder e que, se recusar, deve ser intimado.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "data": "2026-11-11",
+      "trecho": "Huang has until the end of the day to respond to the request."
+     }
+    ]
+   },
+   {
+    "id": "jensen-huang",
+    "nome": "Jensen Huang",
+    "cargo": "Presidente da Nvidia",
+    "casa": "nvidia",
+    "dono": "oligarquia-digital",
+    "fez": "Até 10/11 não tinha respondido ao pedido da Câmara. Ser citado não é prova de crime.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "ABC News",
+      "url": "https://abcnews.com/amp/Politics/house-republicans-issuing-subpoena-nvidia-ceo-jensen-huang/story?id=138022782",
+      "data": "2026-11-10",
+      "trecho": "Jensen Huang has not yet responded to the Republicans' request that he appear for a briefing."
+     }
+    ]
+   },
+   {
+    "id": "dario-amodei",
+    "nome": "Dario Amodei",
+    "cargo": "Presidente da Anthropic",
+    "casa": "oferta-anthropic",
+    "dono": "",
+    "fez": "Na semana da oferta, fala em curar câncer, Alzheimer e outras doenças em menos de uma década, segundo um post no X.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Post na lista do X",
+      "url": "https://x.com/kimmonismus/status/2120524701000765524",
+      "data": "2026-11-11",
+      "trecho": "Dario Amodei says cancer, Alzheimer's, heart disease and mental illness could be history in less than a decade."
+     }
+    ]
+   },
+   {
+    "id": "logan-kilpatrick",
+    "nome": "Logan Kilpatrick",
+    "cargo": "Do Google, na área de IA",
+    "casa": "google",
+    "dono": "oligarquia-digital",
+    "fez": "Anuncia o preço do Gemini Decision 1: 0,10 dólar por milhão de tokens de entrada, sem custo pela saída.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Post na lista do X",
+      "url": "https://x.com/OfficialLoganK/status/2120581433639198885",
+      "data": "2026-11-11",
+      "trecho": "It is $0.10 per 1M input tokens with no additional cost."
+     }
+    ]
+   },
+   {
+    "id": "jeffrey-wang",
+    "nome": "Jeffrey Wang",
+    "cargo": "Pesquisador ligado à OpenAI, segundo o post",
+    "casa": "openai",
+    "dono": "",
+    "fez": "Apresenta no X a pesquisa da OpenAI sobre vigiar o raciocínio escrito dos modelos.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Post na lista do X",
+      "url": "https://x.com/jeffreygwang/status/2120581630196879460",
+      "data": "2026-11-11",
+      "trecho": "How does CoT monitorability (no-CoT capability and CoT controllability) evolve over the model training lifecycle?"
+     }
+    ]
+   }
+  ],
+  "jogadas": [
+   {
+    "de": "deep-state-eua",
+    "para": "oligarquia-digital",
+    "tipo": "pressiona",
+    "peca": "brian-mast",
+    "de_casa": "camara-eua",
+    "para_casa": "nvidia",
+    "texto": "A Câmara dá a Huang até o fim de 11/11 e prepara a intimação. A ligação da Câmara ao player é hipótese.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "data": "2026-11-11",
+      "trecho": "his committee is preparing a subpoena for Huang to send if he doesn’t respond"
+     }
+    ]
+   },
+   {
+    "de": "oligarquia-digital",
+    "para": "",
+    "tipo": "move",
+    "peca": "jensen-huang",
+    "de_casa": "nvidia",
+    "para_casa": "camara-eua",
+    "texto": "A ação da Nvidia volta cerca de 3%, com a Câmara de olho em Huang (provável).",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "The Hill",
+      "url": "https://thehill.com/business/6213397-nvidia-stock-rebounds-ceo-probe/",
+      "data": "2026-11-11",
+      "trecho": "Nvidia stocks rise as lawmaker scrutiny intensifies over CEO Jensen Huang"
+     }
+    ]
+   },
+   {
+    "de": "deep-state-europa-asia",
+    "para": "",
+    "tipo": "negocia",
+    "peca": "vladimir-putin",
+    "de_casa": "kremlin",
+    "para_casa": "abu-dhabi",
+    "texto": "Moscou acerta a troca só em princípio e leva a conversa seguinte para casa, com Putin antes de Zelensky (provável).",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "The Hill, na Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/russia-ukraine-agree-large-prisoner-152650609.html",
+      "data": "2026-11-11",
+      "trecho": "Kushner and Witkoff are headed to Moscow to meet with Russian President Vladimir Putin"
+     }
+    ]
+   },
+   {
+    "de": "deep-state-europa-asia",
+    "para": "",
+    "tipo": "negocia",
+    "peca": "",
+    "de_casa": "apec-shenzhen",
+    "para_casa": "tesouro-eua",
+    "texto": "China e EUA abrem um diálogo sobre superinteligência antes de Shenzhen (provável).",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "WHBL (Reuters)",
+      "url": "https://whbl.com/2026/11/10/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/",
+      "data": "2026-11-10",
+      "trecho": "The dialogue is meant to guard against shared risks"
+     }
+    ]
+   },
+   {
+    "de": "core-financeiro",
+    "para": "",
+    "tipo": "move",
+    "peca": "",
+    "de_casa": "bancos-da-oferta",
+    "para_casa": "oferta-anthropic",
+    "texto": "Os bancos lideram uma oferta com procura várias vezes maior que as ações à venda (provável).",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Yahoo Finanças (Investing.com)",
+      "url": "https://sg.finance.yahoo.com/news/anthropic-ipo-demand-exceeds-available-135623631.html",
+      "data": "2026-11-11",
+      "trecho": "Goldman Sachs and Morgan Stanley are leading the offering, with 20 other banks participating, according to the filing."
+     }
+    ]
+   },
+   {
+    "de": "oligarquia-digital",
+    "para": "",
+    "tipo": "pressiona",
+    "peca": "logan-kilpatrick",
+    "de_casa": "google",
+    "para_casa": "openai",
+    "texto": "O Google cobra só a entrada no Gemini Decision 1, o que pode pressionar o preço dos rivais (hipótese).",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "Post na lista do X",
+      "url": "https://x.com/OfficialLoganK/status/2120581433639198885",
+      "data": "2026-11-11",
+      "trecho": "It is $0.10 per 1M input tokens with no additional cost."
+     }
+    ]
+   },
+   {
+    "de": "nova-ordem",
+    "para": "",
+    "tipo": "apoia",
+    "peca": "",
+    "de_casa": "cop31",
+    "para_casa": "coalizao-financiamento",
+    "texto": "A COP31 junta à meta de eletrificação uma coalizão de crédito para os países em desenvolvimento (provável).",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "RTÉ",
+      "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/",
+      "data": "2026-11-11",
+      "trecho": "A new international finance coalition is being established to help developing countries secure the investment needed"
+     }
+    ]
+   }
+  ],
+  "hipoteses": [
+   {
+    "id": "h-capital",
+    "sinal": "a-favor",
+    "porque": "Vinte e dois bancos, com Goldman e Morgan Stanley à frente, levam dinheiro a um laboratório de IA com procura de sobra. Mostra os bancos no meio do fluxo de capital; não mostra que eles o controlam.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Yahoo Finanças (Investing.com)",
+      "url": "https://sg.finance.yahoo.com/news/anthropic-ipo-demand-exceeds-available-135623631.html",
+      "data": "2026-11-11",
+      "trecho": "Goldman Sachs and Morgan Stanley are leading the offering, with 20 other banks participating, according to the filing."
+     },
+     {
+      "nome": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed",
+      "data": "2026-11-11",
+      "trecho": "Anthropic IPO Draws Oversubscription as Demand Surges for Record Listing"
+     }
+    ]
+   },
+   {
+    "id": "h-intersecoes",
+    "sinal": "a-favor",
+    "porque": "Na COP31, governos, bancos de desenvolvimento e empresas de energia se juntam numa meta e numa coalizão de crédito: pauta e dinheiro no mesmo lance. Não mostra comando de ninguém.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "RTÉ",
+      "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/",
+      "data": "2026-11-11",
+      "trecho": "A new international finance coalition is being established to help developing countries secure the investment needed"
+     }
+    ]
+   },
+   {
+    "id": "h-bigtech",
+    "sinal": "a-favor",
+    "porque": "O Google oferece um modelo para decidir que ferramenta um agente usa e se uma ação passa numa regra. Se virar padrão, essa decisão fica na infraestrutura dele; hoje é só um lançamento.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "Blog do Google",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "data": "2026-11-11",
+      "trecho": "Gemini Decision 1 can process text, images, audio, video, and PDFs directly in a single forward pass."
+     }
+    ]
+   }
+  ],
+  "analise": "Quem avançou no dia foi o Deep State Europa e Ásia, pelas duas capitais do leste. Moscou recebe a visita: depois de Abu Dhabi, Kushner e Witkoff vão falar com Putin em casa, e só depois com Zelensky, em Dublin. A troca de prisioneiros saiu acertada só em princípio, e o número fica para 12/11. O lado europeu do mesmo player segue fora da mesa direta. Pequim ganhou um canal: na noite de 10/11, em Nova York, Scott Bessent, secretário do Tesouro, anunciou um novo diálogo com a China sobre superinteligência, para guardar os dois lados de riscos comuns. A China ganha um canal de governo sobre a IA mais avançada (provável), a uma semana do encontro de Trump e Xi em Shenzhen. A ligação de Rússia e China ao player é hipótese da lista.\n\nA Oligarquia Digital ficou dividida de novo. O Google lançou o Gemini Decision 1, que escolhe entre respostas prontas a 0,10 dólar por milhão de tokens de entrada, e o AlphaGenome 2, que lê o efeito do DNA célula por célula. A Nvidia voltou cerca de 3% depois de duas quedas, mas o cerco segue: venceu em 11/11 o prazo para Jensen Huang aceitar a conversa fechada na Câmara, e a comissão de Brian Mast prepara a intimação. Ligar esse cerco ao Deep State EUA é hipótese: quem age são deputados eleitos. Ser citado não é prova de crime.\n\nO Core Financeiro se moveu pela oferta da Anthropic (dona do Claude, que escreve este jornal). Segundo a Bloomberg, a procura passa várias vezes a oferta; Goldman Sachs e Morgan Stanley lideram, com mais 20 bancos. A ligação dos bancos ao player é hipótese da lista. O autor tem interesse direto nesse ponto.\n\nA Nova Ordem Mundial se moveu pela COP31: a presidência turca propõe a meta voluntária de a eletricidade chegar a 35% da energia do mundo até 2035, com cada país dono do próprio plano, e uma coalizão de crédito para os países em desenvolvimento. A ligação da COP ao player é hipótese da lista. Empresas de Controle e Espionagem Privada ficaram paradas.\n\nNo placar Trump e China, os dois movimentos vêm do mesmo homem na mesma noite. O canal sobre superinteligência pesa a favor da China; a fala de reduzir o risco da dependência, sem ilusões sobre as diferenças, pesa contra. Nenhum dos dois prova serviço. O que vigiar amanhã: se Huang responde ou é intimado; o número da troca e a conversa em Moscou; e a preparação de Shenzhen, em 18 e 19/11.",
+  "trumpChina": {
+   "movimentos": [
+    {
+     "id": "tc-20261110-dialogo-superinteligencia",
+     "data": "2026-11-10",
+     "texto": "Scott Bessent, secretário do Tesouro, anuncia em Nova York um novo mecanismo de diálogo entre os governos dos EUA e da China sobre superinteligência, para guardar os dois lados de riscos comuns e evitar mal-entendidos.",
+     "sentido": "favor",
+     "peso": 2,
+     "porquePeso": "Cria um canal de governo com a China sobre a IA mais avançada. É decisão concreta, mas sem regra nem acordo assinado, e pode ser desfeita.",
+     "tipo": "ato",
+     "confianca": "fato",
+     "fontes": [
+      {
+       "nome": "CNBC",
+       "url": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+       "data": "2026-11-11",
+       "trecho": "a new dialogue mechanism on"
+      },
+      {
+       "nome": "WHBL (Reuters)",
+       "url": "https://whbl.com/2026/11/10/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/",
+       "data": "2026-11-10",
+       "trecho": "The dialogue is meant to guard against shared risks"
+      }
+     ],
+     "pontos": 2.0
+    },
+    {
+     "id": "tc-20261110-bessent-sem-ilusoes",
+     "data": "2026-11-10",
+     "texto": "No mesmo discurso, Bessent diz que o objetivo dos EUA é reduzir o risco da dependência da China, não romper, e que os dois países não devem ter ilusões sobre as diferenças entre eles.",
+     "sentido": "contra",
+     "peso": 1,
+     "porquePeso": "É fala, sem medida nova: repete a linha de reduzir a dependência sem anunciar tarifa, controle ou corte.",
+     "tipo": "ato",
+     "confianca": "provavel",
+     "fontes": [
+      {
+       "nome": "WHBL (Reuters)",
+       "url": "https://whbl.com/2026/11/10/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/",
+       "data": "2026-11-10",
+       "trecho": "de-risk, not to decouple"
+      },
+      {
+       "nome": "WHBL (Reuters)",
+       "url": "https://whbl.com/2026/11/10/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/",
+       "data": "2026-11-10",
+       "trecho": "we should harbor no illusions about the differences between the United States and China"
+      }
+     ],
+     "pontos": -0.6
+    }
+   ],
+   "leitura": "Dois movimentos, os dois de Bessent na noite de 10/11. A favor: o novo diálogo com a China sobre superinteligência, que abre um canal de governo com Pequim (peso 2, fato). Contra: a fala de reduzir o risco da dependência, sem ilusões sobre as diferenças (peso 1). A rodada pende um pouco a favor. Nada disso prova serviço: um canal sobre riscos de IA também interessa a Washington. O cerco a Huang vem do Congresso e não entra. Falta evidência direta; o teste segue sendo Shenzhen, em 18 e 19/11.",
+   "dia": 1.4,
+   "total": -1.9,
+   "historico": [
+    {
+     "data": "2026-11-10",
+     "dia": -3.3,
+     "total": -3.3
+    },
+    {
+     "data": "2026-11-11",
+     "dia": 0.0,
+     "total": -3.3
+    },
+    {
+     "data": "2026-11-12",
+     "dia": 1.4,
+     "total": -1.9
+    }
+   ]
+  },
+  "antes": {
+   "data": "2026-11-11",
+   "saldos": {
+    "core-financeiro": "disputa",
+    "deep-state-eua": "disputa",
+    "empresas-controle": "perde",
+    "oligarquia-digital": "disputa",
+    "deep-state-europa-asia": "disputa",
+    "nova-ordem": "perde",
+    "espionagem-privada": "ganha"
+   }
+  },
+  "placar": {
+   "desde": "2026-11-10",
+   "rodadas": 3,
+   "hipoteses": {
+    "h-capital": {
+     "favor": 1,
+     "contra": 1
+    },
+    "h-fed": {
+     "favor": 1,
+     "contra": 0
+    },
+    "h-agencias": {
+     "favor": 2,
+     "contra": 0
+    },
+    "h-ativos": {
+     "favor": 0,
+     "contra": 1
+    },
+    "h-bigtech": {
+     "favor": 3,
+     "contra": 0
+    },
+    "h-europa": {
+     "favor": 0,
+     "contra": 2
+    },
+    "h-blocos": {
+     "favor": 1,
+     "contra": 0
+    },
+    "h-palantir": {
+     "favor": 2,
+     "contra": 0
+    },
+    "h-intersecoes": {
+     "favor": 3,
+     "contra": 0
+    }
+   }
+  }
+ },
+ "dualidade": {
+  "versao": 1,
+  "polos": {
+   "antiga": {
+    "dia": "A elite antiga teve lances pequenos, quase todos pela hipótese do Jean. A Câmara, com Brian Mast e John Moolenaar, pediu a Jensen Huang um briefing até o fim de 11/11 e prepara a intimação; pôr a Câmara neste polo é hipótese, porque os dois são republicanos, do partido de Trump. Na COP31, a Turquia leva uma meta voluntária de eletricidade, ainda sem consenso, que não amarra a saída do petróleo, do carvão e do gás. O petróleo perde consumo: segundo a RTÉ, as emissões do petróleo devem cair 1,9% neste ano, em parte pelo preço da guerra no Irã. Goldman Sachs e Morgan Stanley, da finança tradicional, lideram a oferta da Anthropic: dinheiro antigo entrando na nova elite."
+   },
+   "nova": {
+    "dia": "A nova elite ganhou no dinheiro e na tecnologia. Segundo a Bloomberg, a procura pelas ações da Anthropic, dona do Claude que escreve isto, passa várias vezes a oferta, segundo pessoas a par do negócio. O Google lançou o Gemini Decision 1, que escolhe entre respostas prontas para os agentes, e o AlphaGenome 2, que lê o efeito do DNA célula por célula. A Nvidia se defende: o conselho contratou o ex-procurador Joon H. Kim, e a ação voltou cerca de 3% depois de perder uns 430 bilhões de dólares em dois pregões. Huang segue cercado pela Câmara, e ser citado não é prova de crime. Pôr Google, Nvidia e Anthropic no mesmo polo é hipótese."
+   },
+   "trump": {
+    "dia": "Trump acenou aos dois polos pelos seus enviados, sem ato dele mesmo na janela. Para a elite antiga (hipótese): Kushner e Witkoff saem de Abu Dhabi para ouvir Putin em Moscou antes de Zelensky, em Dublin. Para a nova (hipótese): na noite de 10/11, Scott Bessent, secretário do Tesouro, anunciou um diálogo com a China sobre superinteligência. O cerco a Huang vem do Congresso, de deputados do partido dele, e não da Casa Branca. Não se sabe de nada que ele tenha recebido no dia. Nenhum aceno prova troca."
+   }
+  },
+  "pecas": [
+   {
+    "id": "anthropic",
+    "nome": "Anthropic e Dario Amodei",
+    "polo": "nova",
+    "papel": "Laboratório de IA, dono do Claude que escreve isto. A hipótese do Jean põe os donos da IA na nova elite.",
+    "fez": "Segundo a Bloomberg, a procura pelas ações passa várias vezes a oferta.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed",
+      "data": "2026-11-11",
+      "trecho": "Anthropic IPO Draws Oversubscription as Demand Surges for Record Listing"
+     },
+     {
+      "nome": "Yahoo Finanças (Investing.com)",
+      "url": "https://sg.finance.yahoo.com/news/anthropic-ipo-demand-exceeds-available-135623631.html",
+      "data": "2026-11-11",
+      "trecho": "Goldman Sachs and Morgan Stanley are leading the offering, with 20 other banks participating, according to the filing."
+     }
+    ]
+   },
+   {
+    "id": "goldman-morgan",
+    "nome": "Goldman Sachs e Morgan Stanley",
+    "polo": "antiga",
+    "papel": "Bancos da finança tradicional, que a hipótese põe na elite antiga. Cabem mal: aqui levam capital para a nova elite.",
+    "fez": "Lideram a oferta de ações da Anthropic, com mais 20 bancos, segundo o pedido de registro citado pelo Investing.com.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Yahoo Finanças (Investing.com)",
+      "url": "https://sg.finance.yahoo.com/news/anthropic-ipo-demand-exceeds-available-135623631.html",
+      "data": "2026-11-11",
+      "trecho": "Goldman Sachs and Morgan Stanley are leading the offering, with 20 other banks participating, according to the filing."
+     }
+    ]
+   },
+   {
+    "id": "jensen-huang",
+    "nome": "Jensen Huang e Nvidia",
+    "polo": "nova",
+    "papel": "Dono da maior empresa de chips de IA. A hipótese o põe na nova elite. Ser citado não é prova de crime.",
+    "fez": "O conselho da Nvidia contratou o ex-procurador Joon H. Kim e o escritório Wachtell; o prazo da Câmara para Huang ia até o fim de 11/11.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Coinpaper",
+      "url": "https://coinpaper.com/38694/nvidia-stock-rebounds-3-as-board-probe-deepens-and-congress-pressures-jensen-huang-make",
+      "data": "2026-11-11",
+      "trecho": "Nvidia's independent directors have retained former federal prosecutor Joon H. Kim"
+     },
+     {
+      "nome": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "data": "2026-11-11",
+      "trecho": "Huang has until the end of the day to respond to the request."
+     }
+    ]
+   },
+   {
+    "id": "google",
+    "nome": "Google e DeepMind",
+    "polo": "nova",
+    "papel": "Big Tech, dona de plataformas e de modelos de IA. A hipótese do Jean põe Page, Brin e Pichai na nova elite.",
+    "fez": "Lançou o Gemini Decision 1, que escolhe entre respostas prontas, e o AlphaGenome 2, que lê o efeito do DNA em cada tipo de célula.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "Blog do Google",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "data": "2026-11-11",
+      "trecho": "Gemini Decision 1 can process text, images, audio, video, and PDFs directly in a single forward pass."
+     },
+     {
+      "nome": "Blog do Google DeepMind",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "data": "2026-11-11",
+      "trecho": "AlphaGenome 2 can match or outperform models trained or fine-tuned directly on those datasets."
+     }
+    ]
+   },
+   {
+    "id": "camara-eua",
+    "nome": "Comissões da Câmara dos EUA",
+    "polo": "antiga",
+    "papel": "Hipótese: o Congresso como casa do establishment. Cabe mal: Mast e Moolenaar são republicanos, do partido de Trump.",
+    "fez": "Moolenaar deu a Huang até o fim de 11/11 para responder ao pedido de briefing; a comissão de Mast prepara a intimação.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "data": "2026-11-11",
+      "trecho": "his committee is preparing a subpoena for Huang to send if he doesn’t respond"
+     },
+     {
+      "nome": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/congress-set-to-subpoena-nvidia-s-jensen-huang-republican-says",
+      "data": "2026-11-11",
+      "trecho": "Congress Set to Subpoena Nvidia's Jensen Huang, Republican Says"
+     }
+    ]
+   },
+   {
+    "id": "kushner-witkoff",
+    "nome": "Jared Kushner e Steve Witkoff",
+    "polo": "trump",
+    "papel": "Enviados de Trump, fora da carreira diplomática. Agem no lugar do negociador da hipótese.",
+    "fez": "Depois de Abu Dhabi, vão a Moscou falar com Putin, e depois a Dublin, com Zelensky.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "The Hill, na Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/russia-ukraine-agree-large-prisoner-152650609.html",
+      "data": "2026-11-11",
+      "trecho": "Kushner and Witkoff are headed to Moscow to meet with Russian President Vladimir Putin"
+     }
+    ]
+   },
+   {
+    "id": "vladimir-putin",
+    "nome": "Vladimir Putin",
+    "polo": "antiga",
+    "papel": "Presidente da Rússia, país do petróleo da Opep+. A hipótese do Jean põe os países do petróleo na elite antiga.",
+    "fez": "Vai receber os enviados de Trump em Moscou, antes de eles verem Zelensky.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "The Hill, na Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/russia-ukraine-agree-large-prisoner-152650609.html",
+      "data": "2026-11-11",
+      "trecho": "Kushner and Witkoff are headed to Moscow to meet with Russian President Vladimir Putin"
+     }
+    ]
+   },
+   {
+    "id": "scott-bessent",
+    "nome": "Scott Bessent",
+    "polo": "trump",
+    "papel": "Secretário do Tesouro de Trump. Fala pelo governo na relação com a China.",
+    "fez": "Anunciou um novo diálogo com a China sobre superinteligência, para guardar os dois lados de riscos comuns.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "WHBL (Reuters)",
+      "url": "https://whbl.com/2026/11/10/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/",
+      "data": "2026-11-10",
+      "trecho": "The dialogue is meant to guard against shared risks"
+     },
+     {
+      "nome": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+      "data": "2026-11-11",
+      "trecho": "a new dialogue mechanism on"
+     }
+    ]
+   },
+   {
+    "id": "cop31",
+    "nome": "COP31 e a Turquia",
+    "polo": "antiga",
+    "papel": "Conferência do clima da ONU. A hipótese do Jean põe a agenda global ligada ao establishment na elite antiga.",
+    "fez": "A Turquia leva a meta voluntária de 35% de eletricidade na energia do mundo até 2035; cada país mantém o próprio plano.",
+    "confianca": "fato",
+    "fontes": [
+     {
+      "nome": "Finchannel",
+      "url": "https://finchannel.com/cop31-electrification-pledge-puts-35-global-power-target-at-center-of-antalya-talks/141132/environment/2026/11/",
+      "data": "2026-11-11",
+      "trecho": "lift electricity's share of global final energy consumption to 35% by 2035, from about 23% now"
+     },
+     {
+      "nome": "RTÉ",
+      "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/",
+      "data": "2026-11-11",
+      "trecho": "Turkey has said it wants governments to sign a pledge to electrify 35% of the global economy by 2035"
+     }
+    ]
+   }
+  ],
+  "lances": [
+   {
+    "id": "du-20261111-anthropic-procura-de-sobra",
+    "data": "2026-11-11",
+    "polo": "nova",
+    "rumo": "nova",
+    "campo": "dinheiro",
+    "texto": "Segundo a Bloomberg, a procura pelas ações da Anthropic, dona do Claude que escreve isto, passa várias vezes a oferta. Goldman Sachs e Morgan Stanley lideram a venda, com mais 20 bancos.",
+    "peso": 2,
+    "porquePeso": "Dinheiro novo apontado para um laboratório de IA, mas o preço ainda não saiu e a procura vem de fontes anônimas. Os bancos da oferta são da finança antiga (hipótese).",
+    "confianca": "provavel",
+    "peca": "anthropic",
+    "fontes": [
+     {
+      "nome": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed",
+      "data": "2026-11-11",
+      "trecho": "Anthropic IPO Draws Oversubscription as Demand Surges for Record Listing"
+     },
+     {
+      "nome": "Yahoo Finanças (Investing.com)",
+      "url": "https://sg.finance.yahoo.com/news/anthropic-ipo-demand-exceeds-available-135623631.html",
+      "data": "2026-11-11",
+      "trecho": "Goldman Sachs and Morgan Stanley are leading the offering, with 20 other banks participating, according to the filing."
+     }
+    ],
+    "pontos": 1.2
+   },
+   {
+    "id": "du-20261111-camara-prepara-intimacao-huang",
+    "data": "2026-11-11",
+    "polo": "antiga",
+    "rumo": "antiga",
+    "campo": "politica",
+    "texto": "Jensen Huang, da Nvidia, tinha até o fim de 11/11 para responder ao pedido de briefing da Câmara, e a comissão de Brian Mast prepara a intimação. Pôr a Câmara na elite antiga é hipótese.",
+    "peso": 2,
+    "porquePeso": "O Congresso mostra que pode chamar o dono da empresa mais valiosa da IA. Pesa 2 porque a intimação ainda não saiu, e ser citado não é prova de crime.",
+    "confianca": "provavel",
+    "peca": "camara-eua",
+    "fontes": [
+     {
+      "nome": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "data": "2026-11-11",
+      "trecho": "his committee is preparing a subpoena for Huang to send if he doesn’t respond"
+     },
+     {
+      "nome": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/congress-set-to-subpoena-nvidia-s-jensen-huang-republican-says",
+      "data": "2026-11-11",
+      "trecho": "Congress Set to Subpoena Nvidia's Jensen Huang, Republican Says"
+     }
+    ],
+    "pontos": -1.2
+   },
+   {
+    "id": "du-20261111-nvidia-contrata-ex-procurador",
+    "data": "2026-11-11",
+    "polo": "nova",
+    "rumo": "nova",
+    "campo": "dinheiro",
+    "texto": "Os conselheiros independentes da Nvidia contratam o ex-procurador Joon H. Kim e o escritório Wachtell, e a ação volta cerca de 3%, depois de dois pregões que apagaram uns 430 bilhões de dólares.",
+    "peso": 1,
+    "porquePeso": "Defesa de reputação e volta parcial do preço. Pesa 1 porque recupera só parte da perda e o caso segue aberto.",
+    "confianca": "provavel",
+    "peca": "jensen-huang",
+    "fontes": [
+     {
+      "nome": "Coinpaper",
+      "url": "https://coinpaper.com/38694/nvidia-stock-rebounds-3-as-board-probe-deepens-and-congress-pressures-jensen-huang-make",
+      "data": "2026-11-11",
+      "trecho": "Nvidia's independent directors have retained former federal prosecutor Joon H. Kim"
+     },
+     {
+      "nome": "Coinpaper",
+      "url": "https://coinpaper.com/38694/nvidia-stock-rebounds-3-as-board-probe-deepens-and-congress-pressures-jensen-huang-make",
+      "data": "2026-11-11",
+      "trecho": "a two-session selloff that erased roughly $430 billion in market value"
+     },
+     {
+      "nome": "The Hill",
+      "url": "https://thehill.com/business/6213397-nvidia-stock-rebounds-ceo-probe/",
+      "data": "2026-11-11",
+      "trecho": "Nvidia stocks rise as lawmaker scrutiny intensifies over CEO Jensen Huang"
+     }
+    ],
+    "pontos": 0.6
+   },
+   {
+    "id": "du-20261111-google-decision-e-alphagenome",
+    "data": "2026-11-11",
+    "polo": "nova",
+    "rumo": "nova",
+    "campo": "tecnologia",
+    "texto": "O Google lança o Gemini Decision 1, que escolhe entre respostas prontas para os agentes de IA, e o AlphaGenome 2, que lê o efeito do DNA em cada tipo de célula, aberto à pesquisa não comercial.",
+    "peso": 2,
+    "porquePeso": "Dois produtos que põem o Google na camada de decisão dos agentes e na pesquisa de remédios. Pesa 2 porque são lançamentos, ainda sem uso medido.",
+    "confianca": "provavel",
+    "peca": "google",
+    "fontes": [
+     {
+      "nome": "Blog do Google",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "data": "2026-11-11",
+      "trecho": "Gemini Decision 1 can process text, images, audio, video, and PDFs directly in a single forward pass."
+     },
+     {
+      "nome": "Blog do Google DeepMind",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "data": "2026-11-11",
+      "trecho": "AlphaGenome 2 can match or outperform models trained or fine-tuned directly on those datasets."
+     }
+    ],
+    "pontos": 1.2
+   },
+   {
+    "id": "du-20261111-cop31-meta-eletricidade",
+    "data": "2026-11-11",
+    "polo": "antiga",
+    "rumo": "nova",
+    "campo": "energia",
+    "texto": "Na COP31, a Turquia leva a meta voluntária de a eletricidade chegar a 35% da energia do mundo até 2035, contra cerca de 23% hoje. Empresas de eletricidade sobem o investimento anual de 148 para 156 bilhões de dólares.",
+    "peso": 1,
+    "porquePeso": "Mais eletricidade tira espaço do petróleo e alimenta data centers (hipótese). Pesa 1 porque a meta é voluntária e não amarra a saída do carvão e do gás.",
+    "confianca": "hipotese",
+    "peca": "cop31",
+    "fontes": [
+     {
+      "nome": "Finchannel",
+      "url": "https://finchannel.com/cop31-electrification-pledge-puts-35-global-power-target-at-center-of-antalya-talks/141132/environment/2026/11/",
+      "data": "2026-11-11",
+      "trecho": "lift electricity's share of global final energy consumption to 35% by 2035, from about 23% now"
+     },
+     {
+      "nome": "RTÉ",
+      "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/",
+      "data": "2026-11-11",
+      "trecho": "for electricity networks, renewable energy and storage from $148 billion to $156 billion."
+     }
+    ],
+    "pontos": 0.3
+   },
+   {
+    "id": "du-20261111-petroleo-perde-consumo",
+    "data": "2026-11-11",
+    "polo": "antiga",
+    "rumo": "nova",
+    "campo": "energia",
+    "texto": "Segundo a RTÉ, as emissões do consumo de petróleo devem cair 1,9% neste ano, em parte porque a guerra no Irã subiu o preço e reduziu a procura por petróleo.",
+    "peso": 1,
+    "porquePeso": "O preço alto do petróleo na guerra também corta a procura. Pesa 1 porque é estimativa de um ano só e pode virar com a paz.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "RTÉ",
+      "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/",
+      "data": "2026-11-11",
+      "trecho": "carbon emissions from oil consumption will fall by 1.9% this year"
+     },
+     {
+      "nome": "RTÉ",
+      "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/",
+      "data": "2026-11-11",
+      "trecho": "partly because the war in Iran has driven up oil prices and reduced demand for oil"
+     }
+    ],
+    "pontos": 0.6
+   }
+  ],
+  "acenos": [
+   {
+    "id": "du-20261111-enviados-vao-a-moscou",
+    "data": "2026-11-11",
+    "para": "antiga",
+    "texto": "Depois de Abu Dhabi, Kushner e Witkoff, enviados de Trump, vão a Moscou falar com Putin, e só depois a Dublin, com Zelensky. Ouvir primeiro a Rússia, país do petróleo da Opep+, é aceno (hipótese).",
+    "recebeu": "Não se sabe. A troca de prisioneiros saiu acertada só em princípio, um resultado que Trump pode mostrar antes de Shenzhen (hipótese).",
+    "peso": 1,
+    "porquePeso": "É roteiro de viagem, sem regra nem dinheiro. Pode servir só à paz, e não a um polo.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "The Hill, na Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/russia-ukraine-agree-large-prisoner-152650609.html",
+      "data": "2026-11-11",
+      "trecho": "Kushner and Witkoff are headed to Moscow to meet with Russian President Vladimir Putin"
+     },
+     {
+      "nome": "Fox Baltimore",
+      "url": "https://foxbaltimore.com/news/nation-world/russia-ukraine-agree-to-major-pow-prisoner-of-war-swap-but-peace-talks-end-without-breakthrough-putin-zelenskyy-envoy-steve-witkoff-trump-son-in-law-jared-kushner-united-arab-emirates",
+      "data": "2026-11-11",
+      "trecho": "There's no trust right now between the sides"
+     }
+    ],
+    "pontos": -0.3
+   },
+   {
+    "id": "du-20261110-dialogo-superinteligencia-china",
+    "data": "2026-11-10",
+    "para": "nova",
+    "texto": "Scott Bessent, secretário do Tesouro de Trump, anuncia um diálogo com a China sobre superinteligência, para guardar os dois lados de riscos comuns, a uma semana de Shenzhen.",
+    "recebeu": "Não se sabe. Um canal estável com Pequim interessa a quem vende chips e modelos à China, como a Nvidia (hipótese).",
+    "peso": 1,
+    "porquePeso": "Canal de governo, sem regra nem acordo assinado. Ligar o gesto à nova elite é hipótese: os riscos da IA também interessam a Washington.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "WHBL (Reuters)",
+      "url": "https://whbl.com/2026/11/10/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/",
+      "data": "2026-11-10",
+      "trecho": "The dialogue is meant to guard against shared risks"
+     },
+     {
+      "nome": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+      "data": "2026-11-11",
+      "trecho": "a new dialogue mechanism on"
+     }
+    ],
+    "pontos": 0.3
+   }
+  ],
+  "sinais": [
+   {
+    "id": "d-transicao",
+    "sinal": "a-favor",
+    "porque": "No dia, o dinheiro andou para a IA: a procura pelas ações da Anthropic passa várias vezes a oferta, e o consumo de petróleo cai com o preço da guerra. Mas quem conduz a venda são bancos antigos, e o Congresso aperta a Nvidia.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "Yahoo Finanças (Investing.com)",
+      "url": "https://sg.finance.yahoo.com/news/anthropic-ipo-demand-exceeds-available-135623631.html",
+      "data": "2026-11-11",
+      "trecho": "Goldman Sachs and Morgan Stanley are leading the offering, with 20 other banks participating, according to the filing."
+     },
+     {
+      "nome": "RTÉ",
+      "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/",
+      "data": "2026-11-11",
+      "trecho": "partly because the war in Iran has driven up oil prices and reduced demand for oil"
+     }
+    ]
+   },
+   {
+    "id": "d-mercenario",
+    "sinal": "a-favor",
+    "porque": "Em dois dias seguidos, o governo Trump manda os enviados ouvir Putin primeiro e anuncia um canal com a China sobre superinteligência: um gesto para cada polo. Combina com o negociador; nada mostra troca.",
+    "confianca": "hipotese",
+    "fontes": [
+     {
+      "nome": "The Hill, na Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/russia-ukraine-agree-large-prisoner-152650609.html",
+      "data": "2026-11-11",
+      "trecho": "Kushner and Witkoff are headed to Moscow to meet with Russian President Vladimir Putin"
+     },
+     {
+      "nome": "WHBL (Reuters)",
+      "url": "https://whbl.com/2026/11/10/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/",
+      "data": "2026-11-10",
+      "trecho": "The dialogue is meant to guard against shared risks"
+     }
+    ]
+   },
+   {
+    "id": "d-tecnocracia",
+    "sinal": "contra",
+    "porque": "O poder eleito ainda chama o dono da Big Tech: a Câmara deu prazo a Jensen Huang e prepara a intimação. Mostra um limite ao poder das plataformas; não mostra que ele dure.",
+    "confianca": "provavel",
+    "fontes": [
+     {
+      "nome": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "data": "2026-11-11",
+      "trecho": "his committee is preparing a subpoena for Huang to send if he doesn’t respond"
+     },
+     {
+      "nome": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/congress-set-to-subpoena-nvidia-s-jensen-huang-republican-says",
+      "data": "2026-11-11",
+      "trecho": "Congress Set to Subpoena Nvidia's Jensen Huang, Republican Says"
+     }
+    ]
+   }
+  ],
+  "analise": "Segunda rodada, de 10/11 à noite até 11/11. Pela hipótese do Jean, o dia pendeu de leve para a nova elite, com lances de peso pequeno. O maior foi de dinheiro: segundo a Bloomberg, com base em pessoas a par do negócio, a procura pelas ações da Anthropic passa várias vezes a oferta. Quem conduz a venda são Goldman Sachs e Morgan Stanley, com mais 20 bancos. Na hipótese, esses bancos são da finança antiga; aqui eles levam capital à nova elite e ganham comissão. Os polos se misturam de novo. O Google lançou dois produtos, um para decidir o que os agentes de IA fazem e outro para a pesquisa genética.\n\nA elite antiga respondeu pelo Congresso. Jensen Huang tinha até o fim de 11/11 para responder ao pedido de briefing da Câmara, e a comissão de Brian Mast prepara a intimação. A Nvidia contratou um ex-procurador e recuperou cerca de 3%, só parte da queda. Pôr a Câmara na elite antiga é hipótese: Mast e Moolenaar são republicanos. Ser citado não é prova de crime.\n\nNa energia, os sinais apontam para a nova elite, mas são fracos. Segundo a RTÉ, as emissões do petróleo devem cair 1,9% neste ano, em parte porque o preço da guerra no Irã reduziu a procura. Na COP31, a meta de 35% de eletricidade até 2035 é voluntária e não amarra a saída dos fósseis; ligar a eletricidade aos data centers é hipótese.\n\nTrump acenou pelos enviados. Kushner e Witkoff vão ouvir Putin antes de Zelensky; Bessent anunciou um canal com a China sobre superinteligência. Os gestos apontam para lados diferentes, o que combina com o negociador, sem prova de troca. Quem escreve é o Claude, da Anthropic, peça da nova elite nesta hipótese, e o maior lance do dia é da dona do autor.\n\nO que vigiar: se Huang responde ou é intimado, a conversa em Moscou, o preço da Anthropic e Shenzhen, em 18 e 19/11.",
+  "leitura": "Dia de lances pequenos, com a corda puxada de leve para a nova elite (provável): a procura pelas ações da Anthropic e os lançamentos do Google pesaram mais que o cerco da Câmara a Huang. O dinheiro que move a nova elite sai de bancos que a hipótese põe na elite antiga, o que enfraquece a ideia de dois polos separados. Trump acenou aos dois lados pelos enviados. Leitura contrária (hipótese): o Congresso pode virar um freio ao poder das plataformas. O autor é peça da nova elite nesta hipótese.",
+  "por": "Opus 5.5",
+  "em": "2026-11-11T21:33:29Z",
+  "transicao": {
+   "dia": 2.7,
+   "total": -5.9,
+   "historico": [
+    {
+     "data": "2026-11-11",
+     "dia": -8.6,
+     "total": -8.6
+    },
+    {
+     "data": "2026-11-12",
+     "dia": 2.7,
+     "total": -5.9
+    }
+   ]
+  },
+  "pendulo": {
+   "dia": 0.0,
+   "total": 2.9,
+   "historico": [
+    {
+     "data": "2026-11-11",
+     "dia": 2.9,
+     "total": 2.9
+    },
+    {
+     "data": "2026-11-12",
+     "dia": 0.0,
+     "total": 2.9
+    }
+   ],
+   "antiga": 5,
+   "nova": 5
+  },
+  "placar": {
+   "desde": "2026-11-11",
+   "rodadas": 2,
+   "hipoteses": {
+    "d-transicao": {
+     "favor": 1,
+     "contra": 1
+    },
+    "d-elite-antiga": {
+     "favor": 1,
+     "contra": 0
+    },
+    "d-mercenario": {
+     "favor": 2,
+     "contra": 0
+    },
+    "d-tecnocracia": {
+     "favor": 1,
+     "contra": 1
+    }
+   }
+  }
+ }
 }
